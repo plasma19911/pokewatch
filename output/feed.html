@@ -1,0 +1,1527 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PokeWatch</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#0b1020; --panel:#141b34; --panel-2:#1a2242; --line:#28325c;
+  --paper:#e7eaf4; --muted:#8b96bd;
+  --alert:#ff5a3c; --warn:#f5b32e; --cool:#5aa9e6; --legal:#a78bfa; --ship:#3ddc97;
+  --holo:linear-gradient(100deg,#7df9ff,#c77dff 45%,#ffd166);
+}
+*{box-sizing:border-box}
+body{
+  margin:0; background:var(--ink); color:var(--paper);
+  font-family:"IBM Plex Sans",system-ui,sans-serif; font-size:15px; line-height:1.55;
+  background-image:radial-gradient(ellipse at 15% -10%,#18214a 0%,transparent 55%);
+}
+.wrap{max-width:900px;margin:0 auto;padding:0 20px 90px}
+
+/* --- Kopf --- */
+header{border-bottom:1px solid var(--line);padding:44px 0 26px;margin-bottom:26px}
+.eyebrow{
+  font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.22em;
+  text-transform:uppercase;color:var(--muted);margin:0 0 10px
+}
+h1{
+  font-family:"Barlow Condensed",sans-serif;font-weight:700;font-size:clamp(38px,8vw,66px);
+  letter-spacing:-.01em;line-height:.94;margin:0;text-transform:uppercase
+}
+h1 em{font-style:normal;background:var(--holo);-webkit-background-clip:text;
+  background-clip:text;color:transparent}
+.sub{color:var(--muted);margin:12px 0 0;max-width:52ch}
+.runline{
+  font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--muted);
+  margin-top:18px;display:flex;gap:16px;flex-wrap:wrap
+}
+.runline b{color:var(--paper);font-weight:500}
+
+.actions{display:flex;align-items:center;gap:14px;margin-top:16px}
+#refresh{background:var(--paper);color:var(--ink);border:0;
+  font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.13em;
+  text-transform:uppercase;padding:10px 18px;cursor:pointer;transition:.15s}
+#refresh:hover:not(:disabled){background:#fff}
+#refresh:disabled{opacity:.4;cursor:progress}
+#refresh:focus-visible{outline:2px solid var(--cool);outline-offset:3px}
+.progress{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--muted)}
+.progress.err{color:var(--alert)}
+.static-note{font-family:"IBM Plex Mono",monospace;font-size:11px;
+  color:var(--muted);margin:16px 0 0;line-height:1.7}
+.static-note code{background:var(--panel-2);padding:2px 7px;color:var(--paper)}
+
+/* --- Zaehler --- */
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));
+  gap:10px;margin:26px 0 22px}
+.stat{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--line);
+  padding:14px 16px}
+.stat[data-tone=alert]{border-left-color:var(--alert)}
+.stat[data-tone=warn]{border-left-color:var(--warn)}
+.stat[data-tone=cool]{border-left-color:var(--cool)}
+.stat[data-tone=legal]{border-left-color:var(--legal)}
+.stat[data-tone=ship]{border-left-color:var(--ship)}
+.stat-n{display:block;font-family:"Barlow Condensed",sans-serif;font-size:34px;
+  font-weight:700;line-height:1}
+.stat-l{display:block;font-family:"IBM Plex Mono",monospace;font-size:10.5px;
+  letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-top:4px}
+
+/* --- Filter --- */
+.filterbar{border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+  padding:14px 0;margin-bottom:26px;display:flex;flex-direction:column;gap:11px}
+.frow{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.flabel{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.18em;
+  text-transform:uppercase;color:var(--muted);width:74px;flex:0 0 74px}
+.rbtn{background:transparent;border:1px solid var(--line);color:var(--muted);
+  font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.08em;
+  text-transform:uppercase;padding:7px 13px;cursor:pointer;transition:.15s;
+  display:inline-flex;align-items:center;gap:7px}
+.rbtn:hover{border-color:var(--muted);color:var(--paper)}
+.rbtn.on{background:var(--paper);color:var(--ink);border-color:var(--paper)}
+.rbtn:focus-visible{outline:2px solid var(--cool);outline-offset:2px}
+.rbtn .n{font-size:10px;opacity:.6}
+.rbtn.on .n{opacity:.55}
+.reg{font-family:"IBM Plex Mono",monospace;font-size:9.5px;letter-spacing:.1em;
+  border:1px solid var(--line);padding:1px 6px;color:var(--muted)}
+.reg-de{color:#ffd166;border-color:#5a4a1e}
+.entry .meta .age{margin-left:auto}
+.fbtn{
+  background:transparent;border:1px solid var(--line);color:var(--muted);
+  font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.08em;
+  text-transform:uppercase;padding:7px 13px;cursor:pointer;transition:.15s
+}
+.fbtn:hover{border-color:var(--muted);color:var(--paper)}
+.fbtn.on{background:var(--paper);color:var(--ink);border-color:var(--paper)}
+.fbtn:focus-visible{outline:2px solid var(--cool);outline-offset:2px}
+
+/* --- Eintraege --- */
+.entry{display:flex;gap:0;background:var(--panel);border:1px solid var(--line);
+  margin-bottom:10px;transition:border-color .15s}
+.entry:hover{border-color:#3b477a}
+.rail{width:3px;flex:0 0 3px;background:var(--line)}
+.entry[data-tone=alert] .rail{background:var(--alert)}
+.entry[data-tone=warn]  .rail{background:var(--warn)}
+.entry[data-tone=cool]  .rail{background:var(--cool)}
+.entry[data-tone=legal] .rail{background:var(--legal)}
+.entry[data-tone=ship]  .rail{background:var(--ship)}
+.body{padding:15px 18px 14px;flex:1;min-width:0}
+
+.meta{display:flex;align-items:center;gap:9px;flex-wrap:wrap;
+  font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.09em;
+  text-transform:uppercase;color:var(--muted);margin-bottom:9px}
+.meta .cat{color:var(--paper);font-weight:600}
+.dot{width:3px;height:3px;border-radius:50%;background:currentColor;opacity:.5}
+.age{margin-left:auto;opacity:.75}
+
+.entry h2{font-family:"Barlow Condensed",sans-serif;font-weight:600;
+  font-size:23px;line-height:1.15;margin:0 0 7px;letter-spacing:.005em}
+.entry h2 a{color:var(--paper);text-decoration:none}
+.entry h2 a:hover{text-decoration:underline;text-underline-offset:3px}
+.entry h2 a:focus-visible{outline:2px solid var(--cool);outline-offset:3px}
+.sum{margin:0;color:var(--muted);font-size:13.5px;line-height:1.5}
+
+.tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:11px}
+.tag{font-family:"IBM Plex Mono",monospace;font-size:10px;color:var(--muted);
+  border:1px solid var(--line);padding:2px 7px;letter-spacing:.05em}
+
+/* Signatur: neue Eintraege bekommen den Holo-Schimmer einer Kartenrueckseite */
+.entry.is-new{position:relative;background:var(--panel-2)}
+.entry.is-new .rail{background:var(--holo);background-size:100% 300%;
+  animation:holo 4.5s ease-in-out infinite}
+.entry.is-new .body::before{
+  content:"NEU";position:absolute;top:-1px;right:-1px;
+  font-family:"IBM Plex Mono",monospace;font-size:9.5px;letter-spacing:.18em;
+  padding:3px 8px;color:var(--ink);background:var(--holo)}
+@keyframes holo{0%,100%{background-position:0 0}50%{background-position:0 100%}}
+@media (prefers-reduced-motion:reduce){
+  .entry.is-new .rail{animation:none;background:#7df9ff}
+}
+
+.resultline{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--muted);
+  letter-spacing:.08em;margin:0 0 12px;text-transform:uppercase}
+.empty{border:1px dashed var(--line);padding:40px 26px;text-align:center;color:var(--muted)}
+.empty p:first-child{font-family:"Barlow Condensed",sans-serif;font-size:26px;
+  color:var(--paper);margin:0 0 10px;text-transform:uppercase}
+.empty-hint{max-width:46ch;margin:0 auto;font-size:13.5px}
+
+footer{border-top:1px solid var(--line);margin-top:34px;padding-top:18px;
+  font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--muted);line-height:1.8}
+footer a{color:var(--cool)}
+@media(max-width:560px){.age{margin-left:0;width:100%}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <p class="eyebrow">Vorfaelle im Kartenhandel &middot; letzte 45 Tage</p>
+  <h1>Poke<em>Watch</em></h1>
+  <p class="sub">Einbrueche, Betrug, Razzien und Schliessungen bei Pokemon- und
+     TCG-Laeden. Zusammengetragen aus Presse, YouTube, Reddit und Bluesky.</p>
+  <div class="runline">
+    <span>Stand <b id="stand">23.07.2026, 12:55</b></span>
+    <span>Eintraege <b>58</b></span>
+    <span>Neu seit letztem Lauf <b>0</b></span>
+  </div>
+  <div class="actions" id="actions" hidden>
+    <button id="refresh">Jetzt aktualisieren</button>
+    <span class="progress" id="progress"></span>
+  </div>
+  <p class="static-note" id="staticnote">
+    Statische Datei &mdash; sie aktualisiert sich nicht von selbst.
+    Fuer einen Aktualisieren-Knopf:
+    <code>python3 pokewatch.py --serve</code>
+  </p>
+</header>
+
+<div class="stats"><div class="stat" data-tone="alert"><span class="stat-n">49</span><span class="stat-l">Einbruch / Raub</span></div><div class="stat" data-tone="warn"><span class="stat-n">3</span><span class="stat-l">Betrug / Fakes</span></div><div class="stat" data-tone="cool"><span class="stat-n">0</span><span class="stat-l">Schliessung / Insolvenz</span></div><div class="stat" data-tone="legal"><span class="stat-n">5</span><span class="stat-l">Razzia / Rechtliches</span></div><div class="stat" data-tone="ship"><span class="stat-n">1</span><span class="stat-l">Versand / Grading</span></div></div>
+
+<div class="filterbar">
+  <div class="frow">
+    <span class="flabel">Herkunft</span>
+    <button class="rbtn on" data-region="all">Alle</button>
+    <button class="rbtn" data-region="de">Deutschland<span class="n">11</span></button><button class="rbtn" data-region="ch">Schweiz<span class="n">1</span></button><button class="rbtn" data-region="int">International<span class="n">46</span></button>
+  </div>
+  <div class="frow">
+    <span class="flabel">Vorfall</span>
+    <button class="fbtn on" data-filter="all">Alle</button>
+    <button class="fbtn" data-filter="einbruch">Einbruch / Raub</button><button class="fbtn" data-filter="betrug">Betrug / Fakes</button><button class="fbtn" data-filter="pleite">Schliessung / Insolvenz</button><button class="fbtn" data-filter="behoerden">Razzia / Rechtliches</button><button class="fbtn" data-filter="versand">Versand / Grading</button>
+  </div>
+</div>
+
+<p class="resultline"><span id="count">58</span> von 58 Eintraegen</p>
+
+<main id="feed">
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Herald Sun</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 18 Std</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxPM3Z5blhCZ3RkMDBXZG0tRTl0ajVKdnlzLWxZVWt1LVBiN0NieU9sZDZBWEo3SWhSOW9VQ0xnS0daa0piVnBaUklGYmtyTmI1U2hVNHNPYl9rdlUxbW1pNGFiR0YyNjlaTVpPQzJqUFJRZ3o5TmxvSjRmaFhUMWVHVjZ2MG1vbllWcDl5c0tnZFA2aDU4OXZDVG1jUVV2NWJuQV9CNTJOcVNVRXJ4U3NQNV9uT2YtUUx3NUVEVGVBcThWaTBVYnFzb0YxS25ZQkg3SkxJV1FiLUQ2T1RrX1M5QU56cTl3MXdmNmp3YjMzVDZ4bHB5Y3fSAfsBQVVfeXFMT0R1UTF6YU5Pci1Kd3hqanA3N1l4eTZpR2htbEZidHhhOW9hRlU0bFpTZklYVnZiMTA0bVZpbGhNY0FzZGdnelY3X2tkSUx6Z05SZDBGanROcEU4Q20wMGRYTUl2SXZLMTA4MWZmeE42M0xoZi03d2EzRU9NSC1xYW1pak5vcUhxRWxpcGhFaU0zaWE0OTJLMEZCT1FLUmlvY05jRkNBYUZZTnRHRWdUcGUyZ1hhY1Y0eVJOekVLUU83cUxaUV9CLUJoeDBIQ1N4ajRGWGVMbG9kbWpNZ2lHUHNKdFdISFp5U3p0UGhscTFNT04yMFk5aWdYaEE?oc=5" target="_blank" rel="noopener">
+          $15k of Pokemon cards stolen in three-minute heist - Herald Sun</a></h2>
+        <p class="sum">$15k of Pokemon cards stolen in three-minute heist Herald Sun</p>
+        <div class="tags"><span class="tag">heist</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="legal"
+             data-cat="behoerden" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Razzia / Rechtliches</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Southern Maryland News Net</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 19 Std</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNNDZHQ19VZGdWTlVTUjlwV3libktuaURHSmNUYUpiZGh4Q2ZDcWJ5RWtGQ090RllqX1pmOUdHcjdGTVdjR2tXbFdvRGRuQzU4dU56cUhONkszOTNZZ1Z6TmF3TzBFT1huUHExM3RhSmN2dlVfWFZjVzFQLUJ3QTI4N3hQVHBzWEpuOWE1SElGS3AyZ2VhX013NXJETUhMSmRFa0FVWnFXc2FoQnlEaEJEYnNvazZla1dpMlJWS1JrNkNwZkdsT3c?oc=5" target="_blank" rel="noopener">
+          Lusby Man Arrested for Stealing Nearly $300 in Trading Cards and Giving Deputy False Name - Southern Maryland News Net</a></h2>
+        <p class="sum">Lusby Man Arrested for Stealing Nearly $300 in Trading Cards and Giving Deputy False Name Southern Maryland News Net</p>
+        <div class="tags"><span class="tag">arrested</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">streamlinefeed.co.ke</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">gestern</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkxPZDR0djlncmpZQWhNY0RaWThIRklhOWpid1MzRlNEWVU1VW15NTkwRWEtVm0tSVZ0c2RQWEthQkt6eWRrNTNUZW55T3BtYkF2amNwckJldG9ydTdkMkRYZEJHc3ZjOE12Qk11UFFuN0VMLU5PZVAyRXNNbXVaUzdXQzJPOFRiM0JNRWVCWFBOOHBsLV9HZjZwbUZpRFJXM0pna3JqZnEyQ0RMcFdPVWlSaWE?oc=5" target="_blank" rel="noopener">
+          Serial Burglars Target Melbourne Hobby Store For Lucrative Pokémon Trading Cards - streamlinefeed.co.ke</a></h2>
+        <p class="sum">Serial Burglars Target Melbourne Hobby Store For Lucrative Pokémon Trading Cards streamlinefeed.co.ke</p>
+        <div class="tags"><span class="tag">burglar</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">fox4beaumont.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">gestern</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMF9xTS1tWlZIbllGSk9aLWNYOUVWU29JcE1OVzhiWXJ0eVJzSVpBa1gwZjR1cThXNnFTd09zR09IYU5WMjFRRVhnMFl1TmNVX2dOd1c5Y05ZUWpNWmEzazdnWk9TZnVVNGZianBmc1pvU0tiMDdyWGZLYkNrTnJvOWVjRFBCdklYT3JHLV9UOVYxTWFJbVJVNFFRb0pGdGZlX1F3alcyS3A?oc=5" target="_blank" rel="noopener">
+          Silsbee trading card store offers $20,000 reward after major Pokemon burglary - fox4beaumont.com</a></h2>
+        <p class="sum">Silsbee trading card store offers $20,000 reward after major Pokemon burglary fox4beaumont.com</p>
+        <div class="tags"><span class="tag">burglar</span><span class="tag">burglary</span><span class="tag">card store</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">CBS News</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 2 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVBvSllRa3BqelZtNGdVcHJSc282dmNvd3l5NXBwd0hnLTFZSFlWNGlPTm5waTdlY0ppSURuVjFGdGZHbHRhd3NGOEUwZW14V1FLZ0lJNTJrY1J5OHFfUlpWcGlpSjNpSUpfalVsT0h1eFR1VzVmU1pISHdMd1JZdC0xRUxtbzBqcG1mVnR5ZDZ6cUVtZEVndlNRSG0tbWZ0VFc1QjJzYThDNHY3elln?oc=5" target="_blank" rel="noopener">
+          Thieves hit Corona collectible card shop for nearly $20k in stolen goods, owner says - CBS News</a></h2>
+        <p class="sum">Thieves hit Corona collectible card shop for nearly $20k in stolen goods, owner says CBS News</p>
+        <div class="tags"><span class="tag">card shop</span><span class="tag">stolen</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">nachrichten-heute.net</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 2 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOE9taDVxTE1PNUstcFNiT2dfdmh3MGpoZUZlRm1WZlg1S2hFbnNQUTNMUTNkQ3kxR2pfNXFyS3daQkk4aGVXR2ktVlhGNkZFN1FhVUMtT2NGdFdleExybml2LXY5OUJKUTdnakhDWWx2VzlXVEFkdm0tZ09reU9lekROM2VOdjZjRzBHeFJVeXhuNlVmYlF6akM2TkFLUXFwUEpkX3A4dFB0aHc?oc=5" target="_blank" rel="noopener">
+          Polizei Erfurt – Sömmerda: Sammelkarten bei Einbruch gestohlen - nachrichten-heute.net</a></h2>
+        <p class="sum">Polizei Erfurt – Sömmerda: Sammelkarten bei Einbruch gestohlen nachrichten-heute.net</p>
+        <div class="tags"><span class="tag">einbruch</span><span class="tag">gestohlen</span><span class="tag">polizei</span><span class="tag">sammelkarten</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Yahoo News UK</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 4 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE8zQ1E4UmxHclloemJEUXYydEtUZzdoLVhjeFFMWVlDdU1vOUxZR2V2TTFfZTZhWXYwREpydWdJRVV2QXItYUNsUUI5bVhCOC1Fc3plWHZ4N051b055c0lsLUloTmZmamFfYmRCcV8xaV91aG40a2h6R2NUSQ?oc=5" target="_blank" rel="noopener">
+          Burglars Targeted Rare Pokémon Cards in a Fast Inland Empire Shop Theft - Yahoo News UK</a></h2>
+        <p class="sum">Burglars Targeted Rare Pokémon Cards in a Fast Inland Empire Shop Theft Yahoo News UK</p>
+        <div class="tags"><span class="tag">burglar</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">theft</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="legal"
+             data-cat="behoerden" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Razzia / Rechtliches</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">ABC27</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 5 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcVVOQzVTNnAzRDNWNUtBLU1NOXdCODlsTlUwTTdETVlEVmI3dVZJb21OZFBZX0NCTjVLNVpNZ19PWGlsZVpPckI5VU04OFZXT2JEdzB2VlNfSk5IbEZ3aW9oME1vdUpjWEdya1ZXdk5Oc0NtMDV6LXRadE9NOHI4YzVscHV6M2M3VFRKdlJYeE55cEFoa2lXV1JNSi16a1FlZDJacmVWTGF2dXZZZW43NnB4dW9tZGVmQzZ30gHAAUFVX3lxTE10R25aU2ZQdWJiSE4zeGl4WFdaVkhXZXA4U1pqdWdPdVRkdlJNTzZ6Yy1wS2tZY3lzM1E1M09KT3B2dmdtTC1nS1hrYnc1WEdidk9pYzlCMFpkWWNSZGw0QXpZVWNQUGhvQWdxN3h6eklwNk03eTFUMGwzRkp4Zm1wbk1WLXlEbkdiR0ZmY2JEelE1MkwtR0pLOGVUelo3akFsaGE0WmhnMG1rVWpXXy1YT1VtSVlUTm9VZW0zSXp2cQ?oc=5" target="_blank" rel="noopener">
+          Central Pennsylvania trading card dealer charged with deceiving customers, selling vintage Pokémon cards - ABC27</a></h2>
+        <p class="sum">Central Pennsylvania trading card dealer charged with deceiving customers, selling vintage Pokémon cards ABC27</p>
+        <div class="tags"><span class="tag">charged</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="ch"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">KTLA</span>
+          <span class="reg reg-ch">Schweiz</span>
+          <span class="age">vor 6 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9xMW4zV19IYkhTTjUydU5sX1lmN1JqTE1uUnJycWU3ZlBMUWRPUnVOUVVTZUlUaThiYWc3dFd0QnpRc1NvbnhJb3hMZkROeURDUnd1X21DcXd6ejZMWnZVUW9YVkR3aVFpdl9KNlBBQWhGSGYzY1lCTXNyTjFhVnfSAYQBQVVfeXFMUG1wRUFkNmJLek1HWlNvcnZsNEJkTlFGS1lqTEdXdXozQi1QVjRnRW5mN2ctb3JySjJ2RkF4N0ZuLWN3akd0VVpmaHNCV0ZQenRvV3cxX3gyQ20zNFJVZ25WYW0yRl9GRHZXRE9zODEtbHB2dC1Jb0RUWkN2MVdTcEo5cHFs?oc=5" target="_blank" rel="noopener">
+          Burglars steal $16,000 worth of Pokémon cards from San Bernardino County shop - KTLA</a></h2>
+        <p class="sum">Burglars steal $16,000 worth of Pokémon cards from San Bernardino County shop KTLA</p>
+        <div class="tags"><span class="tag">burglar</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">WRAL</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 6 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxOLXdwQTNkak9TR1lZTi02cW5GNDRDbHFWbmdUTHVna05yRVZWX0ZJYjhzOEhJMnRCcXFrd241V0NuZXJYdDFkQmhNQVU5VVF2bWgxd3M2QVR3bTU5dDNPYko2MC1rUDIxaTVOYlhxTVhJX0pwRzZ2czZ6ODRURGkwb1NmVGQxYWE0NmNHQjJnQlRHOUk?oc=5" target="_blank" rel="noopener">
+          Pair bought Pokémon cards with stolen ID, tried to resell them, warrant says - WRAL</a></h2>
+        <p class="sum">Pair bought Pokémon cards with stolen ID, tried to resell them, warrant says WRAL</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Baltimore Sun</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 7 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPbTVxTTVHc0FyV3laMXlyZ3h1QVNXQVAtdjJIZ1E2TG5wbS05Snh4Ri1jZHFnRGlES2lvaEtmR2d5S2lwUE1yWDdzb00xLUdWcXdzOTlZdzFrdlJMc0g1U20zZ1JIZy0zRjc2cnVZRW13R3ZTUkVJQUZhZlNtc1k3SFNac3hqY0xCTHc?oc=5" target="_blank" rel="noopener">
+          Pokémon card thief ordered to pay $500 after nearly $28K Eldersburg theft - Baltimore Sun</a></h2>
+        <p class="sum">Pokémon card thief ordered to pay $500 after nearly $28K Eldersburg theft Baltimore Sun</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">theft</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">CTV News</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 7 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxOc2xiTE1wS2pOQ2JIUU5LcXJzdFVvQkNkMFlPSk9KM190S0U4UVhtbVM5VWprQTZjSEIzNkdoN0Uza0EybDdzNTNISWg1dDM2eUZwcVMxczRkX0RfTXhyV0FJNUY2TExUcWZVV2w2SDRUelRFVG11akNIaVVsV1Z5SjhxbW44bWRSTVE2bi0tM2xkaHRsaE0yLVotOFF4NXJPZVhJTA?oc=5" target="_blank" rel="noopener">
+          16-year-old charged after alleged high-value trading card theft - CTV News</a></h2>
+        <p class="sum">16-year-old charged after alleged high-value trading card theft CTV News</p>
+        <div class="tags"><span class="tag">charged</span><span class="tag">theft</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">PZ-news</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 8 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeFVwRVhoOXZna1c5WGJzSUQyei1aVmNaVEI0MzRIY21ybmNxZE4tVEQ1bnhVQlVkdS0wUHFEQWNJdThhTWNxckJyaU9iUXVCOF9UNVRSejIwMGpZVWlDRU9lUU8ydWtQLVJpN2xaQ1pYWjdtbl9PMXRxMk41aU85YnVKMnlpbG9HWmpnMG1wUUx6emk0V3JucEtyUkNWRk1FUTBVUTBkV0syZDZ0dFByZ3Q4MHQ3R1FRZUFNOVpVa19MS0ZiNFlXNzVKRFJ0WmV3QlVHS2Qxc1E5ZjhOMjJBMkxMdkV1TzJad0w4a3hEWQ?oc=5" target="_blank" rel="noopener">
+          Einbruch in Brötzinger Fußgängerzone: Geld und Sammelkarten aus Schreibwarengeschäft gestohlen - PZ-news</a></h2>
+        <p class="sum">Einbruch in Brötzinger Fußgängerzone: Geld und Sammelkarten aus Schreibwarengeschäft gestohlen PZ-news</p>
+        <div class="tags"><span class="tag">einbruch</span><span class="tag">gestohlen</span><span class="tag">sammelkarten</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">FOX 26 Houston</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 8 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNd1NDRzNSRWpINkZ5OXpsbkstSUVIeV9nclVGOGxNNjMwSEQ3LWRrb1NBX0wyWGoxTE5lSjd3ak5zbFgxazBqbFRxTWlKNG1XdldVaEZxdlh5QzVkV2k5ZWtUdVNhVkVGRjRyZXJaaExYN2oyOGxOajd2SF84NmJ2aFowS1hiZXlnd05OY2FaVThQU2hvbkoxbmNBOEVRN1dpUFFUN3VDakplSXFBaVFfONIBtgFBVV95cUxPNW40T3VtdVYzZ0xVc1pyTDJja1B1WUNOU0Qwb2I5cmV2OHJ0LUZJdGVKMnZUOXlfeUtFSVVaem9LUTIxRXRObnNjcmhFVFhmZ1VlUC1qNk1teEktQkJ4RFFkSkNDNVp4T0VVMTYwMG1JWUE0OGlQQkZvUlJQbkxwWVZ6WDBCWU5SMXptRWR4N1J5cEx4RFRGM255V0dfVzRnRWwtVkkxMGtsWUxWM0tObnlZUGZnUQ?oc=5" target="_blank" rel="noopener">
+          Two arrested in Pokemon card burglary - FOX 26 Houston</a></h2>
+        <p class="sum">Two arrested in Pokemon card burglary FOX 26 Houston</p>
+        <div class="tags"><span class="tag">arrested</span><span class="tag">burglar</span><span class="tag">burglary</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">CTV News</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 8 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQQnRWR3FUYmYzWGF3NHc5TVVKX1hyLVNFbGNScEVkWVNTWUZ1MEd5djR0N21iSzRCb1BVOEx5Q1dENWYzYVl1MTlVOTdyVFVqbnRmc3I4eXNkdWh4WmJ3YUVqTkw1YWR1UFc0VmdlM19sMXdVYTRjVzB5VnRvbFZ4Sk1pX2pBMzNDX1RkNnZPMF9EMWNZbjdod2ZlckRpdw?oc=5" target="_blank" rel="noopener">
+          Pokémon card resurgence triggering thefts at hobby shops, owner says - CTV News</a></h2>
+        <p class="sum">Pokémon card resurgence triggering thefts at hobby shops, owner says CTV News</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">theft</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">meinestadt.de</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 10 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE55Zm1ybWthTUtvYnlyU3c1S2xhakdWc0h6VUcxNUlEZkcxTGpQdUZ3RjZaUXJXVjRla1BPVnJuWWpzRVVxdGZWMjJwb0RWU1c5TmhUTEkxZ3FFU3JyZ2lzbzZaSlozblIzTTZrUE9tSmptT29Hc19BRVNlVU5Udw?oc=5" target="_blank" rel="noopener">
+          Einbruch in Geschäft - Sammelkarten gestohlen - meinestadt.de</a></h2>
+        <p class="sum">Einbruch in Geschäft - Sammelkarten gestohlen meinestadt.de</p>
+        <div class="tags"><span class="tag">einbruch</span><span class="tag">gestohlen</span><span class="tag">sammelkarten</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">CW39 Houston</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 10 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NQm92REdGQ0ZRZHp2SUljbXgyUmkzSmFzbHVrS2FCQzFOSGFNMm9zRjJzRWdzOHFNTkhBc0pWVkE0NXdTWGp4dXJxSUlxeDVsTmR0MmlkVGxuanZoSy1lS0R6cUJXcjDSAWxBVV95cUxOeGpBYzl3QUtoSkM2dWhnSmNQRUp3bERmTS1wUUlfbDRxX29JaGtKRUdnTWJGd3dHN3JDeG5qbHhsLTBkZDJNcmdoQmpFTmlyajdTRUhFZGhIUE1MUVN1X1Bwang5X1RCeFZCZDI?oc=5" target="_blank" rel="noopener">
+          Harris County Sheriff’s Office investigates whether Pokémon card theft suspects are linked to other store break-ins - CW39 Houston</a></h2>
+        <p class="sum">Harris County Sheriff’s Office investigates whether Pokémon card theft suspects are linked to other store break-ins CW39 Houston</p>
+        <div class="tags"><span class="tag">break-in</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">theft</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">main-echo.de</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 12 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQcjJ5eVE5enBvOHVWeHhqY3E3djAwOERYMnJUaHJrNVJkQ1QzZkZSX0JlSlF0cVY1WlZnek1FSmF3Y1dPNF9ITDFWUmhwMWdyaWRseVc3UUpORlVPamdYdHRpZkI3UWVYNHBldm5EUFVLdGh6dFpHMjljMmpGTWJiOVQxMmlxNl9feXZuWXl2U2ZHUG1hNW05SFY5Tm5SaVFPVlB1Wm9qUG5TOU45UVpOUnlQU2RXa2RUTHExNg?oc=5" target="_blank" rel="noopener">
+          Pokémon-Sammelkarten: Käufer schlägt zu und flieht mit Beute - main-echo.de</a></h2>
+        <p class="sum">Pokémon-Sammelkarten: Käufer schlägt zu und flieht mit Beute main-echo.de</p>
+        <div class="tags"><span class="tag">beute</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">sammelkarten</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">EarlyGame</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 12 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQdF9sOXkwZjVud0M5SlB0UFhFZGJUQmpXTWFoaU1pSlpJNnl5VWpWYkx3QXA3bnc2bV9zalRLOVdnYXJHcVhDcjVhNllkY080Nk9aTDRGTHFWVGwwcGRvNXdHVWV5VE5ZWjJjSHFadjJpaS02S1EtbkRFMmNjSUFIVENjdkNsaWxjTUk5alB4cnNIYm1oVlhkN0VwVnRqSWFjeUdVeklrR2JGSUR1Rnc?oc=5" target="_blank" rel="noopener">
+          UK Brothers Arrested for $95k Pokémon Card Thefts After Getaway Fail - EarlyGame</a></h2>
+        <p class="sum">UK Brothers Arrested for $95k Pokémon Card Thefts After Getaway Fail EarlyGame</p>
+        <div class="tags"><span class="tag">arrested</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">theft</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">STERN.de</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 13 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVXVMYUJwSlNXcllEQ0NKM0ZRY2xqa0xrU092N1I5SFptNFNYN0lCWkd1U3lEUGVsaVBCNnhNdkpPNmxyekFaNEdJSHR3TXh5bUh4ZFhkUzNZNVI4djEtbnNHQlFwcHlKQlRUWHFXYlRySjBUNXNDX29OcC1scXNDa215aWlTeHR2YmlGNkNwaU0zOWVlOXROM3ltNHFCbzBQZ3RZcVV2OFhJcFdYZWtDT3h3Ym9RenFuMGFJVEJET0pLekJMc0kyTktkMXRmVTVYc3hGU1JNRUN2Zl9HTU5SMHI2YjBLQ1VhXzduN2V5MF91NC1P?oc=5" target="_blank" rel="noopener">
+          Verkauf geht schief: Pokémon-Diebstahl: Mann schlägt zu und stiehlt Sammelkarten - STERN.de</a></h2>
+        <p class="sum">Verkauf geht schief: Pokémon-Diebstahl: Mann schlägt zu und stiehlt Sammelkarten STERN.de</p>
+        <div class="tags"><span class="tag">diebstahl</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">sammelkarten</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Yahoo</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 13 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQl8xUUhKMmplWGllZ1FNdUJHTG52d2h6ajFHcjRfOFdJY09MM0xRUDRSdmhySEhNVWZyN1h3SGNtUjE0Vk01M2FWYUVRbGVqOGx4MVBzNndNaTJ4eWw1anpsNGlOV1NmMkM3MzY2cUN5N3E2dFhlWWJGOElkYjlaZC0yY01HZzNo?oc=5" target="_blank" rel="noopener">
+          Two men charged after Webster Pokémon card store burglary; owner believes arrests could help solve other break-ins - Yahoo</a></h2>
+        <p class="sum">Two men charged after Webster Pokémon card store burglary; owner believes arrests could help solve other break-ins Yahoo</p>
+        <div class="tags"><span class="tag">break-in</span><span class="tag">burglar</span><span class="tag">burglary</span><span class="tag">card store</span><span class="tag">charged</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">CTV News</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 13 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNQndFMGh0bExmeDVHZkZab05NWHNPRHdiVzBORW95VmlOdzc1VGdxT25FR3Y0b0t2dE9XT3l4eVRrZDJ6eGt2amNTdjZXWmpCZUJWcGxkR2ZDQm1JbWdINEhmOUpWQXQ3V2lyd2k3LTB1TnN6bDEzVHIybnJsb1pnemNoZ1ZMd2h0YktmT0lIcmhlM2IwUk1raExNRDYxNTN3?oc=5" target="_blank" rel="noopener">
+          Armed robbery at Pokémon-card store in Lanaudière - CTV News</a></h2>
+        <p class="sum">Armed robbery at Pokémon-card store in Lanaudière CTV News</p>
+        <div class="tags"><span class="tag">card store</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">robbery</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">games.gg</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 14 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE16N3oyMTh0aF83OTlNN0JtQ3BqUGJXbTVIdi02ZDlWWTduYThJSXNtN1BGN0YzMWdUMFpjNHlWdlBsaVBmcXNLY2hDT3dWX2FncnZJNDRjV3JzQ3lxbk9WQVBVS1hWdi1nZTZn?oc=5" target="_blank" rel="noopener">
+          Two Men Guilty of £71K Pokémon TCG Burglary Spree - games.gg</a></h2>
+        <p class="sum">Two Men Guilty of £71K Pokémon TCG Burglary Spree games.gg</p>
+        <div class="tags"><span class="tag">burglar</span><span class="tag">burglary</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">games.gg</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 14 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3VyU2pwM3JMcVBCa0IzVUZwOGN3aVA0cVMyVng3bVh2WFU1TXA1UGROM3ZWWnhNc3pGSDdZUGtranM2M3BpX3hLZE4yVDdfNTdIMDNEY2w4VlpEM2Z0YWRJdmhVTU1oQXNqWVVvZkRkQmpnR2Z5Zmd3RnRkMzE1TGRPV2o2bE9yUzZQcldnMmFrUGM2a3JHS0NGTHFxb2pfVzVsT0ZEME9JNVVrWnhFR1M2QThEaUk?oc=5" target="_blank" rel="noopener">
+          Zwei Männer bekennen sich zu Diebstahl von Pokémon TCG Karten - games.gg</a></h2>
+        <p class="sum">Zwei Männer bekennen sich zu Diebstahl von Pokémon TCG Karten games.gg</p>
+        <div class="tags"><span class="tag">diebstahl</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">South China Morning Post</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 14 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNTDRhbWE2Z0hucV8teHZZbWM0Y0c0amNYLWxvTGFBamZQZjZzLXhOWjVPVmpCQnFvZXh6NmJldmpTMnVqN3RqOUJhTlo4N0kxay1DLXpCTzgxUldueGNVb3VNdVZNZVM3U1F3ckFKVURTNzBvcXRPeUwyWG5ObW9PQ0VXWVV0SGZoblpBWlhPQ0pQSno3ZWNXR0wtN010Si1RMk9ZZEV0eVJCVGlOckE?oc=5" target="_blank" rel="noopener">
+          Thieves leave cash register untouched to grab Pokemon cards in Japan heist - South China Morning Post</a></h2>
+        <p class="sum">Thieves leave cash register untouched to grab Pokemon cards in Japan heist South China Morning Post</p>
+        <div class="tags"><span class="tag">heist</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">PC Gamer</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 15 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQWFYVXhzNVVqeE1PNm9uc1BrbW9faHFNbUpoRWpzNVRPdWhvWmNaU29Nb3dfSC1xY2F0WGNFalcwY2NMRVl4cG43WHplTDBIYUZHc3NOY3dKc3lHd0FqOHBXbmdpdW9ldmFEZzRvcnZmaEpFSWdKMWNtVzBnZ2oyQ21YdEl6OGZBV3RrZTZJUXYtNE45eGI4bG5qdzVEU3lQQzJhQ0IzZXhZN3FLTlhSVEJ3cUZ6WkpmRThkNzN0UmJaQ2s2Z1RtNDRxYm56eTdTSld0anVwSm1PRDkxOVdYRkZCNGhVMDE5MG8zSmZ3aWVzdkNTeVRV?oc=5" target="_blank" rel="noopener">
+          Two men plead guilty to stealing over £71,000 worth of Pokémon TCG in a string of burglaries targeting small card stores - PC Gamer</a></h2>
+        <p class="sum">Two men plead guilty to stealing over £71,000 worth of Pokémon TCG in a string of burglaries targeting small card stores PC Gamer</p>
+        <div class="tags"><span class="tag">burglar</span><span class="tag">card store</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="legal"
+             data-cat="behoerden" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Razzia / Rechtliches</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Wochenblatt Reporter</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 15 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSDRpdC1zbk1INnJjR0J2QXhBbTNCS1o3SDJUd3hFUi03S2pCTmdVOHYxbmVyRjBhT1JNclVDOHprX2tLNEV2S0YwZUNSVlg1cVQ0OUJjdVZ2NTN2aVpTZEt5Z3NPTFRaYjB2azlVamhTYjBoQlp0ZGphUVBvdDZzZ3dyV1gwZ3VLRzBib0swVzBROXpHNlRzMzdSamx5aHh0OEJvNWZ6UDlmR1RJWU1zd2lnblpFM2puYVlDUkxGN0tsMHJna0Q2bXpZMklSTkxMaXBRSTBCa21UOEE?oc=5" target="_blank" rel="noopener">
+          Unbekannte wollen Pokemonkarten klauen: Polizei fahndet in der Innenstadt - Wochenblatt Reporter</a></h2>
+        <p class="sum">Unbekannte wollen Pokemonkarten klauen: Polizei fahndet in der Innenstadt Wochenblatt Reporter</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">polizei</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">CBC</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 15 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nNC1NZWFVeUZZN2xmeGMzTU5tR1pXWnlXQjZScm5QaU9FWWc1a25RX1Q5UTAtWmpxSC1DeTJwNElfWm02aWt6d0JadVJ2b1RkaXZfdTZGY1JXdw?oc=5" target="_blank" rel="noopener">
+          Durham police looking for 5 suspects related to trading card shops theft - CBC</a></h2>
+        <p class="sum">Durham police looking for 5 suspects related to trading card shops theft CBC</p>
+        <div class="tags"><span class="tag">card shop</span><span class="tag">theft</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Cheshire Constabulary</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 20 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPRklsTVNSOG9YQWEwcDVMbGZldTlwdHZKVE9ENWZaaWFRdG1VTWR6b0VDSXRITjA4OXdWNHVONjVIRFkzWlFSV243VlVtSzJkZy1nRUFCMTRoN3oxN2ZzaEJjdmhFMEtJSTVrRHI4MXpjZ2NkXzJqS09BRUg0NkktTy1UaDZSVzN3YTVGUEdBZTFIMUxidFhNdzY5Q05NMlNrX0pYUXpxY3ZjUVhEY0V3WWxIc01RUG5Hd3VUZUZhQ3loWTdW?oc=5" target="_blank" rel="noopener">
+          Two men plead guilty to Pokemon thefts - gotta catch &#x27;em all! - Cheshire Constabulary</a></h2>
+        <p class="sum">Two men plead guilty to Pokemon thefts - gotta catch &#x27;em all! Cheshire Constabulary</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">theft</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="warn"
+             data-cat="betrug" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Betrug / Fakes</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">New York Post</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 21 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVlFSTk1KSGl0dGIwbHVoNnk2UHJXY0JuNkpFcGpvb1pkLUxmV1VFeTVIdng2ZDRPZ0lwR093R3JuaDA5QmhRWERGTTBoMmtjdHIxOVpMSU15RzBJQ0VfNFlHT0dHOGE2dC1DZFpvbHNIa0hEaDVZNEx3Z2xISEVfM0VzdUl3NVhJcjBTMXdaTVFYWHdsYjV5VXJwS3ZlaFltM01lSm1ia1VKcTFDXzlzS19RcVdOVUpLbjhtSmpJYnRhcjQ?oc=5" target="_blank" rel="noopener">
+          Two New Yorkers arrested at Costco after alleged fraudulent credit card shopping spree - New York Post</a></h2>
+        <p class="sum">Two New Yorkers arrested at Costco after alleged fraudulent credit card shopping spree New York Post</p>
+        <div class="tags"><span class="tag">arrested</span><span class="tag">card shop</span><span class="tag">fraud</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">5 EYEWITNESS NEWS</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 22 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNVFNQeUNRdDdCc3ZoaHJ1WjJFZHdIdW1OcmNJSVA3OEZtWjZsaWktcTdIaHhZT1VZZjFqaWRIcWppdWJuckFkZVFrdDBjemFNUXU1UjVHMEw0OW54X0RTcTJQZE9UQVNtZWFsNWJfQ2MyQnRiUi1VZENmaGpGaWdZNzNBNlRzWGpzREE2N1VBYW1nNmFxNkdoN1dR?oc=5" target="_blank" rel="noopener">
+          Pokémon card theft at Eagan shop: $25K stolen in break-in - 5 EYEWITNESS NEWS</a></h2>
+        <p class="sum">Pokémon card theft at Eagan shop: $25K stolen in break-in 5 EYEWITNESS NEWS</p>
+        <div class="tags"><span class="tag">break-in</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span><span class="tag">theft</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">CBS News</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 22 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWVuNFR2N2NUWVZfbmJpcERncTZ2QTFRT25NdHJzcjhMM3Qta2xiTG9wdVlwdEd3Z2JhU2phQVFNNVYyOGxrRnN3T0N3MHI4b3hLUDdSUkdOZHpjeUtVcVdMRS1uckxkSngtSTNaUzdXbzQ3bUpKTTliYnlDSU94dlRqa3A?oc=5" target="_blank" rel="noopener">
+          Pokémon cards worth $25,000 stolen from Eagan arcade part of growing trend - CBS News</a></h2>
+        <p class="sum">Pokémon cards worth $25,000 stolen from Eagan arcade part of growing trend CBS News</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="ship"
+             data-cat="versand" data-region="de"
+             data-platform="youtube">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Versand / Grading</span>
+          <span class="dot"></span>
+          <span class="plat">YouTube</span>
+          <span class="dot"></span>
+          <span class="src">PokeGeoDude</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 22 Tagen</span>
+        </div>
+        <h2><a href="https://www.youtube.com/watch?v=9uSXUs7km3Y" target="_blank" rel="noopener">
+          🔍 Wir brauchen eure Hilfe! Unsere PSA-Submission ist verschwunden. 🙏</a></h2>
+        <p class="sum">🚨 DRINGENDER HILFERUF: UPS verliert unser 23kg Sammelkarten-Submission-Paket mit über 2.000 Karten!
+
+Liebe Community, nach fast 10 Jahren PokeGeoDude ist uns das passiert, was niemals passieren durfte: Ein komplettes Sub</p>
+        <div class="tags"><span class="tag">hilferuf</span><span class="tag">muster:versand</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">psa</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">KTLA</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 23 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQTUJmUHc2Y1NsaEJpa21zSk5QU2ZiUDVKZUlwVEI5VWh5Vmt6RF9KOHZ2M0ZlWnB6cDRSZDhwTDR5NG1TTzAzLTQyQWVCSm5rSGZFVWNmNEVRZ200U2htTHd1VmZON2dBYnYwbk1kdGllX01BWTFqTzF2SG9zTldiTU05WW42MHVvY0twZktrT0dYVUJ4S1B5c3JqSVdzQkN50gGmAUFVX3lxTE81XzdLLURoTzlfMUhQLUVvQ20zNWE3QVV5ZUVZYVJ2VGM3LUZqWkhSLTlWS1RFaXV4c3hHOUdiOE5KSVBYRzUxelQ4akZGbDhtQmphSE5Gb3BfWTQtQk1BVjd4b202VVZuQjVjVmFGWENtS0JZUkJPZllBZzlQTUVIOVVPOXEwSkV4MXkzdDVGS1lzZXhGZ2l1UVhwU1ZuNE9VLUc1VHc?oc=5" target="_blank" rel="noopener">
+          $10,000 in Pokémon cards stolen from newly-opened Los Angeles store - KTLA</a></h2>
+        <p class="sum">$10,000 in Pokémon cards stolen from newly-opened Los Angeles store KTLA</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Polygon.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 23 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxNNjFDdDl3WFktLWFaMGZtajdZRUl1X2l4S0h5V0NPTzBRbzJuM21JUU5ZVmt1cXM4SktHR1NHZlBiVlkwYTM2TEdJMl9sRXNjWFhnMWtweFBHd3ZvMkhkaGt0OHUzTWVBZ21UeFdUSGJhUFR2Q1hLc0NoaURIQXo3U25R?oc=5" target="_blank" rel="noopener">
+          Man sentenced to 10-plus years in prison after major Pokémon card heist - Polygon.com</a></h2>
+        <p class="sum">Man sentenced to 10-plus years in prison after major Pokémon card heist Polygon.com</p>
+        <div class="tags"><span class="tag">heist</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">MLive.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 23 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdjVrYXQ2XzRseHp0T3lFN3AxZHNqeER6T3JjZ3ZXMGs0VDE3RXh4dEpoZEl4WmhVdlRxbHZSQzZRam5CLTlNclFDY1J3QkVERERmLUpDZHhtUFpkUVZIMERQMmNVVUlDdVplSWV2NEVXeDBPX0QyN3hWWkgwNjdsQTc1bWNhZzNvYXphWUdHR2hBcExnb2RiMW9sdklYZ2JWOW96dGJsRWZaanlnVWEzdjNVb3NiQlIxVVc1U3UyczBVVGs5eEtEWkJjd2NIX1RIdDlFOXQzeFVEQmtnaGE0YXBKVdIB9wFBVV95cUxPRWF1V0JJbjd1aDBxd3FBcUVlSmtmWHRKeVRreDdtRnJpenFwUmxtMzctYUIzeDB5UWswZlN3WVN0WHNlSWpuZkJDaVR6bURJQXBlN3R1NVlJV3B2QVFIdlNkRERLTTBRN0xGaHZxXzBiY3ctT2MxUERYOGpvN2JuandYWjVCNk91SkktQVMzRERvRU00N3QtVjgzOXdwWkN0a0RMeGlFWUtucmY0Q1Y4bEo5bXNwWkJHaU9IckJmUFF1Ui1vT0JQQy0xZGFjSVhGTGExMk1JVUJ2TWp1MlVrLVJBZ21ROHo3S3JTcTFOeXhmdjZueU1R?oc=5" target="_blank" rel="noopener">
+          Flint man pleads guilty to dragging 2 Bay County deputies from car during trading card theft - MLive.com</a></h2>
+        <p class="sum">Flint man pleads guilty to dragging 2 Bay County deputies from car during trading card theft MLive.com</p>
+        <div class="tags"><span class="tag">theft</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">General-Anzeiger Bonn</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 28 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPdWhibFNaT1hBa2NHSTRJbXI4ZTBKYVEzTndCQmQ5NXdVcFpFSFhCaVdUWEJmMnF0STI2R3Fud3JaV1JsR2V3ZzNDakFrWjJrOWdkMmU0dnc3RW9QLTI0VEtNM0N4VFcyM284dVhNdnBTTHBQRFhWMUw1RXRwMXNpS2l0bFlfdGw3Z2U4TjdWWEhHYzZxLUJ0QWd6YW52eWFGNGhwallNN2JldllDVFJDSllodWFkeHBjTEhtY0p3?oc=5" target="_blank" rel="noopener">
+          Einbruch in Siegburg: Täter stiehlt besondere Sammelkarten aus Geschäft – knapp 20.000 Euro Schaden - General-Anzeiger Bonn</a></h2>
+        <p class="sum">Einbruch in Siegburg: Täter stiehlt besondere Sammelkarten aus Geschäft – knapp 20.000 Euro Schaden General-Anzeiger Bonn</p>
+        <div class="tags"><span class="tag">diebstahl</span><span class="tag">einbrecher</span><span class="tag">sammelkarten</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">CityNews Toronto</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 28 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOUdXM1lBOE1iWFNiLWIxMUsyWTR0b3VpZGd2d2RzYkRKMjIxTEg3cTlXUnZKaV9kVzk5MU5EbVV4M1JLZGNKbHZDb0VyMVF2MUxBWWNZMXpIOTVlOU9mLUhOVHd4OS1JTWU5d1BSZkJ1UDViM0xHRndMRmQyOVlkOUJyaFJlX01faTJDbnZHanFWX25SME5RTEZvQk85ckNoT2hVSFlSV05jOTBoNmxSZFRURTZOTDZq?oc=5" target="_blank" rel="noopener">
+          2 Ajax trading card game shops latest in GTA to suffer brazen break-ins - CityNews Toronto</a></h2>
+        <p class="sum">2 Ajax trading card game shops latest in GTA to suffer brazen break-ins CityNews Toronto</p>
+        <div class="tags"><span class="tag">break-in</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">UL Lawyers</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 28 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wWmsyak5YNlpfazlYdVFWTWpVeVZBSXNLa1d2enl2UzlmR2M3Ukg0NkEyMEhabW5yWkdZekRnSTN3dGlDaVFQRGNNSDU2ZHh6bXZNamV3UjFFRXdNLTltV0NuV2EtZw?oc=5" target="_blank" rel="noopener">
+          Ajax Trading Card Shop Thefts: What Ontario Residents Need to Know - UL Lawyers</a></h2>
+        <p class="sum">Ajax Trading Card Shop Thefts: What Ontario Residents Need to Know UL Lawyers</p>
+        <div class="tags"><span class="tag">card shop</span><span class="tag">theft</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">KPTV</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 32 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPMjNHRXM3bnk2YmdyM2RMRm91Vms3QVdzTWpLRzJlNE51NVdxZnRHbmVvNWNWd1k1eFprQ3JaYnVMeGp0NG1KLUthQmRNN3g2cHM3YVJ5WEs0bTlhU2RkZ0lFaGduOENpZC1VZng4TEtadmxjRXpka0xXcGdsRWs5c1NiVllIaTNUdlRzanl6S19lcmEzYjhaZHNQX0xVdnhYMTNYUWExdEFNV3JybWdDbE5GMjZyS3ZoVW9RUdIB0AFBVV95cUxPMTNrUnBBVmd5d29sNXRqb21CZkZlcTR1aTRWX3pFZEg2Rl9fLTRNOUhQX0tLVndxYXNITzBtOWQyVWpldkh1QjhUUlBHMUU2SmIwRzdCODZMLWtmUWJPS1U1Q3hpVzJ1OVJ0TFZ0cGc5MkNKQ2lFRVZ5QTNJeFo4X3pWOFhkTEpvNHZEQjFfTG91TlFqbXF6ME1ienJpNkQwYWd6RnVDRDBMdXhDUG5kN2w0TnVPcERLYk90OThxNldLSmluWklyQlEtcGxYSmNy?oc=5" target="_blank" rel="noopener">
+          Suspect arrested after Salem trading card shop burglary; Police recover some merchandise - KPTV</a></h2>
+        <p class="sum">Suspect arrested after Salem trading card shop burglary; Police recover some merchandise KPTV</p>
+        <div class="tags"><span class="tag">arrested</span><span class="tag">burglar</span><span class="tag">burglary</span><span class="tag">card shop</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">KLAS 8 News Now</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 34 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmJ2WENEUGF4S3VPcVNoemk1TEk1aHgxLXNDN0RyYTFON2s2SldJTHBxVENPT1pCdGhlcWI1ck9NMGlaZW4tVHhjTGtFOVVOb1hyWEd2eWZYX2hIUGJsRkJaWThpUXdOSW1PRDItOUU3ejQtNWRYcVBwYjI4QmFRZFlOUXNUTUV1c2VIT0VPWkXSAZYBQVVfeXFMUFdnR2tPOHROOGRkTllfOHZlVHd2WFBCd1ViektSMFZIMW1VVV9wRndRcjgxMGQzc2VibE9rU3FvNHBpNURWb084S1pSUWNuMDlBRUdMRlVKdE5mekdGU3BTT3NLb2tZQ3pfZmo1eVV3WENzQ1IwRkE4T0o1OHFoZE5QeWV2TmFKWUNIOFBFR01PV2ZiTFB3?oc=5" target="_blank" rel="noopener">
+          Las Vegas Pokémon card theft caught on camera - KLAS 8 News Now</a></h2>
+        <p class="sum">Las Vegas Pokémon card theft caught on camera KLAS 8 News Now</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">theft</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">ABC News - Breaking News, Latest News and Videos</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 34 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNTC12VWtLM1lPVGVWT0U2Z2tZUGNlQ25jZzdaR2wtUTB4clI1S0NsWV9RN3FYQ0FEV21Sb0xBbnVkOE9WTTYzVGp0QmM1VmRJV1RwMVpPQUNNSTZuRmc1UlNFekxNbU5qR0FSVFgtaGp2WmMyd1gtczM0bWttLTRYVW9XZnd5MlduQ3J0Ui12MGhhd2prMHhRcG03ZklPUldia0hYb9IBqgFBVV95cUxNYmZlTlQ2OWRma3kyX2hLcEFncldlRW5PaGEzMFJET1FlMU1ERlkyZGlNMU8zcFRDeWwyOVlfSDlDWU9WRy1CWnRzemgxWlFTR3JCX1p3TDFYbHRveUl5TmhQYXowWlBEclAzY3FzRTZLd1JRUTBOckY4djZPVU1COXR6bWZYX0dnLUFXT2xjcEdRWWNlZ0V0aHNmbjVkd1NYRDRpeV9NMVhKZw?oc=5" target="_blank" rel="noopener">
+          2 Northern California stores targeted in Pokémon card burglaries within hours of each other - ABC News - Breaking News, Latest News and Videos</a></h2>
+        <p class="sum">2 Northern California stores targeted in Pokémon card burglaries within hours of each other ABC News - Breaking News, Latest News and Videos</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">ABC10</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 35 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNYVB6eTh6bFU2UlZCNWxOM2JOSThMc1FFU0otdi1LSU5PakNGLU5hWFMwQWpmalcwYWZtSURtMFptaVNnaVVhclhYaXRBWFVwelA1Z3g2clRSSWI4VkYtc1M5Z1dXTVZ3SEd4SE51MkNzVUlOejhYWEQ0d0Z5X1QyaTByQ0paMm9jZUp3bFBTWWotd2F5aTlGQTVobF9WNUJaWkVMYmFLcDMyQ2RBLTd3dnJNTVVKSHhZUmtiVGprYkRWOVRi?oc=5" target="_blank" rel="noopener">
+          Pokémon cards targeted in back-to-back Stockton card shop burglaries - ABC10</a></h2>
+        <p class="sum">Pokémon cards targeted in back-to-back Stockton card shop burglaries ABC10</p>
+        <div class="tags"><span class="tag">burglar</span><span class="tag">card shop</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Global News</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 35 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE9wQXpwOVVycFVoY2FVMHN5Z3ctb3h1LWZ1YjZETlQ5SjVJdlROTU1JZFZwdTJuWmU3UFY1NUQ3YTJjYk14dVdzQ0lBMHpKd0xRSlljUGx4UUtsOFFPWVpMdE8yUXBIUENNMEszMnhaRQ?oc=5" target="_blank" rel="noopener">
+          Violent Pokémon card thefts on the rise in Laval, Que., police warn - Montreal - Global News</a></h2>
+        <p class="sum">Violent Pokémon card thefts on the rise in Laval, Que., police warn - Montreal Global News</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">theft</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Central Bucks Now</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 35 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQZDlTOWVpZzhBQmg0WUVkZ3Vra244cEVBWU5zSXlzbXhLY1luQ0t6Z3pMQ1NzRUVheDhCYTVGT3I4RlZMMGk2S1N6Wi1lc1RkR0x1TUNxTjE2a3lKNU9LQkpMblJGck5RRjduaVBwNklpZEJaZ096ZnBxcEMwazNRcXFXVzhVZ2NNMGlkZ1M5akxROTlnWndLVTZNZU1iRWNVOHU2WVdOb25QbHM2Y1NlNEVNX3d5YkpBSk5ycnp1MURIR2JpNUpXMlZtZHY0cU0?oc=5" target="_blank" rel="noopener">
+          Man headed to court after alleged trio of Yu-Gi-Oh! card thefts from Warrington Walmart - Central Bucks Now</a></h2>
+        <p class="sum">Man headed to court after alleged trio of Yu-Gi-Oh! card thefts from Warrington Walmart Central Bucks Now</p>
+        <div class="tags"><span class="tag">theft</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Patch</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 35 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQZEpic0ZtOGIxNGliS05lSWJROEQzY3MwSTYwQ1oxSjRhNGU1ZTh0M0tMQ3BTa0JxOEVuODN0ZThLc0dJQUc2cmI0RTVzWFNBcVUxTkpyd09weGtHTmlMV2FRV2JKMlpJeVBXbGZnbGtXMnZKUzdTUVM1bHlUbERQQjNkdHZDUXQzUDJycVJ5dGVhdmZQa0pJSzJMaXYyUQ?oc=5" target="_blank" rel="noopener">
+          LAPD Seeks More Victims In Serial Trading Card Theft Scheme - Patch</a></h2>
+        <p class="sum">LAPD Seeks More Victims In Serial Trading Card Theft Scheme Patch</p>
+        <div class="tags"><span class="tag">theft</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">AltkreisBlitz</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 37 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXVIQmVPX3BYOFMxdWJ6UWRnYlpiYk9lZ05KSExkSGttNURhc1UybWhzUFJxb090T0pBTnV5bG44Mm1xSW5aWnpoQ2ptNVM5UGh6Ny1EYURYcHRzdTJycGxQUUVtNmRTaHZ5M09hNGpqTzhaQVg1R0t4ZURkWTlpREVIS0JzTUVxb2otVklMYURxZkNGUGdSNWVQVExPbDA?oc=5" target="_blank" rel="noopener">
+          Pokemon-Sammelkarten bei Raub in Großburgwedel gestohlen - AltkreisBlitz</a></h2>
+        <p class="sum">Pokemon-Sammelkarten bei Raub in Großburgwedel gestohlen AltkreisBlitz</p>
+        <div class="tags"><span class="tag">gestohlen</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">raub</span><span class="tag">sammelkarten</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="warn"
+             data-cat="betrug" data-region="int"
+             data-platform="bluesky">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Betrug / Fakes</span>
+          <span class="dot"></span>
+          <span class="plat">Bluesky</span>
+          <span class="dot"></span>
+          <span class="src">@quiz0083.bsky.social</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 37 Tagen</span>
+        </div>
+        <h2><a href="https://bsky.app/profile/quiz0083.bsky.social/post/3moenp4h5cc2r" target="_blank" rel="noopener">
+          www.instagram.com/p/DZnKZ8Fjurx
+
+This is an urgent PSA please share with anyone who follows you that&#x27;s from Portland or Philadelphia.
+
+Counterfeit Xans pressed with a novel sedativ</a></h2>
+        <p class="sum">www.instagram.com/p/DZnKZ8Fjurx
+
+This is an urgent PSA please share with anyone who follows you that&#x27;s from Portland or Philadelphia.
+
+Counterfeit Xans pressed with a novel sedative medetomedine -- this stuff is EXTREMEL</p>
+        <div class="tags"><span class="tag">counterfeit</span><span class="tag">muster:versand</span><span class="tag">psa</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">@hbgpalocalnews.bsky.social</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 38 Tagen</span>
+        </div>
+        <h2><a href="https://bsky.app/profile/hbgpalocalnews.bsky.social/post/3mo57mawff426" target="_blank" rel="noopener">
+          A man faces felony burglary and theft charges after allegedly using a hammer to break into a Millersville game store. The suspect caused thousands in damages and was arrested while</a></h2>
+        <p class="sum">A man faces felony burglary and theft charges after allegedly using a hammer to break into a Millersville game store. The suspect caused thousands in damages and was arrested while attempting to sell the stolen trading c</p>
+        <div class="tags"><span class="tag">break-in</span><span class="tag">card shop</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="legal"
+             data-cat="behoerden" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Razzia / Rechtliches</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">KRCG</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 38 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPanJGQVJtS1NRaG5aWk1xb20tM24tT0VMMWVvbU5PbU9USURsV2dhVzg2UTBSZWdhbnBNTkVsS01qemZIYkxnSE5RMXpUcEhHUVo4NjZ1dmlzbUpLaUlBUndzNXNNWUROSDgwWE55MDRSZXFyOWhBdEw0cXR6c2MwZDRVVVdHVk5Lenk5LVRVVFc2LTBtZVE?oc=5" target="_blank" rel="noopener">
+          Eldon man charged for stealing single trading card worth $1,400 - KRCG</a></h2>
+        <p class="sum">Eldon man charged for stealing single trading card worth $1,400 KRCG</p>
+        <div class="tags"><span class="tag">charged</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Outlook Respawn</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 39 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQcnFPRG1KTktpWWZXakx6bUotNmM2NEpISWNTbUdmMlFsUkthd2lHcURYSVpJZG0zWGE0VTZQcl8wMHRuNHhLS2hzTkJKQ1VPeW95U1JtWl9YRXd1Um5WY281X25nT3hPRzZKLTZLZHRmWTBmNHNyVFVzdGdPdTJwZzgyaDUtNElYXy1PSEJod0U0NkMtalVWYm9DQWdBRWFEa0p1bVhQNmNrZEQzSlHSAbsBQVVfeXFMTUF5Zk5iekNJQzFFSUtiT0NMLWlzZm5uQ1JxVmNjNDJyeEladFBkSFRQcHJReTBZMzBVekN2ZkhydGJSd2lGaTJuWDVNZWVhcV92b1lxbUdTclJRRFpjZmlJa3dnMHlzMEFrR3JqYXN0RDR0cVIwNk53V2NBVERDS0w1SEYtdXNSa1hTNFVlYkw4RVk1bEFZNmlxcS1SazY0OWV0M0lVc25VbGRTU1MzclpqdXp3OG9WU25fcw?oc=5" target="_blank" rel="noopener">
+          Pokémon Cards Worth $15K Stolen in 40-Second Break-In | Outlook Respawn - Outlook Respawn</a></h2>
+        <p class="sum">Pokémon Cards Worth $15K Stolen in 40-Second Break-In | Outlook Respawn Outlook Respawn</p>
+        <div class="tags"><span class="tag">break-in</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">ABC7 Bay Area</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 41 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOSGZTV1RpRGxsOGR3RmZUQzJHT1BQM2d3OGprQTg0ODJCSlNrSHlJbXdTcjZWdGI4dENabjBHZmQ3aEdHcWppSzJvTXhBbnN0ZzZ5MHB1QXJGRDAzZXk0aThCUVlnWnJuV0R1OFRlUWtOQlFIR29KajdXMUFSMlJ5Q21tcTVUMnR5b3NZQ1NhUkFCMW80Q00yck5wZVJneVBkZlhHbG44dHRkTktLMngzeW05cnRsNTRKZlHSAb8BQVVfeXFMT2hXOXZJX3Uwdl9MX2h0UUxIbnY5YTdjTVI5TlhvVmxzZEpVMkhZSTFYalNVYUs5TjJ4eW5sak92TVNmdS04ckJzZWg2d2ZtMTFBdDBadjFYdzRnWW9tWkVoOUZBcTBreVRHaHNtRjhkN0g0bHdKUHpRVWZHc0huTnhWd0ZvdWpYQWc4bjhXX3Nvd2x1U3JiVkVNWmNWWWEtZ1FYWm9XckVUSVI4QmlDZ2tXTm9WXzJTN0EyTnZtX3c?oc=5" target="_blank" rel="noopener">
+          Pokemon card robbery and arrest caught on camera; thefts in San Francisco spark alert across Bay Area - ABC7 Bay Area</a></h2>
+        <p class="sum">Pokemon card robbery and arrest caught on camera; thefts in San Francisco spark alert across Bay Area ABC7 Bay Area</p>
+        <div class="tags"><span class="tag">arrested</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">robbery</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Los Angeles Times</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 41 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVlGeWN1Q21vVGdweUMyQ1FWRGZ4SkY1RlV4dGpWMzBBRm5qbTlBWEhkYVBLbS16VWl4UkgxcDRCcGlieWFUZDl1dEhYYmxuWmIxS2ZVempMd3JJbXFRQllvV0FZaGVJY2huRTcwdS1Oejl1bTMyMGl1YWc4VXVqSm5ha1dCVHcyVXV6dHJxUnozcnl6SzhfNzRSd2tVVVVYaW5oQTRMMFdJRnpKOE1nZU0zSzU?oc=5" target="_blank" rel="noopener">
+          Pokémon GO to jail: Robbery suspects nabbed in trading card setup - Los Angeles Times</a></h2>
+        <p class="sum">Pokémon GO to jail: Robbery suspects nabbed in trading card setup Los Angeles Times</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">robbery</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">KTVU</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 41 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE5yVXRSTFNBVXZZUjNhM25RdkRCOFlrTmFxb1l5WjgzM1Njb1FYek1MSUhGOTUxX0NENFFGRVRqaUhxME9TanVnSmFmby1ORHpRSEtnTWFwMERFZVRyMEx6VFRxcTM1UldKczVNR0JTWERVVk93dEJVZi1B0gF_QVVfeXFMTzlEVXFnOWd3VTZGZEYySzUxR0NRQndHRmhldUY0TE5OTjZXcG9YVlVwRlNTVUpxLVI5Y0FXQkpVSHhlX1ctREhXZzNaT1ltcjJqV2ZxYWFSS0Q2N1lzbDFoQzd3MTItdVNGMWxGQXhuNVR2cnloMU42THdLZ2hHWQ?oc=5" target="_blank" rel="noopener">
+          SF police arrest 2 after meetup to sell Pokémon cards ends in robbery - KTVU</a></h2>
+        <p class="sum">SF police arrest 2 after meetup to sell Pokémon cards ends in robbery KTVU</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">robbery</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="legal"
+             data-cat="behoerden" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Razzia / Rechtliches</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">The Online Citizen</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 41 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFpmMGNuQ0p6MGxVQUpLWDIyNUFwQjJqaEFQR1NMTXhMeHViUHJNeWdueFpkZ1M2cHVKcWU4YkxQeGJ5Z3RGb3Z6REFnZm9WdlRYMXNpTi0xNUZkbEd3RnNpUm1Wa181Q2VsM2hLOUpUY3J4UktVQXZwY0tIaDdVbWhTMVI3dFVBeEhUeVp2dW5CRVlNck5wTFlnRFhHSjUxSEk0M2tucFFsdDl2TzBhMkNnN2V2ejBBTWdSWTZta3dFZw?oc=5" target="_blank" rel="noopener">
+          California thieves steal US$15,000 in Pokémon cards in 39-second smash-and-grab raid - The Online Citizen</a></h2>
+        <p class="sum">California thieves steal US$15,000 in Pokémon cards in 39-second smash-and-grab raid The Online Citizen</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">raid</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">GamePro</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 42 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1mYzMwQ3FkaElzdEpMU0xncVh2dGQzUVNwNy1UZmQ2OUNmaVFmU1pPdk1TWWNVVEtzUDdhUkdpX1A4bmV0ZlFQR0hnNTJZekdpZUhib19GYzBiTzZRM3VOWnUxVjNhTjV5OHh3OFFfVEx6dHRLUWJkSDI4bmY?oc=5" target="_blank" rel="noopener">
+          Pokémon TCG-Fan checkt Koffer am Flughafen ein und merkt später, dass über 200 Karten daraus gestohlen wurden – im Wert von knapp 4000 Euro - GamePro</a></h2>
+        <p class="sum">Pokémon TCG-Fan checkt Koffer am Flughafen ein und merkt später, dass über 200 Karten daraus gestohlen wurden – im Wert von knapp 4000 Euro GamePro</p>
+        <div class="tags"><span class="tag">gestohlen</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="warn"
+             data-cat="betrug" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Betrug / Fakes</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">FOX 2</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 42 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNSTZsQ1RrRVdkNVlrMjdFRmQyTkZfSG9tWWN6ZW0zYkwyS2FjUFk2Si1BVkxLazA3R2RNa2lVU3lUdk5UcWpWek5Mb09tWmpLOUM2ZnB2RE03VlFwVWpmdWxQR3huUXp0Qi1zMEpUcDJhanhqV0NUUVBlN0pScUdod25XOFpNanR5TmV0UUNLc3pNZXhSelo1MEFxX212UHJmMW8tVi1n0gGrAUFVX3lxTE40bUZPdUI1OFIyVzZQbjBnbTRwX0c1N3o3N0syNnl4NHZpclhNSV94RmtIekV1XzBBSVZ4ODU0a0V4U05HSGNVTDh3NFpyaEJxUTNuRkFCYXZYUVJmeDdQZU03aVJuUU5vZW1tNlYzeFRPcmJDXzEtVGFaVHF4NHZZSW90cmlsck1rQzZUTWhKdUphaWpWUkhDUjVHWjBFUWdsSV84WmFjY1ltOA?oc=5" target="_blank" rel="noopener">
+          Man sold $15K in counterfeit cards to St. Louis game store, charges say - FOX 2</a></h2>
+        <p class="sum">Man sold $15K in counterfeit cards to St. Louis game store, charges say FOX 2</p>
+        <div class="tags"><span class="tag">counterfeit</span><span class="tag">game store</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">MLive.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 43 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSnZHZlRnZFVONElCY0NnTkIwdmx1dU81Qy1PLU02VkFQXzB6V3lRUUI0QUlhaGc0dHZsSDk0V2xjMjRYcUhkb1pwbzFUUmJCdGlsaDRwaFZQcmJMSEY0TllOYS1JOFI2UDRReGtWMTRiRUFEemhpUVVsbTVyLWE0YTVMS3NZeXpRZnJxTXl0eVAxVDFTWG1ER0FlODRyOWRpQmFFd1hRQXdPVWdERk5yOWVoZS16a0tyZ3RMZDZuREdyMlY1VTFqWE4yNjFFQXhlMlRHTG5HNHV5Wng20gHwAUFVX3lxTE9FdHQtZXF6MTBTZlhCdDZ4dlZtNjRlb3dGdHR1YnRnNmlsX2xJcThja3JROXJkNUFCc0hvdW85Qlg5bjE2Ny1DdEgwSVRkSWtMVmlRT21wemxtUGNRWVBuUzBYc2dnem9BMFN6TWdIQWZRcm5jYnVGNWM4cWVsZFphZUlHZjZDQWs1eVRpTm1VOXN1UjREZ2FSTU5zVTRhbUtiZkJpTk04MDUtNHoxS093eW5iS0RMU0c1c01DRTVYNU1qYWJjUUhMa1ZwbE9tSUVCblU0b1liVDhPMXB2R1owVXh3U0JFOWNOWlI4dWNJYg?oc=5" target="_blank" rel="noopener">
+          Hudsonville card shop allegedly burglarized by Grand Rapids officer days before he resigned - MLive.com</a></h2>
+        <p class="sum">Hudsonville card shop allegedly burglarized by Grand Rapids officer days before he resigned MLive.com</p>
+        <div class="tags"><span class="tag">burglar</span><span class="tag">card shop</span></div>
+      </div>
+    </article>
+<div class="empty" id="none" hidden>
+  <p>Keine Treffer</p>
+  <p class="empty-hint">Diese Kombination aus Herkunft und Vorfall enthaelt
+     nichts. Setz einen der beiden Filter zurueck auf "Alle".</p>
+</div>
+</main>
+
+<footer>
+  Instagram laesst sich nicht nach Stichworten durchsuchen &mdash; Meta hat die
+  oeffentliche Hashtag-Suche abgeschaltet. Was dort passiert, faengt dieser Feed
+  nur ueber Umwege ein.<br>
+  Auch als <a href="feed.xml">RSS</a> und <a href="feed.json">JSON</a>.
+</footer>
+</div>
+
+<script>
+// Der Knopf funktioniert nur, wenn die Seite von pokewatch --serve kommt.
+// Bei file:// gaebe es nichts, was den Abruf ausloesen koennte.
+const served = location.protocol.startsWith('http');
+document.getElementById('actions').hidden = !served;
+document.getElementById('staticnote').hidden = served;
+
+if (served) {
+  const btn = document.getElementById('refresh');
+  const prog = document.getElementById('progress');
+  let polling = null;
+
+  function show(msg, isError) {
+    prog.textContent = msg;
+    prog.classList.toggle('err', !!isError);
+  }
+
+  async function poll() {
+    try {
+      const st = await (await fetch('/api/status', {cache: 'no-store'})).json();
+      if (st.running) {
+        const step = st.step ? st.step : 'laeuft';
+        show(`${step} (${st.done}/${st.total_steps})`);
+        return;
+      }
+      clearInterval(polling);
+      polling = null;
+      btn.disabled = false;
+      if (st.error) { show(st.error, true); return; }
+      show('Fertig, lade neu');
+      location.reload();
+    } catch (e) {
+      clearInterval(polling);
+      polling = null;
+      btn.disabled = false;
+      show('Server nicht erreichbar', true);
+    }
+  }
+
+  btn.addEventListener('click', async () => {
+    btn.disabled = true;
+    show('Starte');
+    try {
+      const r = await fetch('/api/refresh', {method: 'POST'});
+      if (r.status === 409) { show('Laeuft bereits'); }
+      polling = setInterval(poll, 1500);
+    } catch (e) {
+      btn.disabled = false;
+      show('Start fehlgeschlagen', true);
+    }
+  });
+
+  // Laeuft beim Oeffnen schon ein Abruf (z.B. der automatische)? Dann anzeigen.
+  fetch('/api/status', {cache: 'no-store'}).then(r => r.json()).then(st => {
+    if (st.running) { btn.disabled = true; polling = setInterval(poll, 1500); }
+  }).catch(() => {});
+}
+
+const catButtons = document.querySelectorAll('.fbtn');
+const regButtons = document.querySelectorAll('.rbtn');
+const entries = document.querySelectorAll('.entry');
+let cat = 'all', region = 'all';
+
+function apply() {
+  let shown = 0;
+  entries.forEach(e => {
+    const ok = (cat === 'all' || e.dataset.cat === cat)
+            && (region === 'all' || e.dataset.region === region);
+    e.style.display = ok ? '' : 'none';
+    if (ok) shown++;
+  });
+  document.getElementById('count').textContent = shown;
+  document.getElementById('none').hidden = shown > 0;
+}
+
+catButtons.forEach(b => b.addEventListener('click', () => {
+  cat = b.dataset.filter;
+  catButtons.forEach(x => x.classList.toggle('on', x === b));
+  apply();
+}));
+regButtons.forEach(b => b.addEventListener('click', () => {
+  region = b.dataset.region;
+  regButtons.forEach(x => x.classList.toggle('on', x === b));
+  apply();
+}));
+</script>
+</body>
+</html>
