@@ -518,10 +518,19 @@ class Item:
 
     @property
     def dt(self) -> datetime:
+        """Erscheinungsdatum als Zeitpunkt - immer mit Zeitzone.
+
+        Quellen liefern gemischt: mal mit Zeitzone, mal ohne. Python
+        weigert sich, beides zu vergleichen ("can't compare offset-naive
+        and offset-aware datetimes") und das Sortieren waere mit einem
+        Fehler abgebrochen. Deshalb wird alles auf UTC gezogen."""
         try:
-            return datetime.fromisoformat(self.published)
-        except ValueError:
+            d = datetime.fromisoformat(self.published)
+        except (ValueError, TypeError):
             return datetime.now(timezone.utc)
+        if d.tzinfo is None:
+            d = d.replace(tzinfo=timezone.utc)
+        return d.astimezone(timezone.utc)
 
 
 # ----------------------------------------------------------------------------
@@ -1209,7 +1218,12 @@ def run_once(days: int = LOOKBACK_DAYS, only: list | None = None,
     if not state.get("last_run"):
         new_keys = set()
 
-    items.sort(key=lambda x: (x.key in new_keys, x.dt), reverse=True)
+    # Streng nach Erscheinungsdatum, neueste zuerst. Frueher stand hier
+    # zusaetzlich "in diesem Lauf neu entdeckt" als erstes Kriterium - dadurch
+    # sprang eine alte Meldung, die eine Quelle gerade erst ausspuckte, ueber
+    # die Nachrichten von heute Morgen. Als "neu" markiert werden sie in der
+    # Anzeige weiterhin, sie draengeln sich nur nicht mehr vor.
+    items.sort(key=lambda x: x.dt, reverse=True)
     items = items[:MAX_ITEMS]
 
     (OUT_DIR / "feed.html").write_text(render_html(items, new_keys), encoding="utf-8")
