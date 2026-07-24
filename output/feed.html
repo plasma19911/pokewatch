@@ -161,9 +161,9 @@ footer a{color:var(--cool)}
   <p class="sub">Einbrueche, Betrug, Razzien und Schliessungen bei Pokemon- und
      TCG-Laeden. Zusammengetragen aus Presse, YouTube, Reddit und Bluesky.</p>
   <div class="runline">
-    <span>Stand <b id="stand">24.07.2026, 05:48</b></span>
-    <span>Eintraege <b>80</b></span>
-    <span>Neu seit letztem Lauf <b>31</b></span>
+    <span>Stand <b id="stand">24.07.2026, 05:52</b></span>
+    <span>Eintraege <b>150</b></span>
+    <span>Neu seit letztem Lauf <b>79</b></span>
   </div>
   <div class="actions" id="actions" hidden>
     <button id="refresh">Jetzt aktualisieren</button>
@@ -176,24 +176,108 @@ footer a{color:var(--cool)}
   </p>
 </header>
 
-<div class="stats"><div class="stat" data-tone="alert"><span class="stat-n">71</span><span class="stat-l">Einbruch / Raub</span></div><div class="stat" data-tone="warn"><span class="stat-n">2</span><span class="stat-l">Betrug / Fakes</span></div><div class="stat" data-tone="cool"><span class="stat-n">0</span><span class="stat-l">Schliessung / Insolvenz</span></div><div class="stat" data-tone="legal"><span class="stat-n">7</span><span class="stat-l">Razzia / Rechtliches</span></div><div class="stat" data-tone="ship"><span class="stat-n">0</span><span class="stat-l">Versand / Grading</span></div></div>
+<div class="stats"><div class="stat" data-tone="alert"><span class="stat-n">70</span><span class="stat-l">Einbruch / Raub</span></div><div class="stat" data-tone="warn"><span class="stat-n">2</span><span class="stat-l">Betrug / Fakes</span></div><div class="stat" data-tone="cool"><span class="stat-n">0</span><span class="stat-l">Schliessung / Insolvenz</span></div><div class="stat" data-tone="legal"><span class="stat-n">7</span><span class="stat-l">Razzia / Rechtliches</span></div><div class="stat" data-tone="ship"><span class="stat-n">0</span><span class="stat-l">Versand / Grading</span></div><div class="stat" data-tone="cool"><span class="stat-n">71</span><span class="stat-l">Szene / News</span></div></div>
 
 <div class="filterbar">
   <div class="frow">
     <span class="flabel">Herkunft</span>
     <button class="rbtn on" data-region="all">Alle</button>
-    <button class="rbtn" data-region="de">Deutschland<span class="n">9</span></button><button class="rbtn" data-region="ch">Schweiz<span class="n">1</span></button><button class="rbtn" data-region="int">International<span class="n">70</span></button>
+    <button class="rbtn" data-region="de">Deutschland<span class="n">19</span></button><button class="rbtn" data-region="ch">Schweiz<span class="n">1</span></button><button class="rbtn" data-region="int">International<span class="n">130</span></button>
   </div>
   <div class="frow">
     <span class="flabel">Vorfall</span>
     <button class="fbtn on" data-filter="all">Alle</button>
-    <button class="fbtn" data-filter="einbruch">Einbruch / Raub</button><button class="fbtn" data-filter="betrug">Betrug / Fakes</button><button class="fbtn" data-filter="pleite">Schliessung / Insolvenz</button><button class="fbtn" data-filter="behoerden">Razzia / Rechtliches</button><button class="fbtn" data-filter="versand">Versand / Grading</button>
+    <button class="fbtn" data-filter="einbruch">Einbruch / Raub</button><button class="fbtn" data-filter="betrug">Betrug / Fakes</button><button class="fbtn" data-filter="pleite">Schliessung / Insolvenz</button><button class="fbtn" data-filter="behoerden">Razzia / Rechtliches</button><button class="fbtn" data-filter="versand">Versand / Grading</button><button class="fbtn" data-filter="szene">Szene / News</button>
   </div>
 </div>
 
-<p class="resultline"><span id="count">80</span> von 80 Eintraegen</p>
+<p class="resultline"><span id="count">150</span> von 150 Eintraegen</p>
 
 <main id="feed">
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Mashable</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 16 Min</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE8xbC16UEdYWGY5M3BNYUtQUlA0b2x4djliS1JZQkt4aTFGT0QydWQ5bkxnMmpkMGdwRjA3d2l6bURBUXJkQ3BwLTdBVF83TWprOGhDSnJJQVllMVRKNkxlNlpiRXk4X25mRmdvRGhlMUxiVWowTHIxN1ZRQ05IVnc?oc=5" target="_blank" rel="noopener">
+          Best Pokémon TCG deal: Pitch Black&#x27;s 36-pack Booster Display Box is now under $240. - Mashable</a></h2>
+        <p class="sum">Best Pokémon TCG deal: Pitch Black&#x27;s 36-pack Booster Display Box is now under $240. Mashable</p>
+        <div class="tags"><span class="tag">booster</span><span class="tag">muster:szene</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="legal"
+             data-cat="behoerden" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Razzia / Rechtliches</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">AOL.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 3 Std</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQX2ZSLWpCSVRmbmJnY2g4aDlVYXgwLXFiNVBSbk5CVkxjQmRmNjFrc3hWb2NlOWRZZ01UUE5tOWxfVGtObGJHNjg2MHFlMmd5SlVjakpDNUpBMFduT0ZiemNOTElfZmMxdUc4aWJ5SDYxVGV3cDk0TTZMb053aDRiY0VtdHNveldKSzEyNA?oc=5" target="_blank" rel="noopener">
+          Central Pennsylvania trading card dealer charged with deceiving customers, selling vintage Pokémon cards - AOL.com</a></h2>
+        <p class="sum">Central Pennsylvania trading card dealer charged with deceiving customers, selling vintage Pokémon cards AOL.com</p>
+        <div class="tags"><span class="tag">charged</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Insider Gaming</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 6 Std</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQdUoyMjBfNEp3MDNIVldJX1VfcGNCNG5HRm1jVXJuaFhOck1NWUFvdDVKQzk2ZFJRblo5SXk5dDV3dEc1QXdjVV9UakJyZzlBN2tieF9udHhleDdvUHdfZEZ1UktHVzViY1AzWDBkM3VkdFVQZkZWUDhaZzBZTmJvNlBqZng?oc=5" target="_blank" rel="noopener">
+          When is the Next Pokémon TCG Pocket Expansion? Ruler of The Skies Release Date &amp; Launch Times - Insider Gaming</a></h2>
+        <p class="sum">When is the Next Pokémon TCG Pocket Expansion? Ruler of The Skies Release Date &amp; Launch Times Insider Gaming</p>
+        <div class="tags"><span class="tag">muster:szene</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Mashable</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 9 Std</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPSkVIYndxOVV6UW04ZXpScFVtbW9WVDNRU2MtNnpvTU1YNEt4YlBnNlJoNl9ydTV2ZndDR1laaE5qRXU2azFST1UzZDdtY3hreUxpRW9LaUpOSEx4TEwwb3JoYktGX09JQVktcVlqZDhnRENla0hVQjFEejA5QUlIdG5oTEVSVjdqTFZxNTI0RzNsbDRNZ0lHemM3cVZrazhT?oc=5" target="_blank" rel="noopener">
+          Best Pokémon TCG deal: First Partner Illustration Collection Series 3 preorders are just over $80 on Amazon - Mashable</a></h2>
+        <p class="sum">Best Pokémon TCG deal: First Partner Illustration Collection Series 3 preorders are just over $80 on Amazon Mashable</p>
+        <div class="tags"><span class="tag">muster:szene</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
 
     <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
@@ -216,7 +300,91 @@ footer a{color:var(--cool)}
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Pokemon.com</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 12 Std</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQU0VETUY5aFR5RUE0YmdsZlZVcTJvVXFZeUFqeEwzMzZURzVQamk1aGNEQzFwTGE0ODNlWS1RWTF6a0NVdlQ3dlNHbjMta3pudld4TGRuSFVVaHdSV0t5bTR6a2h0SzY3Z3EzM3NENjVUMHlEYWNSVUxsdExZTF83blNKQmJidkotcWlmZEtFaEhlY0w5ZC1FSWZwbFhOWm1QTnkzT19BUlRPUUxYckk5c1VWMHVpOXUzeVpPLUxFOXhocGR4Yy1TZEQtS2I3QQ?oc=5" target="_blank" rel="noopener">
+          Die Erweiterung Mega-Entwicklung – Dunkelnacht des Pokémon-Sammelkartenspiels erscheint am 17. Juli 2026 - Pokemon.com</a></h2>
+        <p class="sum">Die Erweiterung Mega-Entwicklung – Dunkelnacht des Pokémon-Sammelkartenspiels erscheint am 17. Juli 2026 Pokemon.com</p>
+        <div class="tags"><span class="tag">erscheint am</span><span class="tag">erweiterung</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">sammelkarten</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">GamePro</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 14 Std</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNVXh4S1VfWlBHRTh4X0FQUXM1MnBhQy1Xb1BuTmtubDNXakhqekhBUGNMU1BRUnZ5cU5NMThrZjJ3Y0hMUzV2VWNDalZSYS1OUnNqTUczY0o5YlVsTHFJSThQMFFjd3dYeWRDWFRtU00zVno4NmtUdEZrYTZ0SDlPRHNhdVp5VU44bVBPQzZ3TWltVHdOU2dHUU5qSDV4VldWT1ZxSk5QTQ?oc=5" target="_blank" rel="noopener">
+          Neues Pokémon TCG Pocket-Set &quot;Herrscher der Lüfte&quot; angekündigt - GamePro</a></h2>
+        <p class="sum">Neues Pokémon TCG Pocket-Set &quot;Herrscher der Lüfte&quot; angekündigt GamePro</p>
+        <div class="tags"><span class="tag">angekuendigt</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Polygon.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 15 Std</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1hZQlVSbEVNUFdsc285WGU0ZkhDeHNVUGhtUzlEZ0piQ1ZrcU93NkpuOXMtak1rODZqZHlOOEgzT1VYWF9EOThPbHVtR2prYWp1REdwUjFlSGNDLUhjLXRTYkhBWk9NLVNqTFkzYzdFWTJEcmxJNFJ1ZGs2V2I3Sk9TbzgybkU?oc=5" target="_blank" rel="noopener">
+          Pokémon TCG Pocket&#x27;s next big expansion is now fully revealed - Polygon.com</a></h2>
+        <p class="sum">Pokémon TCG Pocket&#x27;s next big expansion is now fully revealed Polygon.com</p>
+        <div class="tags"><span class="tag">muster:szene</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">revealed</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">AOL.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 15 Std</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWtQXy1VSTNZWmdmWHFMSnJWUl9wb1lIaHkyMl9BazVnYVZHYlNGeVdTX09udlc3X2NBTi1Ga0pSSGJacHBKLWdPc1VPbVFKZUloNXRvWXViWEttUzVnUVR4VjJZWjBCSjctMHBpejVxLXBxNXdDcTY1djhCdktrTkptUQ?oc=5" target="_blank" rel="noopener">
+          Trading Cards are Winning Wallets: RRD Study Shows What Drives Collector Investments - AOL.com</a></h2>
+        <p class="sum">Trading Cards are Winning Wallets: RRD Study Shows What Drives Collector Investments AOL.com</p>
+        <div class="tags"><span class="tag">investment</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="news">
       <div class="rail"></div>
@@ -276,6 +444,27 @@ footer a{color:var(--cool)}
           Lusby Man Arrested for Stealing Nearly $300 in Trading Cards and Giving Deputy False Name - Southern Maryland News Net</a></h2>
         <p class="sum">Lusby Man Arrested for Stealing Nearly $300 in Trading Cards and Giving Deputy False Name Southern Maryland News Net</p>
         <div class="tags"><span class="tag">arrested</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Dexerto</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">gestern</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3VkUXc2NHQtNVFsRnQzaXFQY3YwcUF0V3J4OE1PTHhjTUlFY0syWlgyTXIzbHpvWXV1S3JHRjNHVERNSkVaX1FRNFVvb0R4eWRxbmVZbF9pNzg4NlIyNXZ6a2ptVDRWdTBPaEtZeDZ1M2FOYmJKZUQ0aTFiMmFVd1dBWXUxbFR0T0JCMUVKalJfOERoQmxyMlZDRlBHMEtoTmdQUWloMF90N1FVX1FhbHMzWQ?oc=5" target="_blank" rel="noopener">
+          Japan launches taskforce to crack down on trading card scalpers and fakes - Dexerto</a></h2>
+        <p class="sum">Japan launches taskforce to crack down on trading card scalpers and fakes Dexerto</p>
+        <div class="tags"><span class="tag">scalper</span><span class="tag">trading card</span></div>
       </div>
     </article>
 
@@ -363,27 +552,6 @@ footer a{color:var(--cool)}
       </div>
     </article>
 
-    <article class="entry" data-tone="legal"
-             data-cat="behoerden" data-region="int"
-             data-platform="news">
-      <div class="rail"></div>
-      <div class="body">
-        <div class="meta">
-          <span class="cat">Razzia / Rechtliches</span>
-          <span class="dot"></span>
-          <span class="plat">Presse</span>
-          <span class="dot"></span>
-          <span class="src">ABC27</span>
-          <span class="reg reg-int">International</span>
-          <span class="age">vor 4 Tagen</span>
-        </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcVVOQzVTNnAzRDNWNUtBLU1NOXdCODlsTlUwTTdETVlEVmI3dVZJb21OZFBZX0NCTjVLNVpNZ19PWGlsZVpPckI5VU04OFZXT2JEdzB2VlNfSk5IbEZ3aW9oME1vdUpjWEdya1ZXdk5Oc0NtMDV6LXRadE9NOHI4YzVscHV6M2M3VFRKdlJYeE55cEFoa2lXV1JNSi16a1FlZDJacmVWTGF2dXZZZW43NnB4dW9tZGVmQzZ30gHAAUFVX3lxTE10R25aU2ZQdWJiSE4zeGl4WFdaVkhXZXA4U1pqdWdPdVRkdlJNTzZ6Yy1wS2tZY3lzM1E1M09KT3B2dmdtTC1nS1hrYnc1WEdidk9pYzlCMFpkWWNSZGw0QXpZVWNQUGhvQWdxN3h6eklwNk03eTFUMGwzRkp4Zm1wbk1WLXlEbkdiR0ZmY2JEelE1MkwtR0pLOGVUelo3akFsaGE0WmhnMG1rVWpXXy1YT1VtSVlUTm9VZW0zSXp2cQ?oc=5" target="_blank" rel="noopener">
-          Central Pennsylvania trading card dealer charged with deceiving customers, selling vintage Pokémon cards - ABC27</a></h2>
-        <p class="sum">Central Pennsylvania trading card dealer charged with deceiving customers, selling vintage Pokémon cards ABC27</p>
-        <div class="tags"><span class="tag">charged</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">trading card</span></div>
-      </div>
-    </article>
-
     <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="news">
@@ -405,7 +573,7 @@ footer a{color:var(--cool)}
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="bluesky">
       <div class="rail"></div>
@@ -426,7 +594,7 @@ footer a{color:var(--cool)}
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="bluesky">
       <div class="rail"></div>
@@ -451,7 +619,70 @@ https://play.modvc.org/doc.html?slug=pokmon-2026-the-summer-that-changed-everyth
       </div>
     </article>
 
-    <article class="entry" data-tone="alert"
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">ComicBook.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 6 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa2xxcUxJRkVKQVpyRnZFWllubk9oNUdhVDdiZGdVZzlOQ0VlRW81ZnNFamgxTmpCR0JHSThBV1lPZHlNWTAzd2R6M2ttZVFFdDQtQWl3ZnJUSGdrc1dxWU1HOXhLbDM3dDJ2S3RUWEZDTXhHVTF2Q3JacjlNczRaSTJfLWplMTJ0SXNWRi1ybTRoM2hGcF9GZUNuSkptb3BMM01wTGkwQUNveGxTUS1jTnJ5Z1VwQjJNTW9ESzN1dUVyb3hOTnNnSU9ORlZnVjYzQ2dUbQ?oc=5" target="_blank" rel="noopener">
+          Two Snorlax Cards Gobble Up Record Auction Sales Alongside Other Ultra-Rare English Pokémon Cards - ComicBook.com</a></h2>
+        <p class="sum">Two Snorlax Cards Gobble Up Record Auction Sales Alongside Other Ultra-Rare English Pokémon Cards ComicBook.com</p>
+        <div class="tags"><span class="tag">auction</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Pokemon.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 6 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQRVpqT25NMElMYzhxb20wdFRqclcwaURmWmdzQzFISV9BMC05RkxOTTZ6TTVHaHZ3NEduWjFUU3pncDFtQkF5VXY3UVdnNThIa29lbEU5dEdTUzJTODdqeG0wc2NsWUtWcC1Oc1g1Y3duYkJhcUVjdzRsNU11YTY2VHktaFR4WXNuOFdPZGpXUGk5SUVWeHZQUHNmZG9HUHZtR25RbHQ5NGd1Ry11eGNSYXZFQ1lYZw?oc=5" target="_blank" rel="noopener">
+          Sneak a Peek at Cards from the Pokémon TCG: Mega Evolution—Pitch Black Expansion - Pokemon.com</a></h2>
+        <p class="sum">Sneak a Peek at Cards from the Pokémon TCG: Mega Evolution—Pitch Black Expansion Pokemon.com</p>
+        <div class="tags"><span class="tag">muster:szene</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Irish Independent</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 7 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxORXRDcm5iNEZBVlBYczQ3VEQtMWtmRTdRZlpNRVY0Ni1VRFhVOGt5MHlOOXdDZlNXMUk4Ykd1Z1FvMGNhSldRNDVmc0FKZDRmNUwtTWdPMUdIUjV0QUFEV1Q3OEdjel8wYTdaYU1la2FFYTJRMWdtaFRlRGY2RFh4TDluTUNBRjRqbXBDTlIyekhwV0ZMTGZqWDZROG9GRU03S0xERExnczZudXJNTU1QU2FobF9VQQ?oc=5" target="_blank" rel="noopener">
+          Pokémon gold rush: savvy investment or speculative bubble? - Irish Independent</a></h2>
+        <p class="sum">Pokémon gold rush: savvy investment or speculative bubble? Irish Independent</p>
+        <div class="tags"><span class="tag">investment</span><span class="tag">sammelkarten</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="alert"
              data-cat="einbruch" data-region="ch"
              data-platform="news">
       <div class="rail"></div>
@@ -461,18 +692,39 @@ https://play.modvc.org/doc.html?slug=pokmon-2026-the-summer-that-changed-everyth
           <span class="dot"></span>
           <span class="plat">Presse</span>
           <span class="dot"></span>
-          <span class="src">KTLA</span>
+          <span class="src">AOL.com</span>
           <span class="reg reg-ch">Schweiz</span>
           <span class="age">vor 7 Tagen</span>
         </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9xMW4zV19IYkhTTjUydU5sX1lmN1JqTE1uUnJycWU3ZlBMUWRPUnVOUVVTZUlUaThiYWc3dFd0QnpRc1NvbnhJb3hMZkROeURDUnd1X21DcXd6ejZMWnZVUW9YVkR3aVFpdl9KNlBBQWhGSGYzY1lCTXNyTjFhVnfSAYQBQVVfeXFMUG1wRUFkNmJLek1HWlNvcnZsNEJkTlFGS1lqTEdXdXozQi1QVjRnRW5mN2ctb3JySjJ2RkF4N0ZuLWN3akd0VVpmaHNCV0ZQenRvV3cxX3gyQ20zNFJVZ25WYW0yRl9GRHZXRE9zODEtbHB2dC1Jb0RUWkN2MVdTcEo5cHFs?oc=5" target="_blank" rel="noopener">
-          Burglars steal $16,000 worth of Pokémon cards from San Bernardino County shop - KTLA</a></h2>
-        <p class="sum">Burglars steal $16,000 worth of Pokémon cards from San Bernardino County shop KTLA</p>
+        <h2><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE1pUDNmWFNyaUtVVmpDS3pqMzNFVWRrby12V2pJWlYtVk9JdFVsWVFKcURwUTUydmVoX2hHVU45Vm5nSGk0TWxmdE04cmJYelVVREJPSTc3aGdMQzgtUGpKaWJsZlA3NHVtazNaenB5c05wREkxQjREV1RTaw?oc=5" target="_blank" rel="noopener">
+          Burglars steal $16,000 worth of Pokémon cards from San Bernardino County shop - AOL.com</a></h2>
+        <p class="sum">Burglars steal $16,000 worth of Pokémon cards from San Bernardino County shop AOL.com</p>
         <div class="tags"><span class="tag">burglar</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Shacknews</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 7 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxOOVl3LWxCMWw2R25xaS1WOTMtREtlNTQ2Q0QxWEE4Rm82YVVLOUUydEQxbS02dHRsaWE0Y1FQVHhIOUNuaGRfcXJvYzNBOUxDUUZid2t5RTltbml0UERKb0VERDFRbUROM0ZlNUxheDZPcU82OFkxRmY2ZEZyRHhfUlZvNEZOclRGOGpEZVVqcWRlaTTSAaABQVVfeXFMUEMyeDdOdEh2V1BWZkh3SmZaTzliQkZQc0R3bGQzYzhDM0pBcjFGQVlMckZwM1N4cndCbjg4R0hKTC1hYTR1U1JfMjNxcWY3dzZKRzYxYW1tUU9qYUtjNTdhdjNrRWJvWnVFMU4zeXlLeUdOOUdFX3JQckJPVldtUllVY2NZY01ZSzEwaVE4Smx3XzZBRGZ5RklfdlF4TkdlMQ?oc=5" target="_blank" rel="noopener">
+          The Pokemon World Championship will feel lesser without Pokemon Unite - Shacknews</a></h2>
+        <p class="sum">The Pokemon World Championship will feel lesser without Pokemon Unite Shacknews</p>
+        <div class="tags"><span class="tag">championship</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="bluesky">
       <div class="rail"></div>
@@ -497,6 +749,27 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
       </div>
     </article>
 
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Japan Anime News</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 7 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE15aF9EUTJIdm1FZjZWU05zZ1hBY3V5OFZBZ3RjdmZBSF9ramlxZm9kS0xuQjM2MktPTmxNOG9ERzVwbkZNQ1BIR2VWdjlTeGs?oc=5" target="_blank" rel="noopener">
+          Complete First Edition Pokémon Card Set Sells for $1.2 Million at Heritage Auctions, Setting Public Sale Record - Japan Anime News</a></h2>
+        <p class="sum">Complete First Edition Pokémon Card Set Sells for $1.2 Million at Heritage Auctions, Setting Public Sale Record Japan Anime News</p>
+        <div class="tags"><span class="tag">auction</span><span class="tag">muster:szene</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">sells for</span></div>
+      </div>
+    </article>
+
     <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="news">
@@ -518,7 +791,70 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="legal"
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Pokémon GO Hub</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 7 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOTE90TmVRRnNCblVLRTgxVm1XQVpUOHRVdnN1aDNDTDdrOU1yVEVaaDNXMzdoWElmX2VZb1RPRmRTUnludUdHNUN3SFBBVm96bWFXbUxUNk02YW16cWVENzlNU1ZqdG50eVpSeGh1bXV2cXlkVUtuN2dqOU53emJwOEcwanpCcGhaZ25jNGNzZklNVmFSRVRuaUc5VktHT29IZEE?oc=5" target="_blank" rel="noopener">
+          Pokémon GO World Championships Switch to 3v3 Team Format in 2027 - Pokémon GO Hub</a></h2>
+        <p class="sum">Pokémon GO World Championships Switch to 3v3 Team Format in 2027 Pokémon GO Hub</p>
+        <div class="tags"><span class="tag">championship</span><span class="tag">format</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Esports.net</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 7 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE14c3hTLXRYNHQ2TEtxQWxWUmNtaW5oRkFBVVBkdFRkMS1xMms3ZjNDanl1OHc2a01SR1UtazQwWmZ2YThqUFF6aG5HWkdicHllOEluYmNMdjdGY1FkdmIwNFVWWVVPRXh4?oc=5" target="_blank" rel="noopener">
+          Pokémon UNITE just got evicted from Worlds, but there is a silver lining - Esports.net</a></h2>
+        <p class="sum">Pokémon UNITE just got evicted from Worlds, but there is a silver lining Esports.net</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">worlds</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Respect My Region</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 8 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOVDJ5UGhmV2VaSzd6dER1UWRZUWJ5VHBMUDEtZ0pUcjUzeHgteTZyalU2TUZUOWYzMVhpeFBQVGM4Rmp2RW5oUTN5aGplNU5UdnlYR1paaWoxRDZOTC1HdmU1Y0pHbFdaWFpMdHBxRTVXRmdOTGltZXpUdDFJUEJoRg?oc=5" target="_blank" rel="noopener">
+          How Smart Collectors Are Building Pokémon Card Collections In 2026 - Respect My Region</a></h2>
+        <p class="sum">How Smart Collectors Are Building Pokémon Card Collections In 2026 Respect My Region</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">scalper</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="legal"
              data-cat="behoerden" data-region="int"
              data-platform="news">
       <div class="rail"></div>
@@ -536,6 +872,27 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
           Tri-State teens arrested for stealing laptop, Pokémon cards, more from unlocked vehicles - WKRC</a></h2>
         <p class="sum">Tri-State teens arrested for stealing laptop, Pokémon cards, more from unlocked vehicles WKRC</p>
         <div class="tags"><span class="tag">arrested</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Kotaku</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 8 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1BIcHZscGxKaXVzQ2E0QmN0ODFPN0NJcGZNZHFxbkstN1NsSk1BVVJkVm0yZDl2WXF3ZVg4STZIMGIxbnVYUHNOSXJ5NGp0WGFxT1VjZGhFa0VmaDBhdTdlSlpKbVFGZ1RQMm0zQTNsdGVLVUlsNURpdXBWSUhoN2Q0Zk1ERGQtYnpv?oc=5" target="_blank" rel="noopener">
+          Pokémon Drops Underdog Spin-Off From Its World Championships - Kotaku</a></h2>
+        <p class="sum">Pokémon Drops Underdog Spin-Off From Its World Championships Kotaku</p>
+        <div class="tags"><span class="tag">championship</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
       </div>
     </article>
 
@@ -560,6 +917,27 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
       </div>
     </article>
 
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Fingerlakes1.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 8 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxObTBkWGRSRURBMWVMUmxsVjJPWHZ5MGpoMnlJR2FDeFpjTUxaWUtGcDV5aG82V3ZKWmVXWjVPcFREbEV1MUhyTHktQkVCTUhDb0FIUHhhck85MXI1UVlCUXUtdHg2LVZ3UFFoYlZGYTlZeGlhS1JqUVBJaTBVcUYyUFBGV2NaMEgweG5KT3ZCc3gyWWwtMm1iQVpyRjZFakpOenM2V3lHME1VaTVJTnBXWmlVX1lsTUFiS3Y4MnBOeWFaN1BvYTF2SUpyMDEtMlJ0aVE?oc=5" target="_blank" rel="noopener">
+          Pokémon TCG 30th Anniversary Release Date and Preorder Guide Everything Collectors Need to Know - Fingerlakes1.com</a></h2>
+        <p class="sum">Pokémon TCG 30th Anniversary Release Date and Preorder Guide Everything Collectors Need to Know Fingerlakes1.com</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">release date</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
     <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="news">
@@ -578,6 +956,27 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
           16-year-old charged after alleged high-value trading card theft - CTV News</a></h2>
         <p class="sum">16-year-old charged after alleged high-value trading card theft CTV News</p>
         <div class="tags"><span class="tag">charged</span><span class="tag">theft</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Joseph Writer Anderson</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 8 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxObXJLNXR6aXlVVHBpNWVqVFlINzJlX3dNdmdROS1takFSLUd2Zm1VVmEwTDYzc3QzSkJzMERwUGNSckpmTVVsQU11eDg0Q3NaN2FiNThPSzJIelBVdkVTWXpSNjFvdEZxZWczcnV6QXRvbjB3OS1qaHRfZW85SDY3bXFGcExtcThsYjlkV3o5Mm5Fem1U?oc=5" target="_blank" rel="noopener">
+          Entire Pokémon 30th Celebration Set List Revealed So Far - Joseph Writer Anderson</a></h2>
+        <p class="sum">Entire Pokémon 30th Celebration Set List Revealed So Far Joseph Writer Anderson</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">revealed</span></div>
       </div>
     </article>
 
@@ -623,6 +1022,48 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
       </div>
     </article>
 
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Kotaku</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 10 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE52RjdUbFpHWmF0X1FEQ2x2Mks4UUN2NHp0MmZTTVQxT3M2cHd3YmpSU1N5RUc2b2JaZ1cyZ25mM3VrVWp6Q2IxVUVLd2ZIUXFzRkVsUzlaeV9RSmh1Wnpqdk52aW80dEhoQ0V6M29jSndGTE9Pa0tUNGpFdw?oc=5" target="_blank" rel="noopener">
+          I Hate The Pokémon Worlds 2026 Ticket Lottery - Kotaku</a></h2>
+        <p class="sum">I Hate The Pokémon Worlds 2026 Ticket Lottery Kotaku</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">worlds</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">wargamer.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 10 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9aZmoyajdGWFpIT0cyU3JTdEU3OXFCQXl4aEpNLXN5dzZ0RE5PRkQzRFByMnRMLVJLM2NfbEItWmNNcXRoVkFHa1pmOHlkeXRWY3cwRjYtLUdwUENVRlBGRTdMZDh2NEFFaFcxTkJibHpTUExnZVlaaUM1SXFZTjA?oc=5" target="_blank" rel="noopener">
+          The Pokémon TCG&#x27;s new anti-scalper measures may well break Japan&#x27;s government national ID app overnight - wargamer.com</a></h2>
+        <p class="sum">The Pokémon TCG&#x27;s new anti-scalper measures may well break Japan&#x27;s government national ID app overnight wargamer.com</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">scalper</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
     <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="de"
              data-platform="news">
@@ -641,6 +1082,27 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
           Einbruch in Geschäft - Sammelkarten gestohlen - meinestadt.de</a></h2>
         <p class="sum">Einbruch in Geschäft - Sammelkarten gestohlen meinestadt.de</p>
         <div class="tags"><span class="tag">einbruch</span><span class="tag">gestohlen</span><span class="tag">sammelkarten</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">GamePro</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 10 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPenVhRnlvOTJ6Tk9DZ2I5S01WYmEtMERZSUZwRkt4aXh5eW1SNFh6d1RTZUZQaklyQ2MtdHU5dWNuSjFmdnduT1BtWUJLU0QwWjhlbzI4YTdYajY5bHZkYlZIY0hEOEgtMWdndlNHdEVRUHIzYXVEVURWei1Zd252RDhYYmxYY0NqSXhuZmVyLUV1Njg?oc=5" target="_blank" rel="noopener">
+          Pokémon Dunkelnacht: Ab sofort ist das neue Karten-Set vorbestellbar - GamePro</a></h2>
+        <p class="sum">Pokémon Dunkelnacht: Ab sofort ist das neue Karten-Set vorbestellbar GamePro</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">vorbestellbar</span></div>
       </div>
     </article>
 
@@ -686,7 +1148,7 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="de"
              data-platform="news">
       <div class="rail"></div>
@@ -707,7 +1169,7 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="news">
       <div class="rail"></div>
@@ -725,6 +1187,48 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
           $95,000 Pokemon Heist Ruined By Embarrassing Getaway Failure - TheGamer</a></h2>
         <p class="sum">$95,000 Pokemon Heist Ruined By Embarrassing Getaway Failure TheGamer</p>
         <div class="tags"><span class="tag">heist</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">ComicBook.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 13 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQmVrN3BXRDFmeDlNUGFLbGhhcW96M2V2RE5wZy1CSy1IZlFoYUlOa0phUzhXZkhWcW0wTVhqdUpVcmVaN3FZbVQwVXlCdHFSWEtJM05UZy1ZREJEZzZEbG5nSmFXeGhPWmg5cHI2Ym1POGZMOG9LdzFMS21aeXRJLVVVSFJIWkVjVDl4TVI0NTN4V2FYdmxaMUtLNlJQVE5EcVJLVGZLU08?oc=5" target="_blank" rel="noopener">
+          Legendary PSA 10 Pokémon Cards Shatter Records in Recent Auction - ComicBook.com</a></h2>
+        <p class="sum">Legendary PSA 10 Pokémon Cards Shatter Records in Recent Auction ComicBook.com</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">revealed</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">GamesRadar+</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 13 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOVEJocGRaa05KeE9LLUZlRngxRG1nLXBoNEdZR295OHlhWHBSaGVxRlpKbFV0cTdOT2loLWlNSzBrREoxdWhKS2xrNDlaaEhvb2FBMktBUWVLTFh5UGFFblhCTzhDY2NFREhXOHJ2Q1hoODU0QnlpNDZMRjl3YmlmRVBBZGhER0U?oc=5" target="_blank" rel="noopener">
+          Where to buy Pokemon TCG Pitch Black, the extremely gothic new set - GamesRadar+</a></h2>
+        <p class="sum">Where to buy Pokemon TCG Pitch Black, the extremely gothic new set GamesRadar+</p>
+        <div class="tags"><span class="tag">back in stock</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
       </div>
     </article>
 
@@ -746,6 +1250,48 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
           Armed robbery at Pokémon-card store in Lanaudière - CTV News</a></h2>
         <p class="sum">Armed robbery at Pokémon-card store in Lanaudière CTV News</p>
         <div class="tags"><span class="tag">card store</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">robbery</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">IGN</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 13 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNl9MS0M4WVVyNDloWUdwVkxKNC1VUjNXLW1TYnVOTXA1VW5Lc3ZVZjVGUXBtUU4yNWlWUWk0V1JtdkYtMTVuc2V1SzE3b2hCRWxLZG9CU3MwLTBvZ194MEFpRURhMEE1a3VodnhxZ1QwOFlnckpGYUN4Q2JyaGxzYl9pb21JTkQtRG4zZ01RdUozMndpdmJ5YWc1b1pCdTB1WkNTWlVicDNObDJiLTJMeXZlajEyRE1i?oc=5" target="_blank" rel="noopener">
+          Pokémon TCG: Prismatic Evolutions ETBs Are Back in Stock, and Under Market Price at Amazon - IGN</a></h2>
+        <p class="sum">Pokémon TCG: Prismatic Evolutions ETBs Are Back in Stock, and Under Market Price at Amazon IGN</p>
+        <div class="tags"><span class="tag">back in stock</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Upgraded Points</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 13 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTFA5Y0VmOWs2VlNUNkZIOGEtMWIzcGRSN1lzNzBqUGF0V0k2aGkxMUFTM2VtMThuUHQtMHFIUkRoSDBsWlhYeWt5aml2Y1FYOHJoSnhIdk8zQktDZmdTNVR5TTBURllyQ1RtcDFsQk5YNld3TzA?oc=5" target="_blank" rel="noopener">
+          The Complete Guide to Airline Trading Cards for Beginners [2026] - Upgraded Points</a></h2>
+        <p class="sum">The Complete Guide to Airline Trading Cards for Beginners [2026] Upgraded Points</p>
+        <div class="tags"><span class="tag">graded</span><span class="tag">trading card</span></div>
       </div>
     </article>
 
@@ -812,7 +1358,49 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">SNKRDUNK</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 15 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQc3BRWUNKWVQyYUdwbnhfekhXUGVuMmZtdHdUNF8wQ1hDUDVLaFlDNUlrYXNxbHJfRFVUMW5JamlrdFdoWWFTRGJrVDJ4X1pndVZncG5VUjdKS21hRmlYQldnWDE3VHFfOWt0dEo2eDQ5WndXY0tfWklsaHlHUnh2SW1oalVyaWNnZTNFRms0ZUhXM0F6clo2LUxGR2dYU2g5SVBFNm92NDhlMEY1NFU0UlZYVnJvNFE?oc=5" target="_blank" rel="noopener">
+          [Pokémon TCG] “Storm Emeralda” Price Guide: Pull Rates &amp; Top Card Predictions - SNKRDUNK</a></h2>
+        <p class="sum">[Pokémon TCG] “Storm Emeralda” Price Guide: Pull Rates &amp; Top Card Predictions SNKRDUNK</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">price guide</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">heise online</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 15 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQTGR0QlRzQWtOclIwVW9sYVhyX3JvbFFqc2VaUVJ1Tng0SkNLSFBCdXJMSUJ5M2l1bGNxSkFmdms0S0dGM0wtaDdURnpTcFd2cnBqNnpTM1YxYVdNVE5CVFE4ck9VLUxTdDlXUDQ2R1JWM1NZcVdGRDdlTnhxWGt4Wl80SmFiLXlIZ1I2eQ?oc=5" target="_blank" rel="noopener">
+          Lego und Pokémon stellen fünf neue Sets vor - heise online</a></h2>
+        <p class="sum">Lego und Pokémon stellen fünf neue Sets vor heise online</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">vorbestellbar</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="bluesky">
       <div class="rail"></div>
@@ -830,6 +1418,27 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
           A trading card shop in central Japan, says around 5,000 Pokemon cards were stolen in an overnight burglary targeting high-value collectibles, with the losses estimated at $62,000.</a></h2>
         <p class="sum">A trading card shop in central Japan, says around 5,000 Pokemon cards were stolen in an overnight burglary targeting high-value collectibles, with the losses estimated at $62,000.</p>
         <div class="tags"><span class="tag">heist</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">ComicBook.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 15 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNS3B0dmZlSmY4V0k0SmVQcng5SFFrcXVhYWhDU2cwaXBnR1R1c1hqVVVuU3plQUlxY0ZnTUlRSFZQLXVrcXQydEhyWjhNYzZWUTRBMDBQR1JFdTNmbVFyUDdNSm1rSy11dXZUS2g4UmFia1NDNlNBWHRRVGlUdG1oWFBtYjZWbElpLXhxWlhSMmV4NVl2c0txSzdQdTBnQVJXRmV4NDB0UEJrWkRfblEwUWVLLWhEX0YxWlE?oc=5" target="_blank" rel="noopener">
+          Multiple Rare Pokémon Booster Boxes Just Hit Record Sales In the Same Auction - ComicBook.com</a></h2>
+        <p class="sum">Multiple Rare Pokémon Booster Boxes Just Hit Record Sales In the Same Auction ComicBook.com</p>
+        <div class="tags"><span class="tag">auction</span><span class="tag">booster</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
       </div>
     </article>
 
@@ -875,7 +1484,28 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="legal"
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">IGN</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 15 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sZmlFQUg5OXZNQVBuMGptSXA4Rm9yWlVyZU5FZUgySWV5ZUxuSVd4ZWNyNjBaVGZjaWZrZzN3OVdNd0dscGRTTmFQSEtJNml0VldEb0VyM3pac05sQnMw?oc=5" target="_blank" rel="noopener">
+          LEGO Has Already Announced 20 Pokémon Sets — Here&#x27;s the Full List - IGN</a></h2>
+        <p class="sum">LEGO Has Already Announced 20 Pokémon Sets — Here&#x27;s the Full List IGN</p>
+        <div class="tags"><span class="tag">announced</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="legal"
              data-cat="behoerden" data-region="int"
              data-platform="news">
       <div class="rail"></div>
@@ -917,7 +1547,7 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="news">
       <div class="rail"></div>
@@ -948,6 +1578,27 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
           <span class="dot"></span>
           <span class="plat">Presse</span>
           <span class="dot"></span>
+          <span class="src">Yahoo Finance</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 18 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPTEZaNndHWlY5YTFWVHBzMUdUZ1Q2aU9oUjQ2UXA1bzdKWHRzMnRFWTRnaHhSeHB0UkV0UUhBWEpCZ0dlOE1TLXlWQndkRW5WdktWWldwRklOWVowT0F6NG1ESmhoRlFObTBXWk9YYVNNQnZ1bG5uZjVrSGc4cG13S0VIRi1nWlZUbTU2cW5QVDhldw?oc=5" target="_blank" rel="noopener">
+          Pokémon cards now fetch $16.5M at auction — and $100K armed heists are following the money - Yahoo Finance</a></h2>
+        <p class="sum">Pokémon cards now fetch $16.5M at auction — and $100K armed heists are following the money Yahoo Finance</p>
+        <div class="tags"><span class="tag">auction</span><span class="tag">heist</span><span class="tag">muster:szene</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
           <span class="src">MLive.com</span>
           <span class="reg reg-int">International</span>
           <span class="age">vor 18 Tagen</span>
@@ -956,6 +1607,27 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
           Pokémon heist suspect once served as bank robber’s getaway driver, and other Saginaw-area news this week - MLive.com</a></h2>
         <p class="sum">Pokémon heist suspect once served as bank robber’s getaway driver, and other Saginaw-area news this week MLive.com</p>
         <div class="tags"><span class="tag">heist</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">ScreenRant</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 19 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE1rSVFPai11YVFPcW9KZEx0Q21vb00zSzBlSy14c2xlYlVHOUotelFCWmtKX2UwV1AtV0pKME5fdVZScnNZejNielJUN1UxZUZqdnBzd2JVTVlnZWE0LUJPb0xGekRFRE5OSGI5XzVKZTZLeE54cWM3ak1B?oc=5" target="_blank" rel="noopener">
+          Pokémon: Chasing Glory Together Officially Announced For July 16 - ScreenRant</a></h2>
+        <p class="sum">Pokémon: Chasing Glory Together Officially Announced For July 16 ScreenRant</p>
+        <div class="tags"><span class="tag">announced</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
       </div>
     </article>
 
@@ -980,7 +1652,7 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="news">
       <div class="rail"></div>
@@ -1024,22 +1696,22 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
 
     <article class="entry is-new" data-tone="alert"
              data-cat="einbruch" data-region="int"
-             data-platform="bluesky">
+             data-platform="news">
       <div class="rail"></div>
       <div class="body">
         <div class="meta">
           <span class="cat">Einbruch / Raub</span>
           <span class="dot"></span>
-          <span class="plat">Bluesky</span>
+          <span class="plat">Presse</span>
           <span class="dot"></span>
-          <span class="src">@adequatelyinept.bsky.social</span>
+          <span class="src">The Korea Times</span>
           <span class="reg reg-int">International</span>
           <span class="age">vor 22 Tagen</span>
         </div>
-        <h2><a href="https://bsky.app/profile/adequatelyinept.bsky.social/post/3mpmwcilapk2g" target="_blank" rel="noopener">
-          Kinda BS that Mercari only offers shipping envelope prices for trading cards. And if you ship it yourself, you aren&#x27;t protected for lost or stolen packages.  Rude.  No one is gonna</a></h2>
-        <p class="sum">Kinda BS that Mercari only offers shipping envelope prices for trading cards. And if you ship it yourself, you aren&#x27;t protected for lost or stolen packages.  Rude.  No one is gonna pay me $4.91 to ship a single sticker l</p>
-        <div class="tags"><span class="tag">stolen</span><span class="tag">trading card</span></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPV25vWEVHT2tHbXVyWkcyWVduQWNlU0owODQ5a2RxaURsX3RRSXdOTmRBLUNycWtWR1lfM1Fvc2Z4dDY1TGdMbXl1bTRRWTdRbmpKcWN6RnZhSlp6VTNEQjY3OFhTai1fLUFWOEIwQ0gtVEVGV1dOOG9SdWN5M0JxSmNoTnZuUXFYNXE5YWgyeGVzcnVQajhvdTh0TDdwN0pJYmJHcUJSWHcwRi1SZTVHM1FiRkZRM3Y2MlB4OWhIUdIBxAFBVV95cUxPNHh1dDJ0ZXNpaDF2RS1Tbk5tdDRXdVIwZ2ZST0ZweHprb2NQeEJCaTltZnVaTllMY21qNWctRUxCNVlzMVNRRXlqZWhMd3k5U2lDRjFzaWt1RzNTYnMyUFJjZVJ5bnJJM0pCX1ZQcXZjWXVoRjlsVnJDckc2NEFFeWtuR1JJMWhFYTdlWWgzc1JQck1abVFhR2pVRjI0UjJrcGhicVV5bk9LUndsRkVWeUlJQmx5Yy1DVGlKZ0ZrYS0wU1l3?oc=5" target="_blank" rel="noopener">
+          Rare Pokémon cards fetch premium prices among Gen Z, sparking thefts - The Korea Times</a></h2>
+        <p class="sum">Rare Pokémon cards fetch premium prices among Gen Z, sparking thefts The Korea Times</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">theft</span></div>
       </div>
     </article>
 
@@ -1064,13 +1736,13 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
-             data-cat="einbruch" data-region="int"
+    <article class="entry" data-tone="cool"
+             data-cat="szene" data-region="int"
              data-platform="news">
       <div class="rail"></div>
       <div class="body">
         <div class="meta">
-          <span class="cat">Einbruch / Raub</span>
+          <span class="cat">Szene / News</span>
           <span class="dot"></span>
           <span class="plat">Presse</span>
           <span class="dot"></span>
@@ -1081,11 +1753,95 @@ Xinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are a
         <h2><a href="https://bsky.app/profile/foxla.bsky.social/post/3mpjab4rmho2y" target="_blank" rel="noopener">
           Burglars smashed into the PokéMall trading card store in Pico-Robertson, stealing an estimated $10,000 worth of collectible Pokémon cards.</a></h2>
         <p class="sum">Burglars smashed into the PokéMall trading card store in Pico-Robertson, stealing an estimated $10,000 worth of collectible Pokémon cards.</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">psa</span><span class="tag">psa 10</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Dexerto</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 23 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVo4dXBrX0Y0VlJqQzRDU2t6NjZIQ1RWU2ZGM0wtVldrT19tQlBGTnItdTV6QWpZYU9HeFBfSnhwcmJXVXFMZlQ1U09JSWlqQUcwVFM2RVBkWEV1OWxqZ2tDY2oyOXBuWm05bHpIOG1Tb05UNFBmelR0MnRVWmRsSElJTE5kTURhdUpwRlZ1QjRDOGx4WXNSQw?oc=5" target="_blank" rel="noopener">
+          Next Pokemon TCG Pocket expansions: All upcoming sets - Dexerto</a></h2>
+        <p class="sum">Next Pokemon TCG Pocket expansions: All upcoming sets Dexerto</p>
+        <div class="tags"><span class="tag">muster:szene</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Pokemon Press</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 23 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQMlZRamJzNlE3WExZem91bDVtalpXMTZ0My1ZU3JLZW1fdGVONWk0azZweU5vNElkN2hmTjJnQlJmMHF1NnNZS1dzamFacGVTemNSTFRpWjI2SjM1TjJxVE90RkktY2xKOEkzcFU0X3dIVUxEaTFVbmg1aEhUdVJtaGpKUEJrNUhtQlJxS0VVVHlJZGN1czRwMEd1T1U2RFZz?oc=5" target="_blank" rel="noopener">
+          MEDIA ALERT: The Pokémon Company International Reveals Product Lineup for Commemorative Pokémon Trading Card Game: 30th Celebration Expansion - Pokemon Press</a></h2>
+        <p class="sum">MEDIA ALERT: The Pokémon Company International Reveals Product Lineup for Commemorative Pokémon Trading Card Game: 30th Celebration Expansion Pokemon Press</p>
+        <div class="tags"><span class="tag">muster:szene</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">wargamer.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 23 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2YxMkM0dzY0dDI4WDVFT1Rma3dra3J0eGZRemRBcE9wc1V5MmJ1VjJGandFUWoxMm1vQXRZR3pZVlY3UUNSc2dyaXAwV3N3aHdYNXRUREwwak9WOXY5V2dGNENwUFRld1dPWURBR0xJZDFjejk1aEZta2J1ZG9ud0VveXg?oc=5" target="_blank" rel="noopener">
+          The Pokémon TCG&#x27;s new Delta Reign Rayquaza card has officially been revealed - wargamer.com</a></h2>
+        <p class="sum">The Pokémon TCG&#x27;s new Delta Reign Rayquaza card has officially been revealed wargamer.com</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">revealed</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="bluesky">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Bluesky</span>
+          <span class="dot"></span>
+          <span class="src">@gethiroshima.bsky.social</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 23 Tagen</span>
+        </div>
+        <h2><a href="https://bsky.app/profile/gethiroshima.bsky.social/post/3morz66g5lg2h" target="_blank" rel="noopener">
+          It was discovered that Pokémon cards and other items, with an estimated value of around 1 million yen, had been stolen overnight from a store in Otemachi, Hiroshima City, when it o</a></h2>
+        <p class="sum">It was discovered that Pokémon cards and other items, with an estimated value of around 1 million yen, had been stolen overnight from a store in Otemachi, Hiroshima City, when it opened on the morning of June 17. #HIrosh</p>
         <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="bluesky">
       <div class="rail"></div>
@@ -1105,6 +1861,27 @@ https://fox11online.com/news/crime/ni</a></h2>
         <p class="sum">Nicholas Arizola was sentenced to prison for his role in stealing more than $1,300 worth of football and Pokemon cards from a Manitowoc store.
 https://fox11online.com/news/crime/nicholas-arizola-pokemon-football-card-ret</p>
         <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">theft</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">KTLA</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 23 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ3N6S2RxQ0dwQ05ZTi1iZWdkSFZDYWZLV1ZmU1JiTU5hczRwbWhMMlpvYV8wczJIUEdLeFJpYTk0eDk5LWh3NC1BSktERmxkNGRqajZ4Wlp0SUJTSHE5TzJac2lKQmh1a1ZmWHJ1dE9oNmxlVE8wQTJxcVJxLUViUGl3Y2pQMzQ?oc=5" target="_blank" rel="noopener">
+          LAPD Hunts Suspects in $10,000 Pokemon Card Heist - KTLA</a></h2>
+        <p class="sum">LAPD Hunts Suspects in $10,000 Pokemon Card Heist KTLA</p>
+        <div class="tags"><span class="tag">heist</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
       </div>
     </article>
 
@@ -1129,7 +1906,28 @@ https://fox11online.com/news/crime/nicholas-arizola-pokemon-football-card-ret</p
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">GamePro</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 24 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLUE0c1Q1ZlFfZ09SZjBlVDdyNjZEdEZoYUcyOXpmQTUxNi1PcmF3NzhmaEhDUmRfVGZWcmNCMXlpOEN6X1lVNDA4N3FrMExrZXVzb3hacDhUakNpQndGdThUV2F5ZXl6aGltNzE2WHI4X3d3bVNYaE9pOWVWRnJGeEs2TTdRZ0ZPbHZzTzExS3g1VlE3V1pNQlJoLUdWMHV3RkREWWhvUmFnOVEzM2JqM0JzSlM1OUlGNXJndVFIdFJsNnpGZTBzMHlUVmsteWtpamRmQUdtSEJXd1NvRWswdg?oc=5" target="_blank" rel="noopener">
+          Pokémon TCG Pocket lässt euch ein schönes Picknick mit der neuen Erweiterung Wunder des Alltags erleben - GamePro</a></h2>
+        <p class="sum">Pokémon TCG Pocket lässt euch ein schönes Picknick mit der neuen Erweiterung Wunder des Alltags erleben GamePro</p>
+        <div class="tags"><span class="tag">erweiterung</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="bluesky">
       <div class="rail"></div>
@@ -1150,7 +1948,7 @@ https://fox11online.com/news/crime/nicholas-arizola-pokemon-football-card-ret</p
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="news">
       <div class="rail"></div>
@@ -1171,7 +1969,7 @@ https://fox11online.com/news/crime/nicholas-arizola-pokemon-football-card-ret</p
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="bluesky">
       <div class="rail"></div>
@@ -1255,7 +2053,91 @@ https://fox11online.com/news/crime/nicholas-arizola-pokemon-football-card-ret</p
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">VICE</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 29 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPS1pYbkp4RUNjWkZ6Y1BLQldscy1Oa1BwbFMydElOc0xvZzh1Ym5McDJtUVJNRDFaN1NGODlvLU5UR01RRmg4Q1lZMjZnNldnUnZuWkRTZ042Q2R2RWh0LTNGTHctNVZGeVVzS3NDV1Z6dlBkNnRGZEF4Z0g3a3VHVlZhTk8?oc=5" target="_blank" rel="noopener">
+          Pokémon TCG Pocket Teases An Adorable New Set - VICE</a></h2>
+        <p class="sum">Pokémon TCG Pocket Teases An Adorable New Set VICE</p>
+        <div class="tags"><span class="tag">muster:szene</span><span class="tag">new set</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">NintendoSoup</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 29 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPY3pneERBTkEyb0RDQk14dlVGMHR6UjkyT0ZyUUwzV1hfakNqbHFjczlMM0FzZ0F6V1VtZURLZGpLcl9TU004YVlRQ3BQQnl5aGRjSU11R1otT3JSc25OcmFCdnpMZFl2OU5mWkJzUXZncWNkQWRUXzlWS0FvQUxUT2w0YUphazFCazUzcThkVTZiNlZXcURudTFwWXVNeEtPUGfSAacBQVVfeXFMTWdLWDMyWW1zSGJKa2lDZ0dPUm9JR0NPenh5bEVkblo1NXBiVXR5a0tmcHFVTmhIaDZaTWJ4WmVjREdfTU1sNG9UUUVRMENqRlpNNmVwcEZ5RldmdlktMENxTVp3eXE1dGhCSUxGbnFuWDh2Y1JGdmJxY0lXTDMyUEtjc0FpcGxBbms0aFVtVDlDSUM1d2NnQ0Ywd3BiaC1CS3cyTlRxaTg?oc=5" target="_blank" rel="noopener">
+          Pokemon TCG Pocket Everyday Wonders Expansion Announced For June 29th 2026 - NintendoSoup</a></h2>
+        <p class="sum">Pokemon TCG Pocket Everyday Wonders Expansion Announced For June 29th 2026 NintendoSoup</p>
+        <div class="tags"><span class="tag">announced</span><span class="tag">muster:szene</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Pokemon.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 29 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ2JQVTFIYWIxNUxHOXdwcHJfd1RHNjdFWEd2ajJaTzFjVjFTUHpSck02Vm85WEVtUGs0WG9yRlhwOU15X2pOSWF4ZUh2S2lmT0ZkWmRLWmNlLTIwUlVOSkhXcE5IZ0pyVXVvNVlnMzRSRWJqd2h1RW1lRjlfRkg3M0xpZDBYbzVuOHp0RlNPRzh3YzQ?oc=5" target="_blank" rel="noopener">
+          Pokémon TCG Pocket: Everyday Wonders Expansion Coming Soon - Pokemon.com</a></h2>
+        <p class="sum">Pokémon TCG Pocket: Everyday Wonders Expansion Coming Soon Pokemon.com</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">revealed</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Beckett</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 29 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV1lheUVxdkNzM3BaOHdPM1I1VFZGVG5VaElPMUNic3NKTlhrRjNZZUZYcFFNNUx1WG5EeXZKanRQNlZlenZGOHlCYWlfc1d4cGc0Tk9fbzIxLW1NU0tUYmRqeVRMekV5X1VoVXFWbUtoMlNzempCR21LRHBES3I5dWRya2FjWFhRRXZZdnFfelpmbEN1ajlaSFJJTDJmQm5nRXdiNTN2OTI5eXRnQ21UbV9KY3pzRjliX25j?oc=5" target="_blank" rel="noopener">
+          TCG Market Watch June 24: Graded Pokémon and Magic: The Gathering Spike in Value and Demand - Beckett</a></h2>
+        <p class="sum">TCG Market Watch June 24: Graded Pokémon and Magic: The Gathering Spike in Value and Demand Beckett</p>
+        <div class="tags"><span class="tag">beckett</span><span class="tag">graded</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="news">
       <div class="rail"></div>
@@ -1276,7 +2158,49 @@ https://fox11online.com/news/crime/nicholas-arizola-pokemon-football-card-ret</p
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">wargamer.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 29 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBkYWtBM2d2a2tTMDNJbzlnQ3lOVGgtVXNYRlVsc3Z4dDRhUW1EUGZrc3doOHFlNXpiem8waXQxNW8tS0hmWEpQMVZkODRiellMbHNUMVlNeTBqb09XeDZGaVYtNnN1NEc1OWd1eE5oZTQ5Ri1USUZBbA?oc=5" target="_blank" rel="noopener">
+          Pokémon Pocket just revealed its cutest set to date, full of sweetiepies (and also Hisuian Zoroark) - wargamer.com</a></h2>
+        <p class="sum">Pokémon Pocket just revealed its cutest set to date, full of sweetiepies (and also Hisuian Zoroark) wargamer.com</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">revealed</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Travel Tomorrow</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 29 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWFUTWFHRHJRSEFkM21tQjh0U25ZWWNJV0ZCaE94SmJYOW9BeTJwVjBubVRyeTJQUmd5dFF0RGdJYnN1cnJqclhUTUR5aTh1Wm1RTWNXOXpSR0Z2YVpsZlpmYzlvQkYxTTdqaU52YWdhcVZWXzJTUDhhT1p0cWRSQ1J0TUZ1b2s2SjhVak5rZFVyallYSndldk9SY1ZEZXM0RlhR?oc=5" target="_blank" rel="noopener">
+          Chicago to welcome 2027 Pokémon North America International Championships - Travel Tomorrow</a></h2>
+        <p class="sum">Chicago to welcome 2027 Pokémon North America International Championships Travel Tomorrow</p>
+        <div class="tags"><span class="tag">championship</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="bluesky">
       <div class="rail"></div>
@@ -1293,11 +2217,11 @@ https://fox11online.com/news/crime/nicholas-arizola-pokemon-football-card-ret</p
         <h2><a href="https://bsky.app/profile/bloomberg.com/post/3moxo4skrat2z" target="_blank" rel="noopener">
           Three decades since Pokémon’s debut, some of its hottest collectibles can sell for millions at auction — or be stolen at gunpoint.</a></h2>
         <p class="sum">Three decades since Pokémon’s debut, some of its hottest collectibles can sell for millions at auction — or be stolen at gunpoint.</p>
-        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
+        <div class="tags"><span class="tag">auction</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="news">
       <div class="rail"></div>
@@ -1318,7 +2242,28 @@ https://fox11online.com/news/crime/nicholas-arizola-pokemon-football-card-ret</p
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">GamePro</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 30 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1mYzMwQ3FkaElzdEpMU0xncVh2dGQzUVNwNy1UZmQ2OUNmaVFmU1pPdk1TWWNVVEtzUDdhUkdpX1A4bmV0ZlFQR0hnNTJZekdpZUhib19GYzBiTzZRM3VOWnUxVjNhTjV5OHh3OFFfVEx6dHRLUWJkSDI4bmY?oc=5" target="_blank" rel="noopener">
+          Pokémon TCG-Fan checkt Koffer am Flughafen ein und merkt später, dass über 200 Karten daraus gestohlen wurden – im Wert von knapp 4000 Euro - GamePro</a></h2>
+        <p class="sum">Pokémon TCG-Fan checkt Koffer am Flughafen ein und merkt später, dass über 200 Karten daraus gestohlen wurden – im Wert von knapp 4000 Euro GamePro</p>
+        <div class="tags"><span class="tag">gestohlen</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="news">
       <div class="rail"></div>
@@ -1339,24 +2284,66 @@ https://fox11online.com/news/crime/nicholas-arizola-pokemon-football-card-ret</p
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
-             data-cat="einbruch" data-region="int"
-             data-platform="bluesky">
+    <article class="entry is-new" data-tone="legal"
+             data-cat="behoerden" data-region="int"
+             data-platform="news">
       <div class="rail"></div>
       <div class="body">
         <div class="meta">
-          <span class="cat">Einbruch / Raub</span>
+          <span class="cat">Razzia / Rechtliches</span>
           <span class="dot"></span>
-          <span class="plat">Bluesky</span>
+          <span class="plat">Presse</span>
           <span class="dot"></span>
-          <span class="src">@gethiroshima.bsky.social</span>
+          <span class="src">ComicBook.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 31 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUEx1aWl0V29VcWNRc2libV85YXhkclBmTDhfa2VwX0R0ZGU4WXU5cVIzRWNFdzNxRGo4blZlcW54WVd5TGpLVGEzdkdPSlJCbFhkUDRrSC0tSXo4bE9OdEZFREIwRVpoVlFjMWVOaXFOSVk3QTFzSGZGTTZONzBLeGNZS21QSmgxSm1tTTNubU9UR1dsMHE0YVphdHhJeEo4MU5aOUF3aDRzanQ3d1dmSS1FNFNCYUEwWnlZ?oc=5" target="_blank" rel="noopener">
+          Legendary Collection Pokémon Cards See Multiple Record Sales in Single Auction - ComicBook.com</a></h2>
+        <p class="sum">Legendary Collection Pokémon Cards See Multiple Record Sales in Single Auction ComicBook.com</p>
+        <div class="tags"><span class="tag">charged</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">ntower.de</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 31 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVJqcFZYekkydjVVMUVLRWpsWEkwQlY1TkpxdHlFY0ZuempfOG40TC1ZMFpWXzhNT094OTBRTVFITExZSWNlMDNEcG5RTG91UFBJOXZQSEY0VVQzTEU4eDNxQ1d0NDhzby1PRTJSYnVodnJhaHJvcVhrTzBOMVF6NlFzbUR3ajJHaVVEWGZYVHRudW85eVFUb05TUWgxVHNJZWUycWsyWExTSVR5TDBXY1RzWXhrazVSN0s0b1NqQTRNUQ?oc=5" target="_blank" rel="noopener">
+          Pokémon-Sammelkartenspiel-Pocket: Mega-Rayquaza ist der Star der nächsten Erweiterung „Herrscher der Lüfte“ - ntower.de</a></h2>
+        <p class="sum">Pokémon-Sammelkartenspiel-Pocket: Mega-Rayquaza ist der Star der nächsten Erweiterung „Herrscher der Lüfte“ ntower.de</p>
+        <div class="tags"><span class="tag">erweiterung</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">MSN</span>
           <span class="reg reg-int">International</span>
           <span class="age">vor 32 Tagen</span>
         </div>
-        <h2><a href="https://bsky.app/profile/gethiroshima.bsky.social/post/3morz66g5lg2h" target="_blank" rel="noopener">
-          It was discovered that Pokémon cards and other items, with an estimated value of around 1 million yen, had been stolen overnight from a store in Otemachi, Hiroshima City, when it o</a></h2>
-        <p class="sum">It was discovered that Pokémon cards and other items, with an estimated value of around 1 million yen, had been stolen overnight from a store in Otemachi, Hiroshima City, when it opened on the morning of June 17. #HIrosh</p>
-        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxOOVFTdjBrUGtOY2hkNGRxNE5ZaHZZNDdZN2hzb0dtUGpuSFJfQkZuVldGeUw1NE91ZndYTHJGcm5oUkpjU0NTYVM0YVc1ekZqS1JQNXBWR2w0TnlVc3p0MHVuNG9xaGhVc0FXVXh0MEs0bmx6VW9ERVlwQmdXWEFkclBmeUZ0NVZOS09RVktDZ2R1bW5uYVpuMjlRbXJoUXg0UER3Y25fcy1TenU4S1ZsTXpCRXZXcVJMUWhieFFBTzdSMERXYUkxb0ZNUFdkOUJLYWpOSkg1SF9YWExPcEJEOFBldFEtSXhpYVFBajMwUGg4Si1HblBR?oc=5" target="_blank" rel="noopener">
+          1996 Pokémon card set sells for record $178,120 at auction - MSN</a></h2>
+        <p class="sum">1996 Pokémon card set sells for record $178,120 at auction MSN</p>
+        <div class="tags"><span class="tag">auction</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">sells for</span><span class="tag">tcg</span></div>
       </div>
     </article>
 
@@ -1381,7 +2368,7 @@ https://fox11online.com/news/crime/nicholas-arizola-pokemon-football-card-ret</p
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="bluesky">
       <div class="rail"></div>
@@ -1402,7 +2389,7 @@ https://fox11online.com/news/crime/nicholas-arizola-pokemon-football-card-ret</p
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="bluesky">
       <div class="rail"></div>
@@ -1420,6 +2407,27 @@ https://fox11online.com/news/crime/nicholas-arizola-pokemon-football-card-ret</p
           NF (https://urlz.fr/vbPh), 20/06. (https://cryptodaily.co.uk/2026/06/crypto-crime-pokemon-cards-defi-laundering) - Crypto Crime Meets Pokémon Cards: Why Stolen DeFi Money Keeps Flo</a></h2>
         <p class="sum">NF (https://urlz.fr/vbPh), 20/06. (https://cryptodaily.co.uk/2026/06/crypto-crime-pokemon-cards-defi-laundering) - Crypto Crime Meets Pokémon Cards: Why Stolen DeFi Money Keeps Flowing Into Collectibles</p>
         <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">ScreenRant</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 33 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVEc3eVZWMUc2Qzl1YTZ1TFpRZ3JocmQxVkY0YWwxLVlNaWVJSzNIdWx6N0h4dXBEVENmY25aWVhDTXZmWEJaY1dia3BENFNDVjZNR2ZORHp2UDk4N2RaY2FvcDVDUTZUNEREdUg5QWc2WVlSRGw4c0dxZmxxRVp3TDhyQzFfc3p0?oc=5" target="_blank" rel="noopener">
+          Pokémon Storm Emerald Officially Announced - ScreenRant</a></h2>
+        <p class="sum">Pokémon Storm Emerald Officially Announced ScreenRant</p>
+        <div class="tags"><span class="tag">announced</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
       </div>
     </article>
 
@@ -1452,7 +2460,7 @@ Counterfeit Xans pressed with a novel sedative medetomedine -- this stuff is EXT
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="bluesky">
       <div class="rail"></div>
@@ -1470,6 +2478,69 @@ Counterfeit Xans pressed with a novel sedative medetomedine -- this stuff is EXT
           [2/4] week, and Pokémon trading cards worth thousands of dollars were stolen. Investigators in Stockton are gathering clues and tracking down suspects in two burglaries on Wednesda</a></h2>
         <p class="sum">[2/4] week, and Pokémon trading cards worth thousands of dollars were stolen. Investigators in Stockton are gathering clues and tracking down suspects in two burglaries on Wednesday, the latest in a string of Pokémon car</p>
         <div class="tags"><span class="tag">burglar</span><span class="tag">burglary</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Essential Japan</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 34 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcnBNX3BLbk42aFZpcHFKN3RtMGZVcnRBdk1GcjJEOVE0QU9BT0J1NTFEYmw5MkZDM2l4cWVoYW9kZU4zUkRUZnZSelctR2dWb0Z5TnpiclJmbkNrc3RJQ1IzRlIzZnYzNnkzODNwbGNPMG5GSU00TXdRcDRyMzVwTmF1NUZMTlItblNGT1FQTWNXRmhjTDJkalNWazJvTkhwVDlMWkhJalVfdw?oc=5" target="_blank" rel="noopener">
+          Pokémon TCG Announces New Storm Emerald Expansion Starring Mega Rayquaza - Essential Japan</a></h2>
+        <p class="sum">Pokémon TCG Announces New Storm Emerald Expansion Starring Mega Rayquaza Essential Japan</p>
+        <div class="tags"><span class="tag">muster:szene</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">ABC10</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 34 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNYVB6eTh6bFU2UlZCNWxOM2JOSThMc1FFU0otdi1LSU5PakNGLU5hWFMwQWpmalcwYWZtSURtMFptaVNnaVVhclhYaXRBWFVwelA1Z3g2clRSSWI4VkYtc1M5Z1dXTVZ3SEd4SE51MkNzVUlOejhYWEQ0d0Z5X1QyaTByQ0paMm9jZUp3bFBTWWotd2F5aTlGQTVobF9WNUJaWkVMYmFLcDMyQ2RBLTd3dnJNTVVKSHhZUmtiVGprYkRWOVRi?oc=5" target="_blank" rel="noopener">
+          Pokémon cards targeted in back-to-back Stockton card shop burglaries - ABC10</a></h2>
+        <p class="sum">Pokémon cards targeted in back-to-back Stockton card shop burglaries ABC10</p>
+        <div class="tags"><span class="tag">burglar</span><span class="tag">card shop</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Pokemon.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 34 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQaXdxLU9nNzRNT0pEXzMwd3ctQVc0TWwta0ZGVlJPUEZHQ1ZRa09jTzBTNFF1bzB0NnFSTm45WE44cF9XYjZxUTNpZkZoUXNjRGZuakZScnc5V3F2bkdtVkIwMFNqbDFUcXZuT3NEMmZrUEdpaGEzRGlnTUhlc3hqWVRvVUdLdlNQYjJnTVU4R085cWhnamNCdFFTR19RZw?oc=5" target="_blank" rel="noopener">
+          2025 Pokémon TCG World Championships Decks - Pokemon.com</a></h2>
+        <p class="sum">2025 Pokémon TCG World Championships Decks Pokemon.com</p>
+        <div class="tags"><span class="tag">championship</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
       </div>
     </article>
 
@@ -1494,45 +2565,87 @@ Counterfeit Xans pressed with a novel sedative medetomedine -- this stuff is EXT
       </div>
     </article>
 
-    <article class="entry" data-tone="alert"
-             data-cat="einbruch" data-region="int"
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
              data-platform="news">
       <div class="rail"></div>
       <div class="body">
         <div class="meta">
-          <span class="cat">Einbruch / Raub</span>
+          <span class="cat">Szene / News</span>
           <span class="dot"></span>
           <span class="plat">Presse</span>
           <span class="dot"></span>
-          <span class="src">KSRO</span>
-          <span class="reg reg-int">International</span>
-          <span class="age">vor 34 Tagen</span>
-        </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb0w5Si11VGJHckViTV9hRTB5bE50WWw5Nzgyd0wzVkRiZHdIRzdoMUk2S19Zc2NlczZnLTNON3BaY29BRjZMcTBPbThxbmg4VG5sYmpITWNaTUh2SU9oSlVxWU1HaXVBNTZlZG15a0hjSXFydzlhOVhjOVhxSWRleWpPaHFQalloS0Y3cVVSZUlFcl9yU0VUaXQzMk5pT0puekJ3TktLYkFCSFU3Tk45QXpFRzJYS3RLVE1kT3VFRXgxZw?oc=5" target="_blank" rel="noopener">
-          2 Northern California stores targeted in Pokémon card burglaries within hours of each other - KSRO</a></h2>
-        <p class="sum">2 Northern California stores targeted in Pokémon card burglaries within hours of each other KSRO</p>
-        <div class="tags"><span class="tag">burglar</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
-      </div>
-    </article>
-
-    <article class="entry" data-tone="alert"
-             data-cat="einbruch" data-region="int"
-             data-platform="news">
-      <div class="rail"></div>
-      <div class="body">
-        <div class="meta">
-          <span class="cat">Einbruch / Raub</span>
-          <span class="dot"></span>
-          <span class="plat">Presse</span>
-          <span class="dot"></span>
-          <span class="src">ABC10</span>
+          <span class="src">Japan Anime News</span>
           <span class="reg reg-int">International</span>
           <span class="age">vor 35 Tagen</span>
         </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNYVB6eTh6bFU2UlZCNWxOM2JOSThMc1FFU0otdi1LSU5PakNGLU5hWFMwQWpmalcwYWZtSURtMFptaVNnaVVhclhYaXRBWFVwelA1Z3g2clRSSWI4VkYtc1M5Z1dXTVZ3SEd4SE51MkNzVUlOejhYWEQ0d0Z5X1QyaTByQ0paMm9jZUp3bFBTWWotd2F5aTlGQTVobF9WNUJaWkVMYmFLcDMyQ2RBLTd3dnJNTVVKSHhZUmtiVGprYkRWOVRi?oc=5" target="_blank" rel="noopener">
-          Pokémon cards targeted in back-to-back Stockton card shop burglaries - ABC10</a></h2>
-        <p class="sum">Pokémon cards targeted in back-to-back Stockton card shop burglaries ABC10</p>
-        <div class="tags"><span class="tag">burglar</span><span class="tag">card shop</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YZzBXTGVxNHRERmM1UFZOelRkY0N3Skl2N3JqbmlTeENkOWpCRjNmbWhQQzU1ZHJBQXR2b0FVckhUUnRkY3NqZUZxSHhIMkk?oc=5" target="_blank" rel="noopener">
+          New Pokemon Card Expansion Pack Set for July Release - Japan Anime News</a></h2>
+        <p class="sum">New Pokemon Card Expansion Pack Set for July Release Japan Anime News</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">release date</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Pokemon.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 35 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnhtUHhuNWdHRTFkeVZMaFZFV1lBRFlVZ0F2bzY0NXY2bFB5aWNrcDlYX3ZyS3ZlSDVvWHA1NEZ3YTRQc00wUlNiWnNXek4tZExXclRPWXQtUlN2WDNQcjBYNVZUV2owNkdWdmY5ZkRQY29jRjJhM1FkS2VQTkNJTzk1OHVLSWdnTmRZWnVDdVg1OVg0R1F6T0pId1UzdXlpRDNCU0xTaVc0SkRTZjd4NVFoWQ?oc=5" target="_blank" rel="noopener">
+          Discover More Cards from the Pokémon TCG: Mega Evolution—Pitch Black Expansion - Pokemon.com</a></h2>
+        <p class="sum">Discover More Cards from the Pokémon TCG: Mega Evolution—Pitch Black Expansion Pokemon.com</p>
+        <div class="tags"><span class="tag">muster:szene</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">The Blast</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 35 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxQcU5lRVhCSUZ4NHRmeW4yUDdabk9ZMDBrSzhITGJBM2FIRnlQWVlSclowWDFVVk9GYWFENEEyZVk5YlRIdGgxb2tuelM3QnZlS0tZU1RHd2tOSUdWMlNKU01yRVNvSkdvcDJXa3pyQXkwdGhEdEh5T252MHEyS1pZLXhkSzdoa3Z0eFU0MXRrUTE0eTkz?oc=5" target="_blank" rel="noopener">
+          A Poker Record-Holder Built Tilt Rips for the $52 Billion Pokémon Card Boom - The Blast</a></h2>
+        <p class="sum">A Poker Record-Holder Built Tilt Rips for the $52 Billion Pokémon Card Boom The Blast</p>
+        <div class="tags"><span class="tag">muster:szene</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Bisafans.de</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 35 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMGxXM3IxWklVTHRrUkhRU3duX3RxczV0MzlOVGI1a2Yya09mNmI5Vl9RZTF5dmJ1Z2FOeHpiUVByNUFwNDVWNDAwNFlQMFdZV3oyMkVYUTBXX25SM19TSTJ0T1VIRUctb1F3dXc3UDQ0a1hnN0laMmZVUkdEaWdMUzNhaVZGQjVvLTRGMkZLanNRWWF2Wm9jSm9IeXNSN05TMXRNeTNMS3hHMmZaOXVldXY2c19xMmRRbkIzdnFDajYwaWllRVZyajVlUV9TODNidHRLaWVIWdIB3AFBVV95cUxQT2pYdlBCTk5PQ1MxYmRHelE4VXhCdjlMelhOQTdiLVluTldRcUVsLTBLYUtnaW54N05ObDFURmIxYVF1LXBWeFowZ0lWaG90eEZoQ2ppNFgteU5EQW1XVmpiZ1J3T1YtZW5XOHBKd1dYMVkzYlVxeGpQOWxRclRsZmFYaDV2THFUQzc2UGhBdTVyMW1KWFJESXdWS3Rod0xpNlNLS3BFbnVkU2VUemJpa1FKeFQ2Nk9kaGJhM3RDc3NfTkxxN2Q1MDNWaW5lLVF3Ti1Icm56ZFhCWWQ4?oc=5" target="_blank" rel="noopener">
+          Sammelkartenerweiterungen „Delta-Herrschaft“ und „Herrscher der Lüfte“ mit Mega-Rayquaza angekündigt - Bisafans.de</a></h2>
+        <p class="sum">Sammelkartenerweiterungen „Delta-Herrschaft“ und „Herrscher der Lüfte“ mit Mega-Rayquaza angekündigt Bisafans.de</p>
+        <div class="tags"><span class="tag">angekuendigt</span><span class="tag">erweiterung</span><span class="tag">sammelkarten</span></div>
       </div>
     </article>
 
@@ -1554,6 +2667,27 @@ Counterfeit Xans pressed with a novel sedative medetomedine -- this stuff is EXT
           Violent Pokémon card thefts on the rise in Laval, Que., police warn - Montreal - Global News</a></h2>
         <p class="sum">Violent Pokémon card thefts on the rise in Laval, Que., police warn - Montreal Global News</p>
         <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">theft</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Chicago Star Media</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 35 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYkY4OENRWnlRZHZhMG9yWTJmUFhuN0RUU0VKNEZEZDNUX0hWNUcxX05fR2JlLURnMVlrVG1DRFY3ZHd2Qk5EcWdrRlFkcWQtTXNjWXR3WTZnRWRpQzhDRVRvTndkOHEtVjZwbE1yc3RUWGJid3Uzd0x2TmxoZ0pnYUZlTGtqUy1hLWk3RHFyREJoZ2R2dlhPSHdNUW9MTFNYT3NGZGJzWkNJQjdKOGRITVcydkZVMnNkNnZmVnhGS0VxV3BwYkFEUWZOX2Q0akNSdjQ0NGZpd0ZwMHFHLXA3YnVQcjQ?oc=5" target="_blank" rel="noopener">
+          Major Pokémon championship coming to Chicago in 2027 - Chicago Star Media</a></h2>
+        <p class="sum">Major Pokémon championship coming to Chicago in 2027 Chicago Star Media</p>
+        <div class="tags"><span class="tag">championship</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
       </div>
     </article>
 
@@ -1620,7 +2754,91 @@ Counterfeit Xans pressed with a novel sedative medetomedine -- this stuff is EXT
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">SNKRDUNK</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 37 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOUt5cVNRWXh5YzVKMGM2dVRId0ZqVVhTeHJ6bHBhazc2UFYtbzBCWVlwUi1iOE5fRUVmc1k4NVJvbnBTUExWNnRodjdxSG1xQnQtblU1WVU5LXh4TkhuXzVoUTZ6U1gzc2xfanRsZ0lFXzdsYl9kdE5YRkV4MHM5bGQ1QkJ6aFVRSDEtYXc5Nl9iclVyZmdWUjJlZGhfQ3BNQ182Rk9obnMwVjI0UVBGbXloalFEOWNzNE9QSXVtR1VPR2loSUZqODVyWm1valJfd1REZEx1Sjh4QWI3U29TejdpVHU3UQ?oc=5" target="_blank" rel="noopener">
+          [Pokémon TCG] Pokémon Worlds 2026 Sneak Peek: Exclusive Welcome Kits, Pokémon XP Gear, and Hype Promos Revealed! - SNKRDUNK</a></h2>
+        <p class="sum">[Pokémon TCG] Pokémon Worlds 2026 Sneak Peek: Exclusive Welcome Kits, Pokémon XP Gear, and Hype Promos Revealed! SNKRDUNK</p>
+        <div class="tags"><span class="tag">championship</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">revealed</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">GamesHub</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 37 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQTU5ZTk9ualVxX2NORy02WFdZd2JROWdNMEdINHdjUmRQb3d1Mnl2R0NoQ0dzTE9lcVhmVHVyc2ZHb3BER0FBQkpYRE85TEI1eXhLeVJka0pYeEF3b0pSbkdoc3ZxSGRyLVZIMmx4cVlBLVpJdWtqb2dnOGZ2T0F1WDNucmt0RHpweHhicmhWS1RJZw?oc=5" target="_blank" rel="noopener">
+          Pokémon TCG’s Abyss Eye Set Officially Revealed With Mega Darkrai ex - GamesHub</a></h2>
+        <p class="sum">Pokémon TCG’s Abyss Eye Set Officially Revealed With Mega Darkrai ex GamesHub</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">revealed</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">GamesHub</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 37 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNazNfZTZadlBRcVFjRnV2SjFsTG5XUmpFamRyN2xrdFVaV0xqanlmeDFOcnFHSC1OaVhLRlY4Y2FLQWFUOTBtZ3AxX3dMOWF0dVdzMXR1Ty1JbGVjUUh0NHU1TXJ2ZUNXRVZLZ3pjbmxYb2ZiMFFZM1dNYXRPOU5nYTdYdnZHNEZQNWk1Y1NzdzNZQ0V2TVQ3OA?oc=5" target="_blank" rel="noopener">
+          Logan Paul’s Pikachu Illustrator Sells for $16.4 Million: A New Pokémon TCG Record - GamesHub</a></h2>
+        <p class="sum">Logan Paul’s Pikachu Illustrator Sells for $16.4 Million: A New Pokémon TCG Record GamesHub</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">sells for</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Pokemon Press</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 37 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPOEx2WDQtOXh4X0dHYjl6TDZKUV9ROWd5VkR0dE0xQVFzdGQ1YUpEdTVIQ2xjbk05Z3ZCQ3cwMUQ2NXgyWDFxYnRuZ2lJaTg5UFJUWF95emhGR29GR194ZTg0X29QSUZzR3hYeFk4VG5VajFuYUJCdDRNU1VaWkdyODZ1Y0NPbHpnX1BiWUFhaXRfN2NBZEFMcmtxU01UV2JX?oc=5" target="_blank" rel="noopener">
+          Pokémon North America International Championships Move to Chicago in 2027, and New Details Revealed for PokémonXP and 2026 Pokémon World Championships - Pokemon Press</a></h2>
+        <p class="sum">Pokémon North America International Championships Move to Chicago in 2027, and New Details Revealed for PokémonXP and 2026 Pokémon World Championships Pokemon Press</p>
+        <div class="tags"><span class="tag">championship</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">revealed</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="bluesky">
       <div class="rail"></div>
@@ -1639,6 +2857,27 @@ Counterfeit Xans pressed with a novel sedative medetomedine -- this stuff is EXT
         <p class="sum">My utter scumbag of a brother has stolen all my original Pokémon cards from my parents and has been selling them on eBay. He&#x27;s sold over £3,000 worth so far and my mum&#x27;s reply &quot;don&#x27;t get me involved&quot;
 Well I&#x27;m sorry mothe</p>
         <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">wargamer.com</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 38 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPS1o1eXRLT1VqUlVxa2hQcXJlWERGTnBGRzY3anI3ZU5XdnBlVFFxeWhXZnd3VjdreUlrLVNGMzRLc0pndVVWT1BiMTYzZVZuUTdjeldEckhzamZTc2xaN1cycXF6S0hlNkVKX0M4aS1qM3pEbVFkRXJXVHdBLWhGag?oc=5" target="_blank" rel="noopener">
+          Darkrai is the star of the Pokémon TCG&#x27;s Pitch Black expansion, but Cresselia is nowhere to be seen - wargamer.com</a></h2>
+        <p class="sum">Darkrai is the star of the Pokémon TCG&#x27;s Pitch Black expansion, but Cresselia is nowhere to be seen wargamer.com</p>
+        <div class="tags"><span class="tag">muster:szene</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
       </div>
     </article>
 
@@ -1663,24 +2902,171 @@ Well I&#x27;m sorry mothe</p>
       </div>
     </article>
 
-    <article class="entry" data-tone="legal"
-             data-cat="behoerden" data-region="int"
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
              data-platform="news">
       <div class="rail"></div>
       <div class="body">
         <div class="meta">
-          <span class="cat">Razzia / Rechtliches</span>
+          <span class="cat">Szene / News</span>
           <span class="dot"></span>
           <span class="plat">Presse</span>
           <span class="dot"></span>
-          <span class="src">KRCG</span>
+          <span class="src">Diario AS</span>
           <span class="reg reg-int">International</span>
           <span class="age">vor 38 Tagen</span>
         </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPanJGQVJtS1NRaG5aWk1xb20tM24tT0VMMWVvbU5PbU9USURsV2dhVzg2UTBSZWdhbnBNTkVsS01qemZIYkxnSE5RMXpUcEhHUVo4NjZ1dmlzbUpLaUlBUndzNXNNWUROSDgwWE55MDRSZXFyOWhBdEw0cXR6c2MwZDRVVVdHVk5Lenk5LVRVVFc2LTBtZVE?oc=5" target="_blank" rel="noopener">
-          Eldon man charged for stealing single trading card worth $1,400 - KRCG</a></h2>
-        <p class="sum">Eldon man charged for stealing single trading card worth $1,400 KRCG</p>
-        <div class="tags"><span class="tag">charged</span><span class="tag">trading card</span></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdTRNSUFZX0staUZNektWbmRVeXBFMllMR0tZZkxCeTgyOFlTTGxGS3l5bmR2VWtqbm1FWFpBQ2RVeWR1cjRzODVVNDZyb2JCUlBmWjl1MmNRNjFhRFBrSzA0ZkpyMF9wUElXWUhUUFFsZTdPSFEzaUVDZ185SFQ0SW5LOGVma1hPRTcyVVBvRDhJV3hneUh1Tkt1d1IzWU05WkFSU0RET3hfNnU1bkNQRE92ZlowdWxGVlhCOTY2bF83eEIyeU9PUnFVeUF6S25sR25BTjRTUzVIRlZ4NnA2a29SVE9ZQUxodGpQbNIBgAJBVV95cUxQdEtxeXBsNENYbmRFbDh0ODhXaTR1NE10cGlBbmgyQ1pZbURMYll0M2xLeXpIMnFib1ZCT1p0UnFiZkQwLWRGRndFY3cyVkZDTldOc19idFBQU2xWd2x0OGFuVHZFZDFrbnltY3h3Q1h4UXlUSDNmQV9SdDhVeFNlZUg3MXhzTzI3MFh6MWtYYzQ3bUcwMGFqYjdMSTNmQWszd2wxOV8wdGpMeEhCSEd1M2prLU9zQ3h1dk0wcWtnVE0zcHFpMEpYWVJKVWRrb0Y2ZDJ2eEFMcnZFWmg4MFlPNDlBbW81VTFfdG5ZTXl3QjBwQnRWUXRXZ1RodWxPZUgw?oc=5" target="_blank" rel="noopener">
+          2026 Pokémon World Championships details revealed at NAIC, including Welcome Kits, Promo Cards, and major chan - Diario AS</a></h2>
+        <p class="sum">2026 Pokémon World Championships details revealed at NAIC, including Welcome Kits, Promo Cards, and major chan Diario AS</p>
+        <div class="tags"><span class="tag">championship</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">revealed</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Meer | English edition</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 38 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQalB1d1ktVHJDWUJLRjFMYVg3aUlWS21xOTNQQVM3dERwblVkdUVDTERtUVJSbVp5dzdNb0hLTGE2bDgxV3BNcjJSUHdmSW9BWG92MHdEWGswZWM0aFNYNTRzTmM3dmtpM0NNd2tGTmNQSnBDR3F5azNzRW9QUUZaS2ZDNU9odHd2M0dnSzBQUHk3UQ?oc=5" target="_blank" rel="noopener">
+          Pokémon cards: from trading cards to treasured investments - Meer | English edition</a></h2>
+        <p class="sum">Pokémon cards: from trading cards to treasured investments Meer | English edition</p>
+        <div class="tags"><span class="tag">investment</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Dexerto</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 38 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxPX2VMVUZhc2M0c1BsSmRpUVhqQXFtc1lKbnJ6SHlLTklxR3J1RE5qQ2RiUl9mX2U5OG5TVHdyRUhjU1VJM3VROElwcC1SRDJpS1RIRUZmdTkzZlFEZm9GN21CUjIzMUw2V3dnZTFCb05BOXhIY3BZU2FHLTFCa3FHWjA0T09WU3RWRHExS3NmdlBvNFJWZVJkTVFpTVc?oc=5" target="_blank" rel="noopener">
+          Pokemon Go x Lego collab announced with exclusive gifts - Dexerto</a></h2>
+        <p class="sum">Pokemon Go x Lego collab announced with exclusive gifts Dexerto</p>
+        <div class="tags"><span class="tag">announced</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Pocket Tactics</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 38 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3ZTQtNVRxbEFVNEtwa2kwd0R4SDJkNTdYM2Z0S04xbmZzRU9MOTRNTmJyQ2FXbklvWkFsdXJlZDMyU2tid3pzSkYtS1dHekxMMEFqYVpTcUUxenlmTUZmU05xSXpESGtO?oc=5" target="_blank" rel="noopener">
+          Pokémon reveals new plushies, playmats, and promo cards ahead of Worlds - Pocket Tactics</a></h2>
+        <p class="sum">Pokémon reveals new plushies, playmats, and promo cards ahead of Worlds Pocket Tactics</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">worlds</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">PokeGuardian</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 38 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE5wOFVHUWUxWU1ndnFVaWpvLURXRXhSU1V5WHlRNjY4OHo5MTVkQWMzUDNwVDZGX2VrZXNBa2NGR1ZDOHdyeElXRlRlc3hhMkN1empfeDNaRDJOTWRvZTc5SFF5aWVIZmVYdm5ENFp4cXFGSkxBMHpaZ3B3?oc=5" target="_blank" rel="noopener">
+          Rayquaza PokemonXP promo revealed - PokeGuardian</a></h2>
+        <p class="sum">Rayquaza PokemonXP promo revealed PokeGuardian</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">revealed</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">USA Today</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 38 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNzEtcGNBVlgtb04xa2ZHNlF6M0RhQzN2dXpWU2t4TEJ6MWFGbUNId0NwZEM0S1ladzV6UldmaTg5X3ZrTWYzNjZkMWVPcWVVbHllV1hNdkpqWjR4QmUxYUdXdFVmUzZmU3dwRERkZzdTSWd0R1JEVWNtbV9wTGcySzRNMkx0WmxyVVVSV183NHdHeHBJS3FJVzI2YVpBRzM3WnZabzVaX1pZcDJsaGF2U0wzRlhQT2JHTElXa0E3cGJieHItRVVIaGZ6SWpjNDFTTlp6NDNSaW5qYjliaHhjUlRjWTNDUnNKNUFSbzU0aG4?oc=5" target="_blank" rel="noopener">
+          Pokémon International Championships are heading to Chicago in 2027 - USA Today</a></h2>
+        <p class="sum">Pokémon International Championships are heading to Chicago in 2027 USA Today</p>
+        <div class="tags"><span class="tag">championship</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="de"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Pokemon.com</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 39 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSWVSN1BKbGw2NGVBbURiRjd3WVFQMWtkX2pEaFl0YjJvYlBrU1dwUl9RZ3RGQ2oybVEtdzVyaW9lY1FhMkppODl4eW4ySlpqdEI4Yks0ZE9oYW41MUhiRGxlZDQ2R1dGcHMyY01CQlYwaUtVVGVfaHl5c3NadUtuSVJpaUZpNWZUY0tQR3pGQ2NFWEg4NlBrWTFNUTQzSnlfc0VQTFlLV3kyVHhHdDNfUTBzV1V5bzRtNktxVTdsS0t5QlpHWG4wc1dqbnI4ZWY1X2JfbGtPT3BlNlVycEw2ZmExa1RUSDJNS0ZCWlhtRVJYU010SWRfUEVB?oc=5" target="_blank" rel="noopener">
+          Nimm in deinem örtlichen Play! Pokémon Store an einem Turnier zu den Weltmeisterschaften 2026 teil und erhalte eine Pikachu-Promokarte - Pokemon.com</a></h2>
+        <p class="sum">Nimm in deinem örtlichen Play! Pokémon Store an einem Turnier zu den Weltmeisterschaften 2026 teil und erhalte eine Pikachu-Promokarte Pokemon.com</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span><span class="tag">turnier</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Joseph Writer Anderson</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 39 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTg0TDI2dlN1VWpOcXdIZTVZSDU0LXc4cGpnczRqTjBOajV3QjFRUmJLeFBjVzIxalZzTHB6QkJuMEx6UUpSTldKZXltdDA3X1NYQWZKTkpiZkxvbXJJTVVFOG9aejVnaG56aEhDSXpmeU5Pc240VEx4emtRb2oxSmExcjk0XzRWXzJpa183X09SSGkzRE9iWFZ6bDhOS1g0UmdQUWhLT0g?oc=5" target="_blank" rel="noopener">
+          Three Exclusive Pokémon TCG Promo Cards Revealed for Worlds 2026 - Joseph Writer Anderson</a></h2>
+        <p class="sum">Three Exclusive Pokémon TCG Promo Cards Revealed for Worlds 2026 Joseph Writer Anderson</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tournament</span><span class="tag">worlds</span></div>
       </div>
     </article>
 
@@ -1702,6 +3088,48 @@ Well I&#x27;m sorry mothe</p>
           Pokémon Cards Worth $15K Stolen in 40-Second Break-In | Outlook Respawn - Outlook Respawn</a></h2>
         <p class="sum">Pokémon Cards Worth $15K Stolen in 40-Second Break-In | Outlook Respawn Outlook Respawn</p>
         <div class="tags"><span class="tag">break-in</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">PokeBeach</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 39 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOOXV6MzJhS1hweG9IWkVMZmlpTGJLZXk0Z3lmQmZvTUNTNFVqOUZjRTA1VmhzVm05NUpzUlNnQjhNRkRGVDZFV08zV0ZxNnRDUFkxVXg4cHF3dk5kSlVwdkpaWGJzM0oxaWxXaFM4cnhBMmVraUJ1djdzV1pUcDNDczM5UzhkX3RGNnYzQTg2SnZ3eTRuWUxWYUR0eVRsaF9CUmxtYnI3Qm9pbmZUV2JoVEN2REx5VEU?oc=5" target="_blank" rel="noopener">
+          Worlds 2026 Promo Cards, Competitor&#x27;s Kits, Pokemon Center Plush, and Vendors Revealed! - PokeBeach</a></h2>
+        <p class="sum">Worlds 2026 Promo Cards, Competitor&#x27;s Kits, Pokemon Center Plush, and Vendors Revealed! PokeBeach</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">revealed</span><span class="tag">worlds</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">GameRant</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 39 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxQNDNJN011NGs2SUFYdjRnbWtzODQ5RURQUmdqN0FLMG5kNm9NTnMyeS1uT2hpUmZHaG1uaGs0TEd0X2FnSVRDbzFlY19PZ0tPcUoxUWYzMFdpeGNoMjdSX0YxZ3E3VUpTd3RZbjR5eHJmeWRfZ3ZQSVJHMjlEYkdZWA?oc=5" target="_blank" rel="noopener">
+          New Pokemon Worlds and XP Details; NAIC 2027 Officially Confirmed for Chicago - GameRant</a></h2>
+        <p class="sum">New Pokemon Worlds and XP Details; NAIC 2027 Officially Confirmed for Chicago GameRant</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">worlds</span></div>
       </div>
     </article>
 
@@ -1768,28 +3196,7 @@ Well I&#x27;m sorry mothe</p>
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
-             data-cat="einbruch" data-region="int"
-             data-platform="news">
-      <div class="rail"></div>
-      <div class="body">
-        <div class="meta">
-          <span class="cat">Einbruch / Raub</span>
-          <span class="dot"></span>
-          <span class="plat">Presse</span>
-          <span class="dot"></span>
-          <span class="src">KTVU</span>
-          <span class="reg reg-int">International</span>
-          <span class="age">vor 41 Tagen</span>
-        </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE5yVXRSTFNBVXZZUjNhM25RdkRCOFlrTmFxb1l5WjgzM1Njb1FYek1MSUhGOTUxX0NENFFGRVRqaUhxME9TanVnSmFmby1ORHpRSEtnTWFwMERFZVRyMEx6VFRxcTM1UldKczVNR0JTWERVVk93dEJVZi1B0gF_QVVfeXFMTzlEVXFnOWd3VTZGZEYySzUxR0NRQndHRmhldUY0TE5OTjZXcG9YVlVwRlNTVUpxLVI5Y0FXQkpVSHhlX1ctREhXZzNaT1ltcjJqV2ZxYWFSS0Q2N1lzbDFoQzd3MTItdVNGMWxGQXhuNVR2cnloMU42THdLZ2hHWQ?oc=5" target="_blank" rel="noopener">
-          San Francisco Pokémon theft takedown - KTVU</a></h2>
-        <p class="sum">San Francisco Pokémon theft takedown KTVU</p>
-        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">theft</span></div>
-      </div>
-    </article>
-
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="news">
       <div class="rail"></div>
@@ -1814,7 +3221,7 @@ Read more: www.complex.com/pop-culture/...</p>
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="bluesky">
       <div class="rail"></div>
@@ -1835,24 +3242,87 @@ Read more: www.complex.com/pop-culture/...</p>
       </div>
     </article>
 
-    <article class="entry" data-tone="alert"
-             data-cat="einbruch" data-region="de"
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
              data-platform="news">
       <div class="rail"></div>
       <div class="body">
         <div class="meta">
-          <span class="cat">Einbruch / Raub</span>
+          <span class="cat">Szene / News</span>
           <span class="dot"></span>
           <span class="plat">Presse</span>
           <span class="dot"></span>
-          <span class="src">GamePro</span>
-          <span class="reg reg-de">Deutschland</span>
+          <span class="src">games.gg</span>
+          <span class="reg reg-int">International</span>
           <span class="age">vor 42 Tagen</span>
         </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1mYzMwQ3FkaElzdEpMU0xncVh2dGQzUVNwNy1UZmQ2OUNmaVFmU1pPdk1TWWNVVEtzUDdhUkdpX1A4bmV0ZlFQR0hnNTJZekdpZUhib19GYzBiTzZRM3VOWnUxVjNhTjV5OHh3OFFfVEx6dHRLUWJkSDI4bmY?oc=5" target="_blank" rel="noopener">
-          Pokémon TCG-Fan checkt Koffer am Flughafen ein und merkt später, dass über 200 Karten daraus gestohlen wurden – im Wert von knapp 4000 Euro - GamePro</a></h2>
-        <p class="sum">Pokémon TCG-Fan checkt Koffer am Flughafen ein und merkt später, dass über 200 Karten daraus gestohlen wurden – im Wert von knapp 4000 Euro GamePro</p>
-        <div class="tags"><span class="tag">gestohlen</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE9EWWdTLTh4QmFWS0tINFlaYUVIdURrenR4akEzMmJLb2YwOWlsSU41RHZXQlJtMVA1bTY1X056Z0tVWExxRUoyYWE3UlR1bWZEcEN2VFB4ckFNMk5PRGZpZktFVkhpQ3NLUXJV?oc=5" target="_blank" rel="noopener">
+          Pokemon TCG Pitch Black: Release Date and Where to Buy - games.gg</a></h2>
+        <p class="sum">Pokemon TCG Pitch Black: Release Date and Where to Buy games.gg</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">release date</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Athlon Sports</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 42 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRGxvaU1fT3VOZTE0eXRkZTNRSHA0UjVQakhqZmo5ckJDbGl5MG04VEFSOG5yN1ZYWFpWcVBEd0dQQkdLODNVaUY2RVAtSXF1OWdQNlpUZEtwZUNoOHZrX1FJRXZOXzdHNGcxTFFxRjZRdk9ZQUFIMktuaUpCRVgyWUM1MEpWRVZKakl3cVFDQlFWNEN4QmQ3aHFsUG5XSkJ0RkFlTnpXS0ZFSFhMVmgtRWpTay1wa3plSUhZM09QWEU?oc=5" target="_blank" rel="noopener">
+          Pokémon TCG 30th Celebration Set: Every Card, Pull Rates &amp; Investment Guide (September 2026) - Athlon Sports</a></h2>
+        <p class="sum">Pokémon TCG 30th Celebration Set: Every Card, Pull Rates &amp; Investment Guide (September 2026) Athlon Sports</p>
+        <div class="tags"><span class="tag">investment</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">tcg</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Sports Illustrated</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 43 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWkhsSV9EQUNkVUdGRTN3YUNBeTZGRS10TnhzT2lPdlFKUjNLWDk0emdhWEZvV2NMd2lvLVFUV2pGWFJzQWZpeHZxemhISU9YSTVWWkx4ZzhfcVJlWlhCVEozUUF3Q3ZHYzY4RjBXOHliczNlR3h0S1lyVWtKQU9rT1R3bnpaaDc0?oc=5" target="_blank" rel="noopener">
+          PSA 10 Entei ex Pokémon Card Shatters Record Sale - Sports Illustrated</a></h2>
+        <p class="sum">PSA 10 Entei ex Pokémon Card Shatters Record Sale Sports Illustrated</p>
+        <div class="tags"><span class="tag">muster:szene</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">psa</span><span class="tag">psa 10</span></div>
+      </div>
+    </article>
+
+    <article class="entry is-new" data-tone="cool"
+             data-cat="szene" data-region="int"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Tokyo Weekender</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 43 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUNPTTBLcm9md2Q4RW15ZWVQWnVPb1ZsSzJOaDFicmJZOEZnSENLOTFiZXNOTFpXRDVOV1NpdkVnQVZ5VXNvWjFOaUtWNUhmOFdEZVBxYkhnaGJxUzBVUGRuVjUtTWpYZ2hyUWl5S2NBbDYxclFlbndaaHRYZnc0QkU4dk9SNENMUkdxQVA2dXh5Zm5TOGR3?oc=5" target="_blank" rel="noopener">
+          Pokémon TCG Proposes My Number Card ID Verification To Stop Scalpers - Tokyo Weekender</a></h2>
+        <p class="sum">Pokémon TCG Proposes My Number Card ID Verification To Stop Scalpers Tokyo Weekender</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">scalper</span><span class="tag">tcg</span></div>
       </div>
     </article>
 
@@ -1877,7 +3347,7 @@ Read more: www.complex.com/pop-culture/...</p>
       </div>
     </article>
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-platform="news">
       <div class="rail"></div>
