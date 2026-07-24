@@ -32,6 +32,11 @@ on:
     # Andere Rhythmen: "23 * * * *" stündlich, "23 */6 * * *" alle sechs
     # Stunden, "23 5 * * *" einmal täglich um 05:23 UTC.
     - cron: "23 */2 * * *"
+    # Nachschlag eine halbe Stunde später. Fiel der erste Termin aus, greift
+    # dieser; lief er durch, findet der zweite nichts Neues und committet
+    # nichts. Die Minuten 23 und 53 sind bewusst andere als beim Scanner
+    # (13 und 43), damit sich die beiden Projekte nicht ins Gehege kommen.
+    - cron: "53 */2 * * *"
   workflow_dispatch:
 
 permissions:
