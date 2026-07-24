@@ -62,6 +62,19 @@ GOOGLE_NEWS = {
         "PSA Submission verschwunden",
         "Sammelkarten Paket verloren Versand",
         "Grading Karten nicht angekommen",
+        # ergaenzt: weitere Vorfallarten
+        "Sammelkartenladen ueberfallen",
+        "Spieleladen Einbruch",
+        "Comicladen Einbruch",
+        "Kartenladen Ladendiebstahl",
+        "Pokemon Karten Hehlerei",
+        "Sammelkarten Zoll beschlagnahmt",
+        "gefaelschte Sammelkarten Zoll",
+        "Pokemon Karten Kleinanzeigen Betrug",
+        "Sammelkartenladen Insolvenz",
+        "Kartenladen Brand Feuer",
+        "Pokemon Karten Prozess Urteil",
+        "Sammelkarten Millionen gestohlen",
     ],
     "en": [
         "Pokemon card shop robbed",
@@ -74,6 +87,17 @@ GOOGLE_NEWS = {
         "PSA lost submission cards",
         "graded cards lost in transit",
         "card grading company lost my cards",
+        # ergaenzt: weitere Vorfallarten
+        "card shop armed robbery",
+        "smash and grab trading cards",
+        "pokemon cards stolen arrested",
+        "trading card store lawsuit fraud",
+        "counterfeit trading cards customs seized",
+        "card shop fire arson",
+        "card store closed suddenly customers money",
+        "grading company lawsuit collectors",
+        "pokemon card heist",
+        "card shop employee stole",
     ],
 }
 
@@ -116,7 +140,11 @@ REDDIT_SUBS = [
     "gradedcards",
 ]
 REDDIT_QUERIES = ["robbed", "broke in", "stolen", "burglary", "scammed",
-                  "shut down", "lost submission", "lost in transit", "never arrived"]
+                  "shut down", "lost submission", "lost in transit", "never arrived",
+                  # ergaenzt
+                  "counterfeit", "fake cards", "resealed", "chargeback",
+                  "package stolen", "arrested", "warning scammer",
+                  "took my money", "closed without notice", "police report"]
 
 # --- Bluesky (kein Key noetig) ---------------------------------------------
 BLUESKY_QUERIES = [
@@ -126,12 +154,35 @@ BLUESKY_QUERIES = [
     "pokemon laden einbruch",
     "psa lost submission",
     "grading company lost cards",
+    # ergaenzt
+    "pokemon cards stolen",
+    "card store theft",
+    "sammelkarten gestohlen",
+    "kartenladen ueberfall",
+    "counterfeit pokemon cards",
+    "cgc lost cards",
 ]
 
 # --- Eigene RSS-Feeds (Szene-Blogs, Shop-News, Polizeimeldungen) -------------
 # Beliebige Feed-URLs eintragen. Nichts voreingestellt, weil die gaengigen
 # TCG-Blogs ihre Feeds regelmaessig umziehen - lieber selbst pruefen.
 EXTRA_RSS = [
+    # Zentrale Sammelstelle fuer Pressemitteilungen der deutschen Polizei.
+    # Liefert bundesweit alles - Verkehrsunfaelle, Vermisste, Einbrueche.
+    # Das macht nichts: der Stichwortfilter unten verlangt Laden-Bezug UND
+    # Vorfall-Bezug, es kommt also nur durch, was mit Kartenlaeden zu tun
+    # hat. Genau die Meldungen, die sonst nur in der Lokalzeitung stehen.
+    # Das False ist wichtig: bei dieser breiten Quelle muss zusaetzlich ein
+    # Laden-Bezug im Text stehen ("Sammelkarten", "Pokemon", "Kartenladen"),
+    # sonst kaeme jeder Wohnungseinbruch Deutschlands mit durch.
+    ("https://www.presseportal.de/rss/polizei.rss2", False),
+
+    # Weitere Moeglichkeiten - Adresse pruefen, bevor du sie aktivierst:
+    # Einzelne Polizeidienststelle (Nummer steht in der Adresse der
+    # Dienststellen-Seite auf presseportal.de/blaulicht/dienststellen):
+    # ("https://www.presseportal.de/rss/dienststelle_11491.rss2", False),
+    #
+    # Szene-Blogs und Shop-News, falls du welche verfolgst:
     # "https://beispiel-tcg-blog.de/feed",
 ]
 
@@ -854,7 +905,15 @@ def fetch_instagram(cutoff: datetime) -> list[Item]:
 def fetch_extra_rss(cutoff: datetime) -> list[Item]:
     """Beliebige Feeds aus EXTRA_RSS - Szene-Blogs, Shop-News, Polizeimeldungen."""
     items: list[Item] = []
-    for url in EXTRA_RSS:
+    for eintrag in EXTRA_RSS:
+        # Eintrag ist entweder nur eine Adresse - dann gilt der Feed als
+        # thematisch passend (Szene-Blog) - oder (Adresse, False) fuer breite
+        # Quellen wie Polizeimeldungen, bei denen zusaetzlich ein Laden-Bezug
+        # im Text stehen muss.
+        if isinstance(eintrag, (tuple, list)):
+            url, thema_passt = eintrag[0], bool(eintrag[1])
+        else:
+            url, thema_passt = eintrag, True
         raw = http_get(url, {"User-Agent":
                              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"})
         if not raw:
@@ -892,7 +951,7 @@ def fetch_extra_rss(cutoff: datetime) -> list[Item]:
                 continue
             summary = strip_html(field("description") or field("summary"))
 
-            verdict = classify(title, summary, assume_context=True)
+            verdict = classify(title, summary, assume_context=thema_passt)
             if not verdict:
                 continue
             cat, score, matched = verdict
