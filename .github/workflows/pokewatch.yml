@@ -1,14 +1,20 @@
-# Täglicher Lauf für PokeWatch
+# PokeWatch - täglicher Lauf mit Veröffentlichung
 #
-# Angepasst an das, was im Repository liegt: pokewatch.py baut, das Ergebnis
-# landet in output/, seen.json und channels.json halten den Zustand.
+# Diese Fassung stellt die drei Pages-Schritte wieder her, die in meiner
+# vorigen Vorlage fehlten. Sie stammen aus dem Log deines Laufs #2:
+#   actions/configure-pages@v5
+#   actions/upload-pages-artifact@v3
+#   actions/deploy-pages@v4
 #
-# BEVOR DU DAS EINSETZT: schau in deine vorhandene
-# .github/workflows/pokewatch.yml. Läuft dort etwas, das hier fehlt - etwa
-# ein Argument hinter pokewatch.py, ein Zugangsschlüssel unter "secrets"
-# oder ein zusätzlicher Schritt -, muss das übernommen werden. Diese Datei
-# ersetzt die alte nur dann gefahrlos, wenn dein Lauf wirklich aus
-# "python pokewatch.py" besteht.
+# Der veröffentlichte Ordner ist output/ - erkennbar daran, dass deine Seite
+# unter /pokewatch/ die Dateien aus output/ ausliefert, und GitHub Pages im
+# Modus "Deploy from a branch" nur / und /docs anbietet.
+#
+# BITTE NACH DEM EINSETZEN PRÜFEN: Lauf von Hand starten und schauen, ob
+# ALLE Schritte grün werden, besonders die drei am Ende. Ich habe deine
+# ursprüngliche Datei nie gesehen und diese Schritte aus dem Log
+# rekonstruiert - falls dort noch etwas anderes stand (ein Argument hinter
+# pokewatch.py, ein Zugangsschlüssel), fehlt es hier.
 
 name: PokeWatch
 
@@ -23,16 +29,22 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write   # zum Zurückschreiben von output/ und seen.json
+  pages: write      # zum Veröffentlichen
+  id-token: write   # verlangt deploy-pages
 
 concurrency:
   group: pokewatch
   cancel-in-progress: false
 
 jobs:
-  feed:
+  sammeln:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Repository holen
@@ -48,17 +60,14 @@ jobs:
           if [ -f requirements.txt ]; then
             pip install --quiet -r requirements.txt
           else
-            # Uebliche Verdaechtige fuer Feeds, Bildbau und Textclustering.
-            # Was pokewatch.py nicht braucht, stoert hier auch nicht.
             pip install --quiet requests feedparser pillow || true
           fi
 
-      - name: Feed bauen
+      - name: Feed abrufen
         run: python pokewatch.py
 
       # Nicht nur pruefen, OB output/ existiert, sondern ob in DIESEM Lauf
-      # etwas darin neu geschrieben wurde. Sonst wirkt ein Lauf erfolgreich,
-      # der in Wahrheit nichts erneuert hat.
+      # etwas darin neu geschrieben wurde.
       - name: Prüfen, ob wirklich etwas Neues entstanden ist
         run: |
           if [ ! -d output ]; then
@@ -72,23 +81,40 @@ jobs:
             exit 1
           fi
 
-      - name: Ergebnis zurück ins Repository schreiben
+      - name: Ergebnis zurueckschreiben
         run: |
+          rm -rf __pycache__          # Python-Bytecode gehoert nicht ins Repo
           git config user.name "pokewatch-bot"
           git config user.email "actions@github.com"
-          # -f, damit keine .gitignore-Regel den Ausgabeordner verschluckt.
           git add -A -f output
           git add -A seen.json channels.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "Keine Aenderungen - nichts zu committen."
           else
             git commit -m "Feed: $(date -u '+%Y-%m-%d %H:%M') UTC"
-            # Falls zwischenzeitlich ein anderer Lauf geschrieben hat:
-            # erst nachziehen, dann schieben. Das verhindert den haeufigsten
-            # Grund fuer einen roten Lauf am Ende.
-            git pull --rebase --autostash || true
+            # Das war der Fehler in Lauf #2: hast du waehrenddessen etwas
+            # ueber die Weboberflaeche geaendert, lehnt GitHub den Push ab
+            # ("fetch first"). Erst nachziehen, dann schieben.
+            git pull --rebase --autostash
             git push
           fi
+
+      # --- Veröffentlichen -------------------------------------------------
+      # Diese drei Schritte liefern output/ als Webseite aus. Ohne sie bleibt
+      # plasma19911.github.io/pokewatch/ auf dem alten Stand, egal wie frisch
+      # der Feed im Repository ist.
+
+      - name: Pages vorbereiten
+        uses: actions/configure-pages@v5
+
+      - name: output/ als Artefakt hochladen
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: output
+
+      - name: Seite veröffentlichen
+        id: deployment
+        uses: actions/deploy-pages@v4
 
       - name: Zusammenfassung
         if: always()
