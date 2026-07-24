@@ -106,6 +106,19 @@ GOOGLE_NEWS = {
         "Laden fuer Sammelkarten aufgebrochen",
         "Pokemonkarten Betrueger verurteilt",
         "Sammelkartenhaendler betrogen",
+        # Wie Lokalredaktionen und Wochenblaetter titeln. Ihre eigenen Feeds
+        # sperren Rechenzentren aus (403), aber Google News indexiert sie -
+        # ueber diesen Umweg kommt man doch an die Regionalpresse.
+        "Unbekannte brechen in Laden ein Sammelkarten",
+        "Diebe erbeuten Sammelkarten",
+        "Sammelkarten aus Geschaeft gestohlen",
+        "Einbrecher stehlen Pokemon Karten",
+        "Beute Sammelkarten Zeugen gesucht",
+        "Pokemonkarten aus Auto gestohlen",
+        "Ladeninhaber bestohlen Sammelkarten",
+        "Sammelkarten Raeuber fluechtig",
+        "Zeugen gesucht Kartenladen",
+        "Sammelkarten sichergestellt Polizei",
     ],
     "en": [
         "Pokemon card shop robbed",
@@ -359,6 +372,9 @@ INCIDENT_CATEGORIES = {
             "heist", "shoplifting", "held up at gunpoint",
             # Verwandte Delikte, die in Ueberschriften genauso auftauchen
             "hehlerei", "veruntreu", "ladendiebstahl",
+            # Staemme statt Vollformen: "stehl" trifft stehlen/stehlt,
+            # "gestohl" trifft gestohlen, "entwend" entwendet/entwenden.
+            "stehl", "gestohl", "entwend", "erbeut",
             # "unterschlaegt" wird beim Entschaerfen der Umlaute zu
             # "unterschlaegt" - der Stamm muss also vor dem a enden,
             # sonst trifft er nur "Unterschlagung".
@@ -366,6 +382,17 @@ INCIDENT_CATEGORIES = {
             "trickdiebstahl", "aufgebrochen", "eingedrungen", "beraubt",
             "erpressung", "schutzgeld", "raubueberfall", "raubüberfall",
             "embezzlement", "extortion", "stole from",
+        ],
+        # Achtung: ein Muster-Treffer gilt in classify() als starkes Signal
+        # und ueberspringt die Pruefung auf Laden-Bezug. Deshalb steht das
+        # Laden-Wort hier IM Muster - sonst faengt es jeden Wohnungseinbruch.
+        "patterns": [
+            # "Unbekannte brachen in der Nacht in ein Geschaeft ein":
+            # das Verb steht auseinandergerissen, kein Stichwort trifft es.
+            # Keine Wortgrenze am Ende: "Sammelkartengeschaeft" und
+            # "Ladenlokal" sollen genauso treffen wie "Laden".
+            r"\bbrach(en)?\b[^.!?]{0,60}\b(laden|geschaeft|geschäft|shop|"
+            r"store|kartenladen|sammelkarten|pokemon)",
         ],
     },
     "betrug": {
@@ -392,7 +419,7 @@ INCIDENT_CATEGORIES = {
             "never shipped", "never sent", "did not ship", "non-delivery",
             "friends and family", "chargeback fraud", "fake listing",
             "fake seller", "ghosted after payment",
-            "betrug", "betrueger", "betrüger", "abzocke", "faelschung",
+            "betrug", "betrog", "betrueger", "betrüger", "abzocke", "faelschung",
             "fälschung", "gefaelscht", "gefälscht", "faelschungen", "fake karten",
             "proxy cards", "scam", "scammed", "scammer", "fraud", "counterfeit",
             "fake cards", "resealed", "weighted packs", "search packs",
