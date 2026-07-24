@@ -93,6 +93,19 @@ GOOGLE_NEWS = {
         "Grading Firma Klage Sammler",
         "gefaelschte PSA Slabs",
         "manipulierte Sammelkarten Zertifikat",
+        # Formulierungen, wie Redaktionen sie tatsaechlich titeln - Google
+        # News durchsucht damit die gesamte Presse, nicht nur die neuesten
+        # Meldungen eines einzelnen Blattes.
+        "Sammelkarten gestohlen Polizei",
+        "Pokemon Karten Diebstahl Prozess",
+        "Kartenladen ueberfallen Zeugen gesucht",
+        "Sammelkarten Betrug Urteil",
+        "Pokemon Karten Faelschungen Prozess",
+        "Beute Sammelkarten Einbrecher",
+        "Sammelkarten im Wert von gestohlen",
+        "Laden fuer Sammelkarten aufgebrochen",
+        "Pokemonkarten Betrueger verurteilt",
+        "Sammelkartenhaendler betrogen",
     ],
     "en": [
         "Pokemon card shop robbed",
@@ -127,6 +140,13 @@ GOOGLE_NEWS = {
         "counterfeit PSA slabs",
         "fake grading labels cards",
         "trimmed cards graded scandal",
+        # Presse-Formulierungen
+        "pokemon cards stolen police investigating",
+        "card shop break-in suspects",
+        "trading cards theft sentenced",
+        "collector defrauded trading cards",
+        "cards worth thousands stolen",
+        "trading card fraud charges",
     ],
 }
 
@@ -1399,17 +1419,20 @@ def render_html(items: list[Item], new_keys: set[str]) -> str:
         rcounts[it.region] = rcounts.get(it.region, 0) + 1
     order = ["de", "at", "ch", "int"]
 
-    # Beim Oeffnen soll Deutschland dastehen, nicht die Weltlage. Gibt es
-    # ausnahmsweise keine deutsche Meldung, waere ein leerer Bildschirm die
-    # schlechteste Begruessung - dann startet die Ansicht mit "Alle".
-    start_region = "de" if rcounts.get("de") else "all"
+    # Deutschland ist immer der Startpunkt - auch wenn gerade nichts drin
+    # steht. Frueher wich die Ansicht in dem Fall auf "Alle" aus; das
+    # verwirrt aber mehr, als es hilft, weil man dann je nach Tageslage mal
+    # deutsche und mal internationale Meldungen vor sich hat.
+    start_region = "de"
 
-    regions = (f'<button class="rbtn{" on" if start_region == "all" else ""}" '
-               f'data-region="all">Alle<span class="n">{len(items)}</span></button>')
+    # Alle Herkuenfte immer anzeigen, auch mit Null - sonst verschwindet der
+    # Knopf, sobald es nichts gibt, und man kann nicht zurueckwechseln.
+    regions = (f'<button class="rbtn" data-region="all">Alle'
+               f'<span class="n">{len(items)}</span></button>')
     regions += "".join(
         f'<button class="rbtn{" on" if r == start_region else ""}" data-region="{r}">'
-        f'{REGION_LABEL[r]}<span class="n">{rcounts[r]}</span></button>'
-        for r in order if rcounts.get(r))
+        f'{REGION_LABEL[r]}<span class="n">{rcounts.get(r, 0)}</span></button>'
+        for r in order)
 
     return (HTML_TEMPLATE
             .replace("%%STATS%%", stats)
@@ -2016,6 +2039,7 @@ footer a{color:var(--cool)}
 %%ENTRIES%%
 <div class="empty" id="none" hidden>
   <p>Keine Treffer</p>
+  <p class="empty-hint" id="leerhinweis" hidden></p>
   <p class="empty-hint">Diese Kombination aus Herkunft und Vorfall enthaelt
      nichts. Setz einen der beiden Filter zurueck auf "Alle".</p>
 </div>
@@ -2104,6 +2128,16 @@ function apply() {
   });
   document.getElementById('count').textContent = shown;
   document.getElementById('none').hidden = shown > 0;
+  // Wenn fuer Deutschland nichts vorliegt, soll man nicht raten muessen,
+  // wo die uebrigen Meldungen stecken.
+  const hinweis = document.getElementById('leerhinweis');
+  if (hinweis) {
+    const gesamt = entries.length;
+    hinweis.hidden = !(shown === 0 && gesamt > 0);
+    hinweis.textContent = gesamt === 1
+      ? 'Es liegt 1 Meldung aus anderen Laendern vor - oben unter Herkunft umschalten.'
+      : `Es liegen ${gesamt} Meldungen aus anderen Laendern vor - oben unter Herkunft umschalten.`;
+  }
 }
 
 catButtons.forEach(b => b.addEventListener('click', () => {
