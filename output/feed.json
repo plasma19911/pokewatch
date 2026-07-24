@@ -1,7 +1,7 @@
 {
- "generated": "2026-07-24T18:09:48.910090+00:00",
- "count": 89,
- "new": 6,
+ "generated": "2026-07-24T18:18:47.308161+00:00",
+ "count": 95,
+ "new": 3,
  "items": [
   {
    "title": "Japan Eyes Regulating Pokémon Cards as $2.1B Market Fuels Counterfeiting and Money-Laundering Fears - International Business Times UK",
@@ -303,37 +303,28 @@
    "title": "Burglars stole about $25,000 in Pokémon, Magic: The Gathering, and other collectibles from a #Colton card shop in June. Police recovered the stolen Pokémon cards and arrested a 35-",
    "url": "https://bsky.app/profile/westcoastnews.bsky.social/post/3mqwfmtfous2b",
    "source": "@westcoastnews.bsky.social",
-   "platform": "news",
+   "platform": "bluesky",
    "published": "2026-07-18T13:46:14.663000+00:00",
    "summary": "Burglars stole about $25,000 in Pokémon, Magic: The Gathering, and other collectibles from a #Colton card shop in June. Police recovered the stolen Pokémon cards and arrested a 35-year-old #Rialto man on #burglary charges. A 2nd suspect remains at large.\n\n#California\n\nktla.com/news/califor...",
-   "author": "",
+   "author": "West Coast News",
    "category": "einbruch",
    "region": "int",
    "image": "",
-   "domain": "ktla.com",
+   "domain": "westcoastnewsbskysocial.com",
    "logo": "",
-   "score": 3,
+   "score": 7,
    "matched": [
+    "arrested",
     "burglar",
+    "burglary",
+    "card shop",
     "pokemon",
-    "pokémon"
+    "pokémon",
+    "stolen"
    ],
    "first_seen": "2026-07-24T05:48:46.880062+00:00",
-   "related": [
-    {
-     "title": "Burglars steal thousands worth of Pokémon cards in Colton - KTLA",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSjN6VFhCUFpyLUw1ZnBlVU9UXzlINGRiSUVtWGotY2RSTWRrcU1IX0FMakF4Nm90dXNCN2s5Rm5qYm9DQ3YtbTY2Y1dERHJlZWpJb01nSW9VS05kYXVJZE1CN0xab2JqR0FvQ1JlTzlXYmZ2ZkxITnVLblVHcFI1Wm9OMG56cVhvbzF5LXpJWnlrajBiNmlrbnJYWQ?oc=5",
-     "source": "KTLA",
-     "published": "2026-07-16T07:00:00+00:00"
-    },
-    {
-     "title": "Burglars steal thousands worth of Pokémon cards in Colton - AOL.com",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TZ1hpR1UtZXlKT0RMOWh2VTR3VFZJMmVfQUNOMHJYTFhWUlFWdk5OMEJ4RDFOMl8ySG9UczUtLUtnbnRjX3BQSElnU1prMGd0allQNTVaenZmSlplVjN5b012VHRMUkZ5ci14Rm1jRmh5eGZFdjRXa2FFS1IwSlE?oc=5",
-     "source": "AOL.com",
-     "published": "2026-07-17T00:39:00+00:00"
-    }
-   ],
-   "report_count": 3
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "📰 Pokémon 2026: The Summer That Changed Everything - Max Raids, Stolen Cards, and Ash’s Return Loom Large\n\nhttps://play.modvc.org/doc.html?slug=pokmon-2026-the-summer-that-changed-",
@@ -378,6 +369,52 @@
     "pokémon"
    ],
    "first_seen": "2026-07-24T18:09:48.901043+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Burglars steal thousands worth of Pokémon cards in Colton - AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TZ1hpR1UtZXlKT0RMOWh2VTR3VFZJMmVfQUNOMHJYTFhWUlFWdk5OMEJ4RDFOMl8ySG9UczUtLUtnbnRjX3BQSElnU1prMGd0allQNTVaenZmSlplVjN5b012VHRMUkZ5ci14Rm1jRmh5eGZFdjRXa2FFS1IwSlE?oc=5",
+   "source": "AOL.com",
+   "platform": "news",
+   "published": "2026-07-17T00:39:00+00:00",
+   "summary": "Burglars steal thousands worth of Pokémon cards in Colton AOL.com",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "image": "",
+   "domain": "aol.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "burglar",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-07-24T18:18:47.298453+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Burglars steal thousands worth of Pokémon cards in Colton - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaG1SXzhHN21uaHdROWwySVFHUVRjbGJVOWZ3VFh4aXh2N2t5X2taelhLeHpuV2tEX2Z6RWs5VXdSWGVKREpmTjRsMjhHb2VTNzhTY1dJNFBBazVSa1VQLU05TWk3RmdOLW9OQWdUVnduV1FPX0tYSnFPY3ZrNVRRajJNVEZ4LXZqUjg0?oc=5",
+   "source": "Yahoo",
+   "platform": "news",
+   "published": "2026-07-17T00:39:00+00:00",
+   "summary": "Burglars steal thousands worth of Pokémon cards in Colton Yahoo",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "image": "",
+   "domain": "yahoo.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "burglar",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-07-24T18:18:47.298501+00:00",
    "related": [],
    "report_count": 1
   },
@@ -502,6 +539,29 @@
    "report_count": 3
   },
   {
+   "title": "Burglars steal thousands worth of Pokémon cards in Colton - KTLA",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSjN6VFhCUFpyLUw1ZnBlVU9UXzlINGRiSUVtWGotY2RSTWRrcU1IX0FMakF4Nm90dXNCN2s5Rm5qYm9DQ3YtbTY2Y1dERHJlZWpJb01nSW9VS05kYXVJZE1CN0xab2JqR0FvQ1JlTzlXYmZ2ZkxITnVLblVHcFI1Wm9OMG56cVhvbzF5LXpJWnlrajBiNmlrbnJYWQ?oc=5",
+   "source": "KTLA",
+   "platform": "news",
+   "published": "2026-07-16T07:00:00+00:00",
+   "summary": "Burglars steal thousands worth of Pokémon cards in Colton KTLA",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "image": "",
+   "domain": "ktla.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "burglar",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-07-24T18:18:47.298742+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
    "title": "Einbruch in Brötzinger Fußgängerzone: Geld und Sammelkarten aus Schreibwarengeschäft gestohlen - PZ-news",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeFVwRVhoOXZna1c5WGJzSUQyei1aVmNaVEI0MzRIY21ybmNxZE4tVEQ1bnhVQlVkdS0wUHFEQWNJdThhTWNxckJyaU9iUXVCOF9UNVRSejIwMGpZVWlDRU9lUU8ydWtQLVJpN2xaQ1pYWjdtbl9PMXRxMk41aU85YnVKMnlpbG9HWmpnMG1wUUx6emk0V3JucEtyUkNWRk1FUTBVUTBkV0syZDZ0dFByZ3Q4MHQ3R1FRZUFNOVpVa19MS0ZiNFlXNzVKRFJ0WmV3QlVHS2Qxc1E5ZjhOMjJBMkxMdkV1TzJad0w4a3hEWQ?oc=5",
    "source": "PZ-news",
@@ -521,6 +581,29 @@
     "sammelkarten"
    ],
    "first_seen": "2026-07-23T12:55:00.279320+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "16-year-old charged after alleged high-value trading card theft - CTV News",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc2xiTE1wS2pOQ2JIUU5LcXJzdFVvQkNkMFlPSk9KM190S0U4UVhtbVM5VWprQTZjSEIzNkdoN0Uza0EybDdzNTNISWg1dDM2eUZwcVMxczRkX0RfTXhyV0FJNUY2TExUcWZVV2w2SDRUelRFVG11akNIaVVsV1Z5SjhxbW44bWRSTVE2bi0tM2xkaHRsaE0yLVotOFF4NXJPZVhJTA?oc=5",
+   "source": "CTV News",
+   "platform": "news",
+   "published": "2026-07-15T07:00:00+00:00",
+   "summary": "16-year-old charged after alleged high-value trading card theft CTV News",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "image": "",
+   "domain": "ctvnews.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "charged",
+    "theft",
+    "trading card"
+   ],
+   "first_seen": "2026-07-23T12:55:00.279236+00:00",
    "related": [],
    "report_count": 1
   },
@@ -715,6 +798,32 @@
     "pokémon"
    ],
    "first_seen": "2026-07-24T05:48:46.880551+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Neu-Ulm: Verkauf von Pokémon-Karten endet mit Raubüberfall - Wochenblatt Reporter",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHNMbTlBVENpRGRvSDNBemYwbEY0VEV6ZFl0WHhUSVI1cW1mdDhPRDNCZHNFbXU3NGlRSUF3RGZWdkM3VVBadlBzRmkxV3VBUEc2VzZfNUJkZkVKZTc4RHhFcmJ6Ym5BbmtTSTJPREx4TlpKY1BiYUlyT0dPVnltNDRveVlhc1J3SEhxSXFpanhNSjFWcFViY3lVVC1jdE5MZjY5N0ZPWTlLY2l2dWZWckxVOA?oc=5",
+   "source": "Wochenblatt Reporter",
+   "platform": "news",
+   "published": "2026-07-10T12:38:44+00:00",
+   "summary": "Neu-Ulm: Verkauf von Pokémon-Karten endet mit Raubüberfall Wochenblatt Reporter",
+   "author": "",
+   "category": "einbruch",
+   "region": "de",
+   "image": "",
+   "domain": "wochenblatt-reporter.de",
+   "logo": "",
+   "score": 6,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "raubueberfall",
+    "raubüberfall",
+    "ueberfall",
+    "überfall"
+   ],
+   "first_seen": "2026-07-24T06:10:08.140320+00:00",
    "related": [],
    "report_count": 1
   },
@@ -1177,31 +1286,26 @@
    "report_count": 3
   },
   {
-   "title": "Police investigation into major shopping centre fire - BBC",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94YUxkWWtWcWNucktWbkgwWTRreGZuTExhMEFjM3FlT1BIMW1DMEJGTFdlTlQ5Z3N6WnRRZS1PYnVuUUx3RkJJdENDMXNfNlh2b1B4dktXLThWTWpn?oc=5",
-   "source": "BBC",
+   "title": "Two New Yorkers arrested at Costco after alleged fraudulent credit card shopping spree - New York Post",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVlFSTk1KSGl0dGIwbHVoNnk2UHJXY0JuNkpFcGpvb1pkLUxmV1VFeTVIdng2ZDRPZ0lwR093R3JuaDA5QmhRWERGTTBoMmtjdHIxOVpMSU15RzBJQ0VfNFlHT0dHOGE2dC1DZFpvbHNIa0hEaDVZNEx3Z2xISEVfM0VzdUl3NVhJcjBTMXdaTVFYWHdsYjV5VXJwS3ZlaFltM01lSm1ia1VKcTFDXzlzS19RcVdOVUpLbjhtSmpJYnRhcjQ?oc=5",
+   "source": "New York Post",
    "platform": "news",
-   "published": "2026-07-02T06:45:31+00:00",
-   "summary": "Police investigation into major shopping centre fire BBC",
+   "published": "2026-07-02T07:00:00+00:00",
+   "summary": "Two New Yorkers arrested at Costco after alleged fraudulent credit card shopping spree New York Post",
    "author": "",
-   "category": "behoerden",
+   "category": "betrug",
    "region": "int",
    "image": "",
-   "domain": "bbc.com",
+   "domain": "wrganews.com",
    "logo": "",
-   "score": 9,
+   "score": 3,
    "matched": [
-    "investigation",
-    "muster:schaden"
+    "arrested",
+    "card shop",
+    "fraud"
    ],
-   "first_seen": "2026-07-24T11:26:19.724388+00:00",
+   "first_seen": "2026-07-23T12:55:00.280011+00:00",
    "related": [
-    {
-     "title": "Part of shopping centre demolished following fire - BBC",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WdVh5STFBaFFmTGVxX0FfWlVDSGNMQURNQzBLUGpDWWtyMV96ZUsxUFdrckJkU056WUE3VnVXbktadEhDRkVONk1kNFYyb0U4bENYQkh5NlN2VG8t?oc=5",
-     "source": "BBC",
-     "published": "2026-06-24T07:00:00+00:00"
-    },
     {
      "title": "Two arrested at Costco after alleged fraudulent credit card shopping spree - wrganews.com",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWZSaXZpQXQ3M3JNcUlPcW9nMmplMHltM25uSEt0ZFZURW9lVDVTb3RzY0lvSTQydHBNRHpjczNzVTBuUkQ3Z2d6Ni1fM1AtLW51UnZNcjZXMHowc253U1hkeG55eU1MS0sydGJURTR2dW1sM2M2bV8xVXVDeW03MWw4T1BIeEVNN1hIbURFVU5OTG5FeVMyNlpUQzZyX1ZkeVRFbkNYaC10RzlaWnBWRQ?oc=5",
@@ -1209,7 +1313,7 @@
      "published": "2026-07-02T06:45:31+00:00"
     }
    ],
-   "report_count": 3
+   "report_count": 2
   },
   {
    "title": "Kinda BS that Mercari only offers shipping envelope prices for trading cards. And if you ship it yourself, you aren't protected for lost or stolen packages.  Rude.  No one is gonna",
@@ -1592,6 +1696,35 @@
    "first_seen": "2026-07-23T12:55:00.280397+00:00",
    "related": [],
    "report_count": 1
+  },
+  {
+   "title": "Police investigation into major shopping centre fire - BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94YUxkWWtWcWNucktWbkgwWTRreGZuTExhMEFjM3FlT1BIMW1DMEJGTFdlTlQ5Z3N6WnRRZS1PYnVuUUx3RkJJdENDMXNfNlh2b1B4dktXLThWTWpn?oc=5",
+   "source": "BBC",
+   "platform": "news",
+   "published": "2026-06-24T07:00:00+00:00",
+   "summary": "Police investigation into major shopping centre fire BBC",
+   "author": "",
+   "category": "behoerden",
+   "region": "int",
+   "image": "",
+   "domain": "bbc.com",
+   "logo": "",
+   "score": 9,
+   "matched": [
+    "investigation",
+    "muster:schaden"
+   ],
+   "first_seen": "2026-07-24T11:26:19.724388+00:00",
+   "related": [
+    {
+     "title": "Part of shopping centre demolished following fire - BBC",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WdVh5STFBaFFmTGVxX0FfWlVDSGNMQURNQzBLUGpDWWtyMV96ZUsxUFdrckJkU056WUE3VnVXbktadEhDRkVONk1kNFYyb0U4bENYQkh5NlN2VG8t?oc=5",
+     "source": "BBC",
+     "published": "2026-06-24T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Jacksonville Seeks Suspect in $7,000 Pokémon Card Heist - Hoodline",
