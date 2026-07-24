@@ -215,7 +215,8 @@ h2{
   <div class="skel"></div><div class="skel"></div><div class="skel"></div>
 </main>
 <script id="seed" type="application/json">{
- "generated": "2026-07-24T18:33:39.749670+00:00",
+ "generated": "2026-07-24T18:41:47.562648+00:00",
+ "builder": "2026-07-24 Vorfaelle-DE",
  "count": 13,
  "new": 0,
  "items": [
@@ -586,7 +587,7 @@ const LS = 'pokewatch:lastSeen';
 // Auf false setzen, wenn keine Symbole neben den Meldungen erscheinen sollen.
 const SHOW_LOGOS = true;
 
-let items = [], generated = null, offline = false;
+let items = [], generated = null, offline = false, builder = '';
 // Deutschland ist der Startpunkt, nicht die Weltlage. Ueber die Knoepfe
 // oben laesst sich jederzeit auf International oder Alle umschalten.
 let fRegion = 'de', fCat = 'all';
@@ -720,7 +721,10 @@ function setStatus() {
   }
   if (!generated) { el.textContent = `${items.length} Einträge`; return; }
   const hrs = (Date.now() - new Date(generated)) / 3600000;
-  el.textContent = `${items.length} Vorfälle · Stand ${ago(generated)}`;
+  // Die Baunummer verraet, welche Fassung des Skripts diesen Feed gebaut
+  // hat. Ohne sie raetselt man, ob in der Cloud noch eine alte Datei laeuft.
+  el.textContent = `${items.length} Vorfälle · Stand ${ago(generated)}`
+    + (builder ? ` · Bau ${builder}` : '');
   if (STANDALONE) {
     el.textContent += ' · feste Datei';
     if (hrs > 36) el.classList.add('warnstate');
@@ -739,7 +743,7 @@ function readSeed() {
   if (!el) return false;
   try {
     const d = JSON.parse(el.textContent);
-    items = d.items || []; generated = d.generated || null;
+    items = d.items || []; generated = d.generated || null; builder = d.builder || '';
     return items.length > 0;
   } catch (e) { return false; }
 }
@@ -764,6 +768,7 @@ async function load(force) {
     const data = await r.json();
     items = Array.isArray(data) ? data : (data.items || []);
     generated = Array.isArray(data) ? null : data.generated;
+    builder = Array.isArray(data) ? '' : (data.builder || '');
     // Der Service Worker liefert notfalls aus dem Cache - der Abruf gelingt
     // also auch ohne Netz. Deshalb hier zusaetzlich den Verbindungsstatus
     // pruefen, sonst sieht alles frisch aus, obwohl es das nicht ist.
@@ -844,7 +849,7 @@ async function hunt() {
         const d = await f.json();
         if (d.generated && d.generated !== before) {
           clearInterval(timer);
-          items = d.items || []; generated = d.generated;
+          items = d.items || []; generated = d.generated; builder = d.builder || '';
           btn.disabled = false; btn.classList.remove('spin');
           setStatus(); render();
         }
