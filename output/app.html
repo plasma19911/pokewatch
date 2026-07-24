@@ -231,7 +231,9 @@ const LS = 'pokewatch:lastSeen';
 const SHOW_LOGOS = true;
 
 let items = [], generated = null, offline = false;
-let fRegion = 'all', fCat = 'all';
+// Deutschland ist der Startpunkt, nicht die Weltlage. Ueber die Knoepfe
+// oben laesst sich jederzeit auf International oder Alle umschalten.
+let fRegion = 'de', fCat = 'all';
 let lastSeen = 0;
 try { lastSeen = parseInt(localStorage.getItem(LS) || '0', 10) || 0; } catch (e) {}
 
@@ -245,7 +247,7 @@ function ago(iso) {
   return d === 1 ? 'gestern' : `vor ${d} Tagen`;
 }
 
-function chips(host, map, counts, active, onPick) {
+function chips(host, map, counts, active, onPick, immerAlle) {
   host.innerHTML = '';
   const add = (key, label, n) => {
     const b = document.createElement('button');
@@ -256,9 +258,12 @@ function chips(host, map, counts, active, onPick) {
   };
   add('all', 'Alle', null);
   Object.keys(map).forEach(k => {
-    if (!counts[k]) return;
+    // Herkunft immer vollstaendig zeigen (immerAlle): sonst verschwindet
+    // "Deutschland" an Tagen ohne deutsche Meldung, und weil das der
+    // Startfilter ist, sieht man eine leere Liste ohne Weg zurueck.
+    if (!counts[k] && !immerAlle) return;
     // CATS liefert [Label, Farbe], REGIONS nur einen String
-    add(k, Array.isArray(map[k]) ? map[k][0] : map[k], counts[k]);
+    add(k, Array.isArray(map[k]) ? map[k][0] : map[k], counts[k] || 0);
   });
 }
 
@@ -268,7 +273,7 @@ function render() {
     byRegion[i.region] = (byRegion[i.region] || 0) + 1;
     byCat[i.category] = (byCat[i.category] || 0) + 1;
   });
-  chips($('regionChips'), REGIONS, byRegion, () => fRegion, k => fRegion = k);
+  chips($('regionChips'), REGIONS, byRegion, () => fRegion, k => fRegion = k, true);
   chips($('catChips'), CATS, byCat, () => fCat, k => fCat = k);
 
   const shown = items.filter(i =>
@@ -277,9 +282,15 @@ function render() {
 
   const list = $('list');
   if (!shown.length) {
-    list.innerHTML = `<div class="note"><b>Nichts hier</b>
-      Diese Kombination aus Herkunft und Vorfall ist leer.
-      Tipp einen der Filter auf „Alle".</div>`;
+    // Beim Startfilter Deutschland ist "leer" der Normalfall an ruhigen
+    // Tagen. Dann soll dastehen, wie viele Meldungen anderswo warten -
+    // sonst wirkt die App kaputt.
+    const anderswo = items.length - items.filter(i => i.region === fRegion).length;
+    const hinweis = (fRegion !== 'all' && anderswo > 0)
+      ? `Aus anderen Laendern liegen ${anderswo} Meldungen vor
+         &mdash; oben auf „Alle" oder „International" tippen.`
+      : 'Diese Kombination aus Herkunft und Vorfall ist leer.';
+    list.innerHTML = `<div class="note"><b>Nichts hier</b> ${hinweis}</div>`;
     return;
   }
 
