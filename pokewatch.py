@@ -48,13 +48,15 @@ STATE_FILE = BASE_DIR / "seen.json"
 #
 # NUR die Nummer selbst wird angezeigt - kein Beschreibungstext dahinter.
 # Was sich in dieser Fassung geaendert hat, steht hier im Kommentar:
+#   2026-07-25d  Mehr Quellen: 9 neue YouTube-Kanaele (Drama/Scam/Grading),
+#                Instagram @pokenotify, zusaetzliche Such-/Bluesky-Begriffe
 #   2026-07-25c  Google-News-Abrufe gegen Drosselung abgesichert (Zeitbudget +
 #                Abbruch bei Dauer-Fehlschlaegen), Anfrage-Timeout 20->12s
 #   2026-07-25b  Beschreibungstext aus der Baunummer entfernt
 #   2026-07-25   International + asiatischer Markt (nur DE/EN), Laenderanzeige
 #                bei internationalen Meldungen, Brand-/Einbruch-Muster gefixt
 #   2026-07-24   Vorfaelle-DE
-BUILD = "2026-07-25c"
+BUILD = "2026-07-25d"
 
 LOOKBACK_DAYS = 45
 
@@ -217,11 +219,25 @@ GOOGLE_NEWS_ASIA_QUERIES = [
 # Wichtig: Laeden melden eigene Vorfaelle zuerst auf dem eigenen Kanal.
 # Handles per "python3 pokewatch.py --add-channel @name" ergaenzen.
 YOUTUBE_CHANNELS = [
+    # --- Deutschsprachig ---
     "@PokeGeoDude",     # DE, Grading/Shop - meldete den UPS-Submissionsverlust
     "@PokemonKarten",   # DE
     "@PokeSammler",     # DE
+    "@Domtendo",        # DE, groesster deutscher Pokemon-Kanal - greift Skandale/Drama auf
+    "@Pokefansnet",     # DE, Nachrichtenseite pokefans.net
+    # --- Englischsprachig (Drama/Scam/Grading/Heists) ---
     "@PokeRev",         # US
-    "@RealBreakingNate",
+    "@RealBreakingNate",# US
+    "@UnlistedLeaf",    # AU, 2.7 Mio - berichtet ueber Diebstaehle/Betrug
+    "@Leonhart",        # US, grosser Kanal - Skandale/Betrug
+    "@aDrive",          # US, TCG-fokussiert
+    "@smpratte",        # US, GRADING - PSA/CGC-Skandale, sehr relevant
+    "@ManyKudos",       # US, Video-Essays ueber Pokemon-Skandale/Betrug
+    "@Deriums",         # US, TCG-News/Drama
+    "@TCAGaming",       # US, TCG-News
+    # Alle per RSS getestet (Juli 2026). Nicht aufloesbar waren u. a.
+    # @RattleTCG, @DezShotYou, @ArministTV - falls du sie doch findest,
+    # den exakten @handle von der Kanalseite kopieren und hier eintragen.
 ]
 
 # Variante B (mit API-Key): Volltextsuche ueber ganz YouTube.
@@ -236,6 +252,15 @@ YOUTUBE_QUERIES = [
     "psa submission verschwunden",
     "psa lost my cards",
     "grading submission missing",
+    # ergaenzt
+    "pokemon store heist",
+    "card shop smash and grab",
+    "pokemon cards stolen store",
+    "fake graded slab exposed",
+    "psa counterfeit report",
+    "sammelkartenladen einbruch",
+    "pokemon karten betrug",
+    "trading card store robbery",
 ]
 
 # --- Reddit (kein Key noetig, braucht aber ehrlichen User-Agent) -------------
@@ -277,6 +302,12 @@ BLUESKY_QUERIES = [
     "fake psa slab",
     "customs seized cards",
     "trimmed card graded",
+    # ergaenzt
+    "pokemon store heist",
+    "card shop smash and grab",
+    "sealed product stolen",
+    "graded card scam",
+    "kartenladen einbruch",
 ]
 
 # --- Eigene RSS-Feeds (Szene-Blogs, Shop-News, Polizeimeldungen) -------------
@@ -346,8 +377,19 @@ EXTRA_RSS = [
 #   2. Leer lassen und IG manuell verfolgen.
 APIFY_TOKEN = os.environ.get("APIFY_TOKEN", "")
 INSTAGRAM_ACCOUNTS = [
+    # Getestet vorhanden (Juli 2026). Der Stichwortfilter laesst nur
+    # Diebstahl-/Betrugs-Posts durch, der Rest (Restocks, Marktpreise) faellt
+    # weg - diese Alert-Accounts posten also nur gelegentlich etwas Relevantes,
+    # aber wenn, dann frueh.
+    "pokenotify",        # 216K, #1-Hub fuer Pokemon-TCG-Alerts/News/Investing
+    # Weitere lohnende, per Hand pruefen bevor du sie aktivierst (Raute weg):
+    # "pokemon",         # offizieller Account - selten Vorfaelle, viel Rauschen
     # "pokemoncenter",
+    # "pkmn_news",       # diverse TCG-News-Accounts existieren; Handle pruefen
 ]
+# WICHTIG: Instagram laeuft NUR, wenn APIFY_TOKEN gesetzt ist (kostenpflichtig,
+# ~5-40 ct pro Lauf je nach Account-Zahl). Ohne Token wird der ganze
+# Instagram-Block einfach uebersprungen - die Accounts hier schaden dann nicht.
 
 # --- Logos -------------------------------------------------------------------
 # Neben jeder Meldung steht das Zeichen der Quelle. Bei Zeitungen wird das
@@ -809,6 +851,10 @@ CHANNEL_REGIONS = {
     "@pokegeodude": "de",
     "@pokemonkarten": "de",
     "@pokesammler": "de",
+    "@domtendo": "de",
+    "@pokefansnet": "de",
+    # alle anderen (UnlistedLeaf, Leonhart, aDrive, smpratte, ManyKudos,
+    # Deriums, TCAGaming, PokeRev, RealBreakingNate) gelten als "int"
 }
 
 # Deutschsprachige Seiten berichten auch ueber Faelle in den USA. Diese
