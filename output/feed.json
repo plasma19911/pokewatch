@@ -1,7 +1,7 @@
 {
- "generated": "2026-07-25T06:37:40.942115+00:00",
+ "generated": "2026-07-25T07:30:30.690524+00:00",
  "builder": "2026-07-24 Vorfaelle-DE",
- "count": 10,
+ "count": 11,
  "new": 0,
  "items": [
   {
@@ -186,6 +186,34 @@
     "polizei"
    ],
    "first_seen": "2026-07-23T12:55:00.279905+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "🔍 Wir brauchen eure Hilfe! Unsere PSA-Submission ist verschwunden. 🙏",
+   "url": "https://www.youtube.com/watch?v=9uSXUs7km3Y",
+   "source": "PokeGeoDude",
+   "platform": "youtube",
+   "published": "2026-06-30T14:38:48+00:00",
+   "summary": "🚨 DRINGENDER HILFERUF: UPS verliert unser 23kg Sammelkarten-Submission-Paket mit über 2.000 Karten!\n\nLiebe Community, nach fast 10 Jahren PokeGeoDude ist uns das passiert, was niemals passieren durfte: Ein komplettes Submission-Paket mit mehr als 2.000 Pokémon-Karten ist auf dem Weg zu PSA spurlos v",
+   "author": "PokeGeoDude",
+   "category": "versand",
+   "region": "de",
+   "image": "https://i2.ytimg.com/vi/9uSXUs7km3Y/hqdefault.jpg",
+   "domain": "pokegeodude.de",
+   "logo": "",
+   "score": 21,
+   "matched": [
+    "hilferuf",
+    "muster:versand",
+    "pokemon",
+    "pokémon",
+    "psa",
+    "sammelkarten",
+    "spurlos",
+    "submission"
+   ],
+   "first_seen": "2026-07-23T12:55:00.280129+00:00",
    "related": [],
    "report_count": 1
   },
