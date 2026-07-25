@@ -1,7 +1,7 @@
 {
- "generated": "2026-07-25T18:04:30.891008+00:00",
+ "generated": "2026-07-25T20:04:50.539828+00:00",
  "builder": "2026-07-25g",
- "count": 149,
+ "count": 150,
  "new": 1,
  "items": [
   {
@@ -29,9 +29,15 @@
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SZEFmcUZGc2NaUVlSVkNpb1Zqd2RHTXBJZ3RBN3ZoRmNtRW8xZkxmN0RlanJPekR5MTRVRU9rUVFLOF9TOEJXdE5CWG1jYUtTQnE0YTVaTXlSalQ3VVRPZVNlQnpqYWZvRzJZZUZwaEp4ZEJpQXRrYUxQSFdpZw?oc=5",
      "source": "Stiftung Warentest",
      "published": "2026-07-17T23:01:28+00:00"
+    },
+    {
+     "title": "Jupiter Gacha: Was steckt hinter der Tokenisierung von Pokémon-Karten? - Phemex",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0a3R3Zll1VzVMUHBFcE9YbmItRzUwRjdUckFOMjRoVjA4dDhfcWRkYjhFdEZIeHZyZnRYQ0ZvYkdzRTZwZzZ6M25nLXkwaXdZOWVrTjJxdTlSNlpWUXg4OVFNOThKU3EzY0hqWTNXandMY0JVRVNHcQ?oc=5",
+     "source": "Phemex",
+     "published": "2026-07-18T19:15:21+00:00"
     }
    ],
-   "report_count": 2
+   "report_count": 3
   },
   {
    "title": "Pokémon-Sammelkartenspiel-Pocket: Der „Herrscher der Lüfte“ lässt sich ab dem 30. Juli blicken - ntower.de",
@@ -257,6 +263,28 @@
     }
    ],
    "report_count": 6
+  },
+  {
+   "title": "Pokémon-Schmuggel aufgedeckt: Zöllner machen kuriosen Fund an der Schweizer Grenze - SWR",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmxaN2ZvdmN2aVgxRmpwYUloZW1SSHpFcGtqNUhCcWV4Q3VGT01aTkcxUkY2XzlXN21OWjN1Tm0wRjlqNGJXQkJscmVxZU95cERoM0dRYV9PN0FBdTJQR0Q0dDBza0g4eS1uZEVKbnJLdVlvbU5IM2N1MldJbGpaVW5TZjMyQzNaUFdQTE5QTm5CNVNpSWotWUYzTkZkVExkV3VQMHkwY3lwOEdPOVFNZQ?oc=5",
+   "source": "SWR",
+   "platform": "news",
+   "published": "2026-07-23T22:00:00+00:00",
+   "summary": "Pokémon-Schmuggel aufgedeckt: Zöllner machen kuriosen Fund an der Schweizer Grenze SWR",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "swr.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-07-25T20:04:50.528710+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Suspect in Santa Clara robbery of $13,000 Pokémon card box arrested in Newark - CBS News",
@@ -840,11 +868,33 @@
    "report_count": 1
   },
   {
+   "title": "Pokémon statt Krypto: Dieser Trend bricht alle Rekorde - BTC-ECHO",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVlA3U05rUklsandRZXVuejI0TXd0eVVaU0NWUG16ZGg2Z2Z4cVdla1NUNzdueFFQR25QVklEMUd3VGRrUm5teEc1M0JXYzlBX2JIem5SN0NhWTh0MFZtQXVjRTV5cE42bHp0WHdwR1JIUW5kWFhWTXp4SUJIUm40THBJWQ?oc=5",
+   "source": "BTC-ECHO",
+   "platform": "news",
+   "published": "2026-07-17T10:25:14+00:00",
+   "summary": "Pokémon statt Krypto: Dieser Trend bricht alle Rekorde BTC-ECHO",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "btc-echo.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-07-25T15:38:59.039280+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
    "title": "Erste Händler mit über 100 % Aufschlag: Pokémon-Dunkelnacht-Sammelkarten ab 15,99 Euro zur UVP - PCGH",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdkU3Y3dWeXB0U1VVeURkQ2V2SHJLcmZYMmV5ZklWUERNVUZtdnVtcDJMVTZMeUZTbF82WWJKcFNfaGUtaEdYZ0tGdkZtRWRZZ25YQ0EtRWJ4NDBNMkF3NzJRLVFKVnM4dFVtLXljVmI4ZzFpOHlVTVhqWnlBZzZQTzhzV2xYTmxaTWNGRjlJQXpHY0ZxcjdHWDFVdzBNT2pEUWsyUG02VmpYUk1aNWkyS3RhMm9IRHBSQkdVc1RIRWNPYTBuQWI5UWhlWGdveS04bHdOVW1HdGNDWEE?oc=5",
    "source": "PCGH",
    "platform": "news",
-   "published": "2026-07-17T08:00:00+00:00",
+   "published": "2026-07-17T07:00:00+00:00",
    "summary": "Erste Händler mit über 100 % Aufschlag: Pokémon-Dunkelnacht-Sammelkarten ab 15,99 Euro zur UVP PCGH",
    "author": "",
    "category": "szene",
@@ -860,6 +910,35 @@
    "first_seen": "2026-07-25T15:38:59.039098+00:00",
    "related": [],
    "report_count": 1
+  },
+  {
+   "title": "Pokémon-Karten: Neue Premium-Kollektion ab sofort bei Amazon sichern - giga.de",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMXctRkxHTVpyLWdJSlBEbUMwN1hUWEZ6QWMxSG1NbjR3RmotRlhZU0xtakpIOFQtMEo1Tk5XSGpPSlMwNEVEUVlMSVRMT1l3NEhON2ltaWE3M3FMN0RsUFdNaFpOTDBldzdqbDdzTnRIVkV4cVoyTjVnbzN5dGpOeXh4TjRLc19qTTZFaFQySEE2enlmVFNFbnJLXzdiM3Q1V0xGVE5HQ0dRTVduUUZMdjFfcXNGNURzSV9jbVpCMA?oc=5",
+   "source": "giga.de",
+   "platform": "news",
+   "published": "2026-07-17T07:00:00+00:00",
+   "summary": "Pokémon-Karten: Neue Premium-Kollektion ab sofort bei Amazon sichern giga.de",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "giga.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-07-25T15:38:59.039174+00:00",
+   "related": [
+    {
+     "title": "Pokémon-Karten: Dunkelnacht ab sofort bei Amazon sichern - giga.de",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGctRGxXb1Z1MTFBM1EycGNwQkE0VGpCOGU1Q054RUljd1JvQ1RuX0VVT1p2eTVPbHl4bkpfMWg3VEhLWTJpQklYSGtwd3ZCbFNHZmprZVUyNF9PRmptcXdKNTg3QWw4NWZVa0Z3SUx0c1NnZ1ZxekxDNXJIWlVuQUkzNGlLN3hpZlFMWWhfTHlPUnhaTFBfank1NVZCOEdxdkNpRDRiVjAwbjJLZ1E?oc=5",
+     "source": "giga.de",
+     "published": "2026-07-17T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Neues Pokémon-Set \"Dunkelnacht\" fast überall vergriffen - Heute",
@@ -882,35 +961,6 @@
    "first_seen": "2026-07-25T15:38:59.039140+00:00",
    "related": [],
    "report_count": 1
-  },
-  {
-   "title": "Pokémon-Karten: Neue Premium-Kollektion ab sofort bei Amazon sichern - giga.de",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMXctRkxHTVpyLWdJSlBEbUMwN1hUWEZ6QWMxSG1NbjR3RmotRlhZU0xtakpIOFQtMEo1Tk5XSGpPSlMwNEVEUVlMSVRMT1l3NEhON2ltaWE3M3FMN0RsUFdNaFpOTDBldzdqbDdzTnRIVkV4cVoyTjVnbzN5dGpOeXh4TjRLc19qTTZFaFQySEE2enlmVFNFbnJLXzdiM3Q1V0xGVE5HQ0dRTVduUUZMdjFfcXNGNURzSV9jbVpCMA?oc=5",
-   "source": "giga.de",
-   "platform": "news",
-   "published": "2026-07-17T02:45:00+00:00",
-   "summary": "Pokémon-Karten: Neue Premium-Kollektion ab sofort bei Amazon sichern giga.de",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "giga.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.039174+00:00",
-   "related": [
-    {
-     "title": "Pokémon-Karten: Dunkelnacht ab sofort bei Amazon sichern - giga.de",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGctRGxXb1Z1MTFBM1EycGNwQkE0VGpCOGU1Q054RUljd1JvQ1RuX0VVT1p2eTVPbHl4bkpfMWg3VEhLWTJpQklYSGtwd3ZCbFNHZmprZVUyNF9PRmptcXdKNTg3QWw4NWZVa0Z3SUx0c1NnZ1ZxekxDNXJIWlVuQUkzNGlLN3hpZlFMWWhfTHlPUnhaTFBfank1NVZCOEdxdkNpRDRiVjAwbjJLZ1E?oc=5",
-     "source": "giga.de",
-     "published": "2026-07-17T02:45:00+00:00"
-    }
-   ],
-   "report_count": 2
   },
   {
    "title": "Pair bought Pokémon cards with stolen ID, tried to resell them, warrant says\n\nXinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are accused of stealing a m",
@@ -942,28 +992,6 @@
     }
    ],
    "report_count": 2
-  },
-  {
-   "title": "Pokémon statt Krypto: Dieser Trend bricht alle Rekorde - BTC-ECHO",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVlA3U05rUklsandRZXVuejI0TXd0eVVaU0NWUG16ZGg2Z2Z4cVdla1NUNzdueFFQR25QVklEMUd3VGRrUm5teEc1M0JXYzlBX2JIem5SN0NhWTh0MFZtQXVjRTV5cE42bHp0WHdwR1JIUW5kWFhWTXp4SUJIUm40THBJWQ?oc=5",
-   "source": "BTC-ECHO",
-   "platform": "news",
-   "published": "2026-07-16T15:56:00+00:00",
-   "summary": "Pokémon statt Krypto: Dieser Trend bricht alle Rekorde BTC-ECHO",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "btc-echo.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.039280+00:00",
-   "related": [],
-   "report_count": 1
   },
   {
    "title": "Pokémon card thief ordered to pay $500 after nearly $28K Eldersburg theft - Baltimore Sun",
@@ -1130,6 +1158,30 @@
    "report_count": 1
   },
   {
+   "title": "16-year-old charged after alleged high-value trading card theft - CTV News",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc2xiTE1wS2pOQ2JIUU5LcXJzdFVvQkNkMFlPSk9KM190S0U4UVhtbVM5VWprQTZjSEIzNkdoN0Uza0EybDdzNTNISWg1dDM2eUZwcVMxczRkX0RfTXhyV0FJNUY2TExUcWZVV2w2SDRUelRFVG11akNIaVVsV1Z5SjhxbW44bWRSTVE2bi0tM2xkaHRsaE0yLVotOFF4NXJPZVhJTA?oc=5",
+   "source": "CTV News",
+   "platform": "news",
+   "published": "2026-07-15T07:00:00+00:00",
+   "summary": "16-year-old charged after alleged high-value trading card theft CTV News",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "ctvnews.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "charged",
+    "theft",
+    "trading card"
+   ],
+   "first_seen": "2026-07-23T12:55:00.279236+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
    "title": "Tri-State teens arrested for stealing laptop, Pokémon cards, more from unlocked vehicles - WKRC",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZUdEemk1aXBObHpiVkFlYlpUQl9fZEVJSTlZa3BkMEtscXlMYVJ6NGN6NUlxbl9HaFFuTmE1amR5MkN0MU1Jc012cWlaWHJNSmkwUncyRmlZZU1tSVlqdWtmT21RVWg5N29ERERCYmJFOVRDdlR5WHhFV0VLenNoRDNNNmotTHo0OGZqaHNPX3QyVDNXeDIyaGYwRWhFbVo2ZzdyRGxsZWpycWdlcjBIY0dLMTRueWsz?oc=5",
    "source": "WKRC",
@@ -1194,22 +1246,16 @@
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "volksstimme.de",
+   "domain": "lippischelandes-zeitung.de",
    "logo": "",
-   "score": 1,
+   "score": 2,
    "matched": [
-    "news:de"
+    "investment",
+    "sammelkarten"
    ],
    "first_seen": "2026-07-25T15:38:59.039623+00:00",
-   "related": [
-    {
-     "title": "„Pokémon“, „Yu-Gi-Oh!“ & Co: Sammelkarten als Investment? - Wert und Risiken kennen - Volksstimme",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRFVwVDBfekc5MnBTQ0hVUHhzcHd4WUlWbEd4cFF1SFp0VnJsM0tiQ25VaV81RFgyVWN6dFVZam1wcmJKTGZuMHdLY2Y1eWNndkdwS0h6ZW5palctWEh3N0pxcUgtZTNXSUpTWUgzaTctUlpaR21JYy1IUFBtbmxIUVAxeGRiamdvNjNxNkhBU284SjgtSEdwc2lnaWZRZjRVOVR3?oc=5",
-     "source": "Volksstimme",
-     "published": "2026-07-15T03:00:00+00:00"
-    }
-   ],
-   "report_count": 2
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Two arrested in Pokemon card burglary - FOX 26 Houston",
@@ -1902,26 +1948,33 @@
    "report_count": 3
   },
   {
-   "title": "LEGO Pokémon 18+ Sets mit Minifiguren im August & Oktober! - StoneWars",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lbkRNMnJScHJZZHF4QmcxUTNraTMybVpndWJzZzZiTExPZXNPZF9PYUI0T3hlT25CaHh4Y0xJV2pZTmdpQmh1LXpNM0ktMjdEZjhpV1ZVX2xtMmlPZmRsOXpZekRBQQ?oc=5",
-   "source": "StoneWars",
+   "title": "Leak zu LEGO-Pokémon 2026 – diese drei Sets mit Teilen und Minifiguren sind geplant - PlayCentral",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQU81Nkl6bzY4NTZXQklsUUlfczdaMERVM3g2UlVWaVRXX21pZGNjVENrazB2WjNPbHNlbWh2bWZ0dk9rNDdMUlpKUFN3NnVlbURFNUh4Wmt1SEYybFZ5V21JZXBUSlJnVXlMcV9Uc094Z09YNEs1M2ZqMEpqNVlEYTl1Q2UzZ2FwcW1CTE00QkNmcnA3SnZmZlR5X1BZSnd1UVROYXlhWjNYcTFzbWc?oc=5",
+   "source": "PlayCentral",
    "platform": "news",
    "published": "2026-07-07T07:00:00+00:00",
-   "summary": "LEGO Pokémon 18+ Sets mit Minifiguren im August & Oktober! StoneWars",
+   "summary": "Leak zu LEGO-Pokémon 2026 – diese drei Sets mit Teilen und Minifiguren sind geplant PlayCentral",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "stonewars.de",
+   "domain": "playcentral.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-07-25T15:38:59.040695+00:00",
-   "related": [],
-   "report_count": 1
+   "first_seen": "2026-07-25T17:29:32.543506+00:00",
+   "related": [
+    {
+     "title": "LEGO Pokémon 18+ Sets mit Minifiguren im August & Oktober! - StoneWars",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lbkRNMnJScHJZZHF4QmcxUTNraTMybVpndWJzZzZiTExPZXNPZF9PYUI0T3hlT25CaHh4Y0xJV2pZTmdpQmh1LXpNM0ktMjdEZjhpV1ZVX2xtMmlPZmRsOXpZekRBQQ?oc=5",
+     "source": "StoneWars",
+     "published": "2026-07-07T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "🔍 Wir brauchen eure Hilfe! Unsere PSA-Submission ist verschwunden. 🙏",
@@ -2314,28 +2367,6 @@
     }
    ],
    "report_count": 2
-  },
-  {
-   "title": "Pokémon-Sammelkartenspiel: Tech-Sticker-Kollektion 30 Jahre - Pokemon.com",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGZmYmdIOUhGSGdlU2VtYmZWeFBtU2JFdXJIZFM1MG94WEdsdUcyRGQ3UkpxNmgwSVFzdkVhQ0V5TWR5X2t3WXd0V3U3LTlTMVRCaDdqUXE4ZW1KUXlYeTV4VkwwWF9kOExsZ2IweG1LcnJHSDNieEZON1U1QVZ5anNSU1Z2TklVWjkzSGtpMUg5Vm5DWmtLdHFqNU9oVU8tTWc?oc=5",
-   "source": "Pokemon.com",
-   "platform": "news",
-   "published": "2026-06-30T15:10:54+00:00",
-   "summary": "Pokémon-Sammelkartenspiel: Tech-Sticker-Kollektion 30 Jahre Pokemon.com",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "pokemon.com",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T18:04:30.879445+00:00",
-   "related": [],
-   "report_count": 1
   },
   {
    "title": "Burglars smashed into the PokéMall trading card store in Pico-Robertson, stealing an estimated $10,000 worth of collectible Pokémon cards.",
@@ -2745,28 +2776,6 @@
    "report_count": 1
   },
   {
-   "title": "Rund 15 Millionen Euro pro Karte: Pokémon-Sammelkarten bringen richtig viel Geld - Tips.at",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeHhYR2tyM0NHbWdLNHR2NVhuQWJmWnFjTmpJNGpiRGtHRC05SlZEQjE2NXI3TENyZ1lWM1I3b2dldHlEZWwwblJCYjYtOUI4azNxSUdQTUtmamIxR0lseFZTQlZ0STdWQ1pFS29YeDNrOW9TRE5EV1FlY2RKMllYUkxlWUZGZDlZVFVBckUzNnBTTnlneUE2OWVhWHRQLXJNcmJPUUlIeU5IR0NvY1lzWkYwTUZnY2FaRGlEYlFmR1lUMm5yZllobUQzdXNER3c3YnV4OFdzNTV1dy1QYmpyOQ?oc=5",
-   "source": "Tips.at",
-   "platform": "news",
-   "published": "2026-06-25T07:00:00+00:00",
-   "summary": "Rund 15 Millionen Euro pro Karte: Pokémon-Sammelkarten bringen richtig viel Geld Tips.at",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "tips.at",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.042079+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Pokémon-Karten: Tin-Boxen mit Mega-Glurak bei Amazon sichern - giga.de",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWUVKdkk1UW1TNWVpYW93OUlKTjVtaWxKRms0V2VkMHg2cTNtamg1NTQwcV95a2FvaTB6MHZCQWlwRnhvZHBHS0d0THdSWGdGM1ZkZDVhYlRFbGN3T2VkMEtyN01BcFV6WVVycGt6YnZEQmp4ei12MmdzeFRNbkZSUmVaT2tQYjc3TlpfQ05lb2ktZDd2d0l6LTNkQ2RseXFyb2dFdURleU51WG1iUkEzdnRaOA?oc=5",
    "source": "giga.de",
@@ -2794,6 +2803,28 @@
     }
    ],
    "report_count": 2
+  },
+  {
+   "title": "Rund 15 Millionen Euro pro Karte: Pokémon-Sammelkarten bringen richtig viel Geld - Tips.at",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeHhYR2tyM0NHbWdLNHR2NVhuQWJmWnFjTmpJNGpiRGtHRC05SlZEQjE2NXI3TENyZ1lWM1I3b2dldHlEZWwwblJCYjYtOUI4azNxSUdQTUtmamIxR0lseFZTQlZ0STdWQ1pFS29YeDNrOW9TRE5EV1FlY2RKMllYUkxlWUZGZDlZVFVBckUzNnBTTnlneUE2OWVhWHRQLXJNcmJPUUlIeU5IR0NvY1lzWkYwTUZnY2FaRGlEYlFmR1lUMm5yZllobUQzdXNER3c3YnV4OFdzNTV1dy1QYmpyOQ?oc=5",
+   "source": "Tips.at",
+   "platform": "news",
+   "published": "2026-06-25T07:00:00+00:00",
+   "summary": "Rund 15 Millionen Euro pro Karte: Pokémon-Sammelkarten bringen richtig viel Geld Tips.at",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "tips.at",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-07-25T15:38:59.042079+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Jacksonville Seeks Suspect in $7,000 Pokémon Card Heist - Hoodline",
@@ -2973,7 +3004,7 @@
      "title": "Drugs, guns, car, $40K in Pokémon cards seized in police investigation - CTV News",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVJLLXBDWXJCbzhCWjN0SW5ybXpiRDRQWVUzbGg3NHNRQ2ZJcnY4aDdYMms3dTZTNUhvd21oWl9QWmxJTHFrYUw2RTFnUi1lSkg4UFRBR1NPZHlBWmhYX3QxOXFqM2RGdS1YNVE0eU1scGd2cVpSMFFHelo4ejVuOFBCS1ZoLWNKX3BDZVFvYzN0Y1VLX2h0aU01aFVNcU5qSGR3U09yTEhfQQ?oc=5",
      "source": "CTV News",
-     "published": "2026-06-12T07:00:00+00:00"
+     "published": "2026-06-12T22:36:48+00:00"
     },
     {
      "title": "Drugs, cash, weapons and £2k worth of stolen Pokemon cards seized after Leamington arrests - WarwickshireWorld",
@@ -3032,35 +3063,6 @@
      "title": "Pokémon-Fans müssen schnell sein: Seltene Deals auf Pokémon-Karten zum Prime Day - PC Games.de",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXBKOENlRE40UE5KeHZCaXFqVEdkV3liYVNuYnFDQ2ZDenlEWS1QcnRCVjFKUEhIOUJ5QzlMdEtBYTJHYjJ3UUZqa1NvTllTcUVZdDQzRDFsZ0JqS1pydV9WTDk4cUFNU0JrWUl3ZnlLei1fbFhITFBPU29pREtPdW82eEdRWUVSVVNVSk0zSnh2SHdVMWtQZlJ0Z2J3dldYWTBYSjhxdTZkVi1waXdjcU9BOG1HX2stMjlQcWtB?oc=5",
      "source": "PC Games.de",
-     "published": "2026-06-23T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
-  },
-  {
-   "title": "Pokémon TCG Pocket: Mega-Rayquaza im Fokus der nächsten großen Erweiterung - Gameswelt",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2tITllyZzIzSEg1YzVMcmNUVHBUR2U5QUdHa25zeWlfRl9iMHZUaURjZ2s2aUxqQVpYSklfR1RndkJjczFUQXRVcVZTblN3ZEZrRXZlckZuZGJHb2hxcjlyS3B5SWIyVDBGZHBvMlJxZ3ZqblVnM0lsdnVOcU5fcEtkUU9VMTc0UXlzeGpEanRfc1JPLTgxUXNUTnUzVFR0R3hfbnRaanhCTmNvdWg3MktR?oc=5",
-   "source": "Gameswelt",
-   "platform": "news",
-   "published": "2026-06-23T07:00:00+00:00",
-   "summary": "Pokémon TCG Pocket: Mega-Rayquaza im Fokus der nächsten großen Erweiterung Gameswelt",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "gameswelt.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.042608+00:00",
-   "related": [
-    {
-     "title": "Mehrere Projekte starten – Neue Pokémon-Pläne sorgen für großes Aufsehen - Heute",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMlQ1VEl0Z2xOUEY3UUJpbzF4UGpva2V1ckE5WkdnOFhfRTBxSHI4bkZzbUh4TEM2b1NDWjJkcnQ3U2pnTFNsU0NFdVYtc2htVHRmbTRxNTVJVHZhVUw3THl4d25INGxNSkdfeVJCbWNrTEVuaDl1OUV2dTI3eDV5V09BM01tdUZZ?oc=5",
-     "source": "Heute",
      "published": "2026-06-23T07:00:00+00:00"
     }
    ],
@@ -3342,6 +3344,28 @@
     "pokémon"
    ],
    "first_seen": "2026-07-24T05:34:52.455528+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Pokémon TCG Pocket: Mega-Rayquaza im Fokus der nächsten großen Erweiterung - Gameswelt",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2tITllyZzIzSEg1YzVMcmNUVHBUR2U5QUdHa25zeWlfRl9iMHZUaURjZ2s2aUxqQVpYSklfR1RndkJjczFUQXRVcVZTblN3ZEZrRXZlckZuZGJHb2hxcjlyS3B5SWIyVDBGZHBvMlJxZ3ZqblVnM0lsdnVOcU5fcEtkUU9VMTc0UXlzeGpEanRfc1JPLTgxUXNUTnUzVFR0R3hfbnRaanhCTmNvdWg3MktR?oc=5",
+   "source": "Gameswelt",
+   "platform": "news",
+   "published": "2026-06-19T07:00:00+00:00",
+   "summary": "Pokémon TCG Pocket: Mega-Rayquaza im Fokus der nächsten großen Erweiterung Gameswelt",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "gameswelt.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-07-25T15:38:59.042608+00:00",
    "related": [],
    "report_count": 1
   },
