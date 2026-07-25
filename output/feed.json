@@ -1,7 +1,7 @@
 {
- "generated": "2026-07-25T09:49:40.879173+00:00",
+ "generated": "2026-07-25T09:56:02.971571+00:00",
  "builder": "2026-07-25b",
- "count": 90,
+ "count": 86,
  "new": 0,
  "items": [
   {
@@ -526,30 +526,6 @@
    "report_count": 3
   },
   {
-   "title": "Youth charged after theft of high-value trading card - Barrie Police",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVVlyYVA1b250Y3hlQVFDR1RjVFdjMUF5Y21QMXUxVHQxenVkSDRzMl85anZoeXVESHk0T293bV9JUmpRLUxHMG5KbUVHUVpycHdkZ19LU2ZBS0VfVml5ZTlXWVhKd21lRk1jTUFpWGduelN6VzYtSTc2ejk1Z044QWJCNm5RQmE4?oc=5",
-   "source": "Barrie Police",
-   "platform": "news",
-   "published": "2026-07-15T17:55:17+00:00",
-   "summary": "Youth charged after theft of high-value trading card Barrie Police",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "barriepolice.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "charged",
-    "theft",
-    "trading card"
-   ],
-   "first_seen": "2026-07-25T09:34:15.312934+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Einbruch in Brötzinger Fußgängerzone: Geld und Sammelkarten aus Schreibwarengeschäft gestohlen - PZ-news",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeFVwRVhoOXZna1c5WGJzSUQyei1aVmNaVEI0MzRIY21ybmNxZE4tVEQ1bnhVQlVkdS0wUHFEQWNJdThhTWNxckJyaU9iUXVCOF9UNVRSejIwMGpZVWlDRU9lUU8ydWtQLVJpN2xaQ1pYWjdtbl9PMXRxMk41aU85YnVKMnlpbG9HWmpnMG1wUUx6emk0V3JucEtyUkNWRk1FUTBVUTBkV0syZDZ0dFByZ3Q4MHQ3R1FRZUFNOVpVa19MS0ZiNFlXNzVKRFJ0WmV3QlVHS2Qxc1E5ZjhOMjJBMkxMdkV1TzJad0w4a3hEWQ?oc=5",
    "source": "PZ-news",
@@ -621,31 +597,6 @@
     "pokémon"
    ],
    "first_seen": "2026-07-23T12:55:00.279362+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Pokémon trading cards stolen from several local shops - AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFS1g1US0wTnVBYWczZHd6c2FLdGVFRnJqM3VLcE1POWZtQWtFVmlJUzZsX050SmJ5ekkyUGRRN3EtMEtudTVuWDlXNVJUZTNrOGdtTHBHRDVDNG1TeFEya2NtRXFrR2tCYXVJcEhGYWJURTIzNU4ycTlzMXE?oc=5",
-   "source": "AOL.com",
-   "platform": "news",
-   "published": "2026-07-14T07:00:00+00:00",
-   "summary": "Pokémon trading cards stolen from several local shops AOL.com",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "aol.com",
-   "logo": "",
-   "score": 4,
-   "matched": [
-    "pokemon",
-    "pokémon",
-    "stolen",
-    "trading card"
-   ],
-   "first_seen": "2026-07-25T09:16:25.491879+00:00",
    "related": [],
    "report_count": 1
   },
@@ -753,60 +704,11 @@
    "report_count": 5
   },
   {
-   "title": "Pokémon-Sammelkarten: Käufer schlägt zu und flieht mit Beute - main-echo.de",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcjJ5eVE5enBvOHVWeHhqY3E3djAwOERYMnJUaHJrNVJkQ1QzZkZSX0JlSlF0cVY1WlZnek1FSmF3Y1dPNF9ITDFWUmhwMWdyaWRseVc3UUpORlVPamdYdHRpZkI3UWVYNHBldm5EUFVLdGh6dFpHMjljMmpGTWJiOVQxMmlxNl9feXZuWXl2U2ZHUG1hNW05SFY5Tm5SaVFPVlB1Wm9qUG5TOU45UVpOUnlQU2RXa2RUTHExNg?oc=5",
-   "source": "main-echo.de",
-   "platform": "news",
-   "published": "2026-07-10T13:43:58+00:00",
-   "summary": "Pokémon-Sammelkarten: Käufer schlägt zu und flieht mit Beute main-echo.de",
-   "author": "",
-   "category": "einbruch",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "main-echo.de",
-   "logo": "",
-   "score": 4,
-   "matched": [
-    "beute",
-    "pokemon",
-    "pokémon",
-    "sammelkarten"
-   ],
-   "first_seen": "2026-07-23T12:55:00.279520+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "$95,000 Pokemon Heist Ruined By Embarrassing Getaway Failure - TheGamer",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRWFSdXlPS3hTeXlvZEJqN2tUa3NVZml0YzlLc1B3NS0wbkZmXzBhNHRXWlI4SF9EcVhhQVZEX0xidHBRRnlLUmw4TVAxWnFJMWNYUGpVLThfdTRZblZLdEg0S3E1U3R6ZWJ2YkI5Vmcyel9DR0VSVlFEaFRzRVozYw?oc=5",
-   "source": "TheGamer",
-   "platform": "news",
-   "published": "2026-07-10T13:26:52+00:00",
-   "summary": "$95,000 Pokemon Heist Ruined By Embarrassing Getaway Failure TheGamer",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "thegamer.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "heist",
-    "pokemon",
-    "pokémon"
-   ],
-   "first_seen": "2026-07-24T05:48:46.880551+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Verkauf geht schief: Pokémon-Diebstahl: Mann schlägt zu und stiehlt Sammelkarten - Augsburger Allgemeine",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN3p0WDJYY0lhMWl3eGtHM0c0ZWdQSHo3c3FwTUtFMkxUT1JpaGNUcUxVRW5BNG5pemZ5NHpubHJIdVQtTXdGY08wa3E5S0lZeHdfY0FaSHQ5QWVMcENEUm1Fb3VFbFN2cjgwbnROQlVXVldYUVR4NmhTWmg2QTVpOUhMa0lIaFVDa0Vsbm03N3FKTVpQUXY2RUZuSHdKNTZyYlZocUJMQjdkRkpXcGVzTzEyTTRNTm16a292emhnczRrUmJXY0h3WmswXy1XcC1JaEczOGhHU2xDLXNYMnc?oc=5",
    "source": "Augsburger Allgemeine",
    "platform": "news",
-   "published": "2026-07-10T12:16:14+00:00",
+   "published": "2026-07-10T13:43:58+00:00",
    "summary": "Verkauf geht schief: Pokémon-Diebstahl: Mann schlägt zu und stiehlt Sammelkarten Augsburger Allgemeine",
    "author": "",
    "category": "einbruch",
@@ -831,13 +733,37 @@
      "published": "2026-07-10T07:00:00+00:00"
     },
     {
-     "title": "Pokémon-Diebstahl: Mann schlägt zu und stiehlt Sammelkarten - Traunsteiner Tagblatt",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObVlSNHBlMU5KNHM2S0RGdEZfYlNQOHdueDhUYkFIODQxU3hQUDhON0tWVS1oVGI5VkJORlVmbkhSM3k0c3lYMmMxRTZ5bHpzZENGWldxMEY3Y0RDWHpWN3hyekV4MldJaWdkVGFWUlE2RzVUZkdSYm01TndHNWhEc1VNSEFOSS1KZm9iTHdJTHc0d2Q4cWdFcmwzR2dHU0RKSW1yQmF1M1laZ2dZN3B5QUk1QTJ5LW16MGJWNGN5MlM2ZjJqd3ZqZ205R3ctd1dkSWVxODNQcUNHZXpNVzhzRGYxeC1UWXgt?oc=5",
-     "source": "Traunsteiner Tagblatt",
-     "published": "2026-07-10T07:00:00+00:00"
+     "title": "Pokémon-Sammelkarten: Käufer schlägt zu und flieht mit Beute - main-echo.de",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcjJ5eVE5enBvOHVWeHhqY3E3djAwOERYMnJUaHJrNVJkQ1QzZkZSX0JlSlF0cVY1WlZnek1FSmF3Y1dPNF9ITDFWUmhwMWdyaWRseVc3UUpORlVPamdYdHRpZkI3UWVYNHBldm5EUFVLdGh6dFpHMjljMmpGTWJiOVQxMmlxNl9feXZuWXl2U2ZHUG1hNW05SFY5Tm5SaVFPVlB1Wm9qUG5TOU45UVpOUnlQU2RXa2RUTHExNg?oc=5",
+     "source": "main-echo.de",
+     "published": "2026-07-10T13:43:58+00:00"
     }
    ],
    "report_count": 3
+  },
+  {
+   "title": "$95,000 Pokemon Heist Ruined By Embarrassing Getaway Failure - TheGamer",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRWFSdXlPS3hTeXlvZEJqN2tUa3NVZml0YzlLc1B3NS0wbkZmXzBhNHRXWlI4SF9EcVhhQVZEX0xidHBRRnlLUmw4TVAxWnFJMWNYUGpVLThfdTRZblZLdEg0S3E1U3R6ZWJ2YkI5Vmcyel9DR0VSVlFEaFRzRVozYw?oc=5",
+   "source": "TheGamer",
+   "platform": "news",
+   "published": "2026-07-10T13:26:52+00:00",
+   "summary": "$95,000 Pokemon Heist Ruined By Embarrassing Getaway Failure TheGamer",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "thegamer.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "heist",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-07-24T05:48:46.880551+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Armed robbery at Pokémon-card store in Lanaudière - CTV News",
@@ -2264,10 +2190,10 @@
      "published": "2026-06-11T07:00:00+00:00"
     },
     {
-     "title": "San Francisco teens suspected in Pokémon card robbery arrested - CBS News",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlwQzJQMUthQ3F0dnQxMlN3akgtZ195cW8ycEUyUTRUcG9yOXVsZ3l4N0lzbXRjUnU4Q2t4OUZSYnEtSjR2c005RzVRMWVwTThUQ3ZKS1FPVGdSRDV2dW1pejEtWGkyV0taRlZDUXpCdVJ1UEFzSVRGR2xKME9PcEQ1MGlNN3FESVQ1blRxT01wbzREQVhVaDFuSDVIcnhDdXdmTWQ2Y0g?oc=5",
-     "source": "CBS News",
-     "published": "2026-06-11T07:00:00+00:00"
+     "title": "San Francisco Pokémon theft takedown - KTVU",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yVXRSTFNBVXZZUjNhM25RdkRCOFlrTmFxb1l5WjgzM1Njb1FYek1MSUhGOTUxX0NENFFGRVRqaUhxME9TanVnSmFmby1ORHpRSEtnTWFwMERFZVRyMEx6VFRxcTM1UldKczVNR0JTWERVVk93dEJVZi1B0gF_QVVfeXFMTzlEVXFnOWd3VTZGZEYySzUxR0NRQndHRmhldUY0TE5OTjZXcG9YVlVwRlNTVUpxLVI5Y0FXQkpVSHhlX1ctREhXZzNaT1ltcjJqV2ZxYWFSS0Q2N1lzbDFoQzd3MTItdVNGMWxGQXhuNVR2cnloMU42THdLZ2hHWQ?oc=5",
+     "source": "KTVU",
+     "published": "2026-06-12T07:00:00+00:00"
     }
    ],
    "report_count": 3
@@ -2319,30 +2245,6 @@
     "robbery"
    ],
    "first_seen": "2026-07-24T05:34:52.456006+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "San Francisco Pokémon theft takedown - KTVU",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yVXRSTFNBVXZZUjNhM25RdkRCOFlrTmFxb1l5WjgzM1Njb1FYek1MSUhGOTUxX0NENFFGRVRqaUhxME9TanVnSmFmby1ORHpRSEtnTWFwMERFZVRyMEx6VFRxcTM1UldKczVNR0JTWERVVk93dEJVZi1B0gF_QVVfeXFMTzlEVXFnOWd3VTZGZEYySzUxR0NRQndHRmhldUY0TE5OTjZXcG9YVlVwRlNTVUpxLVI5Y0FXQkpVSHhlX1ctREhXZzNaT1ltcjJqV2ZxYWFSS0Q2N1lzbDFoQzd3MTItdVNGMWxGQXhuNVR2cnloMU42THdLZ2hHWQ?oc=5",
-   "source": "KTVU",
-   "platform": "news",
-   "published": "2026-06-12T07:00:00+00:00",
-   "summary": "San Francisco Pokémon theft takedown KTVU",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "USA",
-   "image": "",
-   "domain": "ktvu.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "pokemon",
-    "pokémon",
-    "theft"
-   ],
-   "first_seen": "2026-07-24T05:48:46.882286+00:00",
    "related": [],
    "report_count": 1
   },
