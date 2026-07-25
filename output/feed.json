@@ -1,8 +1,8 @@
 {
- "generated": "2026-07-25T10:04:44.718135+00:00",
+ "generated": "2026-07-25T12:04:19.741558+00:00",
  "builder": "2026-07-25b",
- "count": 86,
- "new": 0,
+ "count": 87,
+ "new": 1,
  "items": [
   {
    "title": "Japan Eyes Regulating Pokémon Cards as $2.1B Market Fuels Counterfeiting and Money-Laundering Fears - International Business Times UK",
@@ -1400,6 +1400,30 @@
     "submission"
    ],
    "first_seen": "2026-07-23T12:55:00.280129+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Masked burglars take $10K in Pokemon cards - FOX 11 Los Angeles",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQi0xM3NwTFo2X0ZtdGpVOXM3Uk1lUzhSY0pEd0VSVHhfYzdWaVlYbjAyaml5R0F6ZUFmeEppaWpOdDJrajRnZE1pSTk4YW9xVFIwME9NREN6NG94djJBTWg0UFdSTWpjaHFEZkd4VTh4UmRLc19NRUY0djJFaHdwQUk4YzZybEd10gGOAUFVX3lxTE8tWVNROEFxRHZTNnR0TzdaZkZrMFRvdTRROHBuVDhrUk5vNXhFVlNiYlBhNWIxbjRjXzZTQlVSQ3A1cHhiNFVfbE5hcWh2WGJ6OTFFRWxFRC1CSjNFQ0NVckM0RFBrZG5VZEJTcDRyZU83OU92cm1SNDYtQ3N3SDBNSmlSSF9pbjBSaGdBckE?oc=5",
+   "source": "FOX 11 Los Angeles",
+   "platform": "news",
+   "published": "2026-06-30T07:00:00+00:00",
+   "summary": "Masked burglars take $10K in Pokemon cards FOX 11 Los Angeles",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "USA",
+   "image": "",
+   "domain": "fox11losangeles.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "burglar",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-07-25T12:04:19.734433+00:00",
    "related": [],
    "report_count": 1
   },
