@@ -1,8 +1,8 @@
 {
- "generated": "2026-07-26T04:04:32.826903+00:00",
+ "generated": "2026-07-26T06:04:01.222256+00:00",
  "builder": "2026-07-25g",
  "count": 147,
- "new": 2,
+ "new": 1,
  "items": [
   {
    "title": "A Forest Lake card and video game store is picking up the pieces after an early morning break-in left a boarded-up window and big questions about security.",
@@ -24,6 +24,29 @@
     "game store"
    ],
    "first_seen": "2026-07-26T04:04:32.812315+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Another break-in at a Twin Cities card store - FOX 9 Minneapolis-St. Paul",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVjZpOG5tMWJhOE1aaVp0Rnpqc2N0M0NhMGhrZFYzUFpneUJxT3hSZVhnQlVuZUJQTjh3dDBVQmI0bjN1QnBzUl8wOUVNZzN4MjhBQlNmaGRVQzAtbjRxaGEzcHFrVWR1TVJjbEo2SnNjSWN1T0YyMGFrQzhYNHlVOWFEeUpHaThSQnIzTzB4aGY5SmxudDlZTzlQWEZKSzNS0gGmAUFVX3lxTE81Q21xbHdEenNxcEcwM1NWTTFWRTBzd0xxUUJpTWNCU2RiSXViclpzQkxXSWQ3QnBIcnlfLU1Eakx6M0tzWFM4ZkZlQXBEYjVmdTg0RkhGRG1LSjhkbU5uZkJKMnpELVo4a3Q3RldTVjlmMThyUnJYWFhCamVMdkdWMFhuOVJ2VzZ3RGtkXzAtVjZ1ZUhXS1I5cmhHcklqVnBNVHhlNkE?oc=5",
+   "source": "FOX 9 Minneapolis-St. Paul",
+   "platform": "news",
+   "published": "2026-07-26T02:55:57+00:00",
+   "summary": "Another break-in at a Twin Cities card store FOX 9 Minneapolis-St. Paul",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "fox9minneapolis-stpaul.com",
+   "logo": "",
+   "score": 6,
+   "matched": [
+    "break-in",
+    "card store"
+   ],
+   "first_seen": "2026-07-26T06:04:01.208787+00:00",
    "related": [],
    "report_count": 1
   },
@@ -1094,26 +1117,33 @@
    "report_count": 1
   },
   {
-   "title": "Pokémon Pokopia: „Zoruas Schnappspielturnier\" startet am 19. Juli - Nintendo Connect",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTkxtVWRxSENVT1hvS2RybGdiVFg3aGRmMTlEa09WZVd6M3MtX1lOTFc4ekxnVTJvTWRoNXU3eVpfVlNzODB0bDJnM0xhRzJhMERzYXUyUHcwc2JnMkxUdFprU1VfcXJmb05tdWVRX2R5TUQzQkczUUVUWmJFcjdaWTliUmxRWnFwbE12TTZ0OWJMT1Nrak1zNl8wM1pBRFVuTHc5T1pQRmlyRE9lZ1dZaWstdGNRc1VtUFEyUjRiTl8zOUhEUlE?oc=5",
-   "source": "Nintendo Connect",
+   "title": "Lego-Pokémon: Warum nur zwei Starter-Sets die neue Smart-Play-Welt wirklich zum Leben bringen - CHIP",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaWQtcWVqbUFaSFJheEJiTU84ZUMtbFhXWnJUNUFYRlpfY05feE0zNy1FX2htcGw3MkctWHN1RExsaHNTb1BmTEVvQUVqV0RuR2FtM2U5UzEwWThpNUFhMWV5UTVLNVJBTXFGQXI5Sk5Rc3hMY0RZRDRJNkRWbnN0WmwyalVKY1BETEJRWHh4bHVfdjlaUng0N1RWZ0xTeEdVRXN4RTlxWVYwajhKVl9VMHQtd0k1SXQwVXpWMEdUV0pfX214ekdvcTNOMEpyWUdkdlk3LW41emhQaXZ5cEtVRmV2RDNFcE9ud3Z3d1lxbEZwbVJ2OTFOSkZzTkk3MUNiWWZrWjloR1JkUQ?oc=5",
+   "source": "CHIP",
    "platform": "news",
    "published": "2026-07-15T08:32:08+00:00",
-   "summary": "Pokémon Pokopia: „Zoruas Schnappspielturnier\" startet am 19. Juli Nintendo Connect",
+   "summary": "Lego-Pokémon: Warum nur zwei Starter-Sets die neue Smart-Play-Welt wirklich zum Leben bringen CHIP",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "nintendoconnect.de",
+   "domain": "chip.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-07-25T15:38:59.039486+00:00",
-   "related": [],
-   "report_count": 1
+   "first_seen": "2026-07-25T22:04:31.980605+00:00",
+   "related": [
+    {
+     "title": "Pokémon Pokopia: „Zoruas Schnappspielturnier\" startet am 19. Juli - Nintendo Connect",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTkxtVWRxSENVT1hvS2RybGdiVFg3aGRmMTlEa09WZVd6M3MtX1lOTFc4ekxnVTJvTWRoNXU3eVpfVlNzODB0bDJnM0xhRzJhMERzYXUyUHcwc2JnMkxUdFprU1VfcXJmb05tdWVRX2R5TUQzQkczUUVUWmJFcjdaWTliUmxRWnFwbE12TTZ0OWJMT1Nrak1zNl8wM1pBRFVuTHc5T1pQRmlyRE9lZ1dZaWstdGNRc1VtUFEyUjRiTl8zOUhEUlE?oc=5",
+     "source": "Nintendo Connect",
+     "published": "2026-07-15T08:32:08+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Tri-State teens arrested for stealing laptop, Pokémon cards, more from unlocked vehicles - WKRC",
@@ -1190,6 +1220,65 @@
    "first_seen": "2026-07-25T15:38:59.039623+00:00",
    "related": [],
    "report_count": 1
+  },
+  {
+   "title": "Two men charged after Webster Pokémon card store burglary; owner believes arrests could help solve other break-ins - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQl8xUUhKMmplWGllZ1FNdUJHTG52d2h6ajFHcjRfOFdJY09MM0xRUDRSdmhySEhNVWZyN1h3SGNtUjE0Vk01M2FWYUVRbGVqOGx4MVBzNndNaTJ4eWw1anpsNGlOV1NmMkM3MzY2cUN5N3E2dFhlWWJGOElkYjlaZC0yY01HZzNo?oc=5",
+   "source": "Yahoo",
+   "platform": "news",
+   "published": "2026-07-14T07:00:00+00:00",
+   "summary": "Two men charged after Webster Pokémon card store burglary; owner believes arrests could help solve other break-ins Yahoo",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "yahoo.com",
+   "logo": "",
+   "score": 9,
+   "matched": [
+    "break-in",
+    "burglar",
+    "burglary",
+    "card store",
+    "charged",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-07-23T12:55:00.279656+00:00",
+   "related": [
+    {
+     "title": "Two men charged after Webster Pokémon card store burglary; owner believes arrests could help solve other break-ins - KHOU",
+     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPSHkzSEFxSXdFTDJuNVlXZ09VZ0lFSHhSUjFvQ1FCYmJJX2V4THZkSF9PdkxTQlJHVllkRHBhRXEzbkpsaFRRaFVyczNsWC1qVjg0YU9qN0kyUUpfdkRvWElUTEs4bmNSdUUzSUdBRDNzWHJrTmJ2T3BtbnFHZm11QWRsN0VYR3Y5aEhDbXFDZTk0a1FGdEFNZFJuZ2x1M2pkVTIwQndmLWtEMHJXem9sNHYzQVNiSnQxaDFGZndOYzlBUHJ5Rzd6NU5BclNlMTJlV3YyaDVjZjNpSHJxZDgxOF9NQk40eDlZMlcxOXNWNndRV0tMbUwxU0h5VlhhcTVjNGpiLXJEZHBXbU5jLXk1REdIQ0d6c3lueW5zWl9n?oc=5",
+     "source": "KHOU",
+     "published": "2026-07-10T07:00:00+00:00"
+    },
+    {
+     "title": "2 men arrested after breaking into a business and stealing Pokémon cards, Webster police say - ABC13 Houston",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdExiS3FKZ2tqQURpaU1kc1hYVU8zM1prOHRpckVjWV9BTnc2SGQ1cHcyeS10T0dVVUtxRUd1TE9ROUZrbVBPZWI0SXpKSW1XZ2dOb1ZsZjFtaGJNTXNaZmhqaHpuOE5yVjFtblBXMnZyRTFRVjJSVXgyRjhnWEJ4cHNvaTRYTVItVUpNVXU4c0pfSjJHUkRPZTR5aENwRGtVa0szei1xc0xHQdIBrwFBVV95cUxPZ2tFNzltMzBWd0JTcHpjTlNCazBBdzVNNTlJTU4wckRHT0dDV3p6cEdlbDBUTkY1SjdVTkxYNFJwRFNiZ0pwX2MzbEtvSFFqRDk5cnlia3hLV0I3X05oek9PVGNFdDNOYzY1YVdNQlFDZ0JkX2lNelhvOE1QMzM0YVdJTHV3QmtHeHhaZ09pV0lUOXdIa2V1V3VIVWE0MDVEMlFFNnFodVMzN1VxOEg0?oc=5",
+     "source": "ABC13 Houston",
+     "published": "2026-07-10T07:00:00+00:00"
+    },
+    {
+     "title": "Suspects charged in Webster Pokémon card shop break-in - KHOU",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU1FtVTFEMGthMVh0WGN6bzhiQXdrdmVCeGJ4c2o1b1F6d21nTGFaSDczT05Qa3lRV1BwVkRQSHNnb0RNOVJrb1BJRTN0M1pTTjEyRUtsd2tqSmNKVGhzQ2xBRG1HbHN2RDlhWDg4bGU4M3huY1N6Umx6Z1pob0NpM1pmQ1dQejRWbWRzWjZQTmZqZi1oOGR3OHdhSUxhWXZLOUhHSm1hMkJYU3U3T21NZENHNFVIdGZmSmQ2QnFISm82MjZl?oc=5",
+     "source": "KHOU",
+     "published": "2026-07-10T07:00:00+00:00"
+    },
+    {
+     "title": "Webster Pokemon Card Heist — Two Arrested After 31‑Mile Chase - Hoodline",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmpIQzZFcDVPcU9zSXc3dktMNUxJdWRsQ1k1bzd1UjhnU1Z2ZG9wcjRVY1JDV29PQkFsUUFMd0NPVm5aUGdiVlE0VDhReW5FdWZoX0ZKcWVWbzE0b1BuRlpQTGtUcGtSNzZHdlZWVWtNQXJmRFZIX21oa1JPdVhlalQ5SlluT2VNSkRCTTVlelh2VGxpeVJQT2F6TllOSTFx?oc=5",
+     "source": "Hoodline",
+     "published": "2026-07-11T07:00:00+00:00"
+    },
+    {
+     "title": "Two arrested after Webster collectibles store burglary, Pokémon cards targeted - Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVNhdnNEdXlYTy05dHBWNU1OUC1PVkJXZEYzenFsbmJXeDF4WmxqY0hmT3U2NjVLUk1IVFhYSllnQVRMbjczY0QwZXlOUFJCeV92YzNNQnF5SXRDX0VCZWY5cmhOZ09wNWJNNzhLSlRLdmVLNmM2bUJRX3V6QzhHWWNaeXllVVpDWXpjeEN5UHhQY0Zk?oc=5",
+     "source": "Yahoo",
+     "published": "2026-07-14T07:00:00+00:00"
+    }
+   ],
+   "report_count": 6
   },
   {
    "title": "Two arrested in Pokemon card burglary - FOX 26 Houston",
@@ -1314,35 +1403,6 @@
    "report_count": 1
   },
   {
-   "title": "Pokémon TCG-Fan öffnet Sammelordner und erlebt Schock - Ein Knick zieht sich durch ein Sleeve und 6 wertvolle Karten sind ruiniert: \"Ich werde wirklich weinen\" - GamePro",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uMHZWOWsxeUx4d3dpY3dLZ0tSUFJzTUljVF8tUVM3aFZnRnVNLURwVmZpMXpEVWxLRWdnZ2hkLTl6QmF0cXdYMHJiOWM4UGN6d3JCRWh6SUpiQ0dkTkRSdU80UmdfWjlucEktbkpJRjFRLURkZHZvbHUwMA?oc=5",
-   "source": "GamePro",
-   "platform": "news",
-   "published": "2026-07-13T07:00:00+00:00",
-   "summary": "Pokémon TCG-Fan öffnet Sammelordner und erlebt Schock - Ein Knick zieht sich durch ein Sleeve und 6 wertvolle Karten sind ruiniert: \"Ich werde wirklich weinen\" GamePro",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "gamepro.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-26T02:04:13.764952+00:00",
-   "related": [
-    {
-     "title": "Lego-Pokémon: Warum nur zwei Starter-Sets die neue Smart-Play-Welt wirklich zum Leben bringen - CHIP",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaWQtcWVqbUFaSFJheEJiTU84ZUMtbFhXWnJUNUFYRlpfY05feE0zNy1FX2htcGw3MkctWHN1RExsaHNTb1BmTEVvQUVqV0RuR2FtM2U5UzEwWThpNUFhMWV5UTVLNVJBTXFGQXI5Sk5Rc3hMY0RZRDRJNkRWbnN0WmwyalVKY1BETEJRWHh4bHVfdjlaUng0N1RWZ0xTeEdVRXN4RTlxWVYwajhKVl9VMHQtd0k1SXQwVXpWMEdUV0pfX214ekdvcTNOMEpyWUdkdlk3LW41emhQaXZ5cEtVRmV2RDNFcE9ud3Z3d1lxbEZwbVJ2OTFOSkZzTkk3MUNiWWZrWjloR1JkUQ?oc=5",
-     "source": "CHIP",
-     "published": "2026-07-13T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
-  },
-  {
    "title": "Harris County Sheriff’s Office investigates whether Pokémon card theft suspects are linked to other store break-ins - CW39 Houston",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NQm92REdGQ0ZRZHp2SUljbXgyUmkzSmFzbHVrS2FCQzFOSGFNMm9zRjJzRWdzOHFNTkhBc0pWVkE0NXdTWGp4dXJxSUlxeDVsTmR0MmlkVGxuanZoSy1lS0R6cUJXcjDSAWxBVV95cUxOeGpBYzl3QUtoSkM2dWhnSmNQRUp3bERmTS1wUUlfbDRxX29JaGtKRUdnTWJGd3dHN3JDeG5qbHhsLTBkZDJNcmdoQmpFTmlyajdTRUhFZGhIUE1MUVN1X1Bwang5X1RCeFZCZDI?oc=5",
    "source": "CW39 Houston",
@@ -1388,59 +1448,6 @@
    "first_seen": "2026-07-25T15:38:59.039929+00:00",
    "related": [],
    "report_count": 1
-  },
-  {
-   "title": "Two men charged after Webster Pokémon card store burglary; owner believes arrests could help solve other break-ins - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQl8xUUhKMmplWGllZ1FNdUJHTG52d2h6ajFHcjRfOFdJY09MM0xRUDRSdmhySEhNVWZyN1h3SGNtUjE0Vk01M2FWYUVRbGVqOGx4MVBzNndNaTJ4eWw1anpsNGlOV1NmMkM3MzY2cUN5N3E2dFhlWWJGOElkYjlaZC0yY01HZzNo?oc=5",
-   "source": "Yahoo",
-   "platform": "news",
-   "published": "2026-07-11T07:00:00+00:00",
-   "summary": "Two men charged after Webster Pokémon card store burglary; owner believes arrests could help solve other break-ins Yahoo",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "yahoo.com",
-   "logo": "",
-   "score": 9,
-   "matched": [
-    "break-in",
-    "burglar",
-    "burglary",
-    "card store",
-    "charged",
-    "pokemon",
-    "pokémon"
-   ],
-   "first_seen": "2026-07-23T12:55:00.279656+00:00",
-   "related": [
-    {
-     "title": "Two men charged after Webster Pokémon card store burglary; owner believes arrests could help solve other break-ins - KHOU",
-     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPSHkzSEFxSXdFTDJuNVlXZ09VZ0lFSHhSUjFvQ1FCYmJJX2V4THZkSF9PdkxTQlJHVllkRHBhRXEzbkpsaFRRaFVyczNsWC1qVjg0YU9qN0kyUUpfdkRvWElUTEs4bmNSdUUzSUdBRDNzWHJrTmJ2T3BtbnFHZm11QWRsN0VYR3Y5aEhDbXFDZTk0a1FGdEFNZFJuZ2x1M2pkVTIwQndmLWtEMHJXem9sNHYzQVNiSnQxaDFGZndOYzlBUHJ5Rzd6NU5BclNlMTJlV3YyaDVjZjNpSHJxZDgxOF9NQk40eDlZMlcxOXNWNndRV0tMbUwxU0h5VlhhcTVjNGpiLXJEZHBXbU5jLXk1REdIQ0d6c3lueW5zWl9n?oc=5",
-     "source": "KHOU",
-     "published": "2026-07-10T07:00:00+00:00"
-    },
-    {
-     "title": "2 men arrested after breaking into a business and stealing Pokémon cards, Webster police say - ABC13 Houston",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdExiS3FKZ2tqQURpaU1kc1hYVU8zM1prOHRpckVjWV9BTnc2SGQ1cHcyeS10T0dVVUtxRUd1TE9ROUZrbVBPZWI0SXpKSW1XZ2dOb1ZsZjFtaGJNTXNaZmhqaHpuOE5yVjFtblBXMnZyRTFRVjJSVXgyRjhnWEJ4cHNvaTRYTVItVUpNVXU4c0pfSjJHUkRPZTR5aENwRGtVa0szei1xc0xHQdIBrwFBVV95cUxPZ2tFNzltMzBWd0JTcHpjTlNCazBBdzVNNTlJTU4wckRHT0dDV3p6cEdlbDBUTkY1SjdVTkxYNFJwRFNiZ0pwX2MzbEtvSFFqRDk5cnlia3hLV0I3X05oek9PVGNFdDNOYzY1YVdNQlFDZ0JkX2lNelhvOE1QMzM0YVdJTHV3QmtHeHhaZ09pV0lUOXdIa2V1V3VIVWE0MDVEMlFFNnFodVMzN1VxOEg0?oc=5",
-     "source": "ABC13 Houston",
-     "published": "2026-07-10T07:00:00+00:00"
-    },
-    {
-     "title": "Suspects charged in Webster Pokémon card shop break-in - KHOU",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU1FtVTFEMGthMVh0WGN6bzhiQXdrdmVCeGJ4c2o1b1F6d21nTGFaSDczT05Qa3lRV1BwVkRQSHNnb0RNOVJrb1BJRTN0M1pTTjEyRUtsd2tqSmNKVGhzQ2xBRG1HbHN2RDlhWDg4bGU4M3huY1N6Umx6Z1pob0NpM1pmQ1dQejRWbWRzWjZQTmZqZi1oOGR3OHdhSUxhWXZLOUhHSm1hMkJYU3U3T21NZENHNFVIdGZmSmQ2QnFISm82MjZl?oc=5",
-     "source": "KHOU",
-     "published": "2026-07-10T07:00:00+00:00"
-    },
-    {
-     "title": "Webster Pokemon Card Heist — Two Arrested After 31‑Mile Chase - Hoodline",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmpIQzZFcDVPcU9zSXc3dktMNUxJdWRsQ1k1bzd1UjhnU1Z2ZG9wcjRVY1JDV29PQkFsUUFMd0NPVm5aUGdiVlE0VDhReW5FdWZoX0ZKcWVWbzE0b1BuRlpQTGtUcGtSNzZHdlZWVWtNQXJmRFZIX21oa1JPdVhlalQ5SlluT2VNSkRCTTVlelh2VGxpeVJQT2F6TllOSTFx?oc=5",
-     "source": "Hoodline",
-     "published": "2026-07-11T07:00:00+00:00"
-    }
-   ],
-   "report_count": 5
   },
   {
    "title": "Mutter findet die Pokémon TCG-Sammlung ihres Sohns auf dem Dachboden wieder - eine Karte davon ist bis zu 26.000 (!) Euro wert - GamePro",
@@ -1833,6 +1840,41 @@
    "report_count": 1
   },
   {
+   "title": "Neue Produkte zur Erweiterung \"30 Jahre\" zum Pokémon Trading Card Game vorgestellt - jpgames.de",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDROWlo1ZGVDUzczUUZ0cjI3SVZUcHBCc1p4dFdOQVdZZDN6U3dyejF6N3VaMW0yMzh2YWFMMnJMZkJEM3FhY3FFRE02RWdUUHRxSVlkX0RScFRLTEllLWlYME9LS0c0a1cyYkhpbzdSeDlCbVh0d1VhQnR0RmtpUllxVHpPUHFCSkV5UEFqVmZOOERBTXpsZXJndzYzdDl1cUR2NGpFTEpjSkYy?oc=5",
+   "source": "jpgames.de",
+   "platform": "news",
+   "published": "2026-07-07T07:00:00+00:00",
+   "summary": "Neue Produkte zur Erweiterung \"30 Jahre\" zum Pokémon Trading Card Game vorgestellt jpgames.de",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "bisafans.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-07-25T15:38:59.040638+00:00",
+   "related": [
+    {
+     "title": "Sammelkartenprodukte zum 30-Jahre-Set vorgestellt - Bisafans.de",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVDJwN3JfNXZDcEhqeU82ZWl4cGlsRm5aaFRNaXZlWlFVZ3c4WUdSaHZRNlJsTjg4Y3ZyY3BVaDZqS2NUY0lVWkQ3Rm9XcUN5TmJRdjdaY1BjOThhUF9PZnFTaHZ1Y3lMTUlINk5xLV9EdjNvWVZETnNveTFrdGZHR0MzUVNNR1N4ckxaUmdmc0pzMmVkWDdrd1VmY05Nbm4yWFluZFE4Y9IBrAFBVV95cUxNeTJLTnZ0OEk3VVlIWjE1U19iUDRDNVY4MmVCOUxWTDcyMFFwamxfeHBpQ2xKZEJGQ3lTUWRyLVQyZ0Myem00QW5TUlJ4emRjRUdHanVnZnFPcXRQUi1wb3dPQ3J0VHhvZDRBaUJIQ0xuMTZHa2ZvS0pwVVMxLVVaay1YZGQ2ZjItdmttcnFSMmZWQmxwNFFiMlAwVVRTNEY3M0c5c3JsQnZIUkY4?oc=5",
+     "source": "Bisafans.de",
+     "published": "2026-06-30T07:00:00+00:00"
+    },
+    {
+     "title": "Neue LEGO Pokémon-Sets vorgestellt - Pokémon und LEGO Pokémon Minifiguren - Games.ch",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OUldKeGlPLUNmYXR3eEl2VG1Qb0JCM2NGNlNQb09hYWoxUkhaTmd2bkdSanNtbFlVMUJiZUZVY2VGYTJfSXRiRFhSN3BrVUwtSmlVRGh4NHl2OFZ3V0w1amdsOTZZT1FucWVUaGR0Yw?oc=5",
+     "source": "Games.ch",
+     "published": "2026-07-07T07:00:00+00:00"
+    }
+   ],
+   "report_count": 3
+  },
+  {
    "title": "Neue LEGO® Pokémon™ Sets, darunter einige mit Minifiguren, sind jetzt vorbestellbar - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFFzTE92LUdyR0tSdmMtV19tajlTRTE5ejlXbl83M2t1UHotRGdJRGtpQXFRbFJNbTRMOHhSNFRhcWYxeEpZRTBGYzRFcXdYc0pndm81OW0xckhDYzkxb1B4dDhXMkxHb1JXelpvSUlBd202WTVWZXNQVFZhSDByOXczdkl3dnVIUnFObEFUWkpob2dnMGx6RFhtcjZjZ2o3ZXl5WkhmX2h1TTk2NzBtcw?oc=5",
    "source": "Pokemon.com",
@@ -1844,7 +1886,7 @@
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "playcentral.de",
+   "domain": "pokemon.com",
    "logo": "",
    "score": 1,
    "matched": [
@@ -1853,19 +1895,13 @@
    "first_seen": "2026-07-25T15:38:59.039824+00:00",
    "related": [
     {
-     "title": "Leak zu LEGO-Pokémon 2026 – diese drei Sets mit Teilen und Minifiguren sind geplant - PlayCentral",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQU81Nkl6bzY4NTZXQklsUUlfczdaMERVM3g2UlVWaVRXX21pZGNjVENrazB2WjNPbHNlbWh2bWZ0dk9rNDdMUlpKUFN3NnVlbURFNUh4Wmt1SEYybFZ5V21JZXBUSlJnVXlMcV9Uc094Z09YNEs1M2ZqMEpqNVlEYTl1Q2UzZ2FwcW1CTE00QkNmcnA3SnZmZlR5X1BZSnd1UVROYXlhWjNYcTFzbWc?oc=5",
-     "source": "PlayCentral",
-     "published": "2026-06-30T07:00:00+00:00"
-    },
-    {
      "title": "LEGO Pokémon 18+ Sets mit Minifiguren im August & Oktober! - StoneWars",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lbkRNMnJScHJZZHF4QmcxUTNraTMybVpndWJzZzZiTExPZXNPZF9PYUI0T3hlT25CaHh4Y0xJV2pZTmdpQmh1LXpNM0ktMjdEZjhpV1ZVX2xtMmlPZmRsOXpZekRBQQ?oc=5",
      "source": "StoneWars",
      "published": "2026-07-07T07:00:00+00:00"
     }
    ],
-   "report_count": 3
+   "report_count": 2
   },
   {
    "title": "🔍 Wir brauchen eure Hilfe! Unsere PSA-Submission ist verschwunden. 🙏",
@@ -1993,37 +2029,9 @@
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3hvei1NUXczWW1wWlFpSkQ4VndZcmdCZnFDZnBfVmxlV3B2eWctVFprTFlTdG5OcDVHU3RyWkthcW8yWmJCWHgyQUZYZVR4OEZYOUt2dkRGTWN6V2JxOEgxa2NyWlNfbFJKeW5GVFpsTDRFSEU2WE41WWhoNDhxOEVEWnJUa2FyaTJlSXA3UFEwc0ZMSVhR?oc=5",
      "source": "FOX 29 Philadelphia",
      "published": "2026-07-06T07:00:00+00:00"
-    },
-    {
-     "title": "Philadelphia man charged in $24K Pokémon card theft at Evesham police HQ - AOL.com",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNGlVdE1iR2lqcU9kd3pGdVotUzBnY09QWlJxT0wtZ0M4VjNtY1lHSExTY3g5X3k5MzQ5YXhUMkxfOTktU3U4a2kzVm85RVdncnUwMWdMQ2Ric0JUNXJELTZ6c1FkODNDblVmMTRobVlvY21hV1p2Q2hIQXFnTXRGTHBn?oc=5",
-     "source": "AOL.com",
-     "published": "2026-07-06T07:00:00+00:00"
     }
    ],
-   "report_count": 3
-  },
-  {
-   "title": "Pokémon-Karten: Nintendo macht echten Sammlern endlich Hoffnung - giga.de",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYThpTmExOU9IYV93eUowaHI1MjYwS2Q0amFRcUhwa1Jtd3FYcTE3TXpwT1ZPSzdpNjJSWHg2N1diZ0YySmE1T2VJZUlPTlFneWRka1BNcDR3T1lBR0FpeE43bDJ6ZTd0OE1uWnpkdmZzWVl6T3M0RHhSSU5LYU9FS1VvXzlSRzJHOFVqLXB2S3FPOEtBR1VETmlCTDN4VWpldGRvY1pQbHZXSktaZXVoWlllYmpTdw?oc=5",
-   "source": "giga.de",
-   "platform": "news",
-   "published": "2026-07-06T07:00:00+00:00",
-   "summary": "Pokémon-Karten: Nintendo macht echten Sammlern endlich Hoffnung giga.de",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "giga.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.040903+00:00",
-   "related": [],
-   "report_count": 1
+   "report_count": 2
   },
   {
    "title": "Pokémon heist suspect once served as bank robber’s getaway driver, and other Saginaw-area news this week - MLive.com",
@@ -2103,35 +2111,6 @@
    "report_count": 2
   },
   {
-   "title": "Neue Produkte zur Erweiterung \"30 Jahre\" zum Pokémon Trading Card Game vorgestellt - jpgames.de",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDROWlo1ZGVDUzczUUZ0cjI3SVZUcHBCc1p4dFdOQVdZZDN6U3dyejF6N3VaMW0yMzh2YWFMMnJMZkJEM3FhY3FFRE02RWdUUHRxSVlkX0RScFRLTEllLWlYME9LS0c0a1cyYkhpbzdSeDlCbVh0d1VhQnR0RmtpUllxVHpPUHFCSkV5UEFqVmZOOERBTXpsZXJndzYzdDl1cUR2NGpFTEpjSkYy?oc=5",
-   "source": "jpgames.de",
-   "platform": "news",
-   "published": "2026-07-03T07:00:00+00:00",
-   "summary": "Neue Produkte zur Erweiterung \"30 Jahre\" zum Pokémon Trading Card Game vorgestellt jpgames.de",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "bisafans.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.040638+00:00",
-   "related": [
-    {
-     "title": "Sammelkartenprodukte zum 30-Jahre-Set vorgestellt - Bisafans.de",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVDJwN3JfNXZDcEhqeU82ZWl4cGlsRm5aaFRNaXZlWlFVZ3c4WUdSaHZRNlJsTjg4Y3ZyY3BVaDZqS2NUY0lVWkQ3Rm9XcUN5TmJRdjdaY1BjOThhUF9PZnFTaHZ1Y3lMTUlINk5xLV9EdjNvWVZETnNveTFrdGZHR0MzUVNNR1N4ckxaUmdmc0pzMmVkWDdrd1VmY05Nbm4yWFluZFE4Y9IBrAFBVV95cUxNeTJLTnZ0OEk3VVlIWjE1U19iUDRDNVY4MmVCOUxWTDcyMFFwamxfeHBpQ2xKZEJGQ3lTUWRyLVQyZ0Myem00QW5TUlJ4emRjRUdHanVnZnFPcXRQUi1wb3dPQ3J0VHhvZDRBaUJIQ0xuMTZHa2ZvS0pwVVMxLVVaay1YZGQ2ZjItdmttcnFSMmZWQmxwNFFiMlAwVVRTNEY3M0c5c3JsQnZIUkY4?oc=5",
-     "source": "Bisafans.de",
-     "published": "2026-06-30T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
-  },
-  {
    "title": "TCGP: Drop-Event Hisui-Zorua (Donnerstag, 16. Juli 2026, 08:00-Sonntag, 26. Juli 2026, 07:59) - Bisafans.de",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXVZb01WTXBLY1V2cmpXRU5hdm45LS01bTExeXp6Tmx0d3RNOWhZQV9ZUWJxS2dVbUg5SklNT1p0X1pQbVhsSzFYeGVBSW5OVkFEdjduNnotdXkteWw3bWRlSEl2RThScmdsdkRDRkxHVnpucUw2SE5nWDNBYVJMMXNWVzNlZndWWnpaUFpyMXJvZw?oc=5",
    "source": "Bisafans.de",
@@ -2191,24 +2170,26 @@
    "report_count": 3
   },
   {
-   "title": "Mega-Entwicklung – Dunkelnacht : Bekanntgabe von Regeländerungen - Pokemon.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb1BROTJ1dVQzbWNuVldkREJjZ1prOFRSbDMwcG1CN2FZaVBRWjNRQ2pUeU5CcXdrSVBxMG4za0d1OXBham04MHJKTjR1UnF0RFlOZ0xZSGFtc1BSWmNKUEcxWmx4eURKRVpvOVBPNU1jY0J3cUd0WDlNdHJFNlc3NVRneXlyeGZGWTJRR0dhYVdsZG9kNFBfbnQ0LWdmaHg1aDVMZGJnNlFOb1RJUDVYdlI0LThCVi1EeE5EWE5FX2o2Mnpx?oc=5",
-   "source": "Pokemon.com",
+   "title": "Two arrested at Costco after alleged fraudulent credit card shopping spree - wrganews.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWZSaXZpQXQ3M3JNcUlPcW9nMmplMHltM25uSEt0ZFZURW9lVDVTb3RzY0lvSTQydHBNRHpjczNzVTBuUkQ3Z2d6Ni1fM1AtLW51UnZNcjZXMHowc253U1hkeG55eU1MS0sydGJURTR2dW1sM2M2bV8xVXVDeW03MWw4T1BIeEVNN1hIbURFVU5OTG5FeVMyNlpUQzZyX1ZkeVRFbkNYaC10RzlaWnBWRQ?oc=5",
+   "source": "wrganews.com",
    "platform": "news",
-   "published": "2026-07-02T07:00:00+00:00",
-   "summary": "Mega-Entwicklung – Dunkelnacht : Bekanntgabe von Regeländerungen Pokemon.com",
+   "published": "2026-07-02T06:45:31+00:00",
+   "summary": "Two arrested at Costco after alleged fraudulent credit card shopping spree wrganews.com",
    "author": "",
-   "category": "szene",
-   "region": "de",
+   "category": "betrug",
+   "region": "int",
    "country": "",
    "image": "",
-   "domain": "pokemon.com",
+   "domain": "wrganews.com",
    "logo": "",
-   "score": 1,
+   "score": 3,
    "matched": [
-    "news:de"
+    "arrested",
+    "card shop",
+    "fraud"
    ],
-   "first_seen": "2026-07-26T04:04:32.815811+00:00",
+   "first_seen": "2026-07-25T09:16:25.492878+00:00",
    "related": [],
    "report_count": 1
   },
@@ -2450,6 +2431,28 @@
     "trading card"
    ],
    "first_seen": "2026-07-23T12:55:00.280244+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Leak zu LEGO-Pokémon 2026 – diese drei Sets mit Teilen und Minifiguren sind geplant - PlayCentral",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQU81Nkl6bzY4NTZXQklsUUlfczdaMERVM3g2UlVWaVRXX21pZGNjVENrazB2WjNPbHNlbWh2bWZ0dk9rNDdMUlpKUFN3NnVlbURFNUh4Wmt1SEYybFZ5V21JZXBUSlJnVXlMcV9Uc094Z09YNEs1M2ZqMEpqNVlEYTl1Q2UzZ2FwcW1CTE00QkNmcnA3SnZmZlR5X1BZSnd1UVROYXlhWjNYcTFzbWc?oc=5",
+   "source": "PlayCentral",
+   "platform": "news",
+   "published": "2026-06-30T07:00:00+00:00",
+   "summary": "Leak zu LEGO-Pokémon 2026 – diese drei Sets mit Teilen und Minifiguren sind geplant PlayCentral",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "playcentral.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-07-25T17:29:32.543506+00:00",
    "related": [],
    "report_count": 1
   },
