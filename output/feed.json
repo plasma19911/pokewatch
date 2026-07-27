@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-27T08:03:11.268426+00:00",
+ "generated": "2026-07-27T10:03:04.906603+00:00",
  "builder": "2026-07-25g",
  "count": 138,
  "new": 1,
@@ -882,27 +882,22 @@
    "published": "2026-07-17T15:38:09+00:00",
    "summary": "Central Pennsylvania trading card dealer charged with deceiving customers, selling vintage Pokémon cards ABC27",
    "author": "",
-   "category": "einbruch",
+   "category": "behoerden",
    "region": "int",
-   "country": "",
+   "country": "USA",
    "image": "",
-   "domain": "sportscollectorsdigest.com",
+   "domain": "abc27.com",
    "logo": "",
-   "score": 2,
+   "score": 4,
    "matched": [
-    "card show",
-    "theft"
+    "charged",
+    "pokemon",
+    "pokémon",
+    "trading card"
    ],
    "first_seen": "2026-07-23T12:55:00.279071+00:00",
-   "related": [
-    {
-     "title": "The National, FFNYC ramp up security for big card shows; dealer and collector tips for avoiding theft - Sports Collectors Digest",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWRDalVCUlBLRDJicEpFdmhoZi1MN01vV1U4R0Nuc2RtOXNiWjdqVGhJZy1DNjMxMXFUUDVkeENuYkdDLW05Q2hqOEVIUDkxbGlIbDRhamxsNHVTSlRhUTJ2anRqS29sQmk3bVozZUs3VnpsN0lWMTRJOUlobmxCUmxkWGQzUVdMbGhabUQ2VzNQd1hlcS05aXNaNU8xNWVOWTVQSndac0R0LUM5VHBwaGpOZkpVSDRoWFFGSG5LWmdNeW9xazVTZ2NSQXBKWUU?oc=5",
-     "source": "Sports Collectors Digest",
-     "published": "2026-07-13T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Erste Händler mit über 100 % Aufschlag: Pokémon-Dunkelnacht-Sammelkarten ab 15,99 Euro zur UVP - PCGH",
@@ -1301,6 +1296,31 @@
    "report_count": 1
   },
   {
+   "title": "Pokémon trading cards stolen from several local shops - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTlk1bHBlV1c0VVc2d1FUVU5zQ1J2SnN2UjRFVTl1NTlrWGdBQVV3Skc4ZWtkSmVGSjEzVjRQMDE0RG03R1BoSnd0UWJyakNfRjBGbTFwWFlBNEk3WEV2Qm5qZHozNkZXLTFMNWdHRzRvdGRvYzBJX3ZSalU5SlRocHJoVXFvdw?oc=5",
+   "source": "Yahoo",
+   "platform": "news",
+   "published": "2026-07-14T07:00:00+00:00",
+   "summary": "Pokémon trading cards stolen from several local shops Yahoo",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "yahoo.com",
+   "logo": "",
+   "score": 4,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "stolen",
+    "trading card"
+   ],
+   "first_seen": "2026-07-26T16:04:18.277222+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
    "title": "Pokémon trading cards stolen from several local shops - AOL.com",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFS1g1US0wTnVBYWczZHd6c2FLdGVFRnJqM3VLcE1POWZtQWtFVmlJUzZsX050SmJ5ekkyUGRRN3EtMEtudTVuWDlXNVJUZTNrOGdtTHBHRDVDNG1TeFEya2NtRXFrR2tCYXVJcEhGYWJURTIzNU4ycTlzMXE?oc=5",
    "source": "AOL.com",
@@ -1490,12 +1510,12 @@
    "report_count": 1
   },
   {
-   "title": "Mutter findet die Pokémon TCG-Sammlung ihres Sohns auf dem Dachboden wieder - eine Karte davon ist bis zu 26.000 (!) Euro wert - GamePro",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LM2dwdFYyWHRXYzhLbjI5RHNmSFR4RDRFUE9mbUlWdXRmMG9YV3pYcld3UG0ydUdQd3FVMWxZUy1qVjRMZFBjWVI2VzRjR3NfS0I0cGpIeC1sbU81aUhRTlNZbjY4VUs0eHpPQV9ZdGp2SDVBLUJSdDJQNGxiYlU?oc=5",
+   "title": "Pokémon-TCG-Fan trennt sich schweren Herzens von seiner beeindruckenden Sammlung – aus gutem Grund bereut er es nicht - GamePro",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVFdaRzNQWnVnZnBuRUpPNDlLbjdiZGVYTWZHenhMQmVmZW8zcVdtWHVaWl9ZQzNwRTI4Y0RKb2xiQ1VicXpWZFFnVmd5VTBHLVBrWEI2UkFHQy13bGE2Z0RTaXl6eFEwcGlTZkpmczl0LVd3V01WeXVLall6VGFTRlB3alBQeG1ZQnpfeW13?oc=5",
    "source": "GamePro",
    "platform": "news",
    "published": "2026-07-11T07:00:00+00:00",
-   "summary": "Mutter findet die Pokémon TCG-Sammlung ihres Sohns auf dem Dachboden wieder - eine Karte davon ist bis zu 26.000 (!) Euro wert GamePro",
+   "summary": "Pokémon-TCG-Fan trennt sich schweren Herzens von seiner beeindruckenden Sammlung – aus gutem Grund bereut er es nicht GamePro",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -1507,16 +1527,9 @@
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-07-25T15:38:59.040032+00:00",
-   "related": [
-    {
-     "title": "Pokémon-TCG-Fan trennt sich schweren Herzens von seiner beeindruckenden Sammlung – aus gutem Grund bereut er es nicht - GamePro",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVFdaRzNQWnVnZnBuRUpPNDlLbjdiZGVYTWZHenhMQmVmZW8zcVdtWHVaWl9ZQzNwRTI4Y0RKb2xiQ1VicXpWZFFnVmd5VTBHLVBrWEI2UkFHQy13bGE2Z0RTaXl6eFEwcGlTZkpmczl0LVd3V01WeXVLall6VGFTRlB3alBQeG1ZQnpfeW13?oc=5",
-     "source": "GamePro",
-     "published": "2026-07-11T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
+   "first_seen": "2026-07-26T16:04:18.277511+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Verkauf geht schief: Pokémon-Diebstahl: Mann schlägt zu und stiehlt Sammelkarten - STERN.de",
@@ -1602,6 +1615,38 @@
    "first_seen": "2026-07-25T15:38:59.040184+00:00",
    "related": [],
    "report_count": 1
+  },
+  {
+   "title": "Thieves target prized Pokémon card collection in brazen Woodbridge theft - New Jersey 101.5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LYlpjdUhOenFmWDZOZDFyRzlnZDdnSFJJV1NaT3Z6UVVRanhxY0N2c0RGZG1RRnNfS2M3T290Qng0NmdjbmNIT0VIMXhfOWNoN3RORjdMdEtpSFluUlA0S0xCYTgwSXVrTGltWE9aRQ?oc=5",
+   "source": "New Jersey 101.5",
+   "platform": "news",
+   "published": "2026-07-09T07:00:00+00:00",
+   "summary": "Thieves target prized Pokémon card collection in brazen Woodbridge theft New Jersey 101.5",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "newjersey1015.com",
+   "logo": "",
+   "score": 9,
+   "matched": [
+    "muster:szene",
+    "pokemon",
+    "pokémon",
+    "theft"
+   ],
+   "first_seen": "2026-07-25T15:38:59.041199+00:00",
+   "related": [
+    {
+     "title": "McDonald's Is Teasing Pokemon Cards Again, And Collectors Are Already Bracing For The Scalpers - GameFragger.com",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTExwLTlYWmpmOUhjWVkzVFVJSlVkX1FzbDlZTGRCemhNUkhSemNGUmpxdE9FRlA2Z0tBUTZ0TlpkcnF0a3NTT3BucFloWWd6NkV3S2g2RW5HZ24xRVg4SngybFBabVF5YXJPMDk2d05zeUNnUXZoM21XVHY0Q0hXaFV1b2ZVaFl1YVBkVjhNTWlWcUl3aVBPbWllNVpoY25LdVh1VXM4QWJZd3RLNFRRbDlLdTl3VUR2UkNXYm0xeVk1d29FTUNsNTJqZk03NlFYWWgteE5GUWp5UGoycUlzcmhxLUJnOG9vM29sQVpB?oc=5",
+     "source": "GameFragger.com",
+     "published": "2026-07-09T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Two Men Guilty of £71K Pokémon TCG Burglary Spree - games.gg",
@@ -2235,31 +2280,6 @@
     "trading card"
    ],
    "first_seen": "2026-07-24T05:48:46.881026+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Thieves target prized Pokémon card collection in brazen Woodbridge theft - New Jersey 101.5",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LYlpjdUhOenFmWDZOZDFyRzlnZDdnSFJJV1NaT3Z6UVVRanhxY0N2c0RGZG1RRnNfS2M3T290Qng0NmdjbmNIT0VIMXhfOWNoN3RORjdMdEtpSFluUlA0S0xCYTgwSXVrTGltWE9aRQ?oc=5",
-   "source": "New Jersey 101.5",
-   "platform": "news",
-   "published": "2026-07-01T07:00:00+00:00",
-   "summary": "Thieves target prized Pokémon card collection in brazen Woodbridge theft New Jersey 101.5",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "newjersey1015.com",
-   "logo": "",
-   "score": 9,
-   "matched": [
-    "muster:szene",
-    "pokemon",
-    "pokémon",
-    "theft"
-   ],
-   "first_seen": "2026-07-25T15:38:59.041199+00:00",
    "related": [],
    "report_count": 1
   },
@@ -2935,9 +2955,15 @@
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWmtBQkZRbk15cFdIYTJDSU9RQUstb0xHeS13Uk5vV3dZUkVWajQxTldzM0oyVmpXaGNOa0RhbzEzaE5GTjdRUHdEaUNHWlp5MTVPcUR4OG41SHc3Rzh1TG5HbFhGQmZsR29CSFMxVHhWaDFGUHZyVWtDcWRnQVUwRjFR?oc=5",
      "source": "GamePro",
      "published": "2026-06-13T07:00:00+00:00"
+    },
+    {
+     "title": "Pokémon TCG-Fan findet jede Menge Karten und 20 Jahre alte Glurak-Turnier-Trophäe auf dem Dachboden - eine Karte ist schon bis zu 100.000 Euro wert - GamePro",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FbnlabjVvSG9STVlPdjMtMW5nVkx4Z0F4aXpQR01ncXp2N2w2NklhTnBrZEdHSG1qUV95VW9oVlZURVd1Q0YwT3RLR0Z2WE5POEVPWTMtSGdVcFFsVkgwRTVOcWV1ODFNOUpOOXh1MGI5Y25YNE5MX3Izcw?oc=5",
+     "source": "GamePro",
+     "published": "2026-06-14T07:00:00+00:00"
     }
    ],
-   "report_count": 2
+   "report_count": 3
   },
   {
    "title": "Pokémon TCG Pocket: Wunder des Alltags - neuer Themen-Booster noch im Juni - Gameswelt",
@@ -3093,26 +3119,33 @@
    "report_count": 1
   },
   {
-   "title": "Pokémon-Fans müssen schnell sein: Seltene Deals auf Pokémon-Karten zum Prime Day - PC Games.de",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXBKOENlRE40UE5KeHZCaXFqVEdkV3liYVNuYnFDQ2ZDenlEWS1QcnRCVjFKUEhIOUJ5QzlMdEtBYTJHYjJ3UUZqa1NvTllTcUVZdDQzRDFsZ0JqS1pydV9WTDk4cUFNU0JrWUl3ZnlLei1fbFhITFBPU29pREtPdW82eEdRWUVSVVNVSk0zSnh2SHdVMWtQZlJ0Z2J3dldYWTBYSjhxdTZkVi1waXdjcU9BOG1HX2stMjlQcWtB?oc=5",
-   "source": "PC Games.de",
+   "title": "5-jähriger Glücksknirps sammelt erst seit einer Woche Pokémon-Karten - zieht direkt seltene Goldkarte, die mehr als 500 Euro wert sein kann - GamePro",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTk5McWhLSGpmSnVMMUkzbnpXbWZydGxWeFd6cThhck8xT2NZcVhTbVFwNmVKcUE3UnBpRlREbS1JbmNobnpRemtYaFY1VmhWeFN0bDNkQUxsLWo4SXp2WXp4a1ZLdW1hMHZmdE54U3JSam9NNG1Hd01lNDRoTHJvLVFWcm9hMXRYbXZ5LV9FZDVmd0dkdnU2Qg?oc=5",
+   "source": "GamePro",
    "platform": "news",
    "published": "2026-06-23T07:00:00+00:00",
-   "summary": "Pokémon-Fans müssen schnell sein: Seltene Deals auf Pokémon-Karten zum Prime Day PC Games.de",
+   "summary": "5-jähriger Glücksknirps sammelt erst seit einer Woche Pokémon-Karten - zieht direkt seltene Goldkarte, die mehr als 500 Euro wert sein kann GamePro",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "pcgamesde.de",
+   "domain": "gamepro.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-07-27T08:03:11.259303+00:00",
-   "related": [],
-   "report_count": 1
+   "first_seen": "2026-07-27T10:03:04.897453+00:00",
+   "related": [
+    {
+     "title": "Pokémon-Fans müssen schnell sein: Seltene Deals auf Pokémon-Karten zum Prime Day - PC Games.de",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXBKOENlRE40UE5KeHZCaXFqVEdkV3liYVNuYnFDQ2ZDenlEWS1QcnRCVjFKUEhIOUJ5QzlMdEtBYTJHYjJ3UUZqa1NvTllTcUVZdDQzRDFsZ0JqS1pydV9WTDk4cUFNU0JrWUl3ZnlLei1fbFhITFBPU29pREtPdW82eEdRWUVSVVNVSk0zSnh2SHdVMWtQZlJ0Z2J3dldYWTBYSjhxdTZkVi1waXdjcU9BOG1HX2stMjlQcWtB?oc=5",
+     "source": "PC Games.de",
+     "published": "2026-06-23T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Pokémon-Sammelkartenspiel-Pocket: Mega-Rayquaza ist der Star der nächsten Erweiterung „Herrscher der Lüfte“ - ntower.de",
@@ -3671,25 +3704,31 @@
    "report_count": 1
   },
   {
-   "title": "So erhaltet ihr die exklusiven Promokarten zur Pokémon-Weltmeisterschaft 2026 - jpgames.de",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON3NDNENYNllrSE9JREZzMl9YcHNkSEhJYjRrYWpKRlZsRXo5T1gwOW1PUFQ5RmQ0RnByX3JxT25pNGZHa0dNVGozWjBZZFF6SUxUUVExVFVoMTh1MVRnLUw0Y0hyN1dLTEMyQi1GN2tyUmRWQVFjQXY5em1XNnZyZHJudmw2T2oyRlJWcEtFdGwxU1hHNEM3MUdHNUtYNFV1OHdwbERPUl8?oc=5",
-   "source": "jpgames.de",
+   "title": "Nimm in deinem örtlichen Play! Pokémon Store an einem Turnier zu den Weltmeisterschaften 2026 teil und erhalte eine Pikachu-Promokarte - Pokemon.com",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSWVSN1BKbGw2NGVBbURiRjd3WVFQMWtkX2pEaFl0YjJvYlBrU1dwUl9RZ3RGQ2oybVEtdzVyaW9lY1FhMkppODl4eW4ySlpqdEI4Yks0ZE9oYW41MUhiRGxlZDQ2R1dGcHMyY01CQlYwaUtVVGVfaHl5c3NadUtuSVJpaUZpNWZUY0tQR3pGQ2NFWEg4NlBrWTFNUTQzSnlfc0VQTFlLV3kyVHhHdDNfUTBzV1V5bzRtNktxVTdsS0t5QlpHWG4wc1dqbnI4ZWY1X2JfbGtPT3BlNlVycEw2ZmExa1RUSDJNS0ZCWlhtRVJYU010SWRfUEVB?oc=5",
+   "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-06-15T07:00:00+00:00",
-   "summary": "So erhaltet ihr die exklusiven Promokarten zur Pokémon-Weltmeisterschaft 2026 jpgames.de",
+   "summary": "Nimm in deinem örtlichen Play! Pokémon Store an einem Turnier zu den Weltmeisterschaften 2026 teil und erhalte eine Pikachu-Promokarte Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "jpgames.de",
+   "domain": "pokemon.com",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-07-26T08:03:11.221914+00:00",
+   "first_seen": "2026-07-24T05:52:31.111611+00:00",
    "related": [
+    {
+     "title": "So erhaltet ihr die exklusiven Promokarten zur Pokémon-Weltmeisterschaft 2026 - jpgames.de",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON3NDNENYNllrSE9JREZzMl9YcHNkSEhJYjRrYWpKRlZsRXo5T1gwOW1PUFQ5RmQ0RnByX3JxT25pNGZHa0dNVGozWjBZZFF6SUxUUVExVFVoMTh1MVRnLUw0Y0hyN1dLTEMyQi1GN2tyUmRWQVFjQXY5em1XNnZyZHJudmw2T2oyRlJWcEtFdGwxU1hHNEM3MUdHNUtYNFV1OHdwbERPUl8?oc=5",
+     "source": "jpgames.de",
+     "published": "2026-06-15T07:00:00+00:00"
+    },
     {
      "title": "Promokarten zu den Pokémon-Weltmeisterschaften 2026 vorgestellt - Bisafans.de",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYTBHWjdyZTNVbFVfbFZVMHJQY21Jd3A2TVVpdkVhUzBlbU1seGl2WmxrLWsteEJyOWFPcjdyMXJGZVJlSy03cEFTcm5XOGhqVGhtUGkzSmxMbzVlVUlXU1Z1MUtCSFBHV0hJYVQ4VE5RNmJ3Y2tIRUpGdmVLbXY0ZUlfQzZKRFQtY0Vaal80YUtBTnI1MUhDdlVmR2lzLTBtMm4yMUx6anlzNVI0XzZmR1JxdmNXMW9YWWxDVUNQOGvSAcYBQVVfeXFMTzhfZ1pzNHRfX0FnVVVDMjhuSUpUTUU4RXBLdUxUajVLZmszTnBucjloUDZneTgxU0U0cnRmWTFpOVQxaV9FVGdvYXA1QTRYUXcxc2F6YmhzLXd0cGhxM2tZeS1jWnNVUHZRZWZhVmJZcVdlS2hwc290azVvQXJleXJTMkx0VXFKZGtJenJWalNOMlhBX084YmRJRERvcF8zTXEtV0pnSW5vdlowRXA2VUxSdFdGbUktUWNpeTVEVV9GdExhTWRn?oc=5",
@@ -3697,7 +3736,7 @@
      "published": "2026-06-15T07:00:00+00:00"
     }
    ],
-   "report_count": 2
+   "report_count": 3
   },
   {
    "title": "Pokémon Cards Worth $15K Stolen in 40-Second Break-In | Outlook Respawn - Outlook Respawn",
@@ -3723,35 +3762,6 @@
    "first_seen": "2026-07-23T12:55:00.280893+00:00",
    "related": [],
    "report_count": 1
-  },
-  {
-   "title": "Pokémon TCG-Fan findet jede Menge Karten und 20 Jahre alte Glurak-Turnier-Trophäe auf dem Dachboden - eine Karte ist schon bis zu 100.000 Euro wert - GamePro",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FbnlabjVvSG9STVlPdjMtMW5nVkx4Z0F4aXpQR01ncXp2N2w2NklhTnBrZEdHSG1qUV95VW9oVlZURVd1Q0YwT3RLR0Z2WE5POEVPWTMtSGdVcFFsVkgwRTVOcWV1ODFNOUpOOXh1MGI5Y25YNE5MX3Izcw?oc=5",
-   "source": "GamePro",
-   "platform": "news",
-   "published": "2026-06-14T07:00:00+00:00",
-   "summary": "Pokémon TCG-Fan findet jede Menge Karten und 20 Jahre alte Glurak-Turnier-Trophäe auf dem Dachboden - eine Karte ist schon bis zu 100.000 Euro wert GamePro",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "gamepro.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.043832+00:00",
-   "related": [
-    {
-     "title": "Nimm in deinem örtlichen Play! Pokémon Store an einem Turnier zu den Weltmeisterschaften 2026 teil und erhalte eine Pikachu-Promokarte - Pokemon.com",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSWVSN1BKbGw2NGVBbURiRjd3WVFQMWtkX2pEaFl0YjJvYlBrU1dwUl9RZ3RGQ2oybVEtdzVyaW9lY1FhMkppODl4eW4ySlpqdEI4Yks0ZE9oYW41MUhiRGxlZDQ2R1dGcHMyY01CQlYwaUtVVGVfaHl5c3NadUtuSVJpaUZpNWZUY0tQR3pGQ2NFWEg4NlBrWTFNUTQzSnlfc0VQTFlLV3kyVHhHdDNfUTBzV1V5bzRtNktxVTdsS0t5QlpHWG4wc1dqbnI4ZWY1X2JfbGtPT3BlNlVycEw2ZmExa1RUSDJNS0ZCWlhtRVJYU010SWRfUEVB?oc=5",
-     "source": "Pokemon.com",
-     "published": "2026-06-14T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
   },
   {
    "title": "Pikachu-Promokarten wurden im Vorfeld der Weltmeisterschaften 2026 enthüllt - Pokemon.com",
