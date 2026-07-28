@@ -1,22 +1,22 @@
 {
- "generated": "2026-07-28T10:16:31.841102+00:00",
+ "generated": "2026-07-28T12:03:12.591417+00:00",
  "builder": "2026-07-25g",
- "count": 142,
+ "count": 143,
  "new": 0,
  "items": [
   {
-   "title": "Japanese trading card shop offers 1-million-yen bounty to whoever finds robbery culprit, but “only if you capture them alive” - t.co",
-   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1CT2xDd3Roa1FLcTV4QzdnY2ozWlJ3YmpPTUdzS1FmdEhfS0xvangwQ3dyMDgxRzI2ckNz?oc=5",
-   "source": "t.co",
+   "title": "Japanese trading card shop offers 1-million-yen bounty to whoever finds robbery culprit, but “only if you capture them alive” - AUTOMATON",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZzVHNldWdUIyWThqU0RUZXVYQXhLTmU5ZjJ3M1BFM0hEUm9DR3pOeGowUDU2RlE3WllpeUpPdlFQUGpvOW53MzYtRVFwWlh1RFZGNi1FamQ3YkRrS1pRcVVvNHdGT1pZRGxrall2MUJuSC1vc0lSMU85UmdHXzF6RW1CR293czg0RlpnYUNqUnVOTlo5dVN6OEtuOERkZ2E1MzJ1Rzc2cmhKMkQwbzlIRmtRRlZpMnFaWmVOaEpGOE1Wb3I1cVpaTk1TYkI2VFNrdXJSY0pCSFJWZFBGTUxsUENnYjhvYVhiMm03UmFpUE8?oc=5",
+   "source": "AUTOMATON",
    "platform": "news",
    "published": "2026-07-28T09:25:26+00:00",
-   "summary": "Japanese trading card shop offers 1-million-yen bounty to whoever finds robbery culprit, but “only if you capture them alive” t.co",
+   "summary": "Japanese trading card shop offers 1-million-yen bounty to whoever finds robbery culprit, but “only if you capture them alive” AUTOMATON",
    "author": "",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "t.co",
+   "domain": "automaton.com",
    "logo": "",
    "score": 3,
    "matched": [
@@ -973,15 +973,22 @@
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "buzzfeed.de",
+   "domain": "pokemon.com",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
    "first_seen": "2026-07-25T15:38:59.038666+00:00",
-   "related": [],
-   "report_count": 1
+   "related": [
+    {
+     "title": "Eine Flut von Wasser-Pokémon kommt diesen Juli und August - Pokemon.com",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3A0SjJSQmVNeS0xRWZVcEpzQUNFVHE3MDVHOXlqTThYWVpDN25aZTZoZVcxd3MtbG5vS1J5bUYwSWpmTzZZZm51Y2VnUUVUUWthQmFDOWVZYTFUdDhkUTFnMGhxMGVPWTdfeS0zRUdtU1pad1h2MldlVUo2Wm5va3JnOE9EN2lpSUFqRlUzakYzbDg?oc=5",
+     "source": "Pokemon.com",
+     "published": "2026-07-17T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Burglars stole about $25,000 in Pokémon, Magic: The Gathering, and other collectibles from a #Colton card shop in June. Police recovered the stolen Pokémon cards and arrested a 35-",
@@ -1277,6 +1284,30 @@
     "stolen"
    ],
    "first_seen": "2026-07-24T18:09:48.901093+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Youth charged after theft of high-value trading card - Barrie Police",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVVlyYVA1b250Y3hlQVFDR1RjVFdjMUF5Y21QMXUxVHQxenVkSDRzMl85anZoeXVESHk0T293bV9JUmpRLUxHMG5KbUVHUVpycHdkZ19LU2ZBS0VfVml5ZTlXWVhKd21lRk1jTUFpWGduelN6VzYtSTc2ejk1Z044QWJCNm5RQmE4?oc=5",
+   "source": "Barrie Police",
+   "platform": "news",
+   "published": "2026-07-15T17:55:17+00:00",
+   "summary": "Youth charged after theft of high-value trading card Barrie Police",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "barriepolice.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "charged",
+    "theft",
+    "trading card"
+   ],
+   "first_seen": "2026-07-25T09:34:15.312934+00:00",
    "related": [],
    "report_count": 1
   },
@@ -1931,41 +1962,6 @@
    "report_count": 1
   },
   {
-   "title": "Neue Produkte zur Erweiterung \"30 Jahre\" zum Pokémon Trading Card Game vorgestellt - jpgames.de",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDROWlo1ZGVDUzczUUZ0cjI3SVZUcHBCc1p4dFdOQVdZZDN6U3dyejF6N3VaMW0yMzh2YWFMMnJMZkJEM3FhY3FFRE02RWdUUHRxSVlkX0RScFRLTEllLWlYME9LS0c0a1cyYkhpbzdSeDlCbVh0d1VhQnR0RmtpUllxVHpPUHFCSkV5UEFqVmZOOERBTXpsZXJndzYzdDl1cUR2NGpFTEpjSkYy?oc=5",
-   "source": "jpgames.de",
-   "platform": "news",
-   "published": "2026-07-07T07:00:00+00:00",
-   "summary": "Neue Produkte zur Erweiterung \"30 Jahre\" zum Pokémon Trading Card Game vorgestellt jpgames.de",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "bisafans.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.040638+00:00",
-   "related": [
-    {
-     "title": "Sammelkartenprodukte zum 30-Jahre-Set vorgestellt - Bisafans.de",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVDJwN3JfNXZDcEhqeU82ZWl4cGlsRm5aaFRNaXZlWlFVZ3c4WUdSaHZRNlJsTjg4Y3ZyY3BVaDZqS2NUY0lVWkQ3Rm9XcUN5TmJRdjdaY1BjOThhUF9PZnFTaHZ1Y3lMTUlINk5xLV9EdjNvWVZETnNveTFrdGZHR0MzUVNNR1N4ckxaUmdmc0pzMmVkWDdrd1VmY05Nbm4yWFluZFE4Y9IBrAFBVV95cUxNeTJLTnZ0OEk3VVlIWjE1U19iUDRDNVY4MmVCOUxWTDcyMFFwamxfeHBpQ2xKZEJGQ3lTUWRyLVQyZ0Myem00QW5TUlJ4emRjRUdHanVnZnFPcXRQUi1wb3dPQ3J0VHhvZDRBaUJIQ0xuMTZHa2ZvS0pwVVMxLVVaay1YZGQ2ZjItdmttcnFSMmZWQmxwNFFiMlAwVVRTNEY3M0c5c3JsQnZIUkY4?oc=5",
-     "source": "Bisafans.de",
-     "published": "2026-06-30T07:00:00+00:00"
-    },
-    {
-     "title": "Neue LEGO Pokémon-Sets vorgestellt - Pokémon und LEGO Pokémon Minifiguren - Games.ch",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OUldKeGlPLUNmYXR3eEl2VG1Qb0JCM2NGNlNQb09hYWoxUkhaTmd2bkdSanNtbFlVMUJiZUZVY2VGYTJfSXRiRFhSN3BrVUwtSmlVRGh4NHl2OFZ3V0w1amdsOTZZT1FucWVUaGR0Yw?oc=5",
-     "source": "Games.ch",
-     "published": "2026-07-07T07:00:00+00:00"
-    }
-   ],
-   "report_count": 3
-  },
-  {
    "title": "Neue LEGO® Pokémon™ Sets, darunter einige mit Minifiguren, sind jetzt vorbestellbar - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFFzTE92LUdyR0tSdmMtV19tajlTRTE5ejlXbl83M2t1UHotRGdJRGtpQXFRbFJNbTRMOHhSNFRhcWYxeEpZRTBGYzRFcXdYc0pndm81OW0xckhDYzkxb1B4dDhXMkxHb1JXelpvSUlBd202WTVWZXNQVFZhSDByOXczdkl3dnVIUnFObEFUWkpob2dnMGx6RFhtcjZjZ2o3ZXl5WkhmX2h1TTk2NzBtcw?oc=5",
    "source": "Pokemon.com",
@@ -1986,13 +1982,19 @@
    "first_seen": "2026-07-25T15:38:59.039824+00:00",
    "related": [
     {
+     "title": "Neue LEGO Pokémon-Sets vorgestellt - Pokémon und LEGO Pokémon Minifiguren - Games.ch",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OUldKeGlPLUNmYXR3eEl2VG1Qb0JCM2NGNlNQb09hYWoxUkhaTmd2bkdSanNtbFlVMUJiZUZVY2VGYTJfSXRiRFhSN3BrVUwtSmlVRGh4NHl2OFZ3V0w1amdsOTZZT1FucWVUaGR0Yw?oc=5",
+     "source": "Games.ch",
+     "published": "2026-07-07T07:00:00+00:00"
+    },
+    {
      "title": "LEGO Pokémon 18+ Sets mit Minifiguren im August & Oktober! - StoneWars",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lbkRNMnJScHJZZHF4QmcxUTNraTMybVpndWJzZzZiTExPZXNPZF9PYUI0T3hlT25CaHh4Y0xJV2pZTmdpQmh1LXpNM0ktMjdEZjhpV1ZVX2xtMmlPZmRsOXpZekRBQQ?oc=5",
      "source": "StoneWars",
      "published": "2026-07-07T07:00:00+00:00"
     }
    ],
-   "report_count": 2
+   "report_count": 3
   },
   {
    "title": "🔍 Wir brauchen eure Hilfe! Unsere PSA-Submission ist verschwunden. 🙏",
@@ -2613,6 +2615,28 @@
     }
    ],
    "report_count": 3
+  },
+  {
+   "title": "Sammelkartenprodukte zum 30-Jahre-Set vorgestellt - Bisafans.de",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVDJwN3JfNXZDcEhqeU82ZWl4cGlsRm5aaFRNaXZlWlFVZ3c4WUdSaHZRNlJsTjg4Y3ZyY3BVaDZqS2NUY0lVWkQ3Rm9XcUN5TmJRdjdaY1BjOThhUF9PZnFTaHZ1Y3lMTUlINk5xLV9EdjNvWVZETnNveTFrdGZHR0MzUVNNR1N4ckxaUmdmc0pzMmVkWDdrd1VmY05Nbm4yWFluZFE4Y9IBrAFBVV95cUxNeTJLTnZ0OEk3VVlIWjE1U19iUDRDNVY4MmVCOUxWTDcyMFFwamxfeHBpQ2xKZEJGQ3lTUWRyLVQyZ0Myem00QW5TUlJ4emRjRUdHanVnZnFPcXRQUi1wb3dPQ3J0VHhvZDRBaUJIQ0xuMTZHa2ZvS0pwVVMxLVVaay1YZGQ2ZjItdmttcnFSMmZWQmxwNFFiMlAwVVRTNEY3M0c5c3JsQnZIUkY4?oc=5",
+   "source": "Bisafans.de",
+   "platform": "news",
+   "published": "2026-06-30T07:00:00+00:00",
+   "summary": "Sammelkartenprodukte zum 30-Jahre-Set vorgestellt Bisafans.de",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "bisafans.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-07-26T08:03:11.219915+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Momma's boy got dropped off at a card shop to sell stolen Pokemon cards. This manchild is a walking stereotype of being whiny, fat, and a pure loser using a children cards as ingot",
