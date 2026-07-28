@@ -1,8 +1,8 @@
 {
- "generated": "2026-07-28T16:19:03.202222+00:00",
+ "generated": "2026-07-28T16:27:52.054299+00:00",
  "builder": "2026-07-25g",
- "count": 147,
- "new": 0,
+ "count": 150,
+ "new": 3,
  "items": [
   {
    "title": "Pokémon TCG: Gesichtserkennungssystem soll Scalpern den Garaus machen - IGN Deutschland",
@@ -334,6 +334,28 @@
    "report_count": 1
   },
   {
+   "title": "Slideshow: Pokémon TCG: 30 Jahre Jubiläums-Edition - IGN Deutschland",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcDhpWDJvdlhHTnhIWFBNbmtIT05QSElwQS1tUDBBUEdzb3hxdk8yMmRTWG1lV1pCajg5NlR3NHdiVHhvUlhocENSWVNleHR5QTNVTUJBN3RrVW5Mck9OLXBCZElOZGFsUkpLUVF0YnAzU0xDUkFDbEFYeUVaampKaWVmUTAyazRtYnc?oc=5",
+   "source": "IGN Deutschland",
+   "platform": "news",
+   "published": "2026-07-25T18:46:37+00:00",
+   "summary": "Slideshow: Pokémon TCG: 30 Jahre Jubiläums-Edition IGN Deutschland",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "igndeutschland.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-07-25T16:04:16.414596+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
    "title": "Pokémon-TCG-Glückspilz steckt 10 Stunden am Flughafen fest, kauft überteuertes Pack für seinen Sohn, um die Zeit zu überbrücken - zieht Karte, die bis zu 1340 Euro wert ist - GamePro",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVk45eGZFQzVKR2xsZXE3ZkpRb0VnMTNZYllBWjlydU52R2s1OUUyZTJiVkVGZEdlWm1WQkUxOVl4THhTUGNOOGpyVFZPMXVYNlNyWUNCNk5wS1lyTXAyQ2JpU0JQOTZTQlhhejc3SU4ydWZFSDhsampZdGZQSzdxUDd4MFRZMGlpQ3R5ekxtdmo1bmNzSGpBbXpNWVJjcUJEbUE?oc=5",
    "source": "GamePro",
@@ -466,28 +488,6 @@
     }
    ],
    "report_count": 4
-  },
-  {
-   "title": "Slideshow: Pokémon TCG: 30 Jahre Jubiläums-Edition - IGN Deutschland",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeGFaUHFmSFVERjQwR1RtWWNCckE1ZnBVT2FhSTIyTGx0WVRPQXFkU2JLNlBDVzRBSEZZQVVCRVZOaHM5RHFjbG90T0VxNXNIMDVObmFOZF9hSlZYTk5uVE13b2VkcF9zN1JKWk91VXdlQllmc3UxeGNrdVJ5cXB2U2FLeVk?oc=5",
-   "source": "IGN Deutschland",
-   "platform": "news",
-   "published": "2026-07-24T23:54:15+00:00",
-   "summary": "Slideshow: Pokémon TCG: 30 Jahre Jubiläums-Edition IGN Deutschland",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "igndeutschland.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T16:04:16.414596+00:00",
-   "related": [],
-   "report_count": 1
   },
   {
    "title": "Pokémon TCG Pocket beendet Pechsträhnen? Neues System bietet Trostpflaster für Unglücksraben - Eurogamer.de",
@@ -777,6 +777,41 @@
    "report_count": 1
   },
   {
+   "title": "Burglars stole about $25,000 in Pokémon, Magic: The Gathering, and other collectibles from a #Colton card shop in June. Police recovered the stolen Pokémon cards and arrested a 35-",
+   "url": "https://bsky.app/profile/westcoastnews.bsky.social/post/3mqwfmtfous2b",
+   "source": "@westcoastnews.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-07-22T01:05:17.914000+00:00",
+   "summary": "Burglars stole about $25,000 in Pokémon, Magic: The Gathering, and other collectibles from a #Colton card shop in June. Police recovered the stolen Pokémon cards and arrested a 35-year-old #Rialto man on #burglary charges. A 2nd suspect remains at large.\n\n#California\n\nktla.com/news/califor...",
+   "author": "West Coast News",
+   "category": "einbruch",
+   "region": "int",
+   "country": "USA",
+   "image": "",
+   "domain": "westcoastnewsbskysocial.com",
+   "logo": "",
+   "score": 7,
+   "matched": [
+    "arrested",
+    "burglar",
+    "burglary",
+    "card shop",
+    "pokemon",
+    "pokémon",
+    "stolen"
+   ],
+   "first_seen": "2026-07-24T05:48:46.880062+00:00",
+   "related": [
+    {
+     "title": "Don't forget trafficking in counterfeit Pokemon, Magic The Gathering, and Yu-Gi-Oh cards #GH",
+     "url": "https://bsky.app/profile/canadianfuzzy.bsky.social/post/3mr74xtlbwkw3",
+     "source": "@canadianfuzzy.bsky.social",
+     "published": "2026-07-22T01:05:17.914000+00:00"
+    }
+   ],
+   "report_count": 2
+  },
+  {
    "title": "Silsbee trading card store offers $20,000 reward after major Pokemon burglary - fox4beaumont.com",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZHFaNjkwbFg4cUZPZ0tSR0V6Znd3VmxZOC12WkR2RVJoQ3BpVE80Z2dmaEJISlNIbmFiMWFzTVlWQklHbjVUalNoaUVCVVJOeHpRQXVvM1QyOFR5S2ptdmIzYmxzbk9VWnJvZVp1Wld0LWNQYWk1OUVqMFVUSGV6blBBNW1PSmpLTmRKYVVMT0F0U1g5elkzekp5OTJsWHo3SDNleWNXWXo3dFc1dVFMdg?oc=5",
    "source": "fox4beaumont.com",
@@ -1035,37 +1070,6 @@
    "first_seen": "2026-07-25T15:38:59.038666+00:00",
    "related": [],
    "report_count": 1
-  },
-  {
-   "title": "Burglars stole about $25,000 in Pokémon, Magic: The Gathering, and other collectibles from a #Colton card shop in June. Police recovered the stolen Pokémon cards and arrested a 35-",
-   "url": "https://bsky.app/profile/westcoastnews.bsky.social/post/3mqwfmtfous2b",
-   "source": "@westcoastnews.bsky.social",
-   "platform": "news",
-   "published": "2026-07-18T13:46:14.663000+00:00",
-   "summary": "Burglars stole about $25,000 in Pokémon, Magic: The Gathering, and other collectibles from a #Colton card shop in June. Police recovered the stolen Pokémon cards and arrested a 35-year-old #Rialto man on #burglary charges. A 2nd suspect remains at large.\n\n#California\n\nktla.com/news/califor...",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "ktla.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "burglar",
-    "pokemon",
-    "pokémon"
-   ],
-   "first_seen": "2026-07-24T05:48:46.880062+00:00",
-   "related": [
-    {
-     "title": "Burglars steal thousands worth of Pokémon cards in Colton - KTLA",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSjN6VFhCUFpyLUw1ZnBlVU9UXzlINGRiSUVtWGotY2RSTWRrcU1IX0FMakF4Nm90dXNCN2s5Rm5qYm9DQ3YtbTY2Y1dERHJlZWpJb01nSW9VS05kYXVJZE1CN0xab2JqR0FvQ1JlTzlXYmZ2ZkxITnVLblVHcFI1Wm9OMG56cVhvbzF5LXpJWnlrajBiNmlrbnJYWQ?oc=5",
-     "source": "KTLA",
-     "published": "2026-07-16T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
   },
   {
    "title": "📰 Pokémon 2026: The Summer That Changed Everything - Max Raids, Stolen Cards, and Ash’s Return Loom Large\n\nhttps://play.modvc.org/doc.html?slug=pokmon-2026-the-summer-that-changed-",
@@ -1330,6 +1334,54 @@
     "stolen"
    ],
    "first_seen": "2026-07-24T18:09:48.901093+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Burglars steal thousands worth of Pokémon cards in Colton - KTLA",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSjN6VFhCUFpyLUw1ZnBlVU9UXzlINGRiSUVtWGotY2RSTWRrcU1IX0FMakF4Nm90dXNCN2s5Rm5qYm9DQ3YtbTY2Y1dERHJlZWpJb01nSW9VS05kYXVJZE1CN0xab2JqR0FvQ1JlTzlXYmZ2ZkxITnVLblVHcFI1Wm9OMG56cVhvbzF5LXpJWnlrajBiNmlrbnJYWQ?oc=5",
+   "source": "KTLA",
+   "platform": "news",
+   "published": "2026-07-16T07:00:00+00:00",
+   "summary": "Burglars steal thousands worth of Pokémon cards in Colton KTLA",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "ktla.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "burglar",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-07-24T18:18:47.298742+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "China copies the West.\n\nThat’s what I grew up thinking.\n\nAs a Chinese-Vietnamese kid, born in the UK, raised on Western media.\n\nOne side of me copies the other side.\n\nBootleg Nikes",
+   "url": "https://bsky.app/profile/uxchrisnguyen.bsky.social/post/3mqq2oplsv22b",
+   "source": "@uxchrisnguyen.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-07-16T01:14:28.131000+00:00",
+   "summary": "China copies the West.\n\nThat’s what I grew up thinking.\n\nAs a Chinese-Vietnamese kid, born in the UK, raised on Western media.\n\nOne side of me copies the other side.\n\nBootleg Nikes.\nFake handbags.\nKnockoff watches.\nCounterfeit Pokemon cards.\n\n\"Made in China\" is a bad thing.",
+   "author": "Chris from UX Playbook ⚡️",
+   "category": "betrug",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "uxchrisnguyenbskysocial.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "counterfeit",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-07-28T16:27:52.041472+00:00",
    "related": [],
    "report_count": 1
   },
@@ -2156,31 +2208,6 @@
     "pokémon"
    ],
    "first_seen": "2026-07-24T05:48:46.880831+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Philadelphia man charged in $24K Pokémon card theft at Evesham police HQ - FOX 29 Philadelphia",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3hvei1NUXczWW1wWlFpSkQ4VndZcmdCZnFDZnBfVmxlV3B2eWctVFprTFlTdG5OcDVHU3RyWkthcW8yWmJCWHgyQUZYZVR4OEZYOUt2dkRGTWN6V2JxOEgxa2NyWlNfbFJKeW5GVFpsTDRFSEU2WE41WWhoNDhxOEVEWnJUa2FyaTJlSXA3UFEwc0ZMSVhR?oc=5",
-   "source": "FOX 29 Philadelphia",
-   "platform": "news",
-   "published": "2026-07-06T07:00:00+00:00",
-   "summary": "Philadelphia man charged in $24K Pokémon card theft at Evesham police HQ FOX 29 Philadelphia",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "fox29philadelphia.com",
-   "logo": "",
-   "score": 4,
-   "matched": [
-    "charged",
-    "pokemon",
-    "pokémon",
-    "theft"
-   ],
-   "first_seen": "2026-07-27T12:45:42.408077+00:00",
    "related": [],
    "report_count": 1
   },
@@ -3057,6 +3084,30 @@
    "report_count": 2
   },
   {
+   "title": "the kid is so good at making counterfeit Pokemon cards now",
+   "url": "https://bsky.app/profile/ronnieftw.bsky.social/post/3mp3lk5fvz22t",
+   "source": "@ronnieftw.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-06-25T04:25:02.380000+00:00",
+   "summary": "the kid is so good at making counterfeit Pokemon cards now",
+   "author": "Ronnie Chen",
+   "category": "betrug",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "ronnieftwbskysocial.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "counterfeit",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-07-28T16:27:52.044186+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
    "title": "Jacksonville Seeks Suspect in $7,000 Pokémon Card Heist - Hoodline",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3RpQ0t2ZFB3WFBfc3ZZWHVIOFdhc1g1cWxmUVBGejBGY2h6UUo2RGpZZVJsN1R2aDl4dFQtbkx1cmFiWmkzY3FmSGJCdEVLSkRMdlJDd1FveHMydlNHeDFUWC1yX1lpZTZjcFlaVGZKZVJqT1FZMlJ6dGxxYW55NnkyeDMzZmdDcTJzOExURlNTZnE4WGRpd0d3?oc=5",
    "source": "Hoodline",
@@ -3741,6 +3792,37 @@
    "first_seen": "2026-07-25T15:38:59.043408+00:00",
    "related": [],
    "report_count": 1
+  },
+  {
+   "title": "➤ The market for tokenized Pokémon cards has surged to $230 million in monthly sales, driven by blockchain technology's ability to address counterfeit risk and trading friction in ",
+   "url": "https://bsky.app/profile/rwatimes.bsky.social/post/3mohq2yp2ow25",
+   "source": "@rwatimes.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-06-17T06:52:48.007000+00:00",
+   "summary": "➤ The market for tokenized Pokémon cards has surged to $230 million in monthly sales, driven by blockchain technology's ability to address counterfeit risk and trading friction in physical collectibles.",
+   "author": "RWATimes.io",
+   "category": "betrug",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "rwatimesbskysocial.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "counterfeit",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-07-28T16:27:52.045474+00:00",
+   "related": [
+    {
+     "title": "Tokenized Pokémon Card Market Surges to $230 Million in Monthly Sales as Blockchain Collectibles Gain Traction | MEXC News\nJun 16 2026 00:00 UTC\n#tokenized-pokemon-cards #blockchai",
+     "url": "https://bsky.app/profile/rwatimes.bsky.social/post/3mohq2ym65a25",
+     "source": "@rwatimes.bsky.social",
+     "published": "2026-06-17T06:52:46.988000+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Pokemon-Sammelkarten bei Raub in Großburgwedel gestohlen - AltkreisBlitz",
