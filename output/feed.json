@@ -1,8 +1,8 @@
 {
- "generated": "2026-07-29T00:13:05.743635+00:00",
+ "generated": "2026-07-29T02:05:44.342237+00:00",
  "builder": "2026-07-25g",
  "count": 150,
- "new": 0,
+ "new": 1,
  "items": [
   {
    "title": "Masked Burglars Took Up to $50,000 in Pokémon Merchandise in 90 Seconds - Yahoo",
@@ -114,7 +114,7 @@
   {
    "title": "POL-PDTR: Verkehrsunfallflucht",
    "url": "https://www.presseportal.de/blaulicht/pm/117698/6323140",
-   "source": "Presseportal.de - Blaulicht",
+   "source": "Presseportal.de - Rheinland-Pfalz",
    "platform": "rss",
    "published": "2026-07-28T19:29:11+02:00",
    "summary": "Hermeskeil (ots) - Am Dienstag den 28.07.2026 zwischen 15.00 - 16.00 Uhr, wurde ein rotfarbener Ford Fiesta, älteres Model, durch einen bislang unbekannten Verkehrsteilnehmer auf dem Parkplatz am Aldi oder Kaufland in Hermeskeil, beschädigt. Es ...",
@@ -123,7 +123,7 @@
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "presseportalde-blaulicht.de",
+   "domain": "presseportalde-rheinland-pfalz.de",
    "logo": "",
    "score": 8,
    "matched": [
@@ -506,34 +506,10 @@
      "title": "Sammelkarten als Wertanlage: Das Geschäft mit Pokemon-Karten & Co – was steckt hinter dem Hype? - Stiftung Warentest",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SZEFmcUZGc2NaUVlSVkNpb1Zqd2RHTXBJZ3RBN3ZoRmNtRW8xZkxmN0RlanJPekR5MTRVRU9rUVFLOF9TOEJXdE5CWG1jYUtTQnE0YTVaTXlSalQ3VVRPZVNlQnpqYWZvRzJZZUZwaEp4ZEJpQXRrYUxQSFdpZw?oc=5",
      "source": "Stiftung Warentest",
-     "published": "2026-07-17T23:01:28+00:00"
+     "published": "2026-07-18T07:00:00+00:00"
     }
    ],
    "report_count": 2
-  },
-  {
-   "title": "Tradition trifft Pokémon: Warum dieses Steiff-Pikachu rasend schnell ausverkauft sein dürfte - Joyn",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSEtEUTVCTU9lb0xKU0JtMDZyZVBxY0R1UC1xR1N0WFh2MUhlcVpYYWg2UDZrTEdXMzVmVm00bF9TTlVIN2pvbGYyal9ydm43UW5SOFJjWDVnOTVIQXFCUHlMTzdKQS1YbWZ1SGRSSE54T2FQcy13Tk9JZ0YteUdQVkktRlBxNkxHX3FuTGVOaGdfVGU2ZjdMeEt2TXNFWUdiNUpxTUVRd3E4eUNuS3BBamlhcFR0STdEM1JXcTJsWEtjc2JDb2U1UU9NbDB5WnVobkE?oc=5",
-   "source": "Joyn",
-   "platform": "news",
-   "published": "2026-07-25T12:34:00+00:00",
-   "summary": "Tradition trifft Pokémon: Warum dieses Steiff-Pikachu rasend schnell ausverkauft sein dürfte Joyn",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "joyn.de",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "ausverkauft",
-    "pokemon",
-    "pokémon"
-   ],
-   "first_seen": "2026-07-29T00:03:28.356524+00:00",
-   "related": [],
-   "report_count": 1
   },
   {
    "title": "Trailer zur Erweiterung „Herrscher der Lüfte“ in Pokémon-Sammelkartenspiel-Pocket veröffentlicht - Bisafans.de",
@@ -659,28 +635,6 @@
     "news:de"
    ],
    "first_seen": "2026-07-25T15:38:59.037832+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Champs im Rampenlicht: Yoshiyuki Yamaguchi glänzt auf internationaler Bühne - Pokemon.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZmRIREhTOTE0U1Q3VzhUSTlpNGpsVno3NTcwbmo3WllOZTIzVnpjNG5GeWtDbmZ2Vl9kVmZnUEhLME9OM0J3UXQ3YTJwZHo1MkEwUUlLY3JPanRpTW1IekwtcS10RVc1WVpydGxsRUVWOWZ2elhtekRjNi1VS3Nmb0FrVUVHNDN2YW1sWmprWk5tcU8yaFpDWWUxcUU0aXRNS0VtOEZqOEZ3TFhvNk9DZEpB?oc=5",
-   "source": "Pokemon.com",
-   "platform": "news",
-   "published": "2026-07-24T15:34:28+00:00",
-   "summary": "Champs im Rampenlicht: Yoshiyuki Yamaguchi glänzt auf internationaler Bühne Pokemon.com",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "pokemon.com",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-28T10:03:13.452052+00:00",
    "related": [],
    "report_count": 1
   },
@@ -1355,26 +1309,33 @@
    "report_count": 1
   },
   {
-   "title": "Erste Händler mit über 100 % Aufschlag: Pokémon-Dunkelnacht-Sammelkarten ab 15,99 Euro zur UVP - PCGH",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdkU3Y3dWeXB0U1VVeURkQ2V2SHJLcmZYMmV5ZklWUERNVUZtdnVtcDJMVTZMeUZTbF82WWJKcFNfaGUtaEdYZ0tGdkZtRWRZZ25YQ0EtRWJ4NDBNMkF3NzJRLVFKVnM4dFVtLXljVmI4ZzFpOHlVTVhqWnlBZzZQTzhzV2xYTmxaTWNGRjlJQXpHY0ZxcjdHWDFVdzBNT2pEUWsyUG02VmpYUk1aNWkyS3RhMm9IRHBSQkdVc1RIRWNPYTBuQWI5UWhlWGdveS04bHdOVW1HdGNDWEE?oc=5",
-   "source": "PCGH",
+   "title": "\"Mein Laden hat einen Fehler gemacht\": Pokémon TCG-Fan entdeckt Mew-Karte, die knapp 100 Euro wert ist, für einen lumpigen Zehner und schlägt sofort zu - GamePro",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRWhPa1kyTXY3M0o4WVJ1NXJWVkRpeWRYOFJOdDFBZWNNMUphUWdYYjFXOS1uQjFHeUZQd3JaNVRpb2FzNWhqX1RHWnFSMUdQMGFUYnNGQzdOcDVpa2tLSWI5eGpTNEVSREx1WE9wRm9mWEZKb3FINGJCaWM0RVZyanoyRXlDTkE5bWkxMUF6MVNZX1NUZnowQkZVN1gzU05TMzB6aDhB?oc=5",
+   "source": "GamePro",
    "platform": "news",
    "published": "2026-07-17T07:00:00+00:00",
-   "summary": "Erste Händler mit über 100 % Aufschlag: Pokémon-Dunkelnacht-Sammelkarten ab 15,99 Euro zur UVP PCGH",
+   "summary": "\"Mein Laden hat einen Fehler gemacht\": Pokémon TCG-Fan entdeckt Mew-Karte, die knapp 100 Euro wert ist, für einen lumpigen Zehner und schlägt sofort zu GamePro",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "pcgh.de",
+   "domain": "gamepro.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-07-25T15:38:59.039098+00:00",
-   "related": [],
-   "report_count": 1
+   "first_seen": "2026-07-29T02:05:44.335341+00:00",
+   "related": [
+    {
+     "title": "Erste Händler mit über 100 % Aufschlag: Pokémon-Dunkelnacht-Sammelkarten ab 15,99 Euro zur UVP - PCGH",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdkU3Y3dWeXB0U1VVeURkQ2V2SHJLcmZYMmV5ZklWUERNVUZtdnVtcDJMVTZMeUZTbF82WWJKcFNfaGUtaEdYZ0tGdkZtRWRZZ25YQ0EtRWJ4NDBNMkF3NzJRLVFKVnM4dFVtLXljVmI4ZzFpOHlVTVhqWnlBZzZQTzhzV2xYTmxaTWNGRjlJQXpHY0ZxcjdHWDFVdzBNT2pEUWsyUG02VmpYUk1aNWkyS3RhMm9IRHBSQkdVc1RIRWNPYTBuQWI5UWhlWGdveS04bHdOVW1HdGNDWEE?oc=5",
+     "source": "PCGH",
+     "published": "2026-07-17T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Pokémon Dunkelnacht: Ab sofort ist das neue Karten-Set vorbestellbar - GamePro",
@@ -1701,11 +1662,58 @@
    "report_count": 1
   },
   {
+   "title": "Pokémon-TCG-Fan trennt sich schweren Herzens von seiner beeindruckenden Sammlung – aus gutem Grund bereut er es nicht - GamePro",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVFdaRzNQWnVnZnBuRUpPNDlLbjdiZGVYTWZHenhMQmVmZW8zcVdtWHVaWl9ZQzNwRTI4Y0RKb2xiQ1VicXpWZFFnVmd5VTBHLVBrWEI2UkFHQy13bGE2Z0RTaXl6eFEwcGlTZkpmczl0LVd3V01WeXVLall6VGFTRlB3alBQeG1ZQnpfeW13?oc=5",
+   "source": "GamePro",
+   "platform": "news",
+   "published": "2026-07-11T07:00:00+00:00",
+   "summary": "Pokémon-TCG-Fan trennt sich schweren Herzens von seiner beeindruckenden Sammlung – aus gutem Grund bereut er es nicht GamePro",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "gamepro.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-07-26T16:04:18.277511+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Pokémon-Sammelkarten: Käufer schlägt zu und flieht mit Beute - main-echo.de",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcjJ5eVE5enBvOHVWeHhqY3E3djAwOERYMnJUaHJrNVJkQ1QzZkZSX0JlSlF0cVY1WlZnek1FSmF3Y1dPNF9ITDFWUmhwMWdyaWRseVc3UUpORlVPamdYdHRpZkI3UWVYNHBldm5EUFVLdGh6dFpHMjljMmpGTWJiOVQxMmlxNl9feXZuWXl2U2ZHUG1hNW05SFY5Tm5SaVFPVlB1Wm9qUG5TOU45UVpOUnlQU2RXa2RUTHExNg?oc=5",
+   "source": "main-echo.de",
+   "platform": "news",
+   "published": "2026-07-10T13:43:58+00:00",
+   "summary": "Pokémon-Sammelkarten: Käufer schlägt zu und flieht mit Beute main-echo.de",
+   "author": "",
+   "category": "einbruch",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "main-echo.de",
+   "logo": "",
+   "score": 4,
+   "matched": [
+    "beute",
+    "pokemon",
+    "pokémon",
+    "sammelkarten"
+   ],
+   "first_seen": "2026-07-23T12:55:00.279520+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
    "title": "Two men charged after Webster Pokémon card store burglary; owner believes arrests could help solve other break-ins - KHOU",
    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPSHkzSEFxSXdFTDJuNVlXZ09VZ0lFSHhSUjFvQ1FCYmJJX2V4THZkSF9PdkxTQlJHVllkRHBhRXEzbkpsaFRRaFVyczNsWC1qVjg0YU9qN0kyUUpfdkRvWElUTEs4bmNSdUUzSUdBRDNzWHJrTmJ2T3BtbnFHZm11QWRsN0VYR3Y5aEhDbXFDZTk0a1FGdEFNZFJuZ2x1M2pkVTIwQndmLWtEMHJXem9sNHYzQVNiSnQxaDFGZndOYzlBUHJ5Rzd6NU5BclNlMTJlV3YyaDVjZjNpSHJxZDgxOF9NQk40eDlZMlcxOXNWNndRV0tMbUwxU0h5VlhhcTVjNGpiLXJEZHBXbU5jLXk1REdIQ0d6c3lueW5zWl9n?oc=5",
    "source": "KHOU",
    "platform": "news",
-   "published": "2026-07-11T07:00:00+00:00",
+   "published": "2026-07-10T07:00:00+00:00",
    "summary": "Two men charged after Webster Pokémon card store burglary; owner believes arrests could help solve other break-ins KHOU",
    "author": "",
    "category": "einbruch",
@@ -1737,44 +1745,16 @@
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU1FtVTFEMGthMVh0WGN6bzhiQXdrdmVCeGJ4c2o1b1F6d21nTGFaSDczT05Qa3lRV1BwVkRQSHNnb0RNOVJrb1BJRTN0M1pTTjEyRUtsd2tqSmNKVGhzQ2xBRG1HbHN2RDlhWDg4bGU4M3huY1N6Umx6Z1pob0NpM1pmQ1dQejRWbWRzWjZQTmZqZi1oOGR3OHdhSUxhWXZLOUhHSm1hMkJYU3U3T21NZENHNFVIdGZmSmQ2QnFISm82MjZl?oc=5",
      "source": "KHOU",
      "published": "2026-07-10T07:00:00+00:00"
-    },
-    {
-     "title": "Webster Pokemon Card Heist — Two Arrested After 31‑Mile Chase - Hoodline",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmpIQzZFcDVPcU9zSXc3dktMNUxJdWRsQ1k1bzd1UjhnU1Z2ZG9wcjRVY1JDV29PQkFsUUFMd0NPVm5aUGdiVlE0VDhReW5FdWZoX0ZKcWVWbzE0b1BuRlpQTGtUcGtSNzZHdlZWVWtNQXJmRFZIX21oa1JPdVhlalQ5SlluT2VNSkRCTTVlelh2VGxpeVJQT2F6TllOSTFx?oc=5",
-     "source": "Hoodline",
-     "published": "2026-07-11T07:00:00+00:00"
     }
    ],
-   "report_count": 4
-  },
-  {
-   "title": "Pokémon-TCG-Fan trennt sich schweren Herzens von seiner beeindruckenden Sammlung – aus gutem Grund bereut er es nicht - GamePro",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVFdaRzNQWnVnZnBuRUpPNDlLbjdiZGVYTWZHenhMQmVmZW8zcVdtWHVaWl9ZQzNwRTI4Y0RKb2xiQ1VicXpWZFFnVmd5VTBHLVBrWEI2UkFHQy13bGE2Z0RTaXl6eFEwcGlTZkpmczl0LVd3V01WeXVLall6VGFTRlB3alBQeG1ZQnpfeW13?oc=5",
-   "source": "GamePro",
-   "platform": "news",
-   "published": "2026-07-11T07:00:00+00:00",
-   "summary": "Pokémon-TCG-Fan trennt sich schweren Herzens von seiner beeindruckenden Sammlung – aus gutem Grund bereut er es nicht GamePro",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "gamepro.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-26T16:04:18.277511+00:00",
-   "related": [],
-   "report_count": 1
+   "report_count": 3
   },
   {
    "title": "Verkauf geht schief: Pokémon-Diebstahl: Mann schlägt zu und stiehlt Sammelkarten - Augsburger Allgemeine",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN3p0WDJYY0lhMWl3eGtHM0c0ZWdQSHo3c3FwTUtFMkxUT1JpaGNUcUxVRW5BNG5pemZ5NHpubHJIdVQtTXdGY08wa3E5S0lZeHdfY0FaSHQ5QWVMcENEUm1Fb3VFbFN2cjgwbnROQlVXVldYUVR4NmhTWmg2QTVpOUhMa0lIaFVDa0Vsbm03N3FKTVpQUXY2RUZuSHdKNTZyYlZocUJMQjdkRkpXcGVzTzEyTTRNTm16a292emhnczRrUmJXY0h3WmswXy1XcC1JaEczOGhHU2xDLXNYMnc?oc=5",
    "source": "Augsburger Allgemeine",
    "platform": "news",
-   "published": "2026-07-10T13:43:58+00:00",
+   "published": "2026-07-10T07:00:00+00:00",
    "summary": "Verkauf geht schief: Pokémon-Diebstahl: Mann schlägt zu und stiehlt Sammelkarten Augsburger Allgemeine",
    "author": "",
    "category": "einbruch",
@@ -1797,40 +1777,9 @@
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQlF4NV95d0pkSFJWbFRjaDc2M2JnZS1Xalo2Nm8wVC1FREFHY3ZtaVRKQ3NCMUJtX1lCSHpsTDBPVkFIMnFybmd3aEV5UUZqTkVYZjBwU241c21RRE1rcTFxR2tRd1FRR2t3THNqV0o2VFdTSTZNdU14YjFsTkEwUXBab0pBc0JnWm9PMEJlTTFseWhraVBxVGdMNnU3dGZqUkdvczR1VWNHdGptZWtLMXRFdG9DQ2tZOElwaTNPcEV4MU1XUTFpNElpY190dw?oc=5",
      "source": "Die Rheinpfalz",
      "published": "2026-07-10T07:00:00+00:00"
-    },
-    {
-     "title": "Pokémon-Sammelkarten: Käufer schlägt zu und flieht mit Beute - main-echo.de",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcjJ5eVE5enBvOHVWeHhqY3E3djAwOERYMnJUaHJrNVJkQ1QzZkZSX0JlSlF0cVY1WlZnek1FSmF3Y1dPNF9ITDFWUmhwMWdyaWRseVc3UUpORlVPamdYdHRpZkI3UWVYNHBldm5EUFVLdGh6dFpHMjljMmpGTWJiOVQxMmlxNl9feXZuWXl2U2ZHUG1hNW05SFY5Tm5SaVFPVlB1Wm9qUG5TOU45UVpOUnlQU2RXa2RUTHExNg?oc=5",
-     "source": "main-echo.de",
-     "published": "2026-07-10T13:43:58+00:00"
     }
    ],
-   "report_count": 3
-  },
-  {
-   "title": "Armed robbery at Pokémon-card store in Lanaudière - CTV News",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQndFMGh0bExmeDVHZkZab05NWHNPRHdiVzBORW95VmlOdzc1VGdxT25FR3Y0b0t2dE9XT3l4eVRrZDJ6eGt2amNTdjZXWmpCZUJWcGxkR2ZDQm1JbWdINEhmOUpWQXQ3V2lyd2k3LTB1TnN6bDEzVHIybnJsb1pnemNoZ1ZMd2h0YktmT0lIcmhlM2IwUk1raExNRDYxNTN3?oc=5",
-   "source": "CTV News",
-   "platform": "news",
-   "published": "2026-07-10T07:00:00+00:00",
-   "summary": "Armed robbery at Pokémon-card store in Lanaudière CTV News",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "ctvnews.com",
-   "logo": "",
-   "score": 6,
-   "matched": [
-    "card store",
-    "pokemon",
-    "pokémon",
-    "robbery"
-   ],
-   "first_seen": "2026-07-23T12:55:00.279701+00:00",
-   "related": [],
-   "report_count": 1
+   "report_count": 2
   },
   {
    "title": "Pokémon GO wird zehn Jahre alt: Wieso Fans das Handyspiel immer noch feiern - SWR",
@@ -2624,6 +2573,28 @@
    "report_count": 1
   },
   {
+   "title": "Pokémon-Sammelkartenspiel: Top-Trainer-Box 30 Jahre - Pokemon.com",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGdScXlyWU11V1k4VEdkaEdLcC13MW9kQjlqQm5VOXBUYTBlMjZMZGh6OWpRVWlMRjdDaVVZZmlVWTZkdURzR2gzbWhKY1hNcWVVakNydDl1a3ppWERBRVNpSjItNHQxTUMyakJjbGlZWUJCSG95ckF3dDFvbXRpUzJ5RW1td0pCdVdhMzZrWlA4OVFVRUM4?oc=5",
+   "source": "Pokemon.com",
+   "platform": "news",
+   "published": "2026-06-30T14:57:15+00:00",
+   "summary": "Pokémon-Sammelkartenspiel: Top-Trainer-Box 30 Jahre Pokemon.com",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "pokemon.com",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-07-28T20:03:24.092442+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
    "title": "Burglars smashed into the PokéMall trading card store in Pico-Robertson, stealing an estimated $10,000 worth of collectible Pokémon cards.",
    "url": "https://bsky.app/profile/foxla.bsky.social/post/3mpjab4rmho2y",
    "source": "@foxla.bsky.social",
@@ -2726,25 +2697,31 @@
    "report_count": 1
   },
   {
-   "title": "Pokémon TCG Pocket lässt euch ein schönes Picknick mit der neuen Erweiterung Wunder des Alltags erleben - GamePro",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLUE0c1Q1ZlFfZ09SZjBlVDdyNjZEdEZoYUcyOXpmQTUxNi1PcmF3NzhmaEhDUmRfVGZWcmNCMXlpOEN6X1lVNDA4N3FrMExrZXVzb3hacDhUakNpQndGdThUV2F5ZXl6aGltNzE2WHI4X3d3bVNYaE9pOWVWRnJGeEs2TTdRZ0ZPbHZzTzExS3g1VlE3V1pNQlJoLUdWMHV3RkREWWhvUmFnOVEzM2JqM0JzSlM1OUlGNXJndVFIdFJsNnpGZTBzMHlUVmsteWtpamRmQUdtSEJXd1NvRWswdg?oc=5",
-   "source": "GamePro",
+   "title": "Pokémon-Sammelkartenspiel-Pocket: Die neueste Erweiterung „Wunder des Alltags“ erscheint noch diesen Monat - ntower.de",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ3NZUmFCUkY4LTktbmUxUFpuYjB1ZEwxOEpHc1pfRVpraUE0Smp1ZDkwOExjR0gxdmFPbURlaEVHYXV5Z1dMdzdWa3VHclhGNHBtZi1xOXdPM21YZmN0YXlDMk9iNHJlbjk3ZGVwZkVVcE40TTlFajFJNXA1RThjTkRJTm5WeDJjN2NzZG5nNngzOEtJNElqNVVCaGtkVElTWmJ5THZHN0Z1Y3BiVXZBcVRpNEdFMHVkaV93?oc=5",
+   "source": "ntower.de",
    "platform": "news",
    "published": "2026-06-30T07:00:00+00:00",
-   "summary": "Pokémon TCG Pocket lässt euch ein schönes Picknick mit der neuen Erweiterung Wunder des Alltags erleben GamePro",
+   "summary": "Pokémon-Sammelkartenspiel-Pocket: Die neueste Erweiterung „Wunder des Alltags“ erscheint noch diesen Monat ntower.de",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "gamepro.de",
+   "domain": "ntower.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-07-24T05:52:31.109177+00:00",
+   "first_seen": "2026-07-25T15:38:59.041750+00:00",
    "related": [
+    {
+     "title": "Pokémon-Sammelkartenspiel-Pocket: Wunder des Alltags ist jetzt verfügbar - Pokemon.com",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORnJkN3dfLS1rd2dkMTgzS2VJajc4bkFFSVpWb1dENDNDSnR1dy1hYXp6bXl0b0x5ZC12emNpY04zeXZDN0RKWmpqWmZqamZMbFh2ZVUta3N5RGpEX1lUS0owdHh5ZlM4dFZ6RXJfLUZIam02T2dITnhoOU1iell1ODVPVE85QXB2aWE0VzZxYkJfX29wazFack5hcDlFS0g3NVVrUkx6SQ?oc=5",
+     "source": "Pokemon.com",
+     "published": "2026-06-29T07:00:00+00:00"
+    },
     {
      "title": "Erweiterung „Wunder des Alltags“ für Pokémon-Sammelkartenspiel-Pocket veröffentlicht - Bisafans.de",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYmMzOHprNWFBbE9FS2NxMnRtRjc1QnlvVFVhSFc5WW9XNnJiRjJRY2xoeHZxYnp4b1dtaGpxTVI2eHhJbVB6VmlGajV3am8zYmFwT3FEQ3N1Z2FCY2Z4T29sV1FFMEswcXJSTGdkM1RQS1QyeGt5U09MVUtqMWExNU1BUGd1T2kzWXBvY3VKZzIzS0pPUmpDMEdOY0R4WEQ4cmk4enZOZFBmR1lYQXZLM252SUhUWlZJdjFscWlXdkNLYVhWbGZjemhaRnh4M2Y1Tk8yeGg0ZHF5dlltNF9FVm5TaGPSAeoBQVVfeXFMTzhEcUZZYzU1cURKaGNFd0RDRTFyWXpIVG5rUm8yN0NLVXpXOWhxdmZRWkN2ZS1rUk5BWmJxWFlMU2RzWl9RVzVUanNSR2ZoYWpLTWZJSWhfRGtNd18xa0xYQjZGS1hzNG53cWFQUDNFeVhhT2hiY2xzX2JraWdMVmJqZlpIbDJDWThNN2VlQXBENlFDWWlfM2lDNkNVMFJMclFiTk5HRHc5aU1maWVYYko5R0RBekR1aXlmTDlPNlExN1JZbWRmMVE2YjQwRnc4UDFfZ1lhRFBBQ3M4cTRSaUJqeVF0YWxDU2FB?oc=5",
@@ -2752,7 +2729,7 @@
      "published": "2026-06-30T07:00:00+00:00"
     }
    ],
-   "report_count": 2
+   "report_count": 3
   },
   {
    "title": "Sammelkartenprodukte zum 30-Jahre-Set vorgestellt - Bisafans.de",
@@ -2904,35 +2881,6 @@
    "first_seen": "2026-07-25T15:38:59.041706+00:00",
    "related": [],
    "report_count": 1
-  },
-  {
-   "title": "Pokémon-Sammelkartenspiel-Pocket: Die neueste Erweiterung „Wunder des Alltags“ erscheint noch diesen Monat - ntower.de",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ3NZUmFCUkY4LTktbmUxUFpuYjB1ZEwxOEpHc1pfRVpraUE0Smp1ZDkwOExjR0gxdmFPbURlaEVHYXV5Z1dMdzdWa3VHclhGNHBtZi1xOXdPM21YZmN0YXlDMk9iNHJlbjk3ZGVwZkVVcE40TTlFajFJNXA1RThjTkRJTm5WeDJjN2NzZG5nNngzOEtJNElqNVVCaGtkVElTWmJ5THZHN0Z1Y3BiVXZBcVRpNEdFMHVkaV93?oc=5",
-   "source": "ntower.de",
-   "platform": "news",
-   "published": "2026-06-29T07:00:00+00:00",
-   "summary": "Pokémon-Sammelkartenspiel-Pocket: Die neueste Erweiterung „Wunder des Alltags“ erscheint noch diesen Monat ntower.de",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "ntower.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.041750+00:00",
-   "related": [
-    {
-     "title": "Pokémon-Sammelkartenspiel-Pocket: Wunder des Alltags ist jetzt verfügbar - Pokemon.com",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORnJkN3dfLS1rd2dkMTgzS2VJajc4bkFFSVpWb1dENDNDSnR1dy1hYXp6bXl0b0x5ZC12emNpY04zeXZDN0RKWmpqWmZqamZMbFh2ZVUta3N5RGpEX1lUS0owdHh5ZlM4dFZ6RXJfLUZIam02T2dITnhoOU1iell1ODVPVE85QXB2aWE0VzZxYkJfX29wazFack5hcDlFS0g3NVVrUkx6SQ?oc=5",
-     "source": "Pokemon.com",
-     "published": "2026-06-29T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
   },
   {
    "title": "Four men arrested over 12-million-yen Pokémon card heist in Nagoya - The Tokyo Reporter",
@@ -3242,6 +3190,28 @@
     "news:de"
    ],
    "first_seen": "2026-07-25T15:38:59.042331+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Pokémon TCG Pocket lässt euch ein schönes Picknick mit der neuen Erweiterung Wunder des Alltags erleben - GamePro",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLUE0c1Q1ZlFfZ09SZjBlVDdyNjZEdEZoYUcyOXpmQTUxNi1PcmF3NzhmaEhDUmRfVGZWcmNCMXlpOEN6X1lVNDA4N3FrMExrZXVzb3hacDhUakNpQndGdThUV2F5ZXl6aGltNzE2WHI4X3d3bVNYaE9pOWVWRnJGeEs2TTdRZ0ZPbHZzTzExS3g1VlE3V1pNQlJoLUdWMHV3RkREWWhvUmFnOVEzM2JqM0JzSlM1OUlGNXJndVFIdFJsNnpGZTBzMHlUVmsteWtpamRmQUdtSEJXd1NvRWswdg?oc=5",
+   "source": "GamePro",
+   "platform": "news",
+   "published": "2026-06-24T07:00:00+00:00",
+   "summary": "Pokémon TCG Pocket lässt euch ein schönes Picknick mit der neuen Erweiterung Wunder des Alltags erleben GamePro",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "gamepro.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-07-24T05:52:31.109177+00:00",
    "related": [],
    "report_count": 1
   },
@@ -3984,6 +3954,28 @@
     "stolen"
    ],
    "first_seen": "2026-07-23T12:55:00.280893+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Pikachu-Promokarten wurden im Vorfeld der Weltmeisterschaften 2026 enthüllt - Pokemon.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRUFFYS1jcFdWMzZuWG9jbExkaVFqUk5vOFVVa2pkZGRMaDV4YWUwdmJXNGxVeFNhODIyYUxGZnZUOXhTZVN5cXc0bFk2ZUg5cFA2NzR0aWh3UGtGbHFZZElaSEVLSXkxQmdYVno1blh2S1ZWbTVQTnUzaDhUcTFQWXFfN0MtVjRpUm83UTdMOEJRZEhxOFJkczJoWlEyM1ZXUVpKNVA3ZGh3X1J3?oc=5",
+   "source": "Pokemon.com",
+   "platform": "news",
+   "published": "2026-06-14T07:00:00+00:00",
+   "summary": "Pikachu-Promokarten wurden im Vorfeld der Weltmeisterschaften 2026 enthüllt Pokemon.com",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "pokemon.com",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-07-25T15:38:59.043745+00:00",
    "related": [],
    "report_count": 1
   }
