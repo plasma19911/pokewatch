@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T05:50:58.181975+00:00",
+ "generated": "2026-08-16T06:00:08.421358+00:00",
  "builder": "2026-07-25g",
  "count": 150,
  "new": 0,
@@ -1143,24 +1143,24 @@
    "report_count": 1
   },
   {
-   "title": "Pokémon TCG Pocket: Ein starker Rückgang der Nutzerzahlen - news.instant-gaming.com",
+   "title": "Pokémon TCG Pocket: Ein starker Rückgang der Nutzerzahlen - Instant Gaming News",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHRXYTFZb1QwbzNJSkdCU1pYWVVDZVpBWlJhLXJfSjNQeUhMZ3EtUHFIR0RhS1BlZXdfN0ZxOHE5YlJ6eEpzaEtsaXVvWDhBbkZLbkVnaFR6UVJqeEEwdVpuYU5DZEVERm1jdUx3UmRCUGotaWVZcHRIN1JQWU9xSjVGLXE3b3hVMC1CZlJfR1NvN01pLVlyUUlrSU5ubi1nLUlFTEhsU0Y?oc=5",
-   "source": "news.instant-gaming.com",
+   "source": "Instant Gaming News",
    "platform": "news",
    "published": "2026-08-07T04:12:00+00:00",
-   "summary": "Pokémon TCG Pocket: Ein starker Rückgang der Nutzerzahlen news.instant-gaming.com",
+   "summary": "Pokémon TCG Pocket: Ein starker Rückgang der Nutzerzahlen Instant Gaming News",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "news.instant-gaming.com",
+   "domain": "instantgamingnews.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-08-12T22:03:38.605508+00:00",
+   "first_seen": "2026-08-12T20:43:30.151349+00:00",
    "related": [],
    "report_count": 1
   },
@@ -1905,6 +1905,43 @@
    "report_count": 1
   },
   {
+   "title": "Rafael Gordian wanted: Warrant issued for suspect wanted in Pokémon card thefts in South Jersey - 6abc Philadelphia",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPXzBpOEg0NjFzSmtDV1RvVjl3WndWd2VvVWU3QkM5X1BEWnJsZ0FaZWFWeGR5dWtTYVFqRHlWYUxFMS1xMXJKZEhBb3d2MHFOU1VrT0Y0b1hNeVRtWXBHZG53XzNkOGc3c1pNTFdnZUUwZm00bVE1ajd1Vm1SQWU1YVM5QVlMVXRqYlVyVzFnSkpjVHB2eVN6YXZ1REtjQdIBowFBVV95cUxPWlRjMTF2STN6M25wREdhY2VhcXhENFdkcXlOS0JXSkhpWXBzeFNyOHVRMmNzU2F2ZkVKTzNuT1FKLWZRVWdacVlMRkNDaHlya2JyZ1l2aERteFpIa01McVV0REZXN3JjaGdiM0JVZzI2TlBuZDQxaEtWWndDeWd1SURIV1lDcHE5LUM1ZEVCQkFHeVBRcnVOMHdkbEsyZ0s5V21N?oc=5",
+   "source": "6abc Philadelphia",
+   "platform": "news",
+   "published": "2026-07-31T19:50:24+00:00",
+   "summary": "Rafael Gordian wanted: Warrant issued for suspect wanted in Pokémon card thefts in South Jersey 6abc Philadelphia",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "6abcphiladelphia.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "theft"
+   ],
+   "first_seen": "2026-07-31T08:23:42.438300+00:00",
+   "related": [
+    {
+     "title": "Arrest warrant issued after Washington Township card shop burglaries - Courier-Post",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUFJ4UDdyMzdsRThmX3JsT0NTMXV0dW5mN2h4SlpVTUpsV19fclU4dEZQWk9Qc3VxZXpCSnZmQjF4Tk81Ykx3ZFZTMFRkV29pdUVIRjlpOUxqX25uS2g1cGtHZlZIRXhvTldZeWZtbmN6SkRHRmVyNmhGNzgzems0VS1rYVJLZXBjelBzazZrdjZWMjdNcDFxNV9KRHU2R0doZlI3bF9tOFdQRDE1aDNLUkRGaHE3b1Vpc1BNUnd1U0xCN0hzV1k3QUJBc1ozdVJlMHUzNEFFSzdHVEVOSFlOSG5xY2RfT2JOc3Zv?oc=5",
+     "source": "Courier-Post",
+     "published": "2026-07-31T07:00:00+00:00"
+    },
+    {
+     "title": "Warrant issued for suspect wanted in Pokémon card thefts in South Jersey - AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdG9NZUNvWXdKR01iSGZzeXNEYklQZEJfLUVpbXFxQnRWUUpZWVhEaTh3T3ZjSlNtdl9ZUmZIeEhFeXBLZXlxN2dGZGZuODBiTENYTEF5cW1yVWlWRnpnT1JoYl9ud0F6TUJHcUgwSEgtSXJGV1hybVJfUnVUU3Mxdnl3WQ?oc=5",
+     "source": "AOL.com",
+     "published": "2026-07-31T19:50:24+00:00"
+    }
+   ],
+   "report_count": 3
+  },
+  {
    "title": "Police seek suspects in burglaries targeting Pokémon card shop in South Jersey - NBC10 Philadelphia",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOENVYmd2MHZVaUx4cEJ3OFpCeHNuRWQzdGNmbmN3ZW8xc21ocnNzVEozc3dpSTBDM1E2RXpLSG94WldrQzYyeVZwUHY2TDE5QWU4T1hHb0FsZDNsdldEdUhuU0tfMDc0cl85Tnl3ZEZGWGdmaUNjSHR4TEJ0SDQ3TnZCYnJIUzh6NDZEQzRMaEIycHc5dmh4UDVMcW5WRXFlVGl3VS1sU0FYZEtTdFVadVMyWlFIRjAzMWp3WXdzaUFtSExqcFFaVUh30gHSAUFVX3lxTFBCY1pfaXZhWDNGc1Z3cVBnaGtnSW53anVlcnhhY3d1dDI1c0IxTmFmOHV4VlZmYWFjRWw4enA3dzI1cWhJSVFTVWpBbmFrTkdsWnJUanVtUzFPWFRBSzljU1hfazZMLUpxM0NsOXpvXzZjUmRjZUVrcG0tYzBZY3Z5TzJJbTZ5VEczUjRicXhnZjR5enVvdnVzMjlsbDM4Z2VvalNydFRHaUVZeTVSenB2UVBUSVkzbHN5d0pnMEJQa3NlbW00czNXOVNFS1BRU2w5QQ?oc=5",
    "source": "NBC10 Philadelphia",
@@ -1959,36 +1996,6 @@
    "first_seen": "2026-08-02T22:03:08.696062+00:00",
    "related": [],
    "report_count": 1
-  },
-  {
-   "title": "Philadelphia man among 2 suspects sought in Washington Township card shop burglaries - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVpVU3Y2RTZCNy1GV1VabmZiMlFuelptSm8xbFROSVNtVUdObnBhM293ZzlTMVp4QjQxLVhyVHFqdHBaakd4aTYzVFQ2czJrN2hDdkpURl90TkNsY19RWVVzR2ZSSWVVa05jWHRkYmJ0YWRNOFJrQ0NudEM2ekppNGNwbG0wcUwxaDFwYg?oc=5",
-   "source": "Yahoo",
-   "platform": "news",
-   "published": "2026-07-31T07:00:00+00:00",
-   "summary": "Philadelphia man among 2 suspects sought in Washington Township card shop burglaries Yahoo",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "USA",
-   "image": "",
-   "domain": "yahoo.com",
-   "logo": "",
-   "score": 2,
-   "matched": [
-    "burglar",
-    "card shop"
-   ],
-   "first_seen": "2026-08-16T02:02:59.889616+00:00",
-   "related": [
-    {
-     "title": "Arrest warrant issued after Washington Township card shop burglaries - Courier-Post",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUFJ4UDdyMzdsRThmX3JsT0NTMXV0dW5mN2h4SlpVTUpsV19fclU4dEZQWk9Qc3VxZXpCSnZmQjF4Tk81Ykx3ZFZTMFRkV29pdUVIRjlpOUxqX25uS2g1cGtHZlZIRXhvTldZeWZtbmN6SkRHRmVyNmhGNzgzems0VS1rYVJLZXBjelBzazZrdjZWMjdNcDFxNV9KRHU2R0doZlI3bF9tOFdQRDE1aDNLUkRGaHE3b1Vpc1BNUnd1U0xCN0hzV1k3QUJBc1ozdVJlMHUzNEFFSzdHVEVOSFlOSG5xY2RfT2JOc3Zv?oc=5",
-     "source": "Courier-Post",
-     "published": "2026-07-31T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
   },
   {
    "title": "PSA Slapped With RICO Lawsuit - Resell Calendar",
@@ -2159,35 +2166,27 @@
    "report_count": 1
   },
   {
-   "title": "Pair bought Pokémon cards with stolen ID, tried to resell them, warrant says\n\nXinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are accused of stealing a m",
-   "url": "https://bsky.app/profile/not-wral.bsky.social/post/3mqrplyjggs2f",
-   "source": "@not-wral.bsky.social",
-   "platform": "bluesky",
+   "title": "Philadelphia man among 2 suspects sought in Washington Township card shop burglaries - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVpVU3Y2RTZCNy1GV1VabmZiMlFuelptSm8xbFROSVNtVUdObnBhM293ZzlTMVp4QjQxLVhyVHFqdHBaakd4aTYzVFQ2czJrN2hDdkpURl90TkNsY19RWVVzR2ZSSWVVa05jWHRkYmJ0YWRNOFJrQ0NudEM2ekppNGNwbG0wcUwxaDFwYg?oc=5",
+   "source": "Yahoo",
+   "platform": "news",
    "published": "2026-07-30T07:00:00+00:00",
-   "summary": "Pair bought Pokémon cards with stolen ID, tried to resell them, warrant says\n\nXinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are accused of stealing a man’s identity to get $12,000 worth of Pokémon cards.",
-   "author": "WRAL Top Stories (unofficial)",
+   "summary": "Philadelphia man among 2 suspects sought in Washington Township card shop burglaries Yahoo",
+   "author": "",
    "category": "einbruch",
    "region": "int",
    "country": "USA",
    "image": "",
-   "domain": "not-wralbskysocial.com",
+   "domain": "yahoo.com",
    "logo": "",
-   "score": 3,
+   "score": 2,
    "matched": [
-    "pokemon",
-    "pokémon",
-    "stolen"
+    "burglar",
+    "card shop"
    ],
-   "first_seen": "2026-07-24T05:48:46.880208+00:00",
-   "related": [
-    {
-     "title": "Rafael Gordian wanted: Warrant issued for suspect wanted in Pokémon card thefts in South Jersey - 6abc Philadelphia",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPXzBpOEg0NjFzSmtDV1RvVjl3WndWd2VvVWU3QkM5X1BEWnJsZ0FaZWFWeGR5dWtTYVFqRHlWYUxFMS1xMXJKZEhBb3d2MHFOU1VrT0Y0b1hNeVRtWXBHZG53XzNkOGc3c1pNTFdnZUUwZm00bVE1ajd1Vm1SQWU1YVM5QVlMVXRqYlVyVzFnSkpjVHB2eVN6YXZ1REtjQdIBowFBVV95cUxPWlRjMTF2STN6M25wREdhY2VhcXhENFdkcXlOS0JXSkhpWXBzeFNyOHVRMmNzU2F2ZkVKTzNuT1FKLWZRVWdacVlMRkNDaHlya2JyZ1l2aERteFpIa01McVV0REZXN3JjaGdiM0JVZzI2TlBuZDQxaEtWWndDeWd1SURIV1lDcHE5LUM1ZEVCQkFHeVBRcnVOMHdkbEsyZ0s5V21N?oc=5",
-     "source": "6abc Philadelphia",
-     "published": "2026-07-30T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
+   "first_seen": "2026-08-16T02:02:59.889616+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Pokémon TCG Pocket - Neue Booster-Packs 2026: Release-Datum für kommende Sets und Karten - GamePro",
@@ -2366,42 +2365,6 @@
    "report_count": 1
   },
   {
-   "title": "Surveillance video shows two burglars smashing a front window and blitzing the store for less than 90 seconds before fleeing. \nhttps://bringmethenews.com/minnesota-news/forest-lake",
-   "url": "https://bsky.app/profile/bringmethenews.bsky.social/post/3mrkvq324vh2p",
-   "source": "@bringmethenews.bsky.social",
-   "platform": "bluesky",
-   "published": "2026-07-27T07:00:00+00:00",
-   "summary": "Surveillance video shows two burglars smashing a front window and blitzing the store for less than 90 seconds before fleeing. \nhttps://bringmethenews.com/minnesota-news/forest-lake-gaming-shop-burglarized-again-valuable-pokemon-cards-stolen",
-   "author": "FOX 9",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "fox9mnbskysocial.com",
-   "logo": "",
-   "score": 2,
-   "matched": [
-    "break-in",
-    "game store"
-   ],
-   "first_seen": "2026-07-26T18:04:25.563773+00:00",
-   "related": [
-    {
-     "title": "A Forest Lake card and video game store is picking up the pieces after an early morning break-in left a boarded-up window and big questions about security.",
-     "url": "https://bsky.app/profile/fox9mn.bsky.social/post/3mrkclndvo32g",
-     "source": "@fox9mn.bsky.social",
-     "published": "2026-07-26T11:45:08+00:00"
-    },
-    {
-     "title": "Forest Lake gaming store hit by burglars again, losing up to $50K in Pokémon cards - kare11.com",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONFNzUU1jOXRNMjlEek1DdS1YSzZwNG80bXlzanJvd0F0WE5rRTdkbGtTb3Vod1ZRR2hMV3V6REhocFZJaWxmMU9SUG1MYXpDbjNmTDUtaS1rd0tyUk4yeHJWbzJkaHlKc284TUxYNDQ3TUoxUVROVG9mZ09YWXV1bi1nZXBaUlQtakRNZWdRMmZnWVZXbXdYcWZ1dE81bl8yLWMyMEsxdVgxeXVkbmtMWUlna05RRVQtelppOWFJbko4WW1RNkNod1VzbFl5NllncDAwNDN5bFh4aF80akhTX0Fzd1dBMVVnNENKMjd2eFNwWGlr?oc=5",
-     "source": "kare11.com",
-     "published": "2026-07-27T07:00:00+00:00"
-    }
-   ],
-   "report_count": 3
-  },
-  {
    "title": "Pokémon TCG-Fan stellt fest, dass eine Freundin eine wertvolle Karte einfach als Lesezeichen nutzt – ohne Sleeve - GamePro",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU1VmbUI4V0ZCTWsyUk9iNzJmeEJSQjZtazJfOEdqbjdHd1Q3UnNCanI5ZzV6OHllS3MxTmtsR2RvX1hONTZtQUp3S2FpczM2eTZGNWxRdmVfSGZ4RDI2Vk1mMm5jUWxHVmxfbHI5WVp3a3dqc1c5cEdWQ2RvWWZaaVBrVThqRFUxRUc3Wg?oc=5",
    "source": "GamePro",
@@ -2466,6 +2429,36 @@
    "first_seen": "2026-07-27T16:03:36.283888+00:00",
    "related": [],
    "report_count": 1
+  },
+  {
+   "title": "Surveillance video shows two burglars smashing a front window and blitzing the store for less than 90 seconds before fleeing. \nhttps://bringmethenews.com/minnesota-news/forest-lake",
+   "url": "https://bsky.app/profile/bringmethenews.bsky.social/post/3mrkvq324vh2p",
+   "source": "@bringmethenews.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-07-26T17:27:37.029249+00:00",
+   "summary": "Surveillance video shows two burglars smashing a front window and blitzing the store for less than 90 seconds before fleeing. \nhttps://bringmethenews.com/minnesota-news/forest-lake-gaming-shop-burglarized-again-valuable-pokemon-cards-stolen",
+   "author": "FOX 9",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "fox9mnbskysocial.com",
+   "logo": "",
+   "score": 2,
+   "matched": [
+    "break-in",
+    "game store"
+   ],
+   "first_seen": "2026-07-26T18:04:25.563773+00:00",
+   "related": [
+    {
+     "title": "A Forest Lake card and video game store is picking up the pieces after an early morning break-in left a boarded-up window and big questions about security.",
+     "url": "https://bsky.app/profile/fox9mn.bsky.social/post/3mrkclndvo32g",
+     "source": "@fox9mn.bsky.social",
+     "published": "2026-07-26T11:45:08+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Another break-in at a Twin Cities card store - FOX 9 Minneapolis-St. Paul",
@@ -2982,16 +2975,40 @@
    "report_count": 1
   },
   {
-   "title": "Two arrested in Pokemon card burglary - FOX 26 Houston",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd1NDRzNSRWpINkZ5OXpsbkstSUVIeV9nclVGOGxNNjMwSEQ3LWRrb1NBX0wyWGoxTE5lSjd3ak5zbFgxazBqbFRxTWlKNG1XdldVaEZxdlh5QzVkV2k5ZWtUdVNhVkVGRjRyZXJaaExYN2oyOGxOajd2SF84NmJ2aFowS1hiZXlnd05OY2FaVThQU2hvbkoxbmNBOEVRN1dpUFFUN3VDakplSXFBaVFfONIBtgFBVV95cUxPNW40T3VtdVYzZ0xVc1pyTDJja1B1WUNOU0Qwb2I5cmV2OHJ0LUZJdGVKMnZUOXlfeUtFSVVaem9LUTIxRXRObnNjcmhFVFhmZ1VlUC1qNk1teEktQkJ4RFFkSkNDNVp4T0VVMTYwMG1JWUE0OGlQQkZvUlJQbkxwWVZ6WDBCWU5SMXptRWR4N1J5cEx4RFRGM255V0dfVzRnRWwtVkkxMGtsWUxWM0tObnlZUGZnUQ?oc=5",
-   "source": "FOX 26 Houston",
-   "platform": "news",
-   "published": "2026-07-14T07:00:00+00:00",
-   "summary": "Two arrested in Pokemon card burglary FOX 26 Houston",
-   "author": "",
+   "title": "Pair bought Pokémon cards with stolen ID, tried to resell them, warrant says\n\nXinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are accused of stealing a m",
+   "url": "https://bsky.app/profile/not-wral.bsky.social/post/3mqrplyjggs2f",
+   "source": "@not-wral.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-07-16T17:01:24.747000+00:00",
+   "summary": "Pair bought Pokémon cards with stolen ID, tried to resell them, warrant says\n\nXinyi Lin of Centerville, Virginia, and Dongwei Lin of Brooklyn, New York, are accused of stealing a man’s identity to get $12,000 worth of Pokémon cards.",
+   "author": "WRAL Top Stories (unofficial)",
    "category": "einbruch",
    "region": "int",
    "country": "USA",
+   "image": "",
+   "domain": "not-wralbskysocial.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "stolen"
+   ],
+   "first_seen": "2026-07-24T05:48:46.880208+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Two arrested in Pokemon card burglary - fox26houston.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd1NDRzNSRWpINkZ5OXpsbkstSUVIeV9nclVGOGxNNjMwSEQ3LWRrb1NBX0wyWGoxTE5lSjd3ak5zbFgxazBqbFRxTWlKNG1XdldVaEZxdlh5QzVkV2k5ZWtUdVNhVkVGRjRyZXJaaExYN2oyOGxOajd2SF84NmJ2aFowS1hiZXlnd05OY2FaVThQU2hvbkoxbmNBOEVRN1dpUFFUN3VDakplSXFBaVFfONIBtgFBVV95cUxPNW40T3VtdVYzZ0xVc1pyTDJja1B1WUNOU0Qwb2I5cmV2OHJ0LUZJdGVKMnZUOXlfeUtFSVVaem9LUTIxRXRObnNjcmhFVFhmZ1VlUC1qNk1teEktQkJ4RFFkSkNDNVp4T0VVMTYwMG1JWUE0OGlQQkZvUlJQbkxwWVZ6WDBCWU5SMXptRWR4N1J5cEx4RFRGM255V0dfVzRnRWwtVkkxMGtsWUxWM0tObnlZUGZnUQ?oc=5",
+   "source": "fox26houston.com",
+   "platform": "news",
+   "published": "2026-07-14T07:00:00+00:00",
+   "summary": "Two arrested in Pokemon card burglary fox26houston.com",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
    "image": "",
    "domain": "fox26houston.com",
    "logo": "",
@@ -3003,7 +3020,7 @@
     "pokemon",
     "pokémon"
    ],
-   "first_seen": "2026-07-23T12:55:00.279362+00:00",
+   "first_seen": "2026-07-29T15:37:43.143537+00:00",
    "related": [],
    "report_count": 1
   },
@@ -3853,12 +3870,12 @@
    "report_count": 1
   },
   {
-   "title": "Pokémon 30 Jahre: Das ist in den verschiedenen Boxen der Jubiläumsedition des TCG enthalten - IGN Deutschland",
+   "title": "Pokémon 30 Jahre: Das ist in den verschiedenen Boxen der Jubiläumsedition des TCG enthalten - de.ign.com",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVmZCeFl4VE9GWE5NTWdhZVA5RC1idUhJSG9wUzZIQlVWaWlGejFMN0x1WkhuRzZNVVB0cVpFd0laUTVsZDhYeUs2ekV2a2ZJRkVrVGlSUUliaF9FQlE5WXVfcXZScUJrd2VzemkydVE2c3lHVi1NbGFhaHFReGZnNG56V1FYYzEtbFBuVzRLZVRoZ1dUQmZkd2FxRXJVd2pQdHU1anlKNVdUcG5LZVR1Y1FNU1BtYWVEaTZXTDNaQmY5UWxGVnI0Ri14Qm5oY2h0a1BTWjZBNWFqUQ?oc=5",
-   "source": "IGN Deutschland",
+   "source": "de.ign.com",
    "platform": "news",
    "published": "2026-07-06T07:00:00+00:00",
-   "summary": "Pokémon 30 Jahre: Das ist in den verschiedenen Boxen der Jubiläumsedition des TCG enthalten IGN Deutschland",
+   "summary": "Pokémon 30 Jahre: Das ist in den verschiedenen Boxen der Jubiläumsedition des TCG enthalten de.ign.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -3870,7 +3887,7 @@
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-07-28T04:02:59.313741+00:00",
+   "first_seen": "2026-08-13T12:03:19.663594+00:00",
    "related": [
     {
      "title": "30 Jahre Pokémon: Sammelkartenset zum Jubiläum vorgestellt - nintendo-online.de",
@@ -4034,30 +4051,6 @@
     "news:de"
    ],
    "first_seen": "2026-07-28T10:03:13.454565+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Two men plead guilty to Pokemon thefts - gotta catch 'em all! - Cheshire Constabulary",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRklsTVNSOG9YQWEwcDVMbGZldTlwdHZKVE9ENWZaaWFRdG1VTWR6b0VDSXRITjA4OXdWNHVONjVIRFkzWlFSV243VlVtSzJkZy1nRUFCMTRoN3oxN2ZzaEJjdmhFMEtJSTVrRHI4MXpjZ2NkXzJqS09BRUg0NkktTy1UaDZSVzN3YTVGUEdBZTFIMUxidFhNdzY5Q05NMlNrX0pYUXpxY3ZjUVhEY0V3WWxIc01RUG5Hd3VUZUZhQ3loWTdW?oc=5",
-   "source": "Cheshire Constabulary",
-   "platform": "news",
-   "published": "2026-07-03T07:00:00+00:00",
-   "summary": "Two men plead guilty to Pokemon thefts - gotta catch 'em all! Cheshire Constabulary",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "cheshireconstabulary.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "pokemon",
-    "pokémon",
-    "theft"
-   ],
-   "first_seen": "2026-07-23T12:55:00.279974+00:00",
    "related": [],
    "report_count": 1
   }
