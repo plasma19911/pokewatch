@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-19T19:44:16.734667+00:00",
+ "generated": "2026-08-19T19:54:10.897014+00:00",
  "builder": "2026-07-25g",
  "count": 150,
- "new": 1,
+ "new": 0,
  "items": [
   {
    "title": "11-year-old loses B1 million in Pokémon card scam - Bangkok Post",
@@ -116,7 +116,7 @@
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "bbc.com",
+   "domain": "bbc.co.uk",
    "logo": "",
    "score": 3,
    "matched": [
@@ -127,9 +127,9 @@
    "first_seen": "2026-08-19T19:44:16.719660+00:00",
    "related": [
     {
-     "title": "Arrest in connection with Pokemon cards raid - BBC",
+     "title": "Arrest in connection with Pokemon cards raid - bbc.co.uk",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8ycUswOVVzelJGWUUzaFphdzFuYUFiaVJEOEFVYmc1STBIS2xBNkM4TkphUlJhQVMxSUVJelFUNUVSUEFsQXlnWHZhVXZiSlZjenZjQW9WNmtVeGhm?oc=5",
-     "source": "BBC",
+     "source": "bbc.co.uk",
      "published": "2026-08-19T11:39:42+00:00"
     }
    ],
@@ -981,9 +981,9 @@
      "published": "2026-08-10T07:00:00+00:00"
     },
     {
-     "title": "Over $300K worth of merchandise stolen from Wisconsin card store - aol.com",
+     "title": "Over $300K worth of merchandise stolen from Wisconsin card store - AOL.com",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN3ZFSDFZclRYbERpSXIwLWJxdWNQY2c4aFB0UTFsM293MkY4T1k4N3oxRjZiQkM3Tzc5Ry05SmZrR25ucnl5aFBnRGZXenN6OHFUUnhyUmh1R0RMcHNycDRtYVd2eW9POWlJWTJ2MkdZNWFCdEcxMEwyek9xd1NvaDRnSEU?oc=5",
-     "source": "aol.com",
+     "source": "AOL.com",
      "published": "2026-08-11T03:03:00+00:00"
     }
    ],
@@ -1109,7 +1109,7 @@
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNajRhc1FwaDJ0VF9LWTRGTDV6VTZnSmFzSTUxV1h4VmN1bEprWENCTHFQWUN3N0JoUnQ5eGNqanI1c2JocEpqT2FvcnBOV3RrSU5Jdk1ybDlvaVdPaWdOMnkwUDZ6SFl2OS1zRHFpN01tUzFqVlN3MnFtTjZYOEVnT2h3RDNCbk5mNVRTbjZOQ0VUd2JOcEs5UUl4VXgwcmhZU3UyUVlKRk5nNGo2WmdFMWthUlZKRXFnei1Hemp4Z19RWEctTHc?oc=5",
    "source": "news4sanantonio.com",
    "platform": "news",
-   "published": "2026-08-11T02:52:24+00:00",
+   "published": "2026-08-10T23:15:01+00:00",
    "summary": "Burglars break into Pokémon card shop in early morning raid, police investigating news4sanantonio.com",
    "author": "",
    "category": "einbruch",
@@ -1136,9 +1136,9 @@
     },
     {
      "title": "Burglars break into Pokémon card shop in early morning raid, police investigating - KABB",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczhYRWVsZVlycVZiQjM1NE1WNHFQdndKSW5GeU94elhPZ25BRmhNU3dISHlybWNITHJidnVSVm1rOUtwb3JVSF9pZTU5LWtPRzdvT01uUnl5a3lqUTBsMTFFYUkySnVRODNGZVBrbWFIVm9zY1NoTUJrVjdZT3BZaWk1X05QUUNPdy1Lbmd4WU1kbjRCWXhYYXhXdm1wYTRHSWJwVDhENENsZ29jVFAtdW93Yk5SSXFldzVJb1dn?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObm5sNWlFUGpYTjllcVdtYWN4THI5MkU0dmpGTC1yUzNHem5GMUpVNGlKdzBsM2F6cnFqNzVpM1lxYTZ6dmhtWFowZ3YxQXAxSkRnMEkwc3ZfX2pnSGVnUEZKUmQ4b3BzUXVzYW1IaUY4ZGJwQ3RGbjlqVWtxMkFvdDZ0emxrVm1TTjRrd2dnV2JsZFp4VGViSlQzaHlfMkdUUzRYWF8wY21RWmp5OC1mQTlBRXBEYWFKN2ZWcXRkeWY?oc=5",
      "source": "KABB",
-     "published": "2026-08-11T02:52:24+00:00"
+     "published": "2026-08-10T23:11:12+00:00"
     }
    ],
    "report_count": 3
@@ -1375,33 +1375,26 @@
    "report_count": 2
   },
   {
-   "title": "Das neue Pokémon Woosh fordert euer Geschick heraus und ist jetzt erhältlich - jpgames.de",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjVGX1pjMVhhak5Ldk40U1ZFa3ZmdHlEdndGSUhPSGIweVl1Y2F5WTJZYlc2eWlNVFlFMUZ2Skd2V2tKMXRzVW1wSmJxM2FrUklRVnlVX1RiNDNielhaRXVEMWhfTFg3dmZBWlBuV3NaUnVlWk9GVHg5bWZkVXYyN0JSaGw3ZWhhZ1VyLTZXSFBfYlB0UXVkUXdUbUFINmpWLVJsOGY2aWE?oc=5",
-   "source": "jpgames.de",
+   "title": "Pokémon-Karten: Erste Partner Serie 3 offiziell ab heute bei Amazon erhältlich - giga.de",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOem9uTFlvVXFBdFJjQXAtdkt1cDZXeHltOWxEUHJ6YWNGeTM4cVh0eC12Yko1ZWg5dzJsbTRzR09TODhYNVJsTVJibXVMRGpKamJvQkd2N1RfMk5TV3hTdUxGdmF5eVpoV2xSRGN4UFlaTUhCUFFPSkc1UXNBQ0tlUlZ3VkZpajM2eUdUUnh5aGNra0NsMll2MWFPX1c2QzI0RlZzdjFOX1BFY1hfTXE3R09pY0hmMVVxQm9GbXduUFVrRFQ4OGpEQjJHa2Y?oc=5",
+   "source": "giga.de",
    "platform": "news",
    "published": "2026-08-07T07:00:00+00:00",
-   "summary": "Das neue Pokémon Woosh fordert euer Geschick heraus und ist jetzt erhältlich jpgames.de",
+   "summary": "Pokémon-Karten: Erste Partner Serie 3 offiziell ab heute bei Amazon erhältlich giga.de",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "jpgames.de",
+   "domain": "giga.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-07-31T08:03:32.610041+00:00",
-   "related": [
-    {
-     "title": "Pokémon-Karten: Erste Partner Serie 3 offiziell ab heute bei Amazon erhältlich - giga.de",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOem9uTFlvVXFBdFJjQXAtdkt1cDZXeHltOWxEUHJ6YWNGeTM4cVh0eC12Yko1ZWg5dzJsbTRzR09TODhYNVJsTVJibXVMRGpKamJvQkd2N1RfMk5TV3hTdUxGdmF5eVpoV2xSRGN4UFlaTUhCUFFPSkc1UXNBQ0tlUlZ3VkZpajM2eUdUUnh5aGNra0NsMll2MWFPX1c2QzI0RlZzdjFOX1BFY1hfTXE3R09pY0hmMVVxQm9GbXduUFVrRFQ4OGpEQjJHa2Y?oc=5",
-     "source": "giga.de",
-     "published": "2026-08-07T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
+   "first_seen": "2026-08-14T17:41:04.924342+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "„Wir wollten, dass es glamourös ist“: Schweizer Erbin verkauft 60.000 Pokémon-Karten für 105 Mio. Euro - Merkur",
@@ -1698,30 +1691,6 @@
    "report_count": 1
   },
   {
-   "title": "High-value Pokémon cards stolen - Global News",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAySjJPSzNNVWwzejhSUmpGWl9tSy1ydG1pOTJJT0p1LXd2Q3U0dC1EdVNRZjhLMUJYVnZpSVdKamJEN3JCTFRzbHdMUDU3QW1aaUpaM3dsMDVZTVNWc1ZSbDRYNDZaeTB2NVpzUWt1Z0x0STdZcWQw?oc=5",
-   "source": "Global News",
-   "platform": "news",
-   "published": "2026-08-05T07:00:00+00:00",
-   "summary": "High-value Pokémon cards stolen Global News",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "globalnews.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "pokemon",
-    "pokémon",
-    "stolen"
-   ],
-   "first_seen": "2026-08-06T06:03:09.283637+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Pokémon card heist caught on video - CTV News",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFZYXzItR2tLU2NFMmJOYjlaaEE5RmlhMkhTTEdLdHV5d1pJaUQyRDhSRjNObHR2T3h5SVNoMVZDclBmUnVOTTBoVUtYWjJWNUhFMjFZVXVYZWFidGVWRzhjZWhJYkhEcU9DYk43WDlxREdpay1XcFZaNlJmY1JkQTNYN3JMRjNVdEliTFV3?oc=5",
    "source": "CTV News",
@@ -1742,6 +1711,30 @@
     "pokémon"
    ],
    "first_seen": "2026-08-06T02:03:19.931903+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "High-value Pokémon cards stolen - Global News",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAySjJPSzNNVWwzejhSUmpGWl9tSy1ydG1pOTJJT0p1LXd2Q3U0dC1EdVNRZjhLMUJYVnZpSVdKamJEN3JCTFRzbHdMUDU3QW1aaUpaM3dsMDVZTVNWc1ZSbDRYNDZaeTB2NVpzUWt1Z0x0STdZcWQw?oc=5",
+   "source": "Global News",
+   "platform": "news",
+   "published": "2026-08-05T07:00:00+00:00",
+   "summary": "High-value Pokémon cards stolen Global News",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "globalnews.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "stolen"
+   ],
+   "first_seen": "2026-08-06T06:03:09.283637+00:00",
    "related": [],
    "report_count": 1
   },
@@ -2211,6 +2204,28 @@
    "report_count": 1
   },
   {
+   "title": "Das neue Pokémon Woosh fordert euer Geschick heraus und ist jetzt erhältlich - jpgames.de",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjVGX1pjMVhhak5Ldk40U1ZFa3ZmdHlEdndGSUhPSGIweVl1Y2F5WTJZYlc2eWlNVFlFMUZ2Skd2V2tKMXRzVW1wSmJxM2FrUklRVnlVX1RiNDNielhaRXVEMWhfTFg3dmZBWlBuV3NaUnVlWk9GVHg5bWZkVXYyN0JSaGw3ZWhhZ1VyLTZXSFBfYlB0UXVkUXdUbUFINmpWLVJsOGY2aWE?oc=5",
+   "source": "jpgames.de",
+   "platform": "news",
+   "published": "2026-07-31T07:00:00+00:00",
+   "summary": "Das neue Pokémon Woosh fordert euer Geschick heraus und ist jetzt erhältlich jpgames.de",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "jpgames.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-07-31T08:03:32.610041+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
    "title": "Rückblick auf eine Region: Einall im Rampenlicht - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2NpUjBYNVZFSzJPSFdDRkFPNVBGVWI2aFFBSklDMzAzQzl5c1Q1OWVoSUNMQnRBN0ZKcWM5NmJHS2xQRzhSNVB0ejAwcEZWZWZHbHQ3RUdVZGd1LUtyS2wtZGJZa2RUTVJmWGFjY2ZTZl92cHh1ZDBxQVJqRWE1N2lDczlGWFpJQXhIag?oc=5",
    "source": "Pokemon.com",
@@ -2416,24 +2431,24 @@
    "report_count": 1
   },
   {
-   "title": "\"Herrscher der Lüfte\" – \"Pokémon Pocket\" bringt Spielern Mega Rayquaza ex - Heute",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLUxQS3FGMGFrWkNpcEFIam5raG5GOVB3dnZxX0dhXzNQQ2NIZ3U3WGx5UUNwRUMzY0VjM0tibmlIV1FlSTk5VlpTaXFfTWFUZmFrRzl4d1BaMzYyalVRMlZvZTVCbnF6Ql85WE9mYWUxSzZQbVU3NndpVy1iTllWc2pUS3NwZ2c?oc=5",
-   "source": "Heute",
+   "title": "Die neue Erweiterung für Pokémon TCG Pocket Herrscher der Lüfte erscheint am 30. Juli - game7days.de",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkJCNVR0YXllQ3FKbGR3YmVoWkFYLVIzWGYzTjdjVk9XWll6ZlpndDBWbEt2ZGFFcFhmVUFFeHBoMFdoa3lPNFVLMUlxYzN4TENyTFpMT0swRUNGd3BJdE5pTzNkWjdjRGhvRUV0cjVMclItYzJPdFp3cFdvZUJLV0k0UUM4ZHdLV0I1YlQ5UHNNYjNBUUx4Z1dkVEZlb2Q0MElQQzlyNHlfYWlsVjFyM2lZVmRJUGpCdGRr?oc=5",
+   "source": "game7days.de",
    "platform": "news",
    "published": "2026-07-29T07:00:00+00:00",
-   "summary": "\"Herrscher der Lüfte\" – \"Pokémon Pocket\" bringt Spielern Mega Rayquaza ex Heute",
+   "summary": "Die neue Erweiterung für Pokémon TCG Pocket Herrscher der Lüfte erscheint am 30. Juli game7days.de",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "heute.de",
+   "domain": "game7days.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-07-25T15:38:59.038122+00:00",
+   "first_seen": "2026-08-03T22:03:18.940064+00:00",
    "related": [
     {
      "title": "Neues Pokémon TCG Pocket-Set \"Herrscher der Lüfte\" angekündigt - GamePro",
@@ -2609,6 +2624,38 @@
    "report_count": 1
   },
   {
+   "title": "Forest Lake card shop broken into: owner loses up to $50K in Pokémon collectibles - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOFJpWlltSXFWSlEzZjZ5Y05mdVdkZ2JGemJydEtkZ0l0SmtZd0d3aTRuWHk5RW9rM1g0NEo1MVd3MnRtTS0tRXFRc0pXTklyMFRGYVdYODZvZ0FtV25KSDB1Zlo2RTQ0ZUNXR2hhTWxxVnFkNzNQWmRNckF5c19BUlZBVGNIQQ?oc=5",
+   "source": "Yahoo",
+   "platform": "news",
+   "published": "2026-07-27T07:00:00+00:00",
+   "summary": "Forest Lake card shop broken into: owner loses up to $50K in Pokémon collectibles Yahoo",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "yahoo.com",
+   "logo": "",
+   "score": 4,
+   "matched": [
+    "broken into",
+    "card shop",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-08-16T15:49:46.377986+00:00",
+   "related": [
+    {
+     "title": "Forest Lake gaming store hit by burglars again, losing up to $50K in Pokémon cards - kare11.com",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONFNzUU1jOXRNMjlEek1DdS1YSzZwNG80bXlzanJvd0F0WE5rRTdkbGtTb3Vod1ZRR2hMV3V6REhocFZJaWxmMU9SUG1MYXpDbjNmTDUtaS1rd0tyUk4yeHJWbzJkaHlKc284TUxYNDQ3TUoxUVROVG9mZ09YWXV1bi1nZXBaUlQtakRNZWdRMmZnWVZXbXdYcWZ1dE81bl8yLWMyMEsxdVgxeXVkbmtMWUlna05RRVQtelppOWFJbko4WW1RNkNod1VzbFl5NllncDAwNDN5bFh4aF80akhTX0Fzd1dBMVVnNENKMjd2eFNwWGlr?oc=5",
+     "source": "kare11.com",
+     "published": "2026-07-27T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
+  },
+  {
    "title": "Pokémon TCG-Fan stellt fest, dass eine Freundin eine wertvolle Karte einfach als Lesezeichen nutzt – ohne Sleeve - GamePro",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU1VmbUI4V0ZCTWsyUk9iNzJmeEJSQjZtazJfOEdqbjdHd1Q3UnNCanI5ZzV6OHllS3MxTmtsR2RvX1hONTZtQUp3S2FpczM2eTZGNWxRdmVfSGZ4RDI2Vk1mMm5jUWxHVmxfbHI5WVp3a3dqc1c5cEdWQ2RvWWZaaVBrVThqRFUxRUc3Wg?oc=5",
    "source": "GamePro",
@@ -2697,6 +2744,28 @@
    "report_count": 1
   },
   {
+   "title": "30 Jahre Pokémon: Die Pixel-Art-Shirts von UNIQLO sind jetzt erhältlich - jpgames.de",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcjJFQ1JwUWZZYV9GOEljdjN4eWVfMGVkMDh0czUwN2VGS20tUUpTN2k1X0RZSE51blFfT0FpZ1ZQUzRDSGhTbWR2QjgwY2ZRQm1CQkdSczVsWFNRTGpRZzFuOFBDc0NYYnRIODFxZC0zbkU1X0VHY1FwQ015UGhuOGlOXzU4MWNCZjZ0MmZjOFM2OE0tbzZUUWhSMHRzMWdGeXc0U19B?oc=5",
+   "source": "jpgames.de",
+   "platform": "news",
+   "published": "2026-07-27T07:00:00+00:00",
+   "summary": "30 Jahre Pokémon: Die Pixel-Art-Shirts von UNIQLO sind jetzt erhältlich jpgames.de",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "jpgames.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-08-17T06:08:39.355984+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
    "title": "Slideshow: Pokémon TCG: 30 Jahre Jubiläums-Edition - IGN Deutschland",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcDhpWDJvdlhHTnhIWFBNbmtIT05QSElwQS1tUDBBUEdzb3hxdk8yMmRTWG1lV1pCajg5NlR3NHdiVHhvUlhocENSWVNleHR5QTNVTUJBN3RrVW5Mck9OLXBCZElOZGFsUkpLUVF0YnAzU0xDUkFDbEFYeUVaampKaWVmUTAyazRtYnc?oc=5",
    "source": "IGN Deutschland",
@@ -2738,31 +2807,6 @@
     "card store"
    ],
    "first_seen": "2026-07-26T06:04:01.208787+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Forest Lake card shop broken into: owner loses up to $50K in Pokémon collectibles - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOFJpWlltSXFWSlEzZjZ5Y05mdVdkZ2JGemJydEtkZ0l0SmtZd0d3aTRuWHk5RW9rM1g0NEo1MVd3MnRtTS0tRXFRc0pXTklyMFRGYVdYODZvZ0FtV25KSDB1Zlo2RTQ0ZUNXR2hhTWxxVnFkNzNQWmRNckF5c19BUlZBVGNIQQ?oc=5",
-   "source": "Yahoo",
-   "platform": "news",
-   "published": "2026-07-25T07:00:00+00:00",
-   "summary": "Forest Lake card shop broken into: owner loses up to $50K in Pokémon collectibles Yahoo",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "yahoo.com",
-   "logo": "",
-   "score": 4,
-   "matched": [
-    "broken into",
-    "card shop",
-    "pokemon",
-    "pokémon"
-   ],
-   "first_seen": "2026-08-16T15:49:46.377986+00:00",
    "related": [],
    "report_count": 1
   },
@@ -2866,24 +2910,24 @@
    "report_count": 1
   },
   {
-   "title": "Die neue Erweiterung für Pokémon TCG Pocket Herrscher der Lüfte erscheint am 30. Juli - game7days.de",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkJCNVR0YXllQ3FKbGR3YmVoWkFYLVIzWGYzTjdjVk9XWll6ZlpndDBWbEt2ZGFFcFhmVUFFeHBoMFdoa3lPNFVLMUlxYzN4TENyTFpMT0swRUNGd3BJdE5pTzNkWjdjRGhvRUV0cjVMclItYzJPdFp3cFdvZUJLV0k0UUM4ZHdLV0I1YlQ5UHNNYjNBUUx4Z1dkVEZlb2Q0MElQQzlyNHlfYWlsVjFyM2lZVmRJUGpCdGRr?oc=5",
-   "source": "game7days.de",
+   "title": "\"Herrscher der Lüfte\" – \"Pokémon Pocket\" bringt Spielern Mega Rayquaza ex - Heute",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLUxQS3FGMGFrWkNpcEFIam5raG5GOVB3dnZxX0dhXzNQQ2NIZ3U3WGx5UUNwRUMzY0VjM0tibmlIV1FlSTk5VlpTaXFfTWFUZmFrRzl4d1BaMzYyalVRMlZvZTVCbnF6Ql85WE9mYWUxSzZQbVU3NndpVy1iTllWc2pUS3NwZ2c?oc=5",
+   "source": "Heute",
    "platform": "news",
    "published": "2026-07-23T07:00:00+00:00",
-   "summary": "Die neue Erweiterung für Pokémon TCG Pocket Herrscher der Lüfte erscheint am 30. Juli game7days.de",
+   "summary": "\"Herrscher der Lüfte\" – \"Pokémon Pocket\" bringt Spielern Mega Rayquaza ex Heute",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "game7days.de",
+   "domain": "heute.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-08-03T22:03:18.940064+00:00",
+   "first_seen": "2026-07-25T15:38:59.038122+00:00",
    "related": [],
    "report_count": 1
   },
@@ -3858,6 +3902,30 @@
    "report_count": 1
   },
   {
+   "title": "Tell a lie, we've had a FEW new businesses, amidst the many which have closed/burned down:\n\n- pink painted cat cafe\n- bigger premises for gay Jewish bagel and cheesecake shop\n- fiv",
+   "url": "https://bsky.app/profile/oispooky.bsky.social/post/3mq5wc5cnfk2v",
+   "source": "@oispooky.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-07-08T20:07:56.103000+00:00",
+   "summary": "Tell a lie, we've had a FEW new businesses, amidst the many which have closed/burned down:\n\n- pink painted cat cafe\n- bigger premises for gay Jewish bagel and cheesecake shop\n- five (at least) Turkish barbers 😆\n- One of those weird little collectible Pokemon etc cupboards? Got robbed immediately",
+   "author": "Sarah Elizabeth Cox",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "oispookybskysocial.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "robbed"
+   ],
+   "first_seen": "2026-07-24T11:26:19.723215+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
    "title": "Man charged with burglarizing collectibles shop of $65K in Pokémon cards, sports memorabilia, cash - MLive.com",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMzhlbWotN0gtdmZMU2JVSGpmTVk1c0hMM2t3ckZLTUQtV3lIWEl6NFpqY0paZy1TeHBOcVRUR3FURVRWeHZnTmVOVE03MXJJWkFkdHpHZGpNNjAyNEVxa1BOZnY1TExPYWw1Wl9kelY0ME5DVkVMZ05ONXIyaDFzMExWNWdDX1Y1V2V5dFhqQVVNSURzVEp1cWkxT0cwR2ZTbUwyVWdDVVg5d2tCcGpTM3NsZ0Z3ZUJPN0pZWGt4cHlCWWIxa1dFWnFaRFU4TmNKRkVWT2lSQmxIZVZBdlNrNDNkdHNkNGfSAfsBQVVfeXFMT1hwNE84aWk5dzVIZFZFc3VjczlhTXNuaE9INlhfTmRDSGdHQmpaeEV6TDZQaE9TSjlWR2o2YnR4blNYWGdTMEoyTlVKWWtudUlEaVVSTFRKUlJQVktMM2JiUkF5UEJIYWtOMmU3MWZ1VFR3VlVTdXBZc1c1djNfTXJJU1NYYS1nTmY1eW4zLVRVV2Y5MGdtMVhaN3BMWlQ4bFR6SUpYSXFTZDEyNXJQSWV1b3pIRXVBZE81MFQtaHcxNldEVXRBR2J1V0xDVWcybmZISm9LR05tTnk0TUlXN1BqR2VXZlN3UzlQVnhxZWk4Nm5mVzNEWGt3WDg?oc=5",
    "source": "MLive.com",
@@ -3910,81 +3978,6 @@
     "pokémon"
    ],
    "first_seen": "2026-08-04T02:03:13.210356+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Two men plead guilty to stealing over £71,000 worth of Pokémon TCG in a string of burglaries targeting small card stores - PC Gamer",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQWFYVXhzNVVqeE1PNm9uc1BrbW9faHFNbUpoRWpzNVRPdWhvWmNaU29Nb3dfSC1xY2F0WGNFalcwY2NMRVl4cG43WHplTDBIYUZHc3NOY3dKc3lHd0FqOHBXbmdpdW9ldmFEZzRvcnZmaEpFSWdKMWNtVzBnZ2oyQ21YdEl6OGZBV3RrZTZJUXYtNE45eGI4bG5qdzVEU3lQQzJhQ0IzZXhZN3FLTlhSVEJ3cUZ6WkpmRThkNzN0UmJaQ2s2Z1RtNDRxYm56eTdTSld0anVwSm1PRDkxOVdYRkZCNGhVMDE5MG8zSmZ3aWVzdkNTeVRV?oc=5",
-   "source": "PC Gamer",
-   "platform": "news",
-   "published": "2026-07-08T07:00:00+00:00",
-   "summary": "Two men plead guilty to stealing over £71,000 worth of Pokémon TCG in a string of burglaries targeting small card stores PC Gamer",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "pcgamer.com",
-   "logo": "",
-   "score": 5,
-   "matched": [
-    "burglar",
-    "card store",
-    "pokemon",
-    "pokémon",
-    "tcg"
-   ],
-   "first_seen": "2026-07-23T12:55:00.279854+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "More than $100K worth of merchandise stolen after break-ins at trading card and video game stores in Ajax - Durham Radio News",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vYkpVOFJrUXl5UVJJdVdKUk9yNDNLb1hocHo3V29EQ2lzSW5mR1lHYlZzTlBLX1RvY0l0VkhpSk5LeFQ2UU13UE9KM0FDbmg4R3p6bEQtVGczZFE?oc=5",
-   "source": "Durham Radio News",
-   "platform": "news",
-   "published": "2026-07-08T07:00:00+00:00",
-   "summary": "More than $100K worth of merchandise stolen after break-ins at trading card and video game stores in Ajax Durham Radio News",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "durhamradionews.com",
-   "logo": "",
-   "score": 4,
-   "matched": [
-    "break-in",
-    "game store",
-    "stolen",
-    "trading card"
-   ],
-   "first_seen": "2026-08-12T22:03:38.609666+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Unbekannte wollen Pokemonkarten klauen: Polizei fahndet in der Innenstadt - Kaiserslautern - Wochenblatt Reporter",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSDRpdC1zbk1INnJjR0J2QXhBbTNCS1o3SDJUd3hFUi03S2pCTmdVOHYxbmVyRjBhT1JNclVDOHprX2tLNEV2S0YwZUNSVlg1cVQ0OUJjdVZ2NTN2aVpTZEt5Z3NPTFRaYjB2azlVamhTYjBoQlp0ZGphUVBvdDZzZ3dyV1gwZ3VLRzBib0swVzBROXpHNlRzMzdSamx5aHh0OEJvNWZ6UDlmR1RJWU1zd2lnblpFM2puYVlDUkxGN0tsMHJna0Q2bXpZMklSTkxMaXBRSTBCa21UOEE?oc=5",
-   "source": "Wochenblatt Reporter",
-   "platform": "news",
-   "published": "2026-07-08T07:00:00+00:00",
-   "summary": "Unbekannte wollen Pokemonkarten klauen: Polizei fahndet in der Innenstadt - Kaiserslautern Wochenblatt Reporter",
-   "author": "",
-   "category": "behoerden",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "wochenblatt-reporter.de",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "pokemon",
-    "pokémon",
-    "polizei"
-   ],
-   "first_seen": "2026-08-03T18:03:20.576655+00:00",
    "related": [],
    "report_count": 1
   }
