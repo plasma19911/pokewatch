@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-26T10:58:00.183740+00:00",
+ "generated": "2026-08-26T11:19:54.871627+00:00",
  "builder": "2026-07-25g",
  "count": 150,
- "new": 0,
+ "new": 3,
  "items": [
   {
    "title": "Brooks RCMP investigate collision and trading card theft, while making arrest to a wanted man - CHAT News Today",
@@ -95,18 +95,18 @@
    "report_count": 3
   },
   {
-   "title": "Pokemon cards raid leaves shop owner 'heartbroken' - AOL.ca",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Wbl9GV1gzZERNdXhQUG9KdDdHYm5WTzdZcUM5VlViYm9uTG5iY1NsRVJPcTlfejdKTHdOYmJzRm5odVRpVjA1SEpSYlcyeFZKcjFURllYMEZ2MUttZktkbWFEU05CUmQ4dnBOanR6c0xfWlUwRTJidmV4amRQdw?oc=5",
-   "source": "AOL.ca",
+   "title": "Arrest in connection with Pokemon cards raid - AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUE5MWHdBVnMzc2JVSHk0X1NORFBzLUV5Nnk5bW1DMVVVVVh6Ym9Mb29XMVhoeXZvTzdHUzMxNXlMTnh2bEhFYzA1OEswWHhKVV85TmFGZjlEVDBOamhRQmVDM0tQWmhXdFZQbTFHMzVLTlQwbHJIcEx6M2RYVkFUd3VMelUta2c?oc=5",
+   "source": "AOL.com",
    "platform": "news",
-   "published": "2026-08-25T23:41:16+00:00",
-   "summary": "Pokemon cards raid leaves shop owner 'heartbroken' AOL.ca",
+   "published": "2026-08-25T20:49:46+00:00",
+   "summary": "Arrest in connection with Pokemon cards raid AOL.com",
    "author": "",
    "category": "behoerden",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "aol.ca",
+   "domain": "aol.com",
    "logo": "",
    "score": 3,
    "matched": [
@@ -114,9 +114,55 @@
     "pokémon",
     "raid"
    ],
-   "first_seen": "2026-08-26T05:01:54.813409+00:00",
-   "related": [],
-   "report_count": 1
+   "first_seen": "2026-08-24T16:03:32.140851+00:00",
+   "related": [
+    {
+     "title": "Arrest in connection with Pokemon cards raid - Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON05yZWxSZVNYWDZIckJPbk5CZUJnRVNjdFFxVjh2cHBPN2hCSjBDNHJNVDFBUDd0TEdzSnNMVnp3NWRkeTF2RVpNOUEzNTZVMVJ5bkQ0WDA4STdVa1FVV2VrWThieUZZSUE1cE5uMFlfNzFYUzJ1bVM3MjAwbFFnRC15Q0NwM1B0UnlnMnBlMzg?oc=5",
+     "source": "Yahoo",
+     "published": "2026-08-19T12:05:06+00:00"
+    },
+    {
+     "title": "Arrest in connection with Pokemon cards raid - AOL.ca",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeWRZeXhJVmpJYWZEVHZ2eFJkcE90T3Vxdlh3TkVsNndyYkRrQkN6UHNNM2ZSczJia3dGeFVybnU1VVF3dldraHVVRjl6X1YwQk4yUEJRUTFYY3l2cGxSc2d4b29PdmZ2cE9nMnU5R0Jkd3ZxeDNKWE5KVUJXMjU4TG5lMnMxQQ?oc=5",
+     "source": "AOL.ca",
+     "published": "2026-08-25T20:49:46+00:00"
+    }
+   ],
+   "report_count": 3
+  },
+  {
+   "title": "POKÉMON BITTE NIMM MEIN GANZES GELD (Neues Set)",
+   "url": "https://www.youtube.com/watch?v=NEO67VXMIBQ",
+   "source": "Serhasch",
+   "platform": "youtube",
+   "published": "2026-08-25T20:32:11.208000+00:00",
+   "summary": "Das nächste Pokémon Set, nach 30th Celebrations, Delta Herrschaft\n✔️ Code *SERHASCH* für *1 Gratis Booster* ab 30€ bei https://tcgviert.com/products/gratis-serhash-booster ( *Booster im Warenkorb + Code = Gratis Pack* ) # Werbung\n🔔 Abonniert für mehr Pokémon Karten Opening Videos! https://www.youtub",
+   "author": "Serhasch",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "https://i3.ytimg.com/vi/NEO67VXMIBQ/hqdefault.jpg",
+   "domain": "serhasch.de",
+   "logo": "",
+   "score": 12,
+   "matched": [
+    "booster",
+    "muster:szene",
+    "neues set",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-08-20T15:01:49.061122+00:00",
+   "related": [
+    {
+     "title": "🚨 eBay is reportedly removing in-hand listings for unreleased Pokémon TCG: 30th Celebration cards and products under its Stolen Property Policy.\n\nWith launch set for September 16, ",
+     "url": "https://bsky.app/profile/cardgamenetwork.bsky.social/post/3mtwnzp4zck2h",
+     "source": "@cardgamenetwork.bsky.social",
+     "published": "2026-08-25T20:32:11.208000+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "$12,000 Pokémon card heist shows just how crazy the market has become - NewsBreak: Local News & Alerts",
@@ -198,24 +244,67 @@
    "report_count": 2
   },
   {
-   "title": "James Turner: Ehemaliger GAME FREAK-Mitarbeiter wird fortan bei The Pokémon Company beschäftigt - ingame.de",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRExwMUNkR1JId3FrTlRvZ19HWnBSWVBBV2t4bmVpQU00NFUxUU9TLXJTTlczdXI5S2NBbnZyeUE2QXJ2ZVZQb09jWEJCRFBGQmc2akttZmZiRFRyQW4yQnotNFlHV2FBMS1VNFRoWkZRaGlwOEdwQlhkLVZMbWhMeFFoMDlLamVUektfWWhOUjFKOGQtWXJXcmVFdlkyQTUyUTZYZENLeDFad2N0MXNjWkZiVUZuRzduQzlWRFBDWjhwbUJKaUo4TjBlbHhIV1hTRFpKdkhn?oc=5",
-   "source": "ingame.de",
+   "title": "Pokémon Collector Poses as Buyer to Recover $4,000 Worth of Stolen Cards in 'Vigilante' Sting Operation after police said they “couldn’t do much” to help him recover the stolen Pok",
+   "url": "https://bsky.app/profile/tuckerpete.bsky.social/post/3mtvxbulpn225",
+   "source": "@tuckerpete.bsky.social",
+   "platform": "news",
+   "published": "2026-08-25T13:45:09.309000+00:00",
+   "summary": "Pokémon Collector Poses as Buyer to Recover $4,000 Worth of Stolen Cards in 'Vigilante' Sting Operation after police said they “couldn’t do much” to help him recover the stolen Pokémon cards.\nwww.ign.com/articles/pok...",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "yahoo.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "stolen"
+   ],
+   "first_seen": "2026-08-25T15:12:51.546636+00:00",
+   "related": [
+    {
+     "title": "Pokémon Collector Poses as Buyer to Recover $4,000 Worth of Stolen Cards in 'Vigilante' Sting Operation - Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYi0zcXlSTzNMblZlYnlVVEE3TzhkbWlrR1QwQk5rUmpXeHFMa2gxR2F5R2RISElRVDFqZ1ItR0ctYzJrN3RoRkZmbnFkamdKY1BFQ2ozc1ZoT3RWUUp1SFFNMnU3U2E2NVQwbTBaTVczclRUUzZLck85cHNHWkdkU0hlMDhacjhxX2lJ?oc=5",
+     "source": "Yahoo",
+     "published": "2026-08-24T17:35:49+00:00"
+    },
+    {
+     "title": "🎮 **Pokémon Collector Poses as Buyer to Recover $4,000 Worth of Stolen Cards in 'Vigilante' Sting Operation**\n\nCanadian collector Emilio Kihien took matters into his own hands afte",
+     "url": "https://bsky.app/profile/feed.igeek.gamer-geek-news.com.ap.brid.gy/post/3mttwrmnkhbm2",
+     "source": "@feed.igeek.gamer-geek-news.com.ap.brid.gy",
+     "published": "2026-08-24T18:30:40+00:00"
+    },
+    {
+     "title": "Canadian collector Emilio Kihien took matters into his own hands after police said they “couldn’t do much” to help him recover $4,000 worth of stolen Pokemon cards. https://bit.ly/",
+     "url": "https://bsky.app/profile/ign.com/post/3mtu76dq5hl2q",
+     "source": "@ign.com",
+     "published": "2026-08-24T21:01:01.403167+00:00"
+    }
+   ],
+   "report_count": 4
+  },
+  {
+   "title": "James Turner: Ehemaliger GAME FREAK-Mitarbeiter wird fortan bei The Pokémon Company beschäftigt - Usinger Anzeiger",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaTV5YU14cC1vTHpxNkhMSllpVDZValhNWDJHWXpZTHdZSE1CNW5rZkZjRlZ6b0F4R09LSi0wYmpZZ0dVb05ad1hqek1zSDl1UjR5ZjhDaGpPRHVRWl9QQkh5aWpFd2Nvdl9xcHFieUVRUmRSNTc3RGtYS1NwdmdYNWlONkh1SmN0RGJLWVliVkpSNkF2TGhkdk8tZGM1dUlJN3VYZFNCeUF2dzUwdWRIam54ZkZWdHUwYzRVXzdLeVR4RUlRSm81OXBYQjNuelpGYzFoUl9rd1pmNk5NLS1lNUJDU0NVMzc0YnJkTnMta3FJVUE?oc=5",
+   "source": "Usinger Anzeiger",
    "platform": "news",
    "published": "2026-08-25T13:32:00+00:00",
-   "summary": "James Turner: Ehemaliger GAME FREAK-Mitarbeiter wird fortan bei The Pokémon Company beschäftigt ingame.de",
+   "summary": "James Turner: Ehemaliger GAME FREAK-Mitarbeiter wird fortan bei The Pokémon Company beschäftigt Usinger Anzeiger",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "ingame.de",
+   "domain": "usingeranzeiger.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-08-25T15:12:51.546711+00:00",
+   "first_seen": "2026-08-26T11:19:54.856648+00:00",
    "related": [],
    "report_count": 1
   },
@@ -227,24 +316,21 @@
    "published": "2026-08-25T12:57:12+00:00",
    "summary": "$10K Pokémon robbery continues card theft trend through NJ-NY region Bergen Record",
    "author": "",
-   "category": "szene",
-   "region": "de",
+   "category": "einbruch",
+   "region": "int",
    "country": "",
    "image": "",
-   "domain": "pokemon.com",
+   "domain": "bergenrecord.com",
    "logo": "",
-   "score": 1,
+   "score": 4,
    "matched": [
-    "news:de"
+    "pokemon",
+    "pokémon",
+    "robbery",
+    "theft"
    ],
    "first_seen": "2026-08-23T16:49:06.518562+00:00",
    "related": [
-    {
-     "title": "Rückblick auf eine Region: Einall im Rampenlicht - Pokemon.com",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2NpUjBYNVZFSzJPSFdDRkFPNVBGVWI2aFFBSklDMzAzQzl5c1Q1OWVoSUNMQnRBN0ZKcWM5NmJHS2xQRzhSNVB0ejAwcEZWZWZHbHQ3RUdVZGd1LUtyS2wtZGJZa2RUTVJmWGFjY2ZTZl92cHh1ZDBxQVJqRWE1N2lDczlGWFpJQXhIag?oc=5",
-     "source": "Pokemon.com",
-     "published": "2026-08-17T22:21:16+00:00"
-    },
     {
      "title": "$10K Pokémon robbery continues card theft trend through NJ-NY region - AOL.com",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tZEdMdjA4d3J6dlZyR1FhRzFRWE1mSGVXcHA1MkQ4SmU2dXVEV21ycFdUVjZ2NHBXMmFObm9na3AzYWtYdDZBb2ctTjNOSHRqQkU0RDFoWnppQkpRa3RUem1wNlVhS2RGNHluT09RR3ZWanNWcXd4d0VRNlpjUQ?oc=5",
@@ -252,7 +338,7 @@
      "published": "2026-08-25T12:57:12+00:00"
     }
    ],
-   "report_count": 3
+   "report_count": 2
   },
   {
    "title": "Games-Telegramm – Neues Erlebnis-Boosterpack für \"Pokémon-TCG-Pocket\" - Heute",
@@ -331,36 +417,29 @@
    "report_count": 1
   },
   {
-   "title": "£4,000 worth of Pokémon cards stolen in Gainsborough break-in - Rayo",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeXB5MlB1MHhfR1hSdEpaUmhqTXRqUHVQcmNzQzVlUGhhMHhJdUt5Zk1XVU1GeVk3a1pfNlV4MnJPMlpYZlpjclZ1Q2xuTEFNdjVYd3U3Umk3QkVBbnZHUXdYcE41cHB5c0NqUEdDUldCNjJLWXNNenhXWnczQmhwc3hORTRuWW9EbGhoRHVfbDZjaFQxT1ItUEJ0NjEzSTBNSl9oaFFaQXBWck8zQk9sNUxjWWxDME9BTXo2S24zVklpLUEzbnBxemlR?oc=5",
-   "source": "Rayo",
-   "platform": "news",
-   "published": "2026-08-24T17:35:49+00:00",
-   "summary": "£4,000 worth of Pokémon cards stolen in Gainsborough break-in Rayo",
-   "author": "",
+   "title": "The amount of AI slop for food promo was insane....\n\nWhy are some people double dipping in Exhibitors and AA\n\nThe crazy amount of theft that occurred. People losing their cash, mer",
+   "url": "https://bsky.app/profile/regrah.bsky.social/post/3mttrfrnd3c2h",
+   "source": "@regrah.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-08-24T16:54:38.504000+00:00",
+   "summary": "The amount of AI slop for food promo was insane....\n\nWhy are some people double dipping in Exhibitors and AA\n\nThe crazy amount of theft that occurred. People losing their cash, merchandise, and other items. First day, $900 stolen. Saturday, $10k worth of Pokemon cards..",
+   "author": "Lexi @ ANYC N21",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "rayo.com",
+   "domain": "regrahbskysocial.com",
    "logo": "",
    "score": 4,
    "matched": [
-    "break-in",
     "pokemon",
     "pokémon",
-    "stolen"
+    "stolen",
+    "theft"
    ],
-   "first_seen": "2026-08-23T12:03:04.077551+00:00",
-   "related": [
-    {
-     "title": "Pokémon Collector Poses as Buyer to Recover $4,000 Worth of Stolen Cards in 'Vigilante' Sting Operation - Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYi0zcXlSTzNMblZlYnlVVEE3TzhkbWlrR1QwQk5rUmpXeHFMa2gxR2F5R2RISElRVDFqZ1ItR0ctYzJrN3RoRkZmbnFkamdKY1BFQ2ozc1ZoT3RWUUp1SFFNMnU3U2E2NVQwbTBaTVczclRUUzZLck85cHNHWkdkU0hlMDhacjhxX2lJ?oc=5",
-     "source": "Yahoo",
-     "published": "2026-08-24T17:35:49+00:00"
-    }
-   ],
-   "report_count": 2
+   "first_seen": "2026-08-24T17:21:24.449960+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Tolle digitale Belohnungen fürs Zuschauen der Weltmeisterschaften und PokémonXP - Pokemon.com",
@@ -438,6 +517,28 @@
    "report_count": 1
   },
   {
+   "title": "Marktgröße, Marktanteil, Wachstum und Analyse des Marktes für Sammelkartenspiele bis 2034 - Straits Research",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41U04xNUk5ZE1mV2d2aEI0MmJLWXl6WjVjaTJnTDBPeEVjeVJiZjlBZWx4TTlQQ1lsTEZkYmU2MFJ4R3RoMHBiRWl5QVFPWW9aZVlSSUdRRHM3OEZRaDhzQVlXcWR0emxaVV91b0h6MDZzcnRRNHc?oc=5",
+   "source": "Straits Research",
+   "platform": "news",
+   "published": "2026-08-24T07:00:00+00:00",
+   "summary": "Marktgröße, Marktanteil, Wachstum und Analyse des Marktes für Sammelkartenspiele bis 2034 Straits Research",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "straitsresearch.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-08-26T11:19:54.857098+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
    "title": "605 Sammelkarten aus Tokio im Wert von 27 € wurden am Flughafen Malpensa beschlagnahmt. - Agenzia Nova",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOampuZ1dadGJBMlZhNlFYZjZ6ZGdMdHlNTjlGSmlxWlBJX2U2cVgyY3A0WnlydUlOOUxVOEljUm1iV0pWRFdrb0hLTDFXbXR0emJLUnlaSVpRMzRQTDFFZnJZOTlNVUpJY19tOUtxa1Q4NzBDdXd2UHAtTWFMSkk4RjRDYnBRZ1REaTZ0aGpTcU93U1gtd1VNcXRFOHRLSGxlRTZCU1ZtZ2JDMTc5MUwxaGt5RmlEcmVBejRZYjFqckVMMzg4VGcxTA?oc=5",
    "source": "Agenzia Nova",
@@ -461,37 +562,51 @@
    "report_count": 1
   },
   {
-   "title": "POKÉMON BITTE NIMM MEIN GANZES GELD (Neues Set)",
-   "url": "https://www.youtube.com/watch?v=NEO67VXMIBQ",
-   "source": "Serhasch",
-   "platform": "youtube",
+   "title": "Nur noch wenige Tage: Pokémon-Fans hoffen auf nächsten Auftritt von Wind und Welle - jpgames.de",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWG5qNS1PNVJSTkNQTXJoVG5jb0xVaHNTOVl1bmpMdVMtZjFGWDhUYzVDVFlqRU5jM3Y3dHdOQWsxZl9iUFl2dkZYdTBGNVRfTmVpM0F1NHYxUVhna2l6cFhUOXJKS2JaSzk4SEo5MkJpS09wWkpiMjlsQ1lVTGREUjBpXzRMN1RwMWliMW4tRnFPTk5UZkY0LVI5UXVxUnIta0hYb2FmNVU4TThDeHpV?oc=5",
+   "source": "jpgames.de",
+   "platform": "news",
    "published": "2026-08-24T05:41:49+00:00",
-   "summary": "Das nächste Pokémon Set, nach 30th Celebrations, Delta Herrschaft\n✔️ Code *SERHASCH* für *1 Gratis Booster* ab 30€ bei https://tcgviert.com/products/gratis-serhash-booster ( *Booster im Warenkorb + Code = Gratis Pack* ) # Werbung\n🔔 Abonniert für mehr Pokémon Karten Opening Videos! https://www.youtub",
-   "author": "Serhasch",
+   "summary": "Nur noch wenige Tage: Pokémon-Fans hoffen auf nächsten Auftritt von Wind und Welle jpgames.de",
+   "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
-   "image": "https://i3.ytimg.com/vi/NEO67VXMIBQ/hqdefault.jpg",
-   "domain": "serhasch.de",
+   "image": "",
+   "domain": "jpgames.de",
    "logo": "",
-   "score": 12,
+   "score": 1,
    "matched": [
-    "booster",
-    "muster:szene",
-    "neues set",
+    "news:de"
+   ],
+   "first_seen": "2026-08-24T06:02:49.625606+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "while i was at anyc the state police were there roaming around and apparently some dude had stolen almost 10k worth of pokemon cards at 8am, left, and then got arrested in the afte",
+   "url": "https://bsky.app/profile/oooni.bsky.social/post/3mts27zrm3s2o",
+   "source": "@oooni.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-08-24T00:27:09.907000+00:00",
+   "summary": "while i was at anyc the state police were there roaming around and apparently some dude had stolen almost 10k worth of pokemon cards at 8am, left, and then got arrested in the afternoon cause he came back to javitz 😭 like what????? ??",
+   "author": "oni",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "ooonibskysocial.com",
+   "logo": "",
+   "score": 4,
+   "matched": [
+    "arrested",
     "pokemon",
-    "pokémon"
+    "pokémon",
+    "stolen"
    ],
-   "first_seen": "2026-08-20T15:01:49.061122+00:00",
-   "related": [
-    {
-     "title": "Nur noch wenige Tage: Pokémon-Fans hoffen auf nächsten Auftritt von Wind und Welle - jpgames.de",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWG5qNS1PNVJSTkNQTXJoVG5jb0xVaHNTOVl1bmpMdVMtZjFGWDhUYzVDVFlqRU5jM3Y3dHdOQWsxZl9iUFl2dkZYdTBGNVRfTmVpM0F1NHYxUVhna2l6cFhUOXJKS2JaSzk4SEo5MkJpS09wWkpiMjlsQ1lVTGREUjBpXzRMN1RwMWliMW4tRnFPTk5UZkY0LVI5UXVxUnIta0hYb2FmNVU4TThDeHpV?oc=5",
-     "source": "jpgames.de",
-     "published": "2026-08-24T05:41:49+00:00"
-    }
-   ],
-   "report_count": 2
+   "first_seen": "2026-08-24T02:03:26.968924+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Pokemon card collector sets up alleged thieves after they relist his stolen cards online - Dexerto",
@@ -516,6 +631,37 @@
    "first_seen": "2026-08-22T18:04:43.978287+00:00",
    "related": [],
    "report_count": 1
+  },
+  {
+   "title": "State police say someone attending Anime NYC was robbed of $600 cash Thursday, and on Friday, nearly $10,000 worth of Pokémon cards were stolen from a vendor.",
+   "url": "https://bsky.app/profile/cbsnewyork.bsky.social/post/3mtp76pzenx2z",
+   "source": "@cbsnewyork.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-08-22T21:17:55.568000+00:00",
+   "summary": "State police say someone attending Anime NYC was robbed of $600 cash Thursday, and on Friday, nearly $10,000 worth of Pokémon cards were stolen from a vendor.",
+   "author": "Astra Kat",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "astrakatbskysocial.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "stolen"
+   ],
+   "first_seen": "2026-08-22T22:45:49.691868+00:00",
+   "related": [
+    {
+     "title": "I FOUND MY POKEMON CARDS. Or rather someone else did, but not before asking me to split whatever I make off of them 50-50. Ah well. At least I have them now. Though I’m sure I had ",
+     "url": "https://bsky.app/profile/astrakat.bsky.social/post/3msxtvhoufk2f",
+     "source": "@astrakat.bsky.social",
+     "published": "2026-08-13T14:24:39.751000+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "11-year-old loses B1 million in Pokémon card scam - Bangkok Post",
@@ -576,12 +722,12 @@
    "report_count": 1
   },
   {
-   "title": "Pokemon Go Incarnate Forme Thundurus: Best moveset for PvP and Raid - Dexerto",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdTEydHhiQ3ZCdmJydHhLRHJlemZhVGFvUVQzSHR2b2VxelNZaTVPeVZldzJJQTZQQ2ZJaUFOdTJ2ZWhBQ0dMc21PMHVmZXRVSFpUa1dzQWh6TlRTcnZvNkM1Nlp2NlhyTVNCNE5IN245bVpzSEJxZGg4MEl3d1drdlM1eXc2RHQ4VXcxRG5fNzVYRkJI?oc=5",
+   "title": "Pokemon Go Mega Mawile Raid Guide – Weaknesses & best counters - Dexerto",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdlNGY2NzZU5zN0FwS21OLXNYMXc1NVlHRVpIeXY1bkJKaWNRNGZIdllYU05QNXJkLUJ1LUFraXpwcGdtMnpUS3U4am0zR0QtM0NOclF1bU9QYU0tRm9MMU9GdGszYmxENlcyRTRHVUxHWXlsdzFicEM3endvSXRCX1pvY1Y0aVJ5Z0F1dnFzczRFX0xpVVM5QVRQUS1KOXZQ?oc=5",
    "source": "Dexerto",
    "platform": "news",
    "published": "2026-08-22T07:00:00+00:00",
-   "summary": "Pokemon Go Incarnate Forme Thundurus: Best moveset for PvP and Raid Dexerto",
+   "summary": "Pokemon Go Mega Mawile Raid Guide – Weaknesses & best counters Dexerto",
    "author": "",
    "category": "behoerden",
    "region": "int",
@@ -595,38 +741,8 @@
     "pokémon",
     "raid"
    ],
-   "first_seen": "2026-08-25T20:03:01.444199+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Pokemon Go Mega Medicham Raid guide: Weaknesses & best counters - Dexerto",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONlpkcGViV00zbXVfelI2WDh5dXp2Nm1mc0VDS3JCVWthZmhCWnM0SlZjb0RTckE0LVVXLW1NaHk1MDJGSkt1RjQtblNsNWV1dl9TVElkYjBCVmo4TGVkSDVpYjd4YklPMFFLb2k0QUx5emYtWVYtVGU4dm94dDBNT2hpMlZ5UnAtV1lmRk5meTBYMFdEZXdlZ2EzaUNZYnN4LVF3?oc=5",
-   "source": "Dexerto",
-   "platform": "news",
-   "published": "2026-08-22T07:00:00+00:00",
-   "summary": "Pokemon Go Mega Medicham Raid guide: Weaknesses & best counters Dexerto",
-   "author": "",
-   "category": "behoerden",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "dexerto.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "pokemon",
-    "pokémon",
-    "raid"
-   ],
-   "first_seen": "2026-08-25T20:03:01.444156+00:00",
+   "first_seen": "2026-08-26T11:19:54.857438+00:00",
    "related": [
-    {
-     "title": "Pokemon Go Mega Mawile Raid Guide – Weaknesses & best counters - Dexerto",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdlNGY2NzZU5zN0FwS21OLXNYMXc1NVlHRVpIeXY1bkJKaWNRNGZIdllYU05QNXJkLUJ1LUFraXpwcGdtMnpUS3U4am0zR0QtM0NOclF1bU9QYU0tRm9MMU9GdGszYmxENlcyRTRHVUxHWXlsdzFicEM3endvSXRCX1pvY1Y0aVJ5Z0F1dnFzczRFX0xpVVM5QVRQUS1KOXZQ?oc=5",
-     "source": "Dexerto",
-     "published": "2026-08-22T07:00:00+00:00"
-    },
     {
      "title": "Pokemon Go Mega Sableye Raid guide: Weaknesses & best counters - Dexerto",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWlZPRWxaM1VEMkRUTWtWU1VoeXlPUVlEWHlPaVlUQmVIb2ROV193Z2k1TmVaQ0U5RjRLeUpnUFJwQWpzUUo0TGlKalI4UHJWNUJYVllxMjVDZG94RmEzYjBTMGpscndjVUNBZkwwQkVISFhRMlhGaXlCOVlocjRiU1RuSmNTMndoNFIybEJSMlA?oc=5",
@@ -652,7 +768,7 @@
      "published": "2026-08-22T07:00:00+00:00"
     }
    ],
-   "report_count": 6
+   "report_count": 5
   },
   {
    "title": "Die Erweiterung Mega-Entwicklung – Delta-Herrschaft des Pokémon-Sammelkartenspiels erscheint am 6. November 2026 - Pokemon.com",
@@ -696,26 +812,35 @@
    "report_count": 4
   },
   {
-   "title": "Butti Cards in Favoriten: Wo Pokémon-Sammelkarten zu Tausenden Euro verkauft werden - MeinBezirk.at",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZkNSU3pQd3pNcUUySHp5TkQ2eHlEU09UazFBNVZLN1c5Vm80MUdEYUNMOU1LeW9vdllOY1FYN29ZWHh1WGF3bzdQLVNPVk1objZNOWwzdGhMVGxnTHFKNUNyNFRZUUozRWc4eUZMR0FiM1ZNZUU5Q19kMjBsT3JkYmdpcFBSNl9yanc3bVRvczdNOE1rajMtODZVdktxcXJsWTFjalo0cmQxVHlYX2dJbjRTd04?oc=5",
-   "source": "MeinBezirk.at",
+   "title": "How a Pokémon card collector tracked down his stolen cards and confronted the alleged thieves - CTV News",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMFJ6dXNuMDNaNzRhWlZkTXQ4aTY1dW1VVEZLWnp2dVdjYXR5NnVaaVRMTlJmN0xKTkRRU3FtMUh6eFVQS1lNZkdZTUVaUDZDWFRzRi1PNl9xeXFVU2hCOTBqMURMNXhINUlFdEp3dGVsaksxN3pkNVRVQTdUM1lBalNNMnlnV2hXUExwZ2NhX1NyNEFnWl96NWFxV3puZ3Y3U2kzcFhCY0NlZzhwZTVxbWpzdXhFbEZDYmNicTVMWjNLZGlrRkV6N1ZxaHNXSFI1?oc=5",
+   "source": "CTV News",
    "platform": "news",
-   "published": "2026-08-21T12:27:09+00:00",
-   "summary": "Butti Cards in Favoriten: Wo Pokémon-Sammelkarten zu Tausenden Euro verkauft werden MeinBezirk.at",
+   "published": "2026-08-21T16:01:35+00:00",
+   "summary": "How a Pokémon card collector tracked down his stolen cards and confronted the alleged thieves CTV News",
    "author": "",
-   "category": "szene",
-   "region": "de",
+   "category": "einbruch",
+   "region": "int",
    "country": "",
    "image": "",
-   "domain": "meinbezirk.at",
+   "domain": "ctvnews.com",
    "logo": "",
-   "score": 1,
+   "score": 3,
    "matched": [
-    "news:de"
+    "pokemon",
+    "pokémon",
+    "stolen"
    ],
-   "first_seen": "2026-08-22T11:43:08.094767+00:00",
-   "related": [],
-   "report_count": 1
+   "first_seen": "2026-08-21T03:37:04.912248+00:00",
+   "related": [
+    {
+     "title": "How a Pokémon card collector tracked down his stolen cards and confronted the alleged thieves",
+     "url": "https://bsky.app/profile/ctvnewsvancouver.bsky.social/post/3mtm525yfnh2c",
+     "source": "@ctvnewsvancouver.bsky.social",
+     "published": "2026-08-21T16:01:35+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "The brothers who stole £62k worth of Pokémon cards in Cheshire shop raid - Cheshire Live",
@@ -742,18 +867,18 @@
    "report_count": 1
   },
   {
-   "title": "How a Pokémon card collector tracked down his stolen cards and confronted the alleged thieves - CTV News",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMFJ6dXNuMDNaNzRhWlZkTXQ4aTY1dW1VVEZLWnp2dVdjYXR5NnVaaVRMTlJmN0xKTkRRU3FtMUh6eFVQS1lNZkdZTUVaUDZDWFRzRi1PNl9xeXFVU2hCOTBqMURMNXhINUlFdEp3dGVsaksxN3pkNVRVQTdUM1lBalNNMnlnV2hXUExwZ2NhX1NyNEFnWl96NWFxV3puZ3Y3U2kzcFhCY0NlZzhwZTVxbWpzdXhFbEZDYmNicTVMWjNLZGlrRkV6N1ZxaHNXSFI1?oc=5",
-   "source": "CTV News",
-   "platform": "news",
-   "published": "2026-08-21T01:36:00+00:00",
-   "summary": "How a Pokémon card collector tracked down his stolen cards and confronted the alleged thieves CTV News",
-   "author": "",
+   "title": "Pokémon card collector successfully recovers stolen collection after years of investigation\n\n🤖 IA: It's clickbait ⚠️\n👥 Users: It's clickbait ⚠️\n\n#pokemoncards #theftinvestigation \n",
+   "url": "https://bsky.app/profile/killbaitcanada.bsky.social/post/3mtkvr2vk4t2v",
+   "source": "@killbaitcanada.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-08-21T04:18:34.213072+00:00",
+   "summary": "Pokémon card collector successfully recovers stolen collection after years of investigation\n\n🤖 IA: It's clickbait ⚠️\n👥 Users: It's clickbait ⚠️\n\n#pokemoncards #theftinvestigation \n\nView full AI summary:",
+   "author": "Arly Darkfire | Short Streams Until Air Quality Improves:(",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "ctvnews.com",
+   "domain": "arlydarkfirebskysocial.com",
    "logo": "",
    "score": 3,
    "matched": [
@@ -761,9 +886,22 @@
     "pokémon",
     "stolen"
    ],
-   "first_seen": "2026-08-21T03:37:04.912248+00:00",
-   "related": [],
-   "report_count": 1
+   "first_seen": "2026-08-21T06:00:12.497268+00:00",
+   "related": [
+    {
+     "title": "sometimes in my dreams i find all my old pokemon cards that got stolen and i spend the entire dream admiring the collection and doing nothing else lol",
+     "url": "https://bsky.app/profile/arlydarkfire.bsky.social/post/3msisysbal222",
+     "source": "@arlydarkfire.bsky.social",
+     "published": "2026-08-07T14:58:41.685000+00:00"
+    },
+    {
+     "title": "Krispy Kreme is launching a limited-time Pokémon donut collection in Canada - canoe.com",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fZTZPNHRnelNjazhjV0VLUWNxX3R6am9NNUh3RGpyYzVnUktTRExTQkJKZS1YZWZwV0UzNDNVV19kMjFhTzdJbU56MVRzSlhQczQwbnh2dHo2UnplNkVHa1p1TGVHQ0dNSjd4NFlNOA?oc=5",
+     "source": "canoe.com",
+     "published": "2026-08-13T07:00:00+00:00"
+    }
+   ],
+   "report_count": 3
   },
   {
    "title": "Bereitet euch auf Ärger und Donnergrollen vor: Neue Pokémon-Erweiterungen enthüllt - jpgames.de",
@@ -825,43 +963,6 @@
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYjhVNlF5M0hmd3BNcF9SajFlbktJRURQWWVhSUh4NXF2VW5kZHhKLTh5WnRzbUpOcW9Bd0lDY2J3aVNVbExJNDlaVmJpNzZPWXpCSS1wOHdYUUg3T2J1Z2R0X1prQnlUWXlfTG55ZVk3YjVZYjVtTGhHN0FreGhKSg?oc=5",
      "source": "Eurogamer.de",
      "published": "2026-08-20T14:02:06+00:00"
-    }
-   ],
-   "report_count": 3
-  },
-  {
-   "title": "Arrest in connection with Pokemon cards raid - AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUE5MWHdBVnMzc2JVSHk0X1NORFBzLUV5Nnk5bW1DMVVVVVh6Ym9Mb29XMVhoeXZvTzdHUzMxNXlMTnh2bEhFYzA1OEswWHhKVV85TmFGZjlEVDBOamhRQmVDM0tQWmhXdFZQbTFHMzVLTlQwbHJIcEx6M2RYVkFUd3VMelUta2c?oc=5",
-   "source": "AOL.com",
-   "platform": "news",
-   "published": "2026-08-20T03:24:22+00:00",
-   "summary": "Arrest in connection with Pokemon cards raid AOL.com",
-   "author": "",
-   "category": "behoerden",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "aol.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "pokemon",
-    "pokémon",
-    "raid"
-   ],
-   "first_seen": "2026-08-24T16:03:32.140851+00:00",
-   "related": [
-    {
-     "title": "Arrest in connection with Pokemon cards raid - Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON05yZWxSZVNYWDZIckJPbk5CZUJnRVNjdFFxVjh2cHBPN2hCSjBDNHJNVDFBUDd0TEdzSnNMVnp3NWRkeTF2RVpNOUEzNTZVMVJ5bkQ0WDA4STdVa1FVV2VrWThieUZZSUE1cE5uMFlfNzFYUzJ1bVM3MjAwbFFnRC15Q0NwM1B0UnlnMnBlMzg?oc=5",
-     "source": "Yahoo",
-     "published": "2026-08-19T12:05:06+00:00"
-    },
-    {
-     "title": "Arrest in connection with Pokemon cards raid - AOL.ca",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeWRZeXhJVmpJYWZEVHZ2eFJkcE90T3Vxdlh3TkVsNndyYkRrQkN6UHNNM2ZSczJia3dGeFVybnU1VVF3dldraHVVRjl6X1YwQk4yUEJRUTFYY3l2cGxSc2d4b29PdmZ2cE9nMnU5R0Jkd3ZxeDNKWE5KVUJXMjU4TG5lMnMxQQ?oc=5",
-     "source": "AOL.ca",
-     "published": "2026-08-20T03:24:22+00:00"
     }
    ],
    "report_count": 3
@@ -1037,6 +1138,35 @@
    "report_count": 1
   },
   {
+   "title": "I also found a Pokémon one about the upcoming jungle edition cards, which always triggers a little bc my first edition jungle Pikachu was stolen in grade school 😔",
+   "url": "https://bsky.app/profile/peanutsenvy.bsky.social/post/3mtfepqcz4k23",
+   "source": "@peanutsenvy.bsky.social",
+   "platform": "news",
+   "published": "2026-08-18T23:30:17.664000+00:00",
+   "summary": "I also found a Pokémon one about the upcoming jungle edition cards, which always triggers a little bc my first edition jungle Pikachu was stolen in grade school 😔",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "pokemon.com",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-08-19T02:02:57.689794+00:00",
+   "related": [
+    {
+     "title": "Pokémon Feuerrote Edition und Pokémon Blattgrüne Edition können ab Oktober mit Pokémon HOME verlinkt werden - Pokemon.com",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOGZxUUg2R0duSzBXQ3NJclk1dFVKS19xd05Sd2tUWkJMSENya1VjdzJOanI2UG1yU2tpd2l1N3lCZmhIYU95NWVoZ3FKd2hIcjhRMHZFX2MxYWVmNGtmWHB1U1JudkEwbzVYOTRuTlVNdlBoNzVWVTBPYTNaazBzdTFheS0yYUNZdEdNUDRFT3l4TlhHYXlIcGtVX0szRkQ1WkF6V3JoMGxFcXBQM1J0Vm5ySVJpbzYxSnVNdTJ5ajBHVk5TbkdMOFhscHhKVXdDOTRkbnFMMjA?oc=5",
+     "source": "Pokemon.com",
+     "published": "2026-08-13T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
+  },
+  {
    "title": "Schau dir einige elektrisierende Pikachu-Karten aus Pokémon-Sammelkartenspiel: 30 Jahre genauer an - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY3p5dVFrMGJqYXVfZDM4aGdpMlFwUW1IaWdiSFJVdXQyUVRkZWdrclhwQ2M1MTlxcF8taUtDeXFicHVaZ1Y2bkZSNG9BY1NjR1Jnc21GbGh5WXgtdEdzdy1DTDNYZ3NFMHRrdGlZd3pXdHR2ZkNvbDBFc3RxUXN3UU56NWJydGl3eXVMX056X3NiRlozRUdHZkVsbUNONWZuNXZlWUpMTHFzU0pHbUtsX09nYklWNFlQcVFDNERlNVlUWVZmcmNLOA?oc=5",
    "source": "Pokemon.com",
@@ -1176,6 +1306,31 @@
     "trading card"
    ],
    "first_seen": "2026-08-18T05:52:23.235133+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "NY man charged in $13K Pokémon card fraud",
+   "url": "https://bsky.app/profile/masslive.bsky.social/post/3mtch4c3ihn24",
+   "source": "@masslive.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-08-17T19:35:07.181000+00:00",
+   "summary": "NY man charged in $13K Pokémon card fraud",
+   "author": "MassLive",
+   "category": "betrug",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "masslivebskysocial.com",
+   "logo": "",
+   "score": 4,
+   "matched": [
+    "charged",
+    "fraud",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-08-17T19:55:55.745263+00:00",
    "related": [],
    "report_count": 1
   },
@@ -1458,31 +1613,6 @@
    "report_count": 1
   },
   {
-   "title": "A Pokémon card shop was robbed in the middle of the night in Isère – Culture - ENTREVUE.FR",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU012X2F4bEZXUjNhV3lnTHdQWmVoWDViUXdvbHN4YzM1ZHlxUU1PRjk4VGZIZHhXQVhkVkN6a3ZRcmpiR3lRVnYydzZDYW5PY0VCRU1XZnJNQmdYdjY1VkhOOFdseURURFVJTEJZdWlWMUJvb1dTMG83RERFOUFfZlI5QVZORWxfZ3k0Wm96TE9Gdnk0Y0ctdDVhWjhQZXdqcjZsVEJn?oc=5",
-   "source": "ENTREVUE.FR",
-   "platform": "news",
-   "published": "2026-08-14T07:00:00+00:00",
-   "summary": "A Pokémon card shop was robbed in the middle of the night in Isère – Culture ENTREVUE.FR",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "entrevue.fr",
-   "logo": "",
-   "score": 6,
-   "matched": [
-    "card shop",
-    "pokemon",
-    "pokémon",
-    "robbed"
-   ],
-   "first_seen": "2026-08-15T17:04:30.057888+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Pokémon TCG-Sammler findet seltenes Holo-Glurak - aber viele Fans lachen nur darüber, denn sie wurde zerschnitten, um in eine Yu-Gi-Oh!-Hülle zu passen - GamePro",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRGFtMzkyRzg1Z05wdU8tQ05GcENSQTVEZkJMTE9ISkFjZXpacTltQU1KN1FGQ3Y2U0hIZkhVaEpLQ1dZTkE4cHg3WHhpSXIxUF9nUlBxSC1CMEdlVDZDRXY4VGlRcHl4MHoxT0M5elJZT09uTUVraWc2ekYzS1hVdng3Yw?oc=5",
    "source": "GamePro",
@@ -1556,28 +1686,6 @@
    "report_count": 1
   },
   {
-   "title": "Pokémon Feuerrote Edition und Pokémon Blattgrüne Edition können ab Oktober mit Pokémon HOME verlinkt werden - Pokemon.com",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOGZxUUg2R0duSzBXQ3NJclk1dFVKS19xd05Sd2tUWkJMSENya1VjdzJOanI2UG1yU2tpd2l1N3lCZmhIYU95NWVoZ3FKd2hIcjhRMHZFX2MxYWVmNGtmWHB1U1JudkEwbzVYOTRuTlVNdlBoNzVWVTBPYTNaazBzdTFheS0yYUNZdEdNUDRFT3l4TlhHYXlIcGtVX0szRkQ1WkF6V3JoMGxFcXBQM1J0Vm5ySVJpbzYxSnVNdTJ5ajBHVk5TbkdMOFhscHhKVXdDOTRkbnFMMjA?oc=5",
-   "source": "Pokemon.com",
-   "platform": "news",
-   "published": "2026-08-13T07:00:00+00:00",
-   "summary": "Pokémon Feuerrote Edition und Pokémon Blattgrüne Edition können ab Oktober mit Pokémon HOME verlinkt werden Pokemon.com",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "pokemon.com",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-08-17T19:48:20.928191+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "$100K+ worth of Pokémon cards stolen from Castle Hills trading card shop, owner says - KSAT",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVNEQmVPbVFZZXFyR0RiN3JkMFBtTk9GZ2VrT0o4Q2NHS1JiRVNCMFVmN3R0QWx5ZXZoODdQQmtVc09UaVJUZkJ6aUhDLWhvUVl2QkI2Q2JQRVdsVjQ5MlFVa20wbnJhMDk3Y0Jzbmh2NnRoZ0FKcTJ1ZzhHczBMbHYxN0VfMDV0X2VFZkpDNGJaei1yMW9FLWozc3M4MEIzQ2VjUk9rbUFRN2VaTlFYZlNJeUgyTm5FcmVneS1qWURyMm8?oc=5",
    "source": "KSAT",
@@ -1611,6 +1719,45 @@
    "report_count": 2
   },
   {
+   "title": "🚨 Pokémon cards worth around £4,000 have reportedly been stolen from Trading Cards Gainsborough after a break-in early Sunday morning.\n\nLincolnshire Police are investigating and ap",
+   "url": "https://bsky.app/profile/cardgamenetwork.bsky.social/post/3mssvs3w7622g",
+   "source": "@cardgamenetwork.bsky.social",
+   "platform": "news",
+   "published": "2026-08-11T15:15:15.533000+00:00",
+   "summary": "🚨 Pokémon cards worth around £4,000 have reportedly been stolen from Trading Cards Gainsborough after a break-in early Sunday morning.\n\nLincolnshire Police are investigating and appealing for information.\n\nAnyone who can help should contact police on 101.\n\n#PokemonTCG #TCG",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "woai.com",
+   "logo": "",
+   "score": 5,
+   "matched": [
+    "burglar",
+    "card shop",
+    "pokemon",
+    "pokémon",
+    "raid"
+   ],
+   "first_seen": "2026-08-12T20:43:30.150337+00:00",
+   "related": [
+    {
+     "title": "Burglars break into Pokémon card shop in early morning raid, police investigating - WOAI",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeDlBbHRtTkJBVVZFMnNvOGllRXFLSzF4UTQ0WmkzQjNaX1UzUHBCVHFtcmxNamFHTzlyZ0hfaUJpWDVKS2RUMTRBVUFZVDdQby1CazBBRHp3cmdyYnhZUlJTMjNxTExVYnUyUVlWWTBPLU03X1I3cUtOb0lIZFlKU3JTZV80SzA5TmF6Z2VwZ0ItQzk5dzZUSzRFcFpxM0tDSUw0Zm1vX2IzVEp0dkhaa0RkcUU4eUIxRU5B?oc=5",
+     "source": "WOAI",
+     "published": "2026-08-10T07:00:00+00:00"
+    },
+    {
+     "title": "Burglars break into Pokémon card shop in early morning raid, police investigating - KABB",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczhYRWVsZVlycVZiQjM1NE1WNHFQdndKSW5GeU94elhPZ25BRmhNU3dISHlybWNITHJidnVSVm1rOUtwb3JVSF9pZTU5LWtPRzdvT01uUnl5a3lqUTBsMTFFYUkySnVRODNGZVBrbWFIVm9zY1NoTUJrVjdZT3BZaWk1X05QUUNPdy1Lbmd4WU1kbjRCWXhYYXhXdm1wYTRHSWJwVDhENENsZ29jVFAtdW93Yk5SSXFldzVJb1dn?oc=5",
+     "source": "KABB",
+     "published": "2026-08-10T07:00:00+00:00"
+    }
+   ],
+   "report_count": 3
+  },
+  {
    "title": "Twin Lakes card store burglary, $340k in merchandise stolen - FOX6 News Milwaukee",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLNF81X2p2dlRDb3NRM2ZjeGtrOEFzR19lM1c1ekpyMmNYOGt0LV9sZkh6a2xKWlVWY0hpUGgyNlV2cTBBOHNlZW1XQmc0QzZxdGU4bXJ0Y1BObEI2dXBB0gFkQVVfeXFMUE9DUFZ5NlZoSktmMjN0ZTFmWTluR0x2V0FvbDdqdG8zMUpjQXJOVjFRclZKYkc1ak8wYzAxSzJOYjF2UGxaZUczZy01UGNQWFBGVWU3dEg3Z1A1Z0ppalp3WXNLeg?oc=5",
    "source": "FOX6 News Milwaukee",
@@ -1641,6 +1788,31 @@
     }
    ],
    "report_count": 2
+  },
+  {
+   "title": "£4,000 worth of Pokémon cards stolen in Gainsborough break-in - Rayo",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeXB5MlB1MHhfR1hSdEpaUmhqTXRqUHVQcmNzQzVlUGhhMHhJdUt5Zk1XVU1GeVk3a1pfNlV4MnJPMlpYZlpjclZ1Q2xuTEFNdjVYd3U3Umk3QkVBbnZHUXdYcE41cHB5c0NqUEdDUldCNjJLWXNNenhXWnczQmhwc3hORTRuWW9EbGhoRHVfbDZjaFQxT1ItUEJ0NjEzSTBNSl9oaFFaQXBWck8zQk9sNUxjWWxDME9BTXo2S24zVklpLUEzbnBxemlR?oc=5",
+   "source": "Rayo",
+   "platform": "news",
+   "published": "2026-08-11T07:00:00+00:00",
+   "summary": "£4,000 worth of Pokémon cards stolen in Gainsborough break-in Rayo",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "rayo.com",
+   "logo": "",
+   "score": 4,
+   "matched": [
+    "break-in",
+    "pokemon",
+    "pokémon",
+    "stolen"
+   ],
+   "first_seen": "2026-08-23T12:03:04.077551+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Pokemon cards raid leaves shop owner 'heartbroken' - BBC",
@@ -1755,39 +1927,59 @@
    "report_count": 1
   },
   {
-   "title": "Burglars break into Pokémon card shop in early morning raid, police investigating - WOAI",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeDlBbHRtTkJBVVZFMnNvOGllRXFLSzF4UTQ0WmkzQjNaX1UzUHBCVHFtcmxNamFHTzlyZ0hfaUJpWDVKS2RUMTRBVUFZVDdQby1CazBBRHp3cmdyYnhZUlJTMjNxTExVYnUyUVlWWTBPLU03X1I3cUtOb0lIZFlKU3JTZV80SzA5TmF6Z2VwZ0ItQzk5dzZUSzRFcFpxM0tDSUw0Zm1vX2IzVEp0dkhaa0RkcUU4eUIxRU5B?oc=5",
-   "source": "WOAI",
+   "title": "Pokémon-Karten entwickeln sich zu einem Multi-Milliarden-Dollar-Markt. Krypto will den Handel revolutionieren - CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZnF4el84WWo5NFQ2dEJBWE1tbWZETlhaWUlvTE9aZUduSmdGMFM0aHBhM2dVbHkyZzNGaXBtSGdLQ3U5b1k5SkZPeFNzM3VBTjB0Y3A0cDFGZW9XVFdGamR3Q1FDNWF4VEdzVVdISXh1aUJGaXJ2NjA5S2VDRHJrcWlnLU8wZjRmTmY5c1h6MGZZSUR1R25WYm90UVVqbFdjdFBVemY0TDRhcUExRkF0Mlp4V2pmcl9JR0ZyZ1dDOVpraHlNNW54cW40YXRORnk5Q0E?oc=5",
+   "source": "CoinDesk",
    "platform": "news",
-   "published": "2026-08-10T07:00:00+00:00",
-   "summary": "Burglars break into Pokémon card shop in early morning raid, police investigating WOAI",
+   "published": "2026-08-11T07:00:00+00:00",
+   "summary": "Pokémon-Karten entwickeln sich zu einem Multi-Milliarden-Dollar-Markt. Krypto will den Handel revolutionieren CoinDesk",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "profil.at",
+   "domain": "coindesk.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-08-17T17:52:54.012585+00:00",
+   "first_seen": "2026-08-12T20:43:30.150457+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "More than $8K in Pokémon cards stolen from Bentonville game store amid nationwide string of thefts - 5newsonline.com",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOGV0UlRWanV5Tmk2TW9QOEhxUlk4UERSazA0WXl2dFhWdUpwSVNqeFVmazRERFl0VHFTRkxfQjVpemY1Q0xWM293QUlyRDU0UmhIZlVRdXQxMzFtSzRmcDc5c0VSU0h2d1FMV1hhZ0M4djhFVU5VVVpyZTQ4dGREUl9CMEpBVXduVTA5bzJuN1ZVeVprbnhaaHJpS2U3dlk4M0ZBYlBIcDhxNk9oQlZKblNqUEg1SFNJZ3lZT29EVW9tLTZLMDlROGFCeEM0cnpKZlpxSWdIdFh0OEtwNlMwcC1MY1NhZDVDbGVQc216Z2QxOU5FRVE?oc=5",
+   "source": "5newsonline.com",
+   "platform": "news",
+   "published": "2026-08-11T03:20:07.146000+00:00",
+   "summary": "More than $8K in Pokémon cards stolen from Bentonville game store amid nationwide string of thefts 5newsonline.com",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "5newsonline.com",
+   "logo": "",
+   "score": 5,
+   "matched": [
+    "game store",
+    "pokemon",
+    "pokémon",
+    "stolen",
+    "theft"
+   ],
+   "first_seen": "2026-08-12T20:43:30.150636+00:00",
    "related": [
     {
-     "title": "Zwischen Nostalgie und Investition: Ein Besuch beim Pokémon-Dealer - profil.at",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjd5Wm1RaXVNRS1aMDVrMHFOWHB6cTFHbURNdG1BZW5URTV2dnZVaTNIeXlQaGNQVWZGQkVLWGVjUXNxZnFINEhXajF2cnJvY3g0U3FsMXRlaXNJanM3emxDMk5FZXBHV1VPT2d4MUpiakd2ck0zOUhPRXd3RjgtSXVYQkttN2NoZEZtZUFvaXBUY1pURk9aNmZ3?oc=5",
-     "source": "profil.at",
-     "published": "2026-07-30T07:00:00+00:00"
-    },
-    {
-     "title": "Burglars break into Pokémon card shop in early morning raid, police investigating - KABB",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczhYRWVsZVlycVZiQjM1NE1WNHFQdndKSW5GeU94elhPZ25BRmhNU3dISHlybWNITHJidnVSVm1rOUtwb3JVSF9pZTU5LWtPRzdvT01uUnl5a3lqUTBsMTFFYUkySnVRODNGZVBrbWFIVm9zY1NoTUJrVjdZT3BZaWk1X05QUUNPdy1Lbmd4WU1kbjRCWXhYYXhXdm1wYTRHSWJwVDhENENsZ29jVFAtdW93Yk5SSXFldzVJb1dn?oc=5",
-     "source": "KABB",
-     "published": "2026-08-10T07:00:00+00:00"
+     "title": "The owner says Pokémon card store burglaries have become increasingly common nationwide as the value of individual cards continues to rise.",
+     "url": "https://bsky.app/profile/tmj4.com/post/3msrntdrmx62a",
+     "source": "@tmj4.com",
+     "published": "2026-08-11T03:20:07.146000+00:00"
     }
    ],
-   "report_count": 3
+   "report_count": 2
   },
   {
    "title": "Trading card burglary suspect caught trying to sell stolen goods: Colorado Springs police - Colorado Springs Gazette",
@@ -1839,34 +2031,27 @@
    "report_count": 1
   },
   {
-   "title": "Over $300K worth of merchandise stolen from Wisconsin card store - AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN3ZFSDFZclRYbERpSXIwLWJxdWNQY2c4aFB0UTFsM293MkY4T1k4N3oxRjZiQkM3Tzc5Ry05SmZrR25ucnl5aFBnRGZXenN6OHFUUnhyUmh1R0RMcHNycDRtYVd2eW9POWlJWTJ2MkdZNWFCdEcxMEwyek9xd1NvaDRnSEU?oc=5",
-   "source": "AOL.com",
+   "title": "Over $300K worth of merchandise stolen from Wisconsin card store - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORlFVckpOdmZ3MkpQMWYxSFVVM2d4NHNPZzh1Qkk4eHFnb3lyZTJ5OW50OHk2UHkzRTVya0tFNjE3TzdzLTZDQXExWnRwLXU2X0VFSF9udS1lYUR5Uzc0VHlvUy1yNnhMSlBfdGk4LS1jWDZRQ1E0RmE2SEJYNVJYZ1ZMbVNPRy1rcXlfakh3?oc=5",
+   "source": "Yahoo",
    "platform": "news",
    "published": "2026-08-10T07:00:00+00:00",
-   "summary": "Over $300K worth of merchandise stolen from Wisconsin card store AOL.com",
+   "summary": "Over $300K worth of merchandise stolen from Wisconsin card store Yahoo",
    "author": "",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "aol.com",
+   "domain": "yahoo.com",
    "logo": "",
    "score": 2,
    "matched": [
     "card store",
     "stolen"
    ],
-   "first_seen": "2026-08-14T16:03:11.538942+00:00",
-   "related": [
-    {
-     "title": "Over $300K worth of merchandise stolen from Wisconsin card store - Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORlFVckpOdmZ3MkpQMWYxSFVVM2d4NHNPZzh1Qkk4eHFnb3lyZTJ5OW50OHk2UHkzRTVya0tFNjE3TzdzLTZDQXExWnRwLXU2X0VFSF9udS1lYUR5Uzc0VHlvUy1yNnhMSlBfdGk4LS1jWDZRQ1E0RmE2SEJYNVJYZ1ZMbVNPRy1rcXlfakh3?oc=5",
-     "source": "Yahoo",
-     "published": "2026-08-10T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
+   "first_seen": "2026-08-13T22:28:35.274438+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "ThePokeHive trading card shop hit by smash-and-grab burglary; losses estimated at up to $65,000 - kens5.com",
@@ -1896,6 +2081,40 @@
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZXhFdUNXZUNzN0htMVlWOW9EaVYwTDZLc0k4eFdvV0FvcXRoNHVvZ3JSbWwxNVFtSlhYV0lDQmZLWWFISWpHN0VTNFNiZkFiUXJQNEdoR216WGFfZTVuSXUxUGctTGFkZVlob0IzTll3b3dScGdyUEtzcmJnNVg0bXZ0RUlMRG04T2Q2R0hoTUk?oc=5",
      "source": "Yahoo",
      "published": "2026-08-09T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
+  },
+  {
+   "title": "So funny to see videos like \"The biggest scam in Pokemon\" and the thumbnail is a PSA graded card, kind of implying the whole \"putting in an acrylic coffin and see it as an investme",
+   "url": "https://bsky.app/profile/thesu01.bsky.social/post/3ms7i2zefmsci",
+   "source": "@thesu01.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-08-08T23:16:08.862000+00:00",
+   "summary": "So funny to see videos like \"The biggest scam in Pokemon\" and the thumbnail is a PSA graded card, kind of implying the whole \"putting in an acrylic coffin and see it as an investment\" isn't a scam to begin with.\n\nWe're letting grifters re-sell our hobbies to us as \"business\"\nFuck right off.",
+   "author": "Su",
+   "category": "betrug",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "thesu01bskysocial.com",
+   "logo": "",
+   "score": 7,
+   "matched": [
+    "graded",
+    "investment",
+    "pokemon",
+    "pokémon",
+    "psa",
+    "scam"
+   ],
+   "first_seen": "2026-08-06T00:04:32.347677+00:00",
+   "related": [
+    {
+     "title": "Can't stop watching these Pokemon card collecting videos. Anyways seems like buying graded or grading cards are all a scam.",
+     "url": "https://bsky.app/profile/lyona5.bsky.social/post/3msm7ba7kec2t",
+     "source": "@lyona5.bsky.social",
+     "published": "2026-08-08T23:16:08.862000+00:00"
     }
    ],
    "report_count": 2
@@ -1952,37 +2171,52 @@
    "report_count": 1
   },
   {
-   "title": "More than $8K in Pokémon cards stolen from Bentonville game store amid nationwide string of thefts - 5newsonline.com",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOGV0UlRWanV5Tmk2TW9QOEhxUlk4UERSazA0WXl2dFhWdUpwSVNqeFVmazRERFl0VHFTRkxfQjVpemY1Q0xWM293QUlyRDU0UmhIZlVRdXQxMzFtSzRmcDc5c0VSU0h2d1FMV1hhZ0M4djhFVU5VVVpyZTQ4dGREUl9CMEpBVXduVTA5bzJuN1ZVeVprbnhaaHJpS2U3dlk4M0ZBYlBIcDhxNk9oQlZKblNqUEg1SFNJZ3lZT29EVW9tLTZLMDlROGFCeEM0cnpKZlpxSWdIdFh0OEtwNlMwcC1MY1NhZDVDbGVQc216Z2QxOU5FRVE?oc=5",
-   "source": "5newsonline.com",
-   "platform": "news",
-   "published": "2026-08-07T07:00:00+00:00",
-   "summary": "More than $8K in Pokémon cards stolen from Bentonville game store amid nationwide string of thefts 5newsonline.com",
-   "author": "",
+   "title": "There has been a fair amount of this in the area sadly. I remember Everything J&J got all of their Pokemon cards stolen earlier this year too.\n\nPeople are awful. :(",
+   "url": "https://bsky.app/profile/adorabear.bsky.social/post/3msk4wocm3k2e",
+   "source": "@adorabear.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-08-08T03:29:07.581000+00:00",
+   "summary": "There has been a fair amount of this in the area sadly. I remember Everything J&J got all of their Pokemon cards stolen earlier this year too.\n\nPeople are awful. :(",
+   "author": "Adorabear",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "5newsonline.com",
+   "domain": "adorabearbskysocial.com",
    "logo": "",
-   "score": 5,
+   "score": 3,
    "matched": [
-    "game store",
     "pokemon",
     "pokémon",
-    "stolen",
-    "theft"
+    "stolen"
    ],
-   "first_seen": "2026-08-12T20:43:30.150636+00:00",
-   "related": [
-    {
-     "title": "More than $8K in Pokémon cards stolen from Bentonville game store amid nationwide string of thefts - Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc2M5N1EtaEJkdElyLXAtYmJfcmF0aGJwNHR1Tl9Wd3lNcVJ6N3VubW5wWEZ4R0NtUFVpU1hYcU9UaV84dDFRQ3RMZzdDVFVYd3lHNmlyYURzSm9mT3hPTkV0LUZrZkh5QTloODRaMmx2YXl6Y3IxRG1WdXcxLVc0Xw?oc=5",
-     "source": "Yahoo",
-     "published": "2026-08-07T07:00:00+00:00"
-    }
+   "first_seen": "2026-08-12T20:43:30.151025+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "The police really told the Pokemon card thieves \"We got you on video. We got a peek at you.\"\nI guess you can only take stolen cardboard so seriously.",
+   "url": "https://bsky.app/profile/djrandallstevens.bsky.social/post/3msk3fjnwgs26",
+   "source": "@djrandallstevens.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-08-08T03:01:38.543000+00:00",
+   "summary": "The police really told the Pokemon card thieves \"We got you on video. We got a peek at you.\"\nI guess you can only take stolen cardboard so seriously.",
+   "author": "Randall Stevens",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "djrandallstevensbskysocial.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "stolen"
    ],
-   "report_count": 2
+   "first_seen": "2026-08-12T20:43:30.151103+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "2 arrested, accused of stealing nearly 100 packs of Pokémon cards from south Tulsa Target - KRMG",
@@ -2064,7 +2298,7 @@
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHRXYTFZb1QwbzNJSkdCU1pYWVVDZVpBWlJhLXJfSjNQeUhMZ3EtUHFIR0RhS1BlZXdfN0ZxOHE5YlJ6eEpzaEtsaXVvWDhBbkZLbkVnaFR6UVJqeEEwdVpuYU5DZEVERm1jdUx3UmRCUGotaWVZcHRIN1JQWU9xSjVGLXE3b3hVMC1CZlJfR1NvN01pLVlyUUlrSU5ubi1nLUlFTEhsU0Y?oc=5",
    "source": "Instant Gaming News",
    "platform": "news",
-   "published": "2026-08-07T04:12:00+00:00",
+   "published": "2026-08-07T07:00:00+00:00",
    "summary": "Pokémon TCG Pocket: Ein starker Rückgang der Nutzerzahlen Instant Gaming News",
    "author": "",
    "category": "szene",
@@ -2080,6 +2314,37 @@
    "first_seen": "2026-08-12T20:43:30.151349+00:00",
    "related": [],
    "report_count": 1
+  },
+  {
+   "title": "High-value Pokémon cards stolen during break-in at BC collectibles shop\n\nThe two masked suspects pried open the rear door of the business and used a stolen pickup truck to pull out",
+   "url": "https://bsky.app/profile/kelownanow.com/post/3msh23uygrj2g",
+   "source": "@kelownanow.com",
+   "platform": "news",
+   "published": "2026-08-06T22:00:21.448000+00:00",
+   "summary": "High-value Pokémon cards stolen during break-in at BC collectibles shop\n\nThe two masked suspects pried open the rear door of the business and used a stolen pickup truck to pull out the safe.\n\nDetails:\n\nwww.kelownanow.com/watercooler/...",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "yahoo.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "burglar",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-08-12T20:43:30.151443+00:00",
+   "related": [
+    {
+     "title": "Masked Burglars Took Up to $50,000 in Pokémon Merchandise in 90 Seconds - Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3FKUS1ES1F5Mmh5UzhrSkQ5MHd0TFhURFBScTZDRVJISkdaNktwNlJBMnN0ME4tNzc0emV1bWtWcG5fTUN6NkJ4NS1Cb0wzNU9qRW83N0ZLTkVSV3UtQXlJM0JpdU9aSWFNZDdBSWRqdmg1TWw4czF6dE9OeGg4LXFkdVlLNVRQ?oc=5",
+     "source": "Yahoo",
+     "published": "2026-07-28T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "High-value Pokémon cards stolen in Dunbar Street break-in - North Shore Daily Post",
@@ -2107,6 +2372,30 @@
    "report_count": 1
   },
   {
+   "title": "🔎 Recent True Crime Coverage:\n\n1. State Flying Squad surge into Wide Bay Region to crack down on crime\n2. William Mulholland brought water to L.A. He failed to stop a disastrous fl",
+   "url": "https://bsky.app/profile/suggestionboxlive.bsky.social/post/3msga5ebz522x",
+   "source": "@suggestionboxlive.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-08-06T14:15:54.126000+00:00",
+   "summary": "🔎 Recent True Crime Coverage:\n\n1. State Flying Squad surge into Wide Bay Region to crack down on crime\n2. William Mulholland brought water to L.A. He failed to stop a disastrous flood\n3. High-value Pokémon cards stolen in commercial brea…\n\nFull coverage: https://suggestionbox.live/planet-true-crime",
+   "author": "suggestionbox.live",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "suggestionboxlivebskysocial.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "stolen"
+   ],
+   "first_seen": "2026-08-12T20:43:30.151706+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
    "title": "PSA faces collector backlash after grading problems at national convention in Rosemont - FOX 32 Chicago",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXVjT0ZMYzQxT1h3S2ZIX3Rad2ZubTJWZXRUQUY1S1FucUlhTVZUSHFCbUlOWDZsUGN1TVNvMkhreXhmZVkzY3A1UndJU1c4X3JodFRLZTZNbkRHZXVTWFotcUhNNDdnSEpnaG00eFZRWUF0c0hCSTFXQjM5ZlJCdmdXX3dMVHNBWWNGZzlyYU11WndGbXFCRWJZOHhZakhEZ2tDNXR5N29aeVJWLTdkcG5LYWbSAboBQVVfeXFMUGNBNzFIRVFIdXk2UUxab1RoTlJOUWNxZG9jQXRybzdjOTRKY1U0cTMxMXVfTXpkUkFKQzRYWEhjcXdxeV9oUEYzU3N4LWtqWjMyNjlJTUYtM08tYVR0Y0NnYk9FVm1tRXZKczlFU0NZeVZVVUhzVW9idjRTTlNONHg5QjM3V1dmbkdUS2gzOFdTcTJjNUxjcXR2UEJydmFld2RERWpmMWRPNV9GUFJpRTlQWHlrVVZFclFB?oc=5",
    "source": "FOX 32 Chicago",
@@ -2114,36 +2403,21 @@
    "published": "2026-08-06T07:00:00+00:00",
    "summary": "PSA faces collector backlash after grading problems at national convention in Rosemont FOX 32 Chicago",
    "author": "",
-   "category": "betrug",
+   "category": "versand",
    "region": "int",
-   "country": "",
+   "country": "USA",
    "image": "",
-   "domain": "dexerto.com",
+   "domain": "fox32chicago.com",
    "logo": "",
-   "score": 5,
+   "score": 8,
    "matched": [
-    "fraud",
     "grading",
-    "lawsuit",
-    "psa",
-    "trading card"
+    "muster:versand",
+    "psa"
    ],
    "first_seen": "2026-08-12T20:43:30.151540+00:00",
-   "related": [
-    {
-     "title": "PSA hit with class action lawsuit accusing trading card grading giant of widespread fraud - Dexerto",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTDdnTzZvR0tvUEZMMGdlVUZEc1VEdUdIYnhkWDBCRTdPZE1kUmU3cTZPNTVPZzZ1SXg2LXJxZlpYYTEwczBxZF9mQVluMXpDVjlNU3FoTWhVc2tZS210dy1SVWpFVkg0eUd0elljMnVEcUQtWU01X3VkckEyYUQ2V0JlRTJsVjBJRjVGc1lWdVpWbW54OHdqcWdWbnpSMUNjSkVQcHJxMktKek1tZFdvSTdaUUpRdjVIM096UzRvX043VnlseFkybVU3b3ZTaEVaR3c?oc=5",
-     "source": "Dexerto",
-     "published": "2026-07-30T07:00:00+00:00"
-    },
-    {
-     "title": "PSA’s response on struggles to keep up with grading demand at the National, mounting lawsuits - The Athletic - The New York Times",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS3puTzdLYlVJenVIUDRHR1ViN09oc0ZvaGgzdG9hX2YyUlU0anczVmNwb0ZTb3g5UENKSl9zQnZ0dE50aFdqd29oeWdXOFlpWXh4enE1MUdOeVg0dXk0MllIaURZRUo5ZHBvY2IxT0NocGEzZWFmc0hSNkViRU1GbXRXcWpaZlZiQ2VNNjAyUQ?oc=5",
-     "source": "The New York Times",
-     "published": "2026-08-03T07:00:00+00:00"
-    }
-   ],
-   "report_count": 3
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Pokémon card heist caught on video - CTV News",
@@ -2222,6 +2496,90 @@
    "report_count": 2
   },
   {
+   "title": "We live in an era where criminals organize heists of trading cards for a children's game about magical fighting animals.",
+   "url": "https://bsky.app/profile/advancetimes.bsky.social/post/3mseiqa433c2m",
+   "source": "@advancetimes.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-08-05T21:44:17.834000+00:00",
+   "summary": "We live in an era where criminals organize heists of trading cards for a children's game about magical fighting animals.",
+   "author": "Langley Advance Times",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "advancetimesbskysocial.com",
+   "logo": "",
+   "score": 2,
+   "matched": [
+    "heist",
+    "trading card"
+   ],
+   "first_seen": "2026-08-05T22:03:25.700080+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "4-\nMy original binder of Pokémon cards got stolen at taekwondo camp at a young age, and the instructor reacted by just banning cards and not getting mine back. I never trusted adul",
+   "url": "https://bsky.app/profile/protoshep.bsky.social/post/3msegmu32pk2f",
+   "source": "@protoshep.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-08-05T21:06:37.070000+00:00",
+   "summary": "4-\nMy original binder of Pokémon cards got stolen at taekwondo camp at a young age, and the instructor reacted by just banning cards and not getting mine back. I never trusted adults again tbh.",
+   "author": "Shep 🔜 Stratosfur!!",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "protoshepbskysocial.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "stolen"
+   ],
+   "first_seen": "2026-08-05T22:03:25.700153+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Valuable Pokémon cards stolen from Vancouver collectibles shop vancouversun.com/news/pokemon...",
+   "url": "https://bsky.app/profile/vancouversun.bsky.social/post/3mse5v4tyx22l",
+   "source": "@vancouversun.bsky.social",
+   "platform": "news",
+   "published": "2026-08-05T20:00:17.433000+00:00",
+   "summary": "Valuable Pokémon cards stolen from Vancouver collectibles shop vancouversun.com/news/pokemon...",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "Kanada",
+   "image": "",
+   "domain": "vancouversun.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "stolen"
+   ],
+   "first_seen": "2026-08-05T20:03:42.962092+00:00",
+   "related": [
+    {
+     "title": "Valuable Pokémon cards stolen from Vancouver collectibles shop - Vancouver Sun",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaEN6SmJ3R2tfbHI4bmV0Nk1xUUF3QU9qZDBvMTdiOVV4THpkVUl6Z1BhNlFLT2lMcjZMOTJlMG93aEp2cFNtTDNQRlBWbm9oV3VHODFhSzJHTEpXYmpveExLRFVwc2czNnRWMW5IQmRWN1R2RkFreGtZY05RTW9PQmFwV1k?oc=5",
+     "source": "Vancouver Sun",
+     "published": "2026-08-05T07:00:00+00:00"
+    },
+    {
+     "title": "Valuable Pokémon cards stolen from Vancouver collectibles shop theprovince.com/news/pokemon...",
+     "url": "https://bsky.app/profile/theprovince.com/post/3msecwayz6g2v",
+     "source": "@theprovince.com",
+     "published": "2026-08-05T20:00:17.433000+00:00"
+    }
+   ],
+   "report_count": 3
+  },
+  {
    "title": "High-value Pokémon cards stolen in Vancouver, getaway vehicle found in Surrey - Vanderhoof Omineca Express",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV1Bqb0ZwZjVvX01NR1c1RFpMMERucG9JS0wyblItR1lCeUdnLTk2NzhyM3diZWNBMW1OcVJlNGJsaFFQU0gwOUJ3UHNfVzJKS2dVcGRwQjh1bm9makJTbk1MSktYNS1VQkFKVUNub25UUlpUUWxfMFVJeUR2SGt4ak1yZ09XR0E4dDJVT1ZXUDJQdi15cFljc3ZiMU9hY0hYamtPUGRnSlZmSnoxNTlQSWdQdWpYdw?oc=5",
    "source": "Vanderhoof Omineca Express",
@@ -2253,35 +2611,11 @@
    "report_count": 2
   },
   {
-   "title": "Valuable Pokémon cards stolen from Vancouver collectibles shop - Vancouver Sun",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaEN6SmJ3R2tfbHI4bmV0Nk1xUUF3QU9qZDBvMTdiOVV4THpkVUl6Z1BhNlFLT2lMcjZMOTJlMG93aEp2cFNtTDNQRlBWbm9oV3VHODFhSzJHTEpXYmpveExLRFVwc2czNnRWMW5IQmRWN1R2RkFreGtZY05RTW9PQmFwV1k?oc=5",
-   "source": "Vancouver Sun",
-   "platform": "news",
-   "published": "2026-08-05T07:00:00+00:00",
-   "summary": "Valuable Pokémon cards stolen from Vancouver collectibles shop Vancouver Sun",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "Kanada",
-   "image": "",
-   "domain": "vancouversun.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "pokemon",
-    "pokémon",
-    "stolen"
-   ],
-   "first_seen": "2026-08-05T18:04:10.642162+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Police hoping to catch the perps in Vancouver Pokémon card heist caught on video - Daily Hive",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xSUJlS011R3VRa3ZwTWFvMTVQM2pmQnp3TU9Xcko2dnd4SG1kRXZnaTFYcDVvNkNTVGw2cEtaUmNpVWh1bjFkV0Z6aVlWZWNqaHlEd3BZamc4ZjhUSkRjYnpGTjdlLUp4ZmZORA?oc=5",
    "source": "Daily Hive",
    "platform": "news",
-   "published": "2026-08-05T07:00:00+00:00",
+   "published": "2026-08-05T18:45:09.691000+00:00",
    "summary": "Police hoping to catch the perps in Vancouver Pokémon card heist caught on video Daily Hive",
    "author": "",
    "category": "einbruch",
@@ -2309,9 +2643,15 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUVF1TzBzcVB6TnFUYlNybENocWNDeVBEbENLMDZtSlNwQ2FHX09zZGVXRUtMU0ZRTFZEYjAtR3ZrXzVGSGdrdjNRM1Y3ckt2Ym1hTHB2cXlyU2d3WTJpZUFPMVFSQ3ZlazFZNURMVWctN29Ec2oxVFFQY25qSWZLY3c0YVdOUlpRZlhUamNmWGItZTctUS1rTFpGMVd0TlRGZVA1aTlMMTRjbkhrYnNrVnVPVQ?oc=5",
      "source": "CTV News",
      "published": "2026-08-05T07:00:00+00:00"
+    },
+    {
+     "title": "High-value Pokémon cards stolen from Vancouver collectibles store",
+     "url": "https://bsky.app/profile/globalnews-bc-un.yvr.whims.io/post/3mse6pvwyxs22",
+     "source": "@globalnews-bc-un.yvr.whims.io",
+     "published": "2026-08-05T18:45:09.691000+00:00"
     }
    ],
-   "report_count": 3
+   "report_count": 4
   },
   {
    "title": "Surprised by Pokémon card thefts? Wait till you hear what they’re worth - Pioneer Press",
@@ -2362,28 +2702,75 @@
    "report_count": 1
   },
   {
-   "title": "Collectors lose $1,200 in two Martin County counterfeit Pokémon card deals - WPEC",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQTGpJU1I5UGtwdXRpM2ZWeGtMNEVXendLQ3lxM1NUdkM3LUVncFpHWmptQjd5SFZPNy1JSFhRYnMwTW9MajdNNm13QVd5WGV0X09DNGtCZHp1X2c1Y1RFeGU2QWpERDZjeGltZmFqcC0zcGxhQVd5ZHhzZnZHcEI1VEhtLVcyTzBrbU9IbnVqU3hjdGNjbzFlc2tNdGIzbTJZWnZ6MWg3UHNzVllJemludzVfcWRsM3EzbFZlX3lKLWZ3OWljay1YM0c0ZVdyZE4zSEdOZlZZbmFPbUhpNkU0MFNXWElaMmFkaENOS3BuMk54Um5GOGZjVHBTZ3JELUZtckQ1dmU1ZXlqc2ZKeG1HRXhSaFAxMklpeHc?oc=5",
-   "source": "WPEC",
+   "title": "PSA hit with class action lawsuit accusing trading card grading giant of widespread fraud - Dexerto",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTDdnTzZvR0tvUEZMMGdlVUZEc1VEdUdIYnhkWDBCRTdPZE1kUmU3cTZPNTVPZzZ1SXg2LXJxZlpYYTEwczBxZF9mQVluMXpDVjlNU3FoTWhVc2tZS210dy1SVWpFVkg0eUd0elljMnVEcUQtWU01X3VkckEyYUQ2V0JlRTJsVjBJRjVGc1lWdVpWbW54OHdqcWdWbnpSMUNjSkVQcHJxMktKek1tZFdvSTdaUUpRdjVIM096UzRvX043VnlseFkybVU3b3ZTaEVaR3c?oc=5",
+   "source": "Dexerto",
    "platform": "news",
-   "published": "2026-08-05T07:00:00+00:00",
-   "summary": "Collectors lose $1,200 in two Martin County counterfeit Pokémon card deals WPEC",
+   "published": "2026-08-04T07:00:00+00:00",
+   "summary": "PSA hit with class action lawsuit accusing trading card grading giant of widespread fraud Dexerto",
    "author": "",
    "category": "betrug",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "wpec.com",
+   "domain": "dexerto.com",
    "logo": "",
-   "score": 3,
+   "score": 5,
    "matched": [
-    "counterfeit",
-    "pokemon",
-    "pokémon"
+    "fraud",
+    "grading",
+    "lawsuit",
+    "psa",
+    "trading card"
    ],
-   "first_seen": "2026-08-12T20:43:30.151813+00:00",
-   "related": [],
-   "report_count": 1
+   "first_seen": "2026-07-30T20:03:17.175698+00:00",
+   "related": [
+    {
+     "title": "Pokemon Grader PSA Hit With New Class Action Lawsuit - TheGamer",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbnBBZkNyckVKb0g4VV9BUm9jaUo0bzNNWEFkUks5d05zT0ZkaEcxOEdDOEppZ1pnLUFPYW1TYmNOdVJsRXpicEVrRzdLOVpkT1JSX2RxNWg2ZkNwM0FoZ1htREdFVDVKMVJtRl9BTG5EcWxweTVNX0VDbTZBaktkTnJ0Yjg3Zw?oc=5",
+     "source": "TheGamer",
+     "published": "2026-07-31T07:00:00+00:00"
+    },
+    {
+     "title": "PSA AND PARENT COMPANY SUED IN CLASS ACTION LAWSUIT - ICv2",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOW9WVkhCQ3RxUUhxUUgxMlU2MTUwNkR5STR5aExoSlJUbktxeV9SVTBhY2thZXdsMk1KaDQ4ZWtTbG1rb0pmWFVYQm1wZzJIazltQUJIQ0E5eGx4cFZTMUFoNUtEVFlCZFJSRXRKUk9NUU9salNsNUFtX2s2YkwzZ0d0ZGFHUEw4N0ZQUUo5RQ?oc=5",
+     "source": "ICv2",
+     "published": "2026-08-04T07:00:00+00:00"
+    }
+   ],
+   "report_count": 3
+  },
+  {
+   "title": "Hundreds of counterfeit Pokémon cards seized in connection to Japanese police arrest - Dot Esports",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWU9VZEkzNkRfaGJIeTRaQnJsSlNSOTVQUVQ4Vlc1U19MZ3ZLd1JCTFo4Zm1RTndpbW83bkNBVXFvZUluTm1KN0NaSmxVcUhuRHBvVlVrLUlJZklTLU81SldNV0FHcXJEZTRaMTZ2dlpBNE5HaWVFMGhLLVUyVVQ1R29TM1pxRjRIZXR3SmFmbl9pV3VIdG5vbG41MlhRckhLWm1qenc2b3JTcUp1MFFPckt5SFY1bWsxbFBZeA?oc=5",
+   "source": "Dot Esports",
+   "platform": "news",
+   "published": "2026-08-04T07:00:00+00:00",
+   "summary": "Hundreds of counterfeit Pokémon cards seized in connection to Japanese police arrest Dot Esports",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "gonintendo.com",
+   "logo": "",
+   "score": 4,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "tcg",
+    "theft"
+   ],
+   "first_seen": "2026-08-22T11:02:45.241792+00:00",
+   "related": [
+    {
+     "title": "Japanese Pokémon TCG store hit by theft offers 1 million yen bounty for the culprit - GoNintendo",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc3dJaE9NbjBfdC13ejJoUUt2WGtibVRuMlBNSzFJVkFBS1FadnZtVlJDdFd0bFpvTTRxT0xhYllMRTVEYTlxNmZFMVl3SE92clVQdWNmRFJCcVpPOFM0QlJWb2pZd05Oc1BQYTZORHRqREhLdFlwOEZDSVZDSkJuNHBkWFFFUGdfVkE2TEpTRzVvejlQRTh1VUpyT20zUllOTml2RWttQnQ1TkVhUFExeXZsRjdlN1pTUC00cEVn?oc=5",
+     "source": "GoNintendo",
+     "published": "2026-07-28T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Taiwan Pokémon Card Shop Disappears in 13B Fraud - 조선일보",
@@ -2409,63 +2796,6 @@
    "first_seen": "2026-08-04T08:03:17.656335+00:00",
    "related": [],
    "report_count": 1
-  },
-  {
-   "title": "Hundreds of counterfeit Pokémon cards seized in connection to Japanese police arrest - Dot Esports",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWU9VZEkzNkRfaGJIeTRaQnJsSlNSOTVQUVQ4Vlc1U19MZ3ZLd1JCTFo4Zm1RTndpbW83bkNBVXFvZUluTm1KN0NaSmxVcUhuRHBvVlVrLUlJZklTLU81SldNV0FHcXJEZTRaMTZ2dlpBNE5HaWVFMGhLLVUyVVQ1R29TM1pxRjRIZXR3SmFmbl9pV3VIdG5vbG41MlhRckhLWm1qenc2b3JTcUp1MFFPckt5SFY1bWsxbFBZeA?oc=5",
-   "source": "Dot Esports",
-   "platform": "news",
-   "published": "2026-08-04T07:00:00+00:00",
-   "summary": "Hundreds of counterfeit Pokémon cards seized in connection to Japanese police arrest Dot Esports",
-   "author": "",
-   "category": "betrug",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "dotesports.com",
-   "logo": "",
-   "score": 4,
-   "matched": [
-    "counterfeit",
-    "pokemon",
-    "pokémon",
-    "seized"
-   ],
-   "first_seen": "2026-08-22T11:02:45.241792+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Pokemon Grader PSA Hit With New Class Action Lawsuit - TheGamer",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbnBBZkNyckVKb0g4VV9BUm9jaUo0bzNNWEFkUks5d05zT0ZkaEcxOEdDOEppZ1pnLUFPYW1TYmNOdVJsRXpicEVrRzdLOVpkT1JSX2RxNWg2ZkNwM0FoZ1htREdFVDVKMVJtRl9BTG5EcWxweTVNX0VDbTZBaktkTnJ0Yjg3Zw?oc=5",
-   "source": "TheGamer",
-   "platform": "news",
-   "published": "2026-08-04T07:00:00+00:00",
-   "summary": "Pokemon Grader PSA Hit With New Class Action Lawsuit TheGamer",
-   "author": "",
-   "category": "behoerden",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "thegamer.com",
-   "logo": "",
-   "score": 4,
-   "matched": [
-    "lawsuit",
-    "pokemon",
-    "pokémon",
-    "psa"
-   ],
-   "first_seen": "2026-08-25T15:32:01.107096+00:00",
-   "related": [
-    {
-     "title": "PSA AND PARENT COMPANY SUED IN CLASS ACTION LAWSUIT - ICv2",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOW9WVkhCQ3RxUUhxUUgxMlU2MTUwNkR5STR5aExoSlJUbktxeV9SVTBhY2thZXdsMk1KaDQ4ZWtTbG1rb0pmWFVYQm1wZzJIazltQUJIQ0E5eGx4cFZTMUFoNUtEVFlCZFJSRXRKUk9NUU9salNsNUFtX2s2YkwzZ0d0ZGFHUEw4N0ZQUUo5RQ?oc=5",
-     "source": "ICv2",
-     "published": "2026-08-04T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
   },
   {
    "title": "\"Herrscher der Lüfte\" – \"Pokémon Pocket\" bringt Spielern Mega Rayquaza ex - Heute",
@@ -2519,6 +2849,30 @@
     "trading card"
    ],
    "first_seen": "2026-08-03T12:03:18.450813+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "PSA’s response on struggles to keep up with grading demand at the National, mounting lawsuits - The Athletic - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS3puTzdLYlVJenVIUDRHR1ViN09oc0ZvaGgzdG9hX2YyUlU0anczVmNwb0ZTb3g5UENKSl9zQnZ0dE50aFdqd29oeWdXOFlpWXh4enE1MUdOeVg0dXk0MllIaURZRUo5ZHBvY2IxT0NocGEzZWFmc0hSNkViRU1GbXRXcWpaZlZiQ2VNNjAyUQ?oc=5",
+   "source": "The New York Times",
+   "platform": "news",
+   "published": "2026-08-03T07:00:00+00:00",
+   "summary": "PSA’s response on struggles to keep up with grading demand at the National, mounting lawsuits - The Athletic The New York Times",
+   "author": "",
+   "category": "behoerden",
+   "region": "int",
+   "country": "USA",
+   "image": "",
+   "domain": "thenewyorktimes.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "grading",
+    "lawsuit",
+    "psa"
+   ],
+   "first_seen": "2026-08-04T18:03:42.891831+00:00",
    "related": [],
    "report_count": 1
   },
@@ -2623,6 +2977,62 @@
     }
    ],
    "report_count": 2
+  },
+  {
+   "title": "Why would you be mad about it? It means that your vintage graded card just got rarer and more expensive.\nUnless, deep down, you know that whole graded vintage card market is one bi",
+   "url": "https://bsky.app/profile/mindvapour.bsky.social/post/3ms32k543ak24",
+   "source": "@mindvapour.bsky.social",
+   "platform": "news",
+   "published": "2026-08-02T03:36:23.331000+00:00",
+   "summary": "Why would you be mad about it? It means that your vintage graded card just got rarer and more expensive.\nUnless, deep down, you know that whole graded vintage card market is one big scam for bored manchildren.",
+   "author": "",
+   "category": "betrug",
+   "region": "int",
+   "country": "Japan",
+   "image": "",
+   "domain": "internationalbusinesstimesuk.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "counterfeit",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-08-06T00:04:32.348252+00:00",
+   "related": [
+    {
+     "title": "Japan Eyes Regulating Pokémon Cards as $2.1B Market Fuels Counterfeiting and Money-Laundering Fears - International Business Times UK",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1k5djRGRERHM3UtYnlwcU5UR3VGN3VINDd3T29sWFRVUnZUcjJDNDZyTHpQYzAzeDhGcldiYWdWWDdUdU1BS0FOMmNQOWRNVG5ER3NmNHRpSVF1UjFQSEYtMVA2NlZMSmhVTFZDR2hpd1JSX3JlQlI1M3hhOFAxRTlZU3ZJMzkt?oc=5",
+     "source": "International Business Times UK",
+     "published": "2026-07-24T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
+  },
+  {
+   "title": "This is a perfectly acceptable use of a Pokemon card. We need to be cracking all graded cards. It’s a scam practice.",
+   "url": "https://bsky.app/profile/demodisc.zone/post/3ms2ymhisik23",
+   "source": "@demodisc.zone",
+   "platform": "bluesky",
+   "published": "2026-08-02T03:01:53.859000+00:00",
+   "summary": "This is a perfectly acceptable use of a Pokemon card. We need to be cracking all graded cards. It’s a scam practice.",
+   "author": "Addie / EposVox",
+   "category": "betrug",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "demodisczone.com",
+   "logo": "",
+   "score": 5,
+   "matched": [
+    "graded",
+    "pokemon",
+    "pokémon",
+    "scam"
+   ],
+   "first_seen": "2026-08-06T00:04:32.348316+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "UPDATE: Edmond PD identifies burglary suspect in 300K trading cards theft - KFOR.com",
@@ -2760,6 +3170,74 @@
    "report_count": 1
   },
   {
+   "title": "Arrest warrant issued after Washington Township card shop burglaries - Courier-Post",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUFJ4UDdyMzdsRThmX3JsT0NTMXV0dW5mN2h4SlpVTUpsV19fclU4dEZQWk9Qc3VxZXpCSnZmQjF4Tk81Ykx3ZFZTMFRkV29pdUVIRjlpOUxqX25uS2g1cGtHZlZIRXhvTldZeWZtbmN6SkRHRmVyNmhGNzgzems0VS1rYVJLZXBjelBzazZrdjZWMjdNcDFxNV9KRHU2R0doZlI3bF9tOFdQRDE1aDNLUkRGaHE3b1Vpc1BNUnd1U0xCN0hzV1k3QUJBc1ozdVJlMHUzNEFFSzdHVEVOSFlOSG5xY2RfT2JOc3Zv?oc=5",
+   "source": "Courier-Post",
+   "platform": "news",
+   "published": "2026-07-31T19:19:29+00:00",
+   "summary": "Arrest warrant issued after Washington Township card shop burglaries Courier-Post",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "USA",
+   "image": "",
+   "domain": "courier-post.com",
+   "logo": "",
+   "score": 2,
+   "matched": [
+    "burglar",
+    "card shop"
+   ],
+   "first_seen": "2026-08-24T11:17:18.341658+00:00",
+   "related": [
+    {
+     "title": "Arrest warrant issued after Washington Township card shop burglaries - AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOODE3eFRoR1ItN1J1UDB4emZxdlJFSVlFa0VkYjZUWUJPdGpfeTJ5S3dWbHphc1puSG1XTTJaVklLS3FJNHNqUWo4cXprUEhqX1laZGRwdnphWWpuN0YtX3JJT3YyYWhneVhfNjZnR2h2bUFCVi1XbFh3OWNDc3BSdl8xdERVY3RLbDVfeDVn?oc=5",
+     "source": "AOL.com",
+     "published": "2026-07-31T19:19:29+00:00"
+    }
+   ],
+   "report_count": 2
+  },
+  {
+   "title": "2 South Jersey card shops targeted in overnight break-ins for Pokémon cards - 6abc Philadelphia",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVBXSFZxbXBNQ1VjcGFvVC02bFNhWEdHR3U0Mm9tVW1mVWNyQnVRQUtkZmp3c2hOcjNxaHJxeG50eTJlWVJMQmxRWE91M1BDakdROFdqTm1WRG4xNHVEOHJFenFKc2tGMTM0anMzSUFGbDgwRzh0aW8tSTIybDRpN2JaNVJLS3lkV01RTzl1UUtqRy1HNktHSVdVbWVHRWt3?oc=5",
+   "source": "6abc Philadelphia",
+   "platform": "news",
+   "published": "2026-07-31T07:00:00+00:00",
+   "summary": "2 South Jersey card shops targeted in overnight break-ins for Pokémon cards 6abc Philadelphia",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "6abcphiladelphia.com",
+   "logo": "",
+   "score": 6,
+   "matched": [
+    "break-in",
+    "card shop",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-07-30T04:03:21.652119+00:00",
+   "related": [
+    {
+     "title": "Pokémon cards targeted in 2 New Jersey store break-ins - ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXdLV2c1cUt0MTEzYXZjRzZadU5IbUxrSkVyNFZnTkFrenVNVFA2X05mR2p1WGFZZU96anRrcUlxNVJWVFl6MEN5c0Q4U01LbXIyWUFkUGVhNGVDRkMyR3BJaHZ6Y2hUcC1JQ2VfSXBLdk91OUxIeVkyQmNTMERjbUswZUs1dmtyODAxYjFNNHd5d9IBlwFBVV95cUxPdU5WekxyTWtWRFExYjZIT2F5TU9yZVp4MmNWa3dfdnp4NXFxZWNobGhWc2JuZFpmN2FiR19rbXBOcnhiOEpzYnU4bGd5ODZycEZnQ1oxUnNUWnJqckg4cFlZUkQxLVFXS2V4Z2JhZVZtcG5vRmZKUnprM3BELXF5cHhKczd0MWpTa3p1M05Sd216TEZFUHNv?oc=5",
+     "source": "ABC News - Breaking News, Latest News and Videos",
+     "published": "2026-07-30T07:00:00+00:00"
+    },
+    {
+     "title": "Rafael Gordian wanted: Warrant issued for suspect wanted in Pokémon card thefts in South Jersey - 6abc Philadelphia",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPXzBpOEg0NjFzSmtDV1RvVjl3WndWd2VvVWU3QkM5X1BEWnJsZ0FaZWFWeGR5dWtTYVFqRHlWYUxFMS1xMXJKZEhBb3d2MHFOU1VrT0Y0b1hNeVRtWXBHZG53XzNkOGc3c1pNTFdnZUUwZm00bVE1ajd1Vm1SQWU1YVM5QVlMVXRqYlVyVzFnSkpjVHB2eVN6YXZ1REtjQdIBowFBVV95cUxPWlRjMTF2STN6M25wREdhY2VhcXhENFdkcXlOS0JXSkhpWXBzeFNyOHVRMmNzU2F2ZkVKTzNuT1FKLWZRVWdacVlMRkNDaHlya2JyZ1l2aERteFpIa01McVV0REZXN3JjaGdiM0JVZzI2TlBuZDQxaEtWWndDeWd1SURIV1lDcHE5LUM1ZEVCQkFHeVBRcnVOMHdkbEsyZ0s5V21N?oc=5",
+     "source": "6abc Philadelphia",
+     "published": "2026-07-31T07:00:00+00:00"
+    }
+   ],
+   "report_count": 3
+  },
+  {
    "title": "Police seek second suspect after attempted burglaries targeting Pokémon cards at NJ shop - News12 | New Jersey",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSUxqRnpOQ18xdEFVVjI1aEFNdV9oNUJfLW5CTHpuNTV1V2t3ZkNOWkdxODh3RjVLNGdhTmFWWFJldjBXYVE5NGtOQVQzUE85SFF0cDdKTUZESDlqaHQ5VDRaVUZvM2thY040UzdDbGh0ZmVzNGo0VjVZdFo5ekpWNGJCcDU0Tmo4djUzQXo1dlB6NFNncE9qUDJ3dWZHUUJGM2JSdVlyMnJxaDlwSE9EUmQwbU4zZ3dCU1RiLXFWWGkxMUJWcTUwa19ISVZXcjBvUVhub0RPNno4NW5CV0QwX1R5dlA?oc=5",
    "source": "News12 | New Jersey",
@@ -2806,36 +3284,6 @@
    "first_seen": "2026-08-02T22:03:08.696062+00:00",
    "related": [],
    "report_count": 1
-  },
-  {
-   "title": "Philadelphia man among 2 suspects sought in Washington Township card shop burglaries - FOX 29 Philadelphia",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQlpJVEJHd0p3aFZ5N0VQaC1NRnVhM213TEl6MFQzUWs5dU16M3NTb25LaUJvd012N3JDVVM1VXptQm1VYXo5Z3FWMkhDRGxXc0xsd0N6OU85NTNxd040eFdRd2hMYTVYN3dUN2Z6NnNPb3ZkYnQ0bW5BNWViRDhab3NRYUdMakRBcFIxTmRGdUQ5OFZnOU9scVBPM2FtSWJsd2Jzc21aN2NOOUlF?oc=5",
-   "source": "FOX 29 Philadelphia",
-   "platform": "news",
-   "published": "2026-07-31T07:00:00+00:00",
-   "summary": "Philadelphia man among 2 suspects sought in Washington Township card shop burglaries FOX 29 Philadelphia",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "USA",
-   "image": "",
-   "domain": "fox29philadelphia.com",
-   "logo": "",
-   "score": 2,
-   "matched": [
-    "burglar",
-    "card shop"
-   ],
-   "first_seen": "2026-07-30T20:03:17.175782+00:00",
-   "related": [
-    {
-     "title": "Arrest warrant issued after Washington Township card shop burglaries - Courier-Post",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUFJ4UDdyMzdsRThmX3JsT0NTMXV0dW5mN2h4SlpVTUpsV19fclU4dEZQWk9Qc3VxZXpCSnZmQjF4Tk81Ykx3ZFZTMFRkV29pdUVIRjlpOUxqX25uS2g1cGtHZlZIRXhvTldZeWZtbmN6SkRHRmVyNmhGNzgzems0VS1rYVJLZXBjelBzazZrdjZWMjdNcDFxNV9KRHU2R0doZlI3bF9tOFdQRDE1aDNLUkRGaHE3b1Vpc1BNUnd1U0xCN0hzV1k3QUJBc1ozdVJlMHUzNEFFSzdHVEVOSFlOSG5xY2RfT2JOc3Zv?oc=5",
-     "source": "Courier-Post",
-     "published": "2026-07-31T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
   },
   {
    "title": "PSA Slapped With RICO Lawsuit - Resell Calendar",
@@ -2905,42 +3353,48 @@
    "report_count": 1
   },
   {
-   "title": "2 South Jersey card shops targeted in overnight break-ins for Pokémon cards - 6abc Philadelphia",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVBXSFZxbXBNQ1VjcGFvVC02bFNhWEdHR3U0Mm9tVW1mVWNyQnVRQUtkZmp3c2hOcjNxaHJxeG50eTJlWVJMQmxRWE91M1BDakdROFdqTm1WRG4xNHVEOHJFenFKc2tGMTM0anMzSUFGbDgwRzh0aW8tSTIybDRpN2JaNVJLS3lkV01RTzl1UUtqRy1HNktHSVdVbWVHRWt3?oc=5",
-   "source": "6abc Philadelphia",
+   "title": "Rückblick auf eine Region: Einall im Rampenlicht - Pokemon.com",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2NpUjBYNVZFSzJPSFdDRkFPNVBGVWI2aFFBSklDMzAzQzl5c1Q1OWVoSUNMQnRBN0ZKcWM5NmJHS2xQRzhSNVB0ejAwcEZWZWZHbHQ3RUdVZGd1LUtyS2wtZGJZa2RUTVJmWGFjY2ZTZl92cHh1ZDBxQVJqRWE1N2lDczlGWFpJQXhIag?oc=5",
+   "source": "Pokemon.com",
    "platform": "news",
-   "published": "2026-07-30T07:00:00+00:00",
-   "summary": "2 South Jersey card shops targeted in overnight break-ins for Pokémon cards 6abc Philadelphia",
+   "published": "2026-07-31T07:00:00+00:00",
+   "summary": "Rückblick auf eine Region: Einall im Rampenlicht Pokemon.com",
    "author": "",
-   "category": "einbruch",
-   "region": "int",
+   "category": "szene",
+   "region": "de",
    "country": "",
    "image": "",
-   "domain": "6abcphiladelphia.com",
+   "domain": "pokemon.com",
    "logo": "",
-   "score": 6,
+   "score": 1,
    "matched": [
-    "break-in",
-    "card shop",
-    "pokemon",
-    "pokémon"
+    "news:de"
    ],
-   "first_seen": "2026-07-30T04:03:21.652119+00:00",
-   "related": [
-    {
-     "title": "Rafael Gordian wanted: Warrant issued for suspect wanted in Pokémon card thefts in South Jersey - 6abc Philadelphia",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPXzBpOEg0NjFzSmtDV1RvVjl3WndWd2VvVWU3QkM5X1BEWnJsZ0FaZWFWeGR5dWtTYVFqRHlWYUxFMS1xMXJKZEhBb3d2MHFOU1VrT0Y0b1hNeVRtWXBHZG53XzNkOGc3c1pNTFdnZUUwZm00bVE1ajd1Vm1SQWU1YVM5QVlMVXRqYlVyVzFnSkpjVHB2eVN6YXZ1REtjQdIBowFBVV95cUxPWlRjMTF2STN6M25wREdhY2VhcXhENFdkcXlOS0JXSkhpWXBzeFNyOHVRMmNzU2F2ZkVKTzNuT1FKLWZRVWdacVlMRkNDaHlya2JyZ1l2aERteFpIa01McVV0REZXN3JjaGdiM0JVZzI2TlBuZDQxaEtWWndDeWd1SURIV1lDcHE5LUM1ZEVCQkFHeVBRcnVOMHdkbEsyZ0s5V21N?oc=5",
-     "source": "6abc Philadelphia",
-     "published": "2026-07-30T07:00:00+00:00"
-    },
-    {
-     "title": "Pokémon cards targeted in 2 New Jersey store break-ins - ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXdLV2c1cUt0MTEzYXZjRzZadU5IbUxrSkVyNFZnTkFrenVNVFA2X05mR2p1WGFZZU96anRrcUlxNVJWVFl6MEN5c0Q4U01LbXIyWUFkUGVhNGVDRkMyR3BJaHZ6Y2hUcC1JQ2VfSXBLdk91OUxIeVkyQmNTMERjbUswZUs1dmtyODAxYjFNNHd5d9IBlwFBVV95cUxPdU5WekxyTWtWRFExYjZIT2F5TU9yZVp4MmNWa3dfdnp4NXFxZWNobGhWc2JuZFpmN2FiR19rbXBOcnhiOEpzYnU4bGd5ODZycEZnQ1oxUnNUWnJqckg4cFlZUkQxLVFXS2V4Z2JhZVZtcG5vRmZKUnprM3BELXF5cHhKczd0MWpTa3p1M05Sd216TEZFUHNv?oc=5",
-     "source": "ABC News - Breaking News, Latest News and Videos",
-     "published": "2026-07-30T07:00:00+00:00"
-    }
+   "first_seen": "2026-08-16T17:43:26.331938+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Zwischen Nostalgie und Investition: Ein Besuch beim Pokémon-Dealer - profil.at",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjd5Wm1RaXVNRS1aMDVrMHFOWHB6cTFHbURNdG1BZW5URTV2dnZVaTNIeXlQaGNQVWZGQkVLWGVjUXNxZnFINEhXajF2cnJvY3g0U3FsMXRlaXNJanM3emxDMk5FZXBHV1VPT2d4MUpiakd2ck0zOUhPRXd3RjgtSXVYQkttN2NoZEZtZUFvaXBUY1pURk9aNmZ3?oc=5",
+   "source": "profil.at",
+   "platform": "news",
+   "published": "2026-07-30T07:00:00+00:00",
+   "summary": "Zwischen Nostalgie und Investition: Ein Besuch beim Pokémon-Dealer profil.at",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "profil.at",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
    ],
-   "report_count": 3
+   "first_seen": "2026-07-31T08:03:32.610404+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Pokémon TCG Pocket - Neue Booster-Packs 2026: Release-Datum für kommende Sets und Karten - GamePro",
@@ -2965,18 +3419,18 @@
    "report_count": 1
   },
   {
-   "title": "Silsbee trading card store offers $20,000 reward after major Pokemon burglary - KFDM",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW9jR3VRTVliVkQ5eFdoVVhGTVFzQ1VGQ0VkeUdIQTlUUzJkZkQxM3RSV082dENSRXI0N1hKcG9oUzIyS3ZMMTVEV2lBWkVfZ25oWjA5al9IUFpvRFRYeXlrQzk5MEJoUXFuSmFGVV9XMU4wTGRUMWNxdE8xYjh4Y3BNT2Znbk13RDhiVWZwQWJoU0l1V0xXUnNyTFA5TDFsSGl5ZnRn?oc=5",
-   "source": "KFDM",
+   "title": "Silsbee trading card store offers $20,000 reward after major Pokemon burglary - fox4beaumont.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMF9xTS1tWlZIbllGSk9aLWNYOUVWU29JcE1OVzhiWXJ0eVJzSVpBa1gwZjR1cThXNnFTd09zR09IYU5WMjFRRVhnMFl1TmNVX2dOd1c5Y05ZUWpNWmEzazdnWk9TZnVVNGZianBmc1pvU0tiMDdyWGZLYkNrTnJvOWVjRFBCdklYT3JHLV9UOVYxTWFJbVJVNFFRb0pGdGZlX1F3alcyS3A?oc=5",
+   "source": "fox4beaumont.com",
    "platform": "news",
    "published": "2026-07-29T07:00:00+00:00",
-   "summary": "Silsbee trading card store offers $20,000 reward after major Pokemon burglary KFDM",
+   "summary": "Silsbee trading card store offers $20,000 reward after major Pokemon burglary fox4beaumont.com",
    "author": "",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "kfdm.com",
+   "domain": "fox4beaumont.com",
    "logo": "",
    "score": 6,
    "matched": [
@@ -2987,13 +3441,13 @@
     "pokémon",
     "trading card"
    ],
-   "first_seen": "2026-07-29T04:03:04.359091+00:00",
+   "first_seen": "2026-07-23T12:55:00.278901+00:00",
    "related": [
     {
-     "title": "Japanese Pokémon TCG store hit by theft offers 1 million yen bounty for the culprit - GoNintendo",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc3dJaE9NbjBfdC13ejJoUUt2WGtibVRuMlBNSzFJVkFBS1FadnZtVlJDdFd0bFpvTTRxT0xhYllMRTVEYTlxNmZFMVl3SE92clVQdWNmRFJCcVpPOFM0QlJWb2pZd05Oc1BQYTZORHRqREhLdFlwOEZDSVZDSkJuNHBkWFFFUGdfVkE2TEpTRzVvejlQRTh1VUpyT20zUllOTml2RWttQnQ1TkVhUFExeXZsRjdlN1pTUC00cEVn?oc=5",
-     "source": "GoNintendo",
-     "published": "2026-07-28T07:00:00+00:00"
+     "title": "Silsbee trading card store offers $20,000 reward after major Pokemon burglary - KFDM",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW9jR3VRTVliVkQ5eFdoVVhGTVFzQ1VGQ0VkeUdIQTlUUzJkZkQxM3RSV082dENSRXI0N1hKcG9oUzIyS3ZMMTVEV2lBWkVfZ25oWjA5al9IUFpvRFRYeXlrQzk5MEJoUXFuSmFGVV9XMU4wTGRUMWNxdE8xYjh4Y3BNT2Znbk13RDhiVWZwQWJoU0l1V0xXUnNyTFA5TDFsSGl5ZnRn?oc=5",
+     "source": "KFDM",
+     "published": "2026-07-21T07:00:00+00:00"
     },
     {
      "title": "Japanese Card Shop Offers RM25,000 Reward For Catching Burglar Alive - says.com",
@@ -3023,30 +3477,6 @@
     "news:de"
    ],
    "first_seen": "2026-07-29T10:03:15.680425+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Masked Burglars Took Up to $50,000 in Pokémon Merchandise in 90 Seconds - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3FKUS1ES1F5Mmh5UzhrSkQ5MHd0TFhURFBScTZDRVJISkdaNktwNlJBMnN0ME4tNzc0emV1bWtWcG5fTUN6NkJ4NS1Cb0wzNU9qRW83N0ZLTkVSV3UtQXlJM0JpdU9aSWFNZDdBSWRqdmg1TWw4czF6dE9OeGg4LXFkdVlLNVRQ?oc=5",
-   "source": "Yahoo",
-   "platform": "news",
-   "published": "2026-07-28T07:00:00+00:00",
-   "summary": "Masked Burglars Took Up to $50,000 in Pokémon Merchandise in 90 Seconds Yahoo",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "yahoo.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "burglar",
-    "pokemon",
-    "pokémon"
-   ],
-   "first_seen": "2026-07-29T00:03:28.355948+00:00",
    "related": [],
    "report_count": 1
   },
@@ -3187,28 +3617,6 @@
    "report_count": 4
   },
   {
-   "title": "Pokémon TCG-Fan ergattert neue Booster-Packs, freut sich – aber als er aus dem Laden kommt, hat jemand beim Parken sein Auto komplett demoliert - GamePro",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd2lwYkliWEkwNnMyQUlqY2IyTE1YUGlrWHlBSEhZZnZuTzNiMU9nM0pKVzI4bW1NWEZSQkVaeVZSUFh1cDJxNmZkVlhZM09LQmwzYmNtVWtBVzdIQmswQ2tWeUZZUkVZV0VzbDZjRnNLb0VWRi1ZTW5vUWk3UUJJLWcxTk52aTA2MmtB?oc=5",
-   "source": "GamePro",
-   "platform": "news",
-   "published": "2026-07-26T07:00:00+00:00",
-   "summary": "Pokémon TCG-Fan ergattert neue Booster-Packs, freut sich – aber als er aus dem Laden kommt, hat jemand beim Parken sein Auto komplett demoliert GamePro",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "gamepro.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-26T18:04:25.563701+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Slideshow: Pokémon TCG: 30 Jahre Jubiläums-Edition - IGN Deutschland",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcDhpWDJvdlhHTnhIWFBNbmtIT05QSElwQS1tUDBBUEdzb3hxdk8yMmRTWG1lV1pCajg5NlR3NHdiVHhvUlhocENSWVNleHR5QTNVTUJBN3RrVW5Mck9OLXBCZElOZGFsUkpLUVF0YnAzU0xDUkFDbEFYeUVaampKaWVmUTAyazRtYnc?oc=5",
    "source": "IGN Deutschland",
@@ -3327,30 +3735,6 @@
     "pokémon"
    ],
    "first_seen": "2026-08-12T20:43:30.153932+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Japan Eyes Regulating Pokémon Cards as $2.1B Market Fuels Counterfeiting and Money-Laundering Fears - International Business Times UK",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1k5djRGRERHM3UtYnlwcU5UR3VGN3VINDd3T29sWFRVUnZUcjJDNDZyTHpQYzAzeDhGcldiYWdWWDdUdU1BS0FOMmNQOWRNVG5ER3NmNHRpSVF1UjFQSEYtMVA2NlZMSmhVTFZDR2hpd1JSX3JlQlI1M3hhOFAxRTlZU3ZJMzkt?oc=5",
-   "source": "International Business Times UK",
-   "platform": "news",
-   "published": "2026-07-24T07:00:00+00:00",
-   "summary": "Japan Eyes Regulating Pokémon Cards as $2.1B Market Fuels Counterfeiting and Money-Laundering Fears International Business Times UK",
-   "author": "",
-   "category": "betrug",
-   "region": "int",
-   "country": "Japan",
-   "image": "",
-   "domain": "internationalbusinesstimesuk.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "counterfeit",
-    "pokemon",
-    "pokémon"
-   ],
-   "first_seen": "2026-07-24T18:09:48.900426+00:00",
    "related": [],
    "report_count": 1
   },
@@ -3710,320 +4094,6 @@
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWnAzZlhGbzNYYUNLc2owV2FKNE0xYnZGVHAwTEMxeDBOWDRXTjNyUnpBZTlHNDdPWkQwa1poRlJhZ2VQX19IRXU0bHF2ai1aeHYwWmxWSGdrV0M4V3RHOWlKSmpzMU5kbXFWTnF3T1V2Zm1NZFpDWExJNmFzS1NzMGx6SEV1WXlFZWotQVJyYTA2Q0JOTGt2Zk1BUTQ5Tm4ya1ZLMWZOQ2tVSEtwcld6bV9MdktSQQ?oc=5",
      "source": "PennLive.com",
      "published": "2026-07-19T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
-  },
-  {
-   "title": "Wer jetzt noch leicht an Pokémon-Karten kommen möchte, sollte diesen Freitag zuschlagen - BuzzFeed.de",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0U4VGtJZ0xQbHBlV3djcEZYYmRlX3hKVm8wYkY3Z19DVUw4Mkp3RTJuampGWTROYkpIRjlheGhCTXA0NGlIRzBQcDV6YmZXZkZUbkgzaHJROWlWaUJIMWFLOUN4QnVXd2RhLTZkQS1kYVdBMUV0bFdQU0RNYkE5TWJmZUN6X3RvQTRoWVZrVndTMlZpWDJmWEthZG4?oc=5",
-   "source": "BuzzFeed.de",
-   "platform": "news",
-   "published": "2026-07-19T07:00:00+00:00",
-   "summary": "Wer jetzt noch leicht an Pokémon-Karten kommen möchte, sollte diesen Freitag zuschlagen BuzzFeed.de",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "buzzfeed.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.038666+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Burglars Targeted Rare Pokémon Cards in a Fast Inland Empire Shop Theft - Yahoo News UK",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zQ1E4UmxHclloemJEUXYydEtUZzdoLVhjeFFMWVlDdU1vOUxZR2V2TTFfZTZhWXYwREpydWdJRVV2QXItYUNsUUI5bVhCOC1Fc3plWHZ4N051b055c0lsLUloTmZmamFfYmRCcV8xaV91aG40a2h6R2NUSQ?oc=5",
-   "source": "Yahoo News UK",
-   "platform": "news",
-   "published": "2026-07-18T07:00:00+00:00",
-   "summary": "Burglars Targeted Rare Pokémon Cards in a Fast Inland Empire Shop Theft Yahoo News UK",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "yahoonewsuk.com",
-   "logo": "",
-   "score": 4,
-   "matched": [
-    "burglar",
-    "pokemon",
-    "pokémon",
-    "theft"
-   ],
-   "first_seen": "2026-07-23T12:55:00.279026+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Pokémon, Magic, Lorcana: Tausende Euro für rare Exemplare – kann man mit Sammelkarten wirklich Geld verdienen? - swp.de",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcDdQeVBxdlp6NVRUTTE4bGFhVUZMNnowNmx6RDcxZ2VwbGhEUDFsYmI0U3h1cFRQa3NVWFNoNTVDU1JtVGFXcTRSQnNES3ZRM1NJcVlRVUhFWko5REdncHBPVERhUUhPNVRfUW1RZTBsbUVTb2JnSTNNTDZfWEhNS2ZtN1RoMlY0aTlwTFVFdTFRMTJGd2VfUDJWel9PNjR2RGFXNjRCMjR2bXZQLXB1RDZMTUpPNWRxSkhmcFZQTTd4MVZ5UGlxOVAwTV9VSjlMMTNoSVpZVDFwMFcwRkVGeGlFUQ?oc=5",
-   "source": "swp.de",
-   "platform": "news",
-   "published": "2026-07-18T07:00:00+00:00",
-   "summary": "Pokémon, Magic, Lorcana: Tausende Euro für rare Exemplare – kann man mit Sammelkarten wirklich Geld verdienen? swp.de",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "swp.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.038946+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Business owner allegedly steals thousands of dollars in Pokémon cards in fraud scheme - local21news.com",
-   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPN3NtU1lBcy1yQ2JhNzFpcXFURE1lQ25GS0hEQVBHZzJ5a0k5X2t1U3p3SXMzNi1JZ3JHRVdxUjEzS2xMRFltZDhsdkpDZDVoc1RIMklwdUNDak9JeDhaZXhCMnFCa2tKS0JlMmU4OG1PQlR4VTY3SlBvRXBCWmhyX2w2LWx4a21SMk9UdEV3cElQX3pkWjhlUHdER2Y0bVEyaUxKelFsbmZZUUZDaFB5d2UycVgxV25VbjN4TVdNVFNMbG5fWVZENzRmclotXzF3SGtPclJDZS1CUmZlWDNoSzJHZ2JLVEtHRnJpbDRfRVZaUC1uV3JOQUFCc1I4STh3N09zaFpvejR3MlhWQ1lhSlNEaVhRVVQ2cGl5c0k1T3RQQ18zeUVnaUdmMWdZdDFraFd3Xw?oc=5",
-   "source": "local21news.com",
-   "platform": "news",
-   "published": "2026-07-17T07:00:00+00:00",
-   "summary": "Business owner allegedly steals thousands of dollars in Pokémon cards in fraud scheme local21news.com",
-   "author": "",
-   "category": "betrug",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "local21news.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "fraud",
-    "pokemon",
-    "pokémon"
-   ],
-   "first_seen": "2026-07-24T18:09:48.901043+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Erste Händler mit über 100 % Aufschlag: Pokémon-Dunkelnacht-Sammelkarten ab 15,99 Euro zur UVP - PCGH",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdkU3Y3dWeXB0U1VVeURkQ2V2SHJLcmZYMmV5ZklWUERNVUZtdnVtcDJMVTZMeUZTbF82WWJKcFNfaGUtaEdYZ0tGdkZtRWRZZ25YQ0EtRWJ4NDBNMkF3NzJRLVFKVnM4dFVtLXljVmI4ZzFpOHlVTVhqWnlBZzZQTzhzV2xYTmxaTWNGRjlJQXpHY0ZxcjdHWDFVdzBNT2pEUWsyUG02VmpYUk1aNWkyS3RhMm9IRHBSQkdVc1RIRWNPYTBuQWI5UWhlWGdveS04bHdOVW1HdGNDWEE?oc=5",
-   "source": "PCGH",
-   "platform": "news",
-   "published": "2026-07-17T07:00:00+00:00",
-   "summary": "Erste Händler mit über 100 % Aufschlag: Pokémon-Dunkelnacht-Sammelkarten ab 15,99 Euro zur UVP PCGH",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "pcgh.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.039098+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Pokémon statt Krypto: Dieser Trend bricht alle Rekorde - BTC-ECHO",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVlA3U05rUklsandRZXVuejI0TXd0eVVaU0NWUG16ZGg2Z2Z4cVdla1NUNzdueFFQR25QVklEMUd3VGRrUm5teEc1M0JXYzlBX2JIem5SN0NhWTh0MFZtQXVjRTV5cE42bHp0WHdwR1JIUW5kWFhWTXp4SUJIUm40THBJWQ?oc=5",
-   "source": "BTC-ECHO",
-   "platform": "news",
-   "published": "2026-07-17T07:00:00+00:00",
-   "summary": "Pokémon statt Krypto: Dieser Trend bricht alle Rekorde BTC-ECHO",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "btc-echo.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.039280+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Pokémon Dunkelnacht: Ab sofort ist das neue Karten-Set vorbestellbar - GamePro",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenVhRnlvOTJ6Tk9DZ2I5S01WYmEtMERZSUZwRkt4aXh5eW1SNFh6d1RTZUZQaklyQ2MtdHU5dWNuSjFmdnduT1BtWUJLU0QwWjhlbzI4YTdYajY5bHZkYlZIY0hEOEgtMWdndlNHdEVRUHIzYXVEVURWei1Zd252RDhYYmxYY0NqSXhuZmVyLUV1Njg?oc=5",
-   "source": "GamePro",
-   "platform": "news",
-   "published": "2026-07-17T07:00:00+00:00",
-   "summary": "Pokémon Dunkelnacht: Ab sofort ist das neue Karten-Set vorbestellbar GamePro",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "gamepro.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-24T05:52:31.107351+00:00",
-   "related": [
-    {
-     "title": "Pokémon-Karten: Dunkelnacht ab sofort bei Amazon sichern - giga.de",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGctRGxXb1Z1MTFBM1EycGNwQkE0VGpCOGU1Q054RUljd1JvQ1RuX0VVT1p2eTVPbHl4bkpfMWg3VEhLWTJpQklYSGtwd3ZCbFNHZmprZVUyNF9PRmptcXdKNTg3QWw4NWZVa0Z3SUx0c1NnZ1ZxekxDNXJIWlVuQUkzNGlLN3hpZlFMWWhfTHlPUnhaTFBfank1NVZCOEdxdkNpRDRiVjAwbjJLZ1E?oc=5",
-     "source": "giga.de",
-     "published": "2026-07-17T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
-  },
-  {
-   "title": "Neues Pokémon-Set \"Dunkelnacht\" fast überall vergriffen - Heute",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmRqVXY5MXplVXpJcGtrc2R6ZTRBOVRRd0VNVmxLWWZfY25ZdmEtMUtzUWhlX0duYnhmcEZ5Sll4ZWhpdXZOUmVibnVpbzk3UW5TSmZZbmxTMVhLcm5PamlCQ1BlYk53UGdta3l0RGVTekx1Y3BYMGNCRmJELUw2U3BDZzIwMU1JejNjSTZfaU8?oc=5",
-   "source": "Heute",
-   "platform": "news",
-   "published": "2026-07-17T07:00:00+00:00",
-   "summary": "Neues Pokémon-Set \"Dunkelnacht\" fast überall vergriffen Heute",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "heute.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.039140+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "2 charged with using stolen card to buy $12K worth of Pokémon cards at Cary collectibles store: Warrants - CBS 17",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNT19NbndHTkM5Yi1KTW9HWVpYdngzV1pQTzFHbjBTUHJrTDJ1MjFoVTBVQnZBT216ZE1IVG9QdVNnVHNIZFhZTEJacDdYVlJhS2t0SnpOQ3Y5bmRTaW1HV1Z6RmpCNDA4T3RYY1Bod290bHdIcVBHVDRCS0dnR3pud3djRzc0LUZoaFZTMU13OXhCSWtpTnV1RGVxQXEyWmdWODZqUjBkN3JqckxkZFhKQ1h5ektkYnVQRExRRzcxbE5NcTcxbVQxbmpwSVh6MEFSRWNkUXdqOUZncUZyOGxZcUNCRkRLUGd6N0Y3UENmb9IB9AFBVV95cUxNLWxtd1dNMHNPVk1hRWxkVG9lVVBuX1NOQzVDZmhGX3ZFZ0doMFoyQS14TElHa3RENmVKUFBYYnBrcTBvb0RScE9WdFBzbEpYcExVb21yRHJoOG9SQkxkRkpKOC1KQWwzc1gteXh1ajdJR045cUxuVWpmUTZxSnVHa2xHN0xhMWNCeVdTdkVzOFVESEMyd2kyNkhwRHNIaWVyV2dRQ2Q4OGNlMDhLUDJFRlVmNzZqSzFuenhicTF3RlFJOXVHbG0yeHRGQXFqOVpqQ09FM3pGV2dFNDZENGVMWjN4YmViS0h0TUJHN3RaYkRFVExi?oc=5",
-   "source": "CBS 17",
-   "platform": "news",
-   "published": "2026-07-16T07:00:00+00:00",
-   "summary": "2 charged with using stolen card to buy $12K worth of Pokémon cards at Cary collectibles store: Warrants CBS 17",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "cbs17.com",
-   "logo": "",
-   "score": 4,
-   "matched": [
-    "charged",
-    "pokemon",
-    "pokémon",
-    "stolen"
-   ],
-   "first_seen": "2026-07-27T16:03:36.285688+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Burglars steal $16,000 worth of Pokémon cards from San Bernardino County shop - KTLA",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xMW4zV19IYkhTTjUydU5sX1lmN1JqTE1uUnJycWU3ZlBMUWRPUnVOUVVTZUlUaThiYWc3dFd0QnpRc1NvbnhJb3hMZkROeURDUnd1X21DcXd6ejZMWnZVUW9YVkR3aVFpdl9KNlBBQWhGSGYzY1lCTXNyTjFhVnfSAYQBQVVfeXFMUG1wRUFkNmJLek1HWlNvcnZsNEJkTlFGS1lqTEdXdXozQi1QVjRnRW5mN2ctb3JySjJ2RkF4N0ZuLWN3akd0VVpmaHNCV0ZQenRvV3cxX3gyQ20zNFJVZ25WYW0yRl9GRHZXRE9zODEtbHB2dC1Jb0RUWkN2MVdTcEo5cHFs?oc=5",
-   "source": "KTLA",
-   "platform": "news",
-   "published": "2026-07-16T07:00:00+00:00",
-   "summary": "Burglars steal $16,000 worth of Pokémon cards from San Bernardino County shop KTLA",
-   "author": "",
-   "category": "einbruch",
-   "region": "ch",
-   "country": "",
-   "image": "",
-   "domain": "ktla.de",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "burglar",
-    "pokemon",
-    "pokémon"
-   ],
-   "first_seen": "2026-07-23T12:55:00.279117+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Pair bought Pokémon cards with stolen ID, tried to resell them, warrant says - WRAL",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLXdwQTNkak9TR1lZTi02cW5GNDRDbHFWbmdUTHVna05yRVZWX0ZJYjhzOEhJMnRCcXFrd241V0NuZXJYdDFkQmhNQVU5VVF2bWgxd3M2QVR3bTU5dDNPYko2MC1rUDIxaTVOYlhxTVhJX0pwRzZ2czZ6ODRURGkwb1NmVGQxYWE0NmNHQjJnQlRHOUk?oc=5",
-   "source": "WRAL",
-   "platform": "news",
-   "published": "2026-07-16T07:00:00+00:00",
-   "summary": "Pair bought Pokémon cards with stolen ID, tried to resell them, warrant says WRAL",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "wral.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "pokemon",
-    "pokémon",
-    "stolen"
-   ],
-   "first_seen": "2026-07-23T12:55:00.279157+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Pokémon card thief ordered to pay $500 after nearly $28K Eldersburg theft - Baltimore Sun",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbTVxTTVHc0FyV3laMXlyZ3h1QVNXQVAtdjJIZ1E2TG5wbS05Snh4Ri1jZHFnRGlES2lvaEtmR2d5S2lwUE1yWDdzb00xLUdWcXdzOTlZdzFrdlJMc0g1U20zZ1JIZy0zRjc2cnVZRW13R3ZTUkVJQUZhZlNtc1k3SFNac3hqY0xCTHc?oc=5",
-   "source": "Baltimore Sun",
-   "platform": "news",
-   "published": "2026-07-16T07:00:00+00:00",
-   "summary": "Pokémon card thief ordered to pay $500 after nearly $28K Eldersburg theft Baltimore Sun",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "baltimoresun.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "pokemon",
-    "pokémon",
-    "theft"
-   ],
-   "first_seen": "2026-07-23T12:55:00.279197+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Andrea Kiewel in der Kritik wegen Pokémon-Karte: ZDF reagiert auf Aussage im „Fernsehgarten“ - Berliner Zeitung",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUdZb0JsODZsTS1uMTF6ekZINkIyRVR2SmYzdUpXLU1PMXoyTjNLaXNwMWRXX3FjMGw4Qk9Fd1N3WTZjN1lvdkdpZXlPUkxaeHpIcWpYdmIzNnNEc09MaEFUakJreGhvdVJ2THZQWUlSWnQzWnZSckpjdXFYN3ltTU5yVXNwaTJPckVDdjFoWHBUb1o4OXNMNVpkYktINWM5M045b05CcS1xd3cxem1UcHllZ3Y?oc=5",
-   "source": "Berliner Zeitung",
-   "platform": "news",
-   "published": "2026-07-16T07:00:00+00:00",
-   "summary": "Andrea Kiewel in der Kritik wegen Pokémon-Karte: ZDF reagiert auf Aussage im „Fernsehgarten“ Berliner Zeitung",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "berlinerzeitung.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.039771+00:00",
-   "related": [
-    {
-     "title": "Ein Pokémon-Moment im ZDF-Fernsehgarten sorgt für Rassismus-Debatte - jpgames.de",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWXV5dkRtZmQ1WTBreFJURGsxZG04YXBCRElNOVlXcnBiMjVhdzdVeEM1TDlNdWdUQmJrVWVqUG9JTGdoblBZdFBpdXBxNnV6WnVObzctajd6NGJaMEFFUGZidHdaSExsS3o1c05JaVZnSVV1amJldXJaaklKM0Z5MVpzRTRtU3NWMEZkRl93TUVBbnJYel93?oc=5",
-     "source": "jpgames.de",
-     "published": "2026-07-16T07:00:00+00:00"
     }
    ],
    "report_count": 2
