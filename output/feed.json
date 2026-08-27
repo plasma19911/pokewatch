@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-27T08:02:58.005715+00:00",
+ "generated": "2026-08-27T10:02:25.327186+00:00",
  "builder": "2026-07-25g",
  "count": 150,
- "new": 1,
+ "new": 2,
  "items": [
   {
    "title": "Trailer zur Erweiterung „Team Rockets Pläne“ in Pokémon-Sammelkartenspiel-Pocket veröffentlicht - Bisafans.de",
@@ -218,7 +218,7 @@
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "yahoo.com",
+   "domain": "bbc.com",
    "logo": "",
    "score": 3,
    "matched": [
@@ -229,13 +229,19 @@
    "first_seen": "2026-08-20T12:03:16.209456+00:00",
    "related": [
     {
+     "title": "Arrest in connection with Pokemon cards raid - BBC",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8ycUswOVVzelJGWUUzaFphdzFuYUFiaVJEOEFVYmc1STBIS2xBNkM4TkphUlJhQVMxSUVJelFUNUVSUEFsQXlnWHZhVXZiSlZjenZjQW9WNmtVeGhm?oc=5",
+     "source": "BBC",
+     "published": "2026-08-19T11:39:42+00:00"
+    },
+    {
      "title": "Arrest in connection with Pokemon cards raid - Yahoo",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON05yZWxSZVNYWDZIckJPbk5CZUJnRVNjdFFxVjh2cHBPN2hCSjBDNHJNVDFBUDd0TEdzSnNMVnp3NWRkeTF2RVpNOUEzNTZVMVJ5bkQ0WDA4STdVa1FVV2VrWThieUZZSUE1cE5uMFlfNzFYUzJ1bVM3MjAwbFFnRC15Q0NwM1B0UnlnMnBlMzg?oc=5",
      "source": "Yahoo",
      "published": "2026-08-19T12:05:06+00:00"
     }
    ],
-   "report_count": 2
+   "report_count": 3
   },
   {
    "title": "$12,000 Pokémon card heist shows just how crazy the market has become - NewsBreak: Local News & Alerts",
@@ -407,12 +413,12 @@
    "report_count": 1
   },
   {
-   "title": "Pokémon TCG-Fan schenkte Tochter vor 12 Jahren Pikachu-Karte und die fand sie gruselig – jetzt hat er sie noch und sie ist über 3.000 Dollar wert - GamePro",
+   "title": "Pokémon TCG: Diese Pikachu-Karte sieht so gruselig aus, dass die Tochter eines Fans sie nicht wollte – 12 Jahre später ist sie richtig viel wert und er hat sie immer noch - GamePro",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUmdQTGVpcGtaalUyaV9ncF83WkVWdjBtb2xaakhFbjFDUnluR05pdERzQ1NqVzVRZmFlQW5QZ0NyOFE2aW10TElJaGstQld6eXp5N3I4TDZhS0s2OW44YWd2QUNKR2JXNlRYdkdxdFdYTlJCbG0wcm15VzlEYVdBV3V0VnBnYmFPcktVaWdfLXZLdUE?oc=5",
    "source": "GamePro",
    "platform": "news",
    "published": "2026-08-24T17:36:00+00:00",
-   "summary": "Pokémon TCG-Fan schenkte Tochter vor 12 Jahren Pikachu-Karte und die fand sie gruselig – jetzt hat er sie noch und sie ist über 3.000 Dollar wert GamePro",
+   "summary": "Pokémon TCG: Diese Pikachu-Karte sieht so gruselig aus, dass die Tochter eines Fans sie nicht wollte – 12 Jahre später ist sie richtig viel wert und er hat sie immer noch GamePro",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -424,9 +430,41 @@
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-08-24T18:03:52.617716+00:00",
+   "first_seen": "2026-08-27T10:02:25.316975+00:00",
    "related": [],
    "report_count": 1
+  },
+  {
+   "title": "£4,000 worth of Pokémon cards stolen in Gainsborough break-in - Rayo",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeXB5MlB1MHhfR1hSdEpaUmhqTXRqUHVQcmNzQzVlUGhhMHhJdUt5Zk1XVU1GeVk3a1pfNlV4MnJPMlpYZlpjclZ1Q2xuTEFNdjVYd3U3Umk3QkVBbnZHUXdYcE41cHB5c0NqUEdDUldCNjJLWXNNenhXWnczQmhwc3hORTRuWW9EbGhoRHVfbDZjaFQxT1ItUEJ0NjEzSTBNSl9oaFFaQXBWck8zQk9sNUxjWWxDME9BTXo2S24zVklpLUEzbnBxemlR?oc=5",
+   "source": "Rayo",
+   "platform": "news",
+   "published": "2026-08-24T17:35:50+00:00",
+   "summary": "£4,000 worth of Pokémon cards stolen in Gainsborough break-in Rayo",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "rayo.com",
+   "logo": "",
+   "score": 4,
+   "matched": [
+    "break-in",
+    "pokemon",
+    "pokémon",
+    "stolen"
+   ],
+   "first_seen": "2026-08-23T12:03:04.077551+00:00",
+   "related": [
+    {
+     "title": "Pokémon Collector Poses as Buyer to Recover $4,000 Worth of Stolen Cards in 'Vigilante' Sting Operation - IGN",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmxjLW5jZm1FT3ZWUzh2NXdEYkMwSThFRE1mSVBfRXNSREJUUkNXbm16ek56UG92U080bzAwemg5WjBvMlJ5M2VMMnFYdnhrWm5aaWlvaUd2WjZSaVd0WWM0U3puVUR3dm44bElDZzJ5dG95ZHVwY29RQS1UYWJHY3ZtNHYzYl9ZQnFGTXhSSU5LY0pXajA5bmRPOWZHWnVm?oc=5",
+     "source": "IGN",
+     "published": "2026-08-24T17:35:50+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Tolle digitale Belohnungen fürs Zuschauen der Weltmeisterschaften und PokémonXP - Pokemon.com",
@@ -825,6 +863,30 @@
     }
    ],
    "report_count": 6
+  },
+  {
+   "title": "Pokemon Scarlet & Violet: How to beat 5-star Blissey Tera Raid guide - Dexerto",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM19zZUxJVnliY2pNR2dkSll6RW91NDAzSDBsTWxwa3VDMzFpbEFUb1ZiVkllMWN3UVJtdVFBdksyeUZKMHBKRWd2TWlNTENjMU9KVHdiVWFYQlJyT3RSVGhkdzhEWC1ScHNtSk9MSF9sV01sdXV2SlJaYjdaOVpTUmVZcWltU3cwRTVhVVZlamM?oc=5",
+   "source": "Dexerto",
+   "platform": "news",
+   "published": "2026-08-22T07:00:00+00:00",
+   "summary": "Pokemon Scarlet & Violet: How to beat 5-star Blissey Tera Raid guide Dexerto",
+   "author": "",
+   "category": "behoerden",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "dexerto.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "raid"
+   ],
+   "first_seen": "2026-08-27T10:02:25.317459+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Die Erweiterung Mega-Entwicklung – Delta-Herrschaft des Pokémon-Sammelkartenspiels erscheint am 6. November 2026 - Pokemon.com",
@@ -1536,26 +1598,55 @@
    "report_count": 3
   },
   {
-   "title": "Pokémon in Fürstenwalde: Geschäft für Sammelkarten, TCG-Produkte und Zubehör eröffnet - MOZ.de",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRHhrOHJPbWFsM0JUNzZ4S1RkX254SE4zQTRCMS1ZcHJtTzNYWUpuaU1OM0hrNVhBN0l5R29zdXdKem1vTUlRbkJveXhJYnVFUVhyV0pzbHEwNjVqZkN5X0FsQkZoWUJvWlMtUUlYaTBEU0VZUU1MZ1FoY202X1EybjhrbDlfWVB2Q3R2ZGl4LWE1ejBKVzlGTXNjSWZrUHhGMkV0WHhTdGpsbmxsYUdwN2xlMmVSMGhQX3NQWG55ZlJKc0tLNmNBRHVpS2RxdEx1SmZmOXRhN21GSlE?oc=5",
-   "source": "MOZ.de",
+   "title": "Wunderwahl-Event mit Pachirisu und Tanhel in Pokémon-Sammelkartenspiel-Pocket gestartet - Bisafans.de",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZXdzWVctdVZuMjhJLWp3N0lITFRmNk9CcmtzbVNkRTZIT1dtVXk1MVc1ZDJ4bEJ5MUxvTDhieUw0S2psQXZfc3pQNmVMeVJocWZwVEY2ZXZaWXhGZnRtMDhKMjdMV1doUng5bzdybjUtbjNPY284RXRTMmVmcXFnSi1qSjNwX2xVaDZvZnRFMlczMzlPbkxNZjF2Zm1oMC1pV19RWUNNU25OWnMzd2hzdXFfOTIwR295SFFjaGpvcEthYS0tT0RFMW9wUlBBejc0M20zdHBIc9IB3AFBVV95cUxNZTNiUW1MTmlSNzd0NHpkbFRfemk4Y0lfcHhhZjhLOTg0S3pwZzhpNERHdWRiUGRWNHRXWUVtal9CX1MwZWhWSnJsaDhZaERoMUhtckFXaFBaaE9wdlQ0QnE5bXVYbU1nNXk5ZDBmQlRyMTkwNC0tekYza0ZrdDd4dTZFQ0s1OWtCMFAxaU9mMHUyY0JKdU5kTFNqaWFGd29scEV6RE9XVUtXT1Q2Yk1kQ19jdmh5NXFjWkdyMEtmX1Rrc2RMYlNHOEtOdWdYTHpka0JzOUJkaTE1YzlW?oc=5",
+   "source": "Bisafans.de",
    "platform": "news",
-   "published": "2026-08-15T07:00:00+00:00",
-   "summary": "Pokémon in Fürstenwalde: Geschäft für Sammelkarten, TCG-Produkte und Zubehör eröffnet MOZ.de",
+   "published": "2026-08-16T06:00:00+00:00",
+   "summary": "Wunderwahl-Event mit Pachirisu und Tanhel in Pokémon-Sammelkartenspiel-Pocket gestartet Bisafans.de",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "moz.de",
+   "domain": "bisafans.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-08-15T15:01:54.472092+00:00",
+   "first_seen": "2026-08-16T11:42:04.325408+00:00",
    "related": [],
    "report_count": 1
+  },
+  {
+   "title": "Wirf einen Blick auf alle Pokémon-Sammelkartenspiel-Produkte, die im August 2026 veröffentlicht werden - Pokemon.com",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX1pqMzRRVUZoSDMzVTZhb0MxczVNTEQ0TkxHYi1iYXRjeFU5SE5qbW1acXVuYlZvckJTNERyUHplOTh0WjlraFhodGhBTFI4eFNKRXdLWkJ4eWRCOUQwMUlySzVEVUduYXBxREVLbnNpNzZYSlN3bl81NkRkdWw2UURvdjlBN2RieXNKOFF2TTNIbUU4emUzSFVHMnRiNi1GMVFVeW10eEtIdUJmTHZPZmlzYm81LXVkX2VFQjRoQXNYZnVmU2hBdHF1S0V3T00?oc=5",
+   "source": "Pokemon.com",
+   "platform": "news",
+   "published": "2026-08-15T07:00:00+00:00",
+   "summary": "Wirf einen Blick auf alle Pokémon-Sammelkartenspiel-Produkte, die im August 2026 veröffentlicht werden Pokemon.com",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "pokemon.com",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-08-03T16:03:09.273452+00:00",
+   "related": [
+    {
+     "title": "Pokémon in Fürstenwalde: Geschäft für Sammelkarten, TCG-Produkte und Zubehör eröffnet - MOZ.de",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRHhrOHJPbWFsM0JUNzZ4S1RkX254SE4zQTRCMS1ZcHJtTzNYWUpuaU1OM0hrNVhBN0l5R29zdXdKem1vTUlRbkJveXhJYnVFUVhyV0pzbHEwNjVqZkN5X0FsQkZoWUJvWlMtUUlYaTBEU0VZUU1MZ1FoY202X1EybjhrbDlfWVB2Q3R2ZGl4LWE1ejBKVzlGTXNjSWZrUHhGMkV0WHhTdGpsbmxsYUdwN2xlMmVSMGhQX3NQWG55ZlJKc0tLNmNBRHVpS2RxdEx1SmZmOXRhN21GSlE?oc=5",
+     "source": "MOZ.de",
+     "published": "2026-08-15T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Pokémon TCG-Sammler findet seltenes Holo-Glurak - aber viele Fans lachen nur darüber, denn sie wurde zerschnitten, um in eine Yu-Gi-Oh!-Hülle zu passen - GamePro",
@@ -1675,54 +1766,25 @@
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "aol.com",
+   "domain": "fox6newsmilwaukee.com",
    "logo": "",
-   "score": 2,
+   "score": 8,
    "matched": [
+    "burglar",
+    "burglary",
     "card store",
     "stolen"
    ],
    "first_seen": "2026-08-12T20:43:30.150249+00:00",
    "related": [
     {
-     "title": "Over $300K worth of merchandise stolen from Wisconsin card store - AOL.com",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN3ZFSDFZclRYbERpSXIwLWJxdWNQY2c4aFB0UTFsM293MkY4T1k4N3oxRjZiQkM3Tzc5Ry05SmZrR25ucnl5aFBnRGZXenN6OHFUUnhyUmh1R0RMcHNycDRtYVd2eW9POWlJWTJ2MkdZNWFCdEcxMEwyek9xd1NvaDRnSEU?oc=5",
-     "source": "AOL.com",
-     "published": "2026-08-10T07:00:00+00:00"
-    },
-    {
-     "title": "Over $300K worth of merchandise stolen from Wisconsin card store - Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORlFVckpOdmZ3MkpQMWYxSFVVM2d4NHNPZzh1Qkk4eHFnb3lyZTJ5OW50OHk2UHkzRTVya0tFNjE3TzdzLTZDQXExWnRwLXU2X0VFSF9udS1lYUR5Uzc0VHlvUy1yNnhMSlBfdGk4LS1jWDZRQ1E0RmE2SEJYNVJYZ1ZMbVNPRy1rcXlfakh3?oc=5",
+     "title": "Twin Lakes card store burglary, Pokémon cards among $340K stolen - Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYzVnWWlJTnlRYXJodFY0b2tld2VvVHg4RGdlWlcySURWdVRLR0p6T3BIZk01aUNrSzd0SXRETmt3X3BGV1FNY2NtU2V4RnpXd2pNb2N4S0E4aC1GZGZieEZ6eWI5MjBoQU8xQTdHUUdpR28tMWFXb081T0RYRFI4THFVNzFINWNy?oc=5",
      "source": "Yahoo",
-     "published": "2026-08-10T07:00:00+00:00"
+     "published": "2026-08-11T07:00:00+00:00"
     }
    ],
-   "report_count": 3
-  },
-  {
-   "title": "£4,000 worth of Pokémon cards stolen in Gainsborough break-in - Rayo",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeXB5MlB1MHhfR1hSdEpaUmhqTXRqUHVQcmNzQzVlUGhhMHhJdUt5Zk1XVU1GeVk3a1pfNlV4MnJPMlpYZlpjclZ1Q2xuTEFNdjVYd3U3Umk3QkVBbnZHUXdYcE41cHB5c0NqUEdDUldCNjJLWXNNenhXWnczQmhwc3hORTRuWW9EbGhoRHVfbDZjaFQxT1ItUEJ0NjEzSTBNSl9oaFFaQXBWck8zQk9sNUxjWWxDME9BTXo2S24zVklpLUEzbnBxemlR?oc=5",
-   "source": "Rayo",
-   "platform": "news",
-   "published": "2026-08-11T07:00:00+00:00",
-   "summary": "£4,000 worth of Pokémon cards stolen in Gainsborough break-in Rayo",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "rayo.com",
-   "logo": "",
-   "score": 4,
-   "matched": [
-    "break-in",
-    "pokemon",
-    "pokémon",
-    "stolen"
-   ],
-   "first_seen": "2026-08-23T12:03:04.077551+00:00",
-   "related": [],
-   "report_count": 1
+   "report_count": 2
   },
   {
    "title": "Pokemon cards raid leaves shop owner 'heartbroken' - BBC",
@@ -1747,35 +1809,6 @@
    "first_seen": "2026-08-12T20:43:30.150499+00:00",
    "related": [],
    "report_count": 1
-  },
-  {
-   "title": "Pokémon TCG Pocket Tier-List: Das sind die besten Meta Decks - jetzt mit Herrscher der Lüfte/B4 (August 2026) - GamePro",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1o1TUJYR1FKTThkamI2bEdrRG5GeXlla1BQLXVVekRVTk5pSWh2WTZXZ0pqbFpGd202SW9nTmhxV1JNRWFpbkZhcWgzbmZhd0ZyYjZ4SWpWTDJyamF4eUwzdUxnbTN2d3VRbFlSaFNLZnc2bXBZMTFBM0VoRnduaEdVWGc?oc=5",
-   "source": "GamePro",
-   "platform": "news",
-   "published": "2026-08-11T07:00:00+00:00",
-   "summary": "Pokémon TCG Pocket Tier-List: Das sind die besten Meta Decks - jetzt mit Herrscher der Lüfte/B4 (August 2026) GamePro",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "pokemon.com",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-08-12T20:43:30.150583+00:00",
-   "related": [
-    {
-     "title": "Wirf einen Blick auf alle Pokémon-Sammelkartenspiel-Produkte, die im August 2026 veröffentlicht werden - Pokemon.com",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX1pqMzRRVUZoSDMzVTZhb0MxczVNTEQ0TkxHYi1iYXRjeFU5SE5qbW1acXVuYlZvckJTNERyUHplOTh0WjlraFhodGhBTFI4eFNKRXdLWkJ4eWRCOUQwMUlySzVEVUduYXBxREVLbnNpNzZYSlN3bl81NkRkdWw2UURvdjlBN2RieXNKOFF2TTNIbUU4emUzSFVHMnRiNi1GMVFVeW10eEtIdUJmTHZPZmlzYm81LXVkX2VFQjRoQXNYZnVmU2hBdHF1S0V3T00?oc=5",
-     "source": "Pokemon.com",
-     "published": "2026-08-03T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
   },
   {
    "title": "Die 5 teuersten Pokémon-Sammelkarten, die 2026 erscheinen werden. - Vietnam.vn",
@@ -1818,6 +1851,28 @@
     "news:de"
    ],
    "first_seen": "2026-08-13T00:03:14.494225+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Pokémon TCG Pocket Tier-List: Das sind die besten Meta Decks - jetzt mit Herrscher der Lüfte/B4 (August 2026) - GamePro",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1o1TUJYR1FKTThkamI2bEdrRG5GeXlla1BQLXVVekRVTk5pSWh2WTZXZ0pqbFpGd202SW9nTmhxV1JNRWFpbkZhcWgzbmZhd0ZyYjZ4SWpWTDJyamF4eUwzdUxnbTN2d3VRbFlSaFNLZnc2bXBZMTFBM0VoRnduaEdVWGc?oc=5",
+   "source": "GamePro",
+   "platform": "news",
+   "published": "2026-08-11T07:00:00+00:00",
+   "summary": "Pokémon TCG Pocket Tier-List: Das sind die besten Meta Decks - jetzt mit Herrscher der Lüfte/B4 (August 2026) GamePro",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "gamepro.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-08-12T20:43:30.150583+00:00",
    "related": [],
    "report_count": 1
   },
@@ -1926,6 +1981,36 @@
    "first_seen": "2026-08-12T22:03:38.604848+00:00",
    "related": [],
    "report_count": 1
+  },
+  {
+   "title": "Over $300K worth of merchandise stolen from Wisconsin card store - AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN3ZFSDFZclRYbERpSXIwLWJxdWNQY2c4aFB0UTFsM293MkY4T1k4N3oxRjZiQkM3Tzc5Ry05SmZrR25ucnl5aFBnRGZXenN6OHFUUnhyUmh1R0RMcHNycDRtYVd2eW9POWlJWTJ2MkdZNWFCdEcxMEwyek9xd1NvaDRnSEU?oc=5",
+   "source": "AOL.com",
+   "platform": "news",
+   "published": "2026-08-10T07:00:00+00:00",
+   "summary": "Over $300K worth of merchandise stolen from Wisconsin card store AOL.com",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "aol.com",
+   "logo": "",
+   "score": 2,
+   "matched": [
+    "card store",
+    "stolen"
+   ],
+   "first_seen": "2026-08-14T16:03:11.538942+00:00",
+   "related": [
+    {
+     "title": "Over $300K worth of merchandise stolen from Wisconsin card store - Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORlFVckpOdmZ3MkpQMWYxSFVVM2d4NHNPZzh1Qkk4eHFnb3lyZTJ5OW50OHk2UHkzRTVya0tFNjE3TzdzLTZDQXExWnRwLXU2X0VFSF9udS1lYUR5Uzc0VHlvUy1yNnhMSlBfdGk4LS1jWDZRQ1E0RmE2SEJYNVJYZ1ZMbVNPRy1rcXlfakh3?oc=5",
+     "source": "Yahoo",
+     "published": "2026-08-10T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "ThePokeHive trading card shop hit by smash-and-grab burglary; losses estimated at up to $65,000 - kens5.com",
@@ -2662,12 +2747,12 @@
    "report_count": 2
   },
   {
-   "title": "UPDATE: Edmond PD identifies burglary suspect in 300K trading cards theft - AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX1kxeEhENnBTU1gwRTBJczFPM0dnUGJRenRRWXNLWjc3Y2tHMGRLWkdCQWtOX0loQllBM3NwZ0lWaXhFMUhoNFh0a2xxaS04NWhJSTRwTDRLVkV6MFlwcERFTDJKM3o1c296Ukc4NEFJeUxaMnNUVWt3Ny1KM25XOA?oc=5",
-   "source": "AOL.com",
+   "title": "UPDATE: Edmond PD identifies burglary suspect in 300K trading cards theft - KFOR.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTh4M2EwaGxGZWVISWdoVjRBYkZ1enZEUHVyaUhkMVFyTWY0azVVVmRfREtBa19Td1Y3bVBvclZSb1VSUDY2d085SHl1M1l4QVA5RWRlZ3BrVlR6dWFucDYxdS1DYmI2VEw1RDlQMHNpYjhra0RSQ0dQQVpYNmRSc0Z4V29UQ3ViLU5UM05PNW9lXzZZU3cwbWJoUWZZTkRJ0gGmAUFVX3lxTE1KOE5pR2RVeUc1dV9DRDdjZ3M1R0VTY1hyWG1iOWRoSTFUbWlhVzNTbjhOOGNhNkJ5Q3BNbUZSSERKdHBpa212SzBjd09IdXkzckh5RWJZVHRSMXdCUzJ3TGdJMWNqTFZWcXdZaVBib3dtdmVVT2d0ZHh1WlEwUVJsRkxGbXY1TWxCbEZ5dTRpNGFtNVpwZlJDblVuT3RDUGhXN2xKQWc?oc=5",
+   "source": "KFOR.com",
    "platform": "news",
    "published": "2026-08-01T07:00:00+00:00",
-   "summary": "UPDATE: Edmond PD identifies burglary suspect in 300K trading cards theft AOL.com",
+   "summary": "UPDATE: Edmond PD identifies burglary suspect in 300K trading cards theft KFOR.com",
    "author": "",
    "category": "einbruch",
    "region": "int",
@@ -2682,13 +2767,13 @@
     "theft",
     "trading card"
    ],
-   "first_seen": "2026-08-25T03:18:22.591158+00:00",
+   "first_seen": "2026-07-30T00:16:21.890557+00:00",
    "related": [
     {
-     "title": "UPDATE: Edmond PD identifies burglary suspect in 300K trading cards theft - KFOR",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTh4M2EwaGxGZWVISWdoVjRBYkZ1enZEUHVyaUhkMVFyTWY0azVVVmRfREtBa19Td1Y3bVBvclZSb1VSUDY2d085SHl1M1l4QVA5RWRlZ3BrVlR6dWFucDYxdS1DYmI2VEw1RDlQMHNpYjhra0RSQ0dQQVpYNmRSc0Z4V29UQ3ViLU5UM05PNW9lXzZZU3cwbWJoUWZZTkRJ0gGmAUFVX3lxTE1KOE5pR2RVeUc1dV9DRDdjZ3M1R0VTY1hyWG1iOWRoSTFUbWlhVzNTbjhOOGNhNkJ5Q3BNbUZSSERKdHBpa212SzBjd09IdXkzckh5RWJZVHRSMXdCUzJ3TGdJMWNqTFZWcXdZaVBib3dtdmVVT2d0ZHh1WlEwUVJsRkxGbXY1TWxCbEZ5dTRpNGFtNVpwZlJDblVuT3RDUGhXN2xKQWc?oc=5",
-     "source": "KFOR",
-     "published": "2026-07-28T07:00:00+00:00"
+     "title": "UPDATE: Edmond PD identifies burglary suspect in 300K trading cards theft - AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX1kxeEhENnBTU1gwRTBJczFPM0dnUGJRenRRWXNLWjc3Y2tHMGRLWkdCQWtOX0loQllBM3NwZ0lWaXhFMUhoNFh0a2xxaS04NWhJSTRwTDRLVkV6MFlwcERFTDJKM3o1c296Ukc4NEFJeUxaMnNUVWt3Ny1KM25XOA?oc=5",
+     "source": "AOL.com",
+     "published": "2026-07-29T07:00:00+00:00"
     },
     {
      "title": "Verkauf gestartet! LEGO Neuheiten im August 2026: Akte X und Pokémon Smart Play mit exklusivem GWP und viele weitere Sets (Update) - StoneWars",
@@ -3150,25 +3235,31 @@
    "title": "Forest Lake gaming store hit by burglars again, losing up to $50K in Pokémon cards - kare11.com",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONFNzUU1jOXRNMjlEek1DdS1YSzZwNG80bXlzanJvd0F0WE5rRTdkbGtTb3Vod1ZRR2hMV3V6REhocFZJaWxmMU9SUG1MYXpDbjNmTDUtaS1rd0tyUk4yeHJWbzJkaHlKc284TUxYNDQ3TUoxUVROVG9mZ09YWXV1bi1nZXBaUlQtakRNZWdRMmZnWVZXbXdYcWZ1dE81bl8yLWMyMEsxdVgxeXVkbmtMWUlna05RRVQtelppOWFJbko4WW1RNkNod1VzbFl5NllncDAwNDN5bFh4aF80akhTX0Fzd1dBMVVnNENKMjd2eFNwWGlr?oc=5",
    "source": "kare11.com",
-   "platform": "news",
+   "platform": "bluesky",
    "published": "2026-07-27T07:00:00+00:00",
    "summary": "Forest Lake gaming store hit by burglars again, losing up to $50K in Pokémon cards kare11.com",
-   "author": "",
+   "author": "FOX 9",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "kare11.com",
+   "domain": "fox9mnbskysocial.com",
    "logo": "",
-   "score": 3,
+   "score": 2,
    "matched": [
-    "burglar",
-    "pokemon",
-    "pokémon"
+    "break-in",
+    "game store"
    ],
    "first_seen": "2026-08-16T15:07:24.571037+00:00",
-   "related": [],
-   "report_count": 1
+   "related": [
+    {
+     "title": "A Forest Lake card and video game store is picking up the pieces after an early morning break-in left a boarded-up window and big questions about security.",
+     "url": "https://bsky.app/profile/fox9mn.bsky.social/post/3mrkclndvo32g",
+     "source": "@fox9mn.bsky.social",
+     "published": "2026-07-26T11:45:08+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Die Erweiterung Mega-Entwicklung – Dunkelnacht des Pokémon-Sammelkartenspiels ist jetzt erhältlich - Pokemon.com",
@@ -3877,28 +3968,6 @@
    "report_count": 1
   },
   {
-   "title": "Erste Händler mit über 100 % Aufschlag: Pokémon-Dunkelnacht-Sammelkarten ab 15,99 Euro zur UVP - PCGH",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdkU3Y3dWeXB0U1VVeURkQ2V2SHJLcmZYMmV5ZklWUERNVUZtdnVtcDJMVTZMeUZTbF82WWJKcFNfaGUtaEdYZ0tGdkZtRWRZZ25YQ0EtRWJ4NDBNMkF3NzJRLVFKVnM4dFVtLXljVmI4ZzFpOHlVTVhqWnlBZzZQTzhzV2xYTmxaTWNGRjlJQXpHY0ZxcjdHWDFVdzBNT2pEUWsyUG02VmpYUk1aNWkyS3RhMm9IRHBSQkdVc1RIRWNPYTBuQWI5UWhlWGdveS04bHdOVW1HdGNDWEE?oc=5",
-   "source": "PCGH",
-   "platform": "news",
-   "published": "2026-07-17T07:00:00+00:00",
-   "summary": "Erste Händler mit über 100 % Aufschlag: Pokémon-Dunkelnacht-Sammelkarten ab 15,99 Euro zur UVP PCGH",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "pcgh.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.039098+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Pokémon statt Krypto: Dieser Trend bricht alle Rekorde - BTC-ECHO",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVlA3U05rUklsandRZXVuejI0TXd0eVVaU0NWUG16ZGg2Z2Z4cVdla1NUNzdueFFQR25QVklEMUd3VGRrUm5teEc1M0JXYzlBX2JIem5SN0NhWTh0MFZtQXVjRTV5cE42bHp0WHdwR1JIUW5kWFhWTXp4SUJIUm40THBJWQ?oc=5",
    "source": "BTC-ECHO",
@@ -3917,50 +3986,6 @@
     "news:de"
    ],
    "first_seen": "2026-07-25T15:38:59.039280+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Pokémon-Karten: Dunkelnacht ab sofort bei Amazon sichern - giga.de",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGctRGxXb1Z1MTFBM1EycGNwQkE0VGpCOGU1Q054RUljd1JvQ1RuX0VVT1p2eTVPbHl4bkpfMWg3VEhLWTJpQklYSGtwd3ZCbFNHZmprZVUyNF9PRmptcXdKNTg3QWw4NWZVa0Z3SUx0c1NnZ1ZxekxDNXJIWlVuQUkzNGlLN3hpZlFMWWhfTHlPUnhaTFBfank1NVZCOEdxdkNpRDRiVjAwbjJLZ1E?oc=5",
-   "source": "giga.de",
-   "platform": "news",
-   "published": "2026-07-17T07:00:00+00:00",
-   "summary": "Pokémon-Karten: Dunkelnacht ab sofort bei Amazon sichern giga.de",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "giga.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T22:04:31.980290+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Neues Pokémon-Set \"Dunkelnacht\" fast überall vergriffen - Heute",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmRqVXY5MXplVXpJcGtrc2R6ZTRBOVRRd0VNVmxLWWZfY25ZdmEtMUtzUWhlX0duYnhmcEZ5Sll4ZWhpdXZOUmVibnVpbzk3UW5TSmZZbmxTMVhLcm5PamlCQ1BlYk53UGdta3l0RGVTekx1Y3BYMGNCRmJELUw2U3BDZzIwMU1JejNjSTZfaU8?oc=5",
-   "source": "Heute",
-   "platform": "news",
-   "published": "2026-07-17T07:00:00+00:00",
-   "summary": "Neues Pokémon-Set \"Dunkelnacht\" fast überall vergriffen Heute",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "heute.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.039140+00:00",
    "related": [],
    "report_count": 1
   }
