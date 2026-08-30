@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T22:03:00.265509+00:00",
+ "generated": "2026-08-30T22:51:40.132719+00:00",
  "builder": "2026-07-25g",
  "count": 150,
  "new": 0,
@@ -9,7 +9,7 @@
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVZwcWtUM3pEYUdnQ2xJaW41UFkxT1RuSEhDaVhsSk52MzU2X2E3NEhObzNWR0x6bmd2RVlWYUp4empFSTZIYlFWN281QjBfVm1oeFZNeHhxanNrVmd2cWpTVGFrVTlzeERYWXFvUmhjb09oalFNMTBtN0N3SW1Kamc1S0czQ3ZKOGhrdE5XemRXSkVQV1J4TVRHVjYwS1pVY0tuWU5XU1hkN242Q1dMWEtXeWJ6amJkV3dsQkJKbw?oc=5",
    "source": "Dexerto",
    "platform": "news",
-   "published": "2026-08-30T20:07:36+00:00",
+   "published": "2026-08-30T22:16:20+00:00",
    "summary": "Pokemon fans rally around child after alleged scam costs him his most prized card Dexerto",
    "author": "",
    "category": "betrug",
@@ -25,6 +25,29 @@
     "scam"
    ],
    "first_seen": "2026-08-30T17:02:07.025049+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "If you don't want in on my heist plan to break into Ron's Card Shop to steal the mythical Mewtwo card, you could've just said no",
+   "url": "https://bsky.app/profile/mrnos.bsky.social/post/3mucmg7hbbc2m",
+   "source": "@mrnos.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-08-30T14:35:20.352000+00:00",
+   "summary": "If you don't want in on my heist plan to break into Ron's Card Shop to steal the mythical Mewtwo card, you could've just said no",
+   "author": "Andrew (Ol' 9 Toes)",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "mrnosbskysocial.com",
+   "logo": "",
+   "score": 2,
+   "matched": [
+    "card shop",
+    "heist"
+   ],
+   "first_seen": "2026-08-30T19:24:18.645068+00:00",
    "related": [],
    "report_count": 1
   },
@@ -155,6 +178,28 @@
     "polizei"
    ],
    "first_seen": "2026-08-30T12:02:56.508063+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Während alle auf die Gamescom schauen, könnte Pokémon für eine Überraschung sorgen - jpgames.de",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM1FXWU9lcEhUZUNBdTM1SEN6cW0tSi1kelpvazJaRlNoME9FdjlsX0dnektYMVg4eU12YzNTd2U3TmVIT3BneDJqSDdaWS1FWF9UTDM1a2hBTWhYQ1lUaG5tMHpZamJ3ME5jbVZSelZBNU5vcC1McjZ1NS1pZUNaQnBxbDRseGNiYnFwTXRQSm41aTE3UFJtOExyOW5ES1FKTmFUNS1NUDFEU2hURUx2RXpUNA?oc=5",
+   "source": "jpgames.de",
+   "platform": "news",
+   "published": "2026-08-29T07:10:46+00:00",
+   "summary": "Während alle auf die Gamescom schauen, könnte Pokémon für eine Überraschung sorgen jpgames.de",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "jpgames.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-08-29T16:03:58.154818+00:00",
    "related": [],
    "report_count": 1
   },
@@ -2329,28 +2374,6 @@
    "report_count": 1
   },
   {
-   "title": "Aus Tausenden Pokémon-Karten wählt ein Sechsjähriger genau die Karte, die seinen verstorbenen Opa mit seinem Vater verband - GamePro",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcE1xbUlhdWR1YW5icWVaa0NIZW0xaXJjUzJoZHVIYjNPMi1fSm44N2NEZk1NOWJDV0VWRk9OZ1JTMERJejRKdzlxTmtHZEh3NkxwVDZsMHRLOTJMektOZW80U1lraEtvTzZYRzduQU1LUjJsUHZHYmlQSlNZUlZDbnR1TGJhTDBFd1JGUQ?oc=5",
-   "source": "GamePro",
-   "platform": "news",
-   "published": "2026-08-07T07:00:00+00:00",
-   "summary": "Aus Tausenden Pokémon-Karten wählt ein Sechsjähriger genau die Karte, die seinen verstorbenen Opa mit seinem Vater verband GamePro",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "gamepro.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-08-12T20:43:30.151163+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Pokémon TCG Pocket: Ein starker Rückgang der Nutzerzahlen - Instant Gaming News",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHRXYTFZb1QwbzNJSkdCU1pYWVVDZVpBWlJhLXJfSjNQeUhMZ3EtUHFIR0RhS1BlZXdfN0ZxOHE5YlJ6eEpzaEtsaXVvWDhBbkZLbkVnaFR6UVJqeEEwdVpuYU5DZEVERm1jdUx3UmRCUGotaWVZcHRIN1JQWU9xSjVGLXE3b3hVMC1CZlJfR1NvN01pLVlyUUlrSU5ubi1nLUlFTEhsU0Y?oc=5",
    "source": "Instant Gaming News",
@@ -3240,7 +3263,7 @@
    "related": [
     {
      "title": "Japanese Card Shop Offers RM25,000 Reward For Catching Burglar Alive - says.com",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5heThVSXFPY2ZVdFpTWVBISlAwMFFKZmQtWlVTVGdlaUZVZVlwTVhHU3FMUUhuSFhKS2UyOHhaMWd3ZEpZRWN1M09GNFlqWHp1a21LT3dVQlpIaU5uSUV4WDBWdHJKbmhuMzUtM1I4cThmQ1EwM0E?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jOTZadHF1Y0JpcmNNbEhnOU9XenZPRHAxN3VfZ3JZeTYzSWZNcWxOM0x4VGJVYm1XLVBldEZIdmRPNGNrUC0xa2t6VVVqNG1QNDJBRTBDZ1EyUEhxaXhoWFNRMjZkc2ZxVV9SOGhkazE5T0lNZHpjaFplc0FSdw?oc=5",
      "source": "says.com",
      "published": "2026-07-29T07:00:00+00:00"
     }
@@ -3432,6 +3455,12 @@
    "first_seen": "2026-07-26T14:04:31.863099+00:00",
    "related": [
     {
+     "title": "A Forest Lake card and video game store is picking up the pieces after an early morning break-in left a boarded-up window and big questions about security.",
+     "url": "https://bsky.app/profile/fox9mn.bsky.social/post/3mrkclndvo32g",
+     "source": "@fox9mn.bsky.social",
+     "published": "2026-07-26T11:45:08+00:00"
+    },
+    {
      "title": "Forest Lake gaming store hit by burglars again, losing up to $50K in Pokémon cards - kare11.com",
      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONFNzUU1jOXRNMjlEek1DdS1YSzZwNG80bXlzanJvd0F0WE5rRTdkbGtTb3Vod1ZRR2hMV3V6REhocFZJaWxmMU9SUG1MYXpDbjNmTDUtaS1rd0tyUk4yeHJWbzJkaHlKc284TUxYNDQ3TUoxUVROVG9mZ09YWXV1bi1nZXBaUlQtakRNZWdRMmZnWVZXbXdYcWZ1dE81bl8yLWMyMEsxdVgxeXVkbmtMWUlna05RRVQtelppOWFJbko4WW1RNkNod1VzbFl5NllncDAwNDN5bFh4aF80akhTX0Fzd1dBMVVnNENKMjd2eFNwWGlr?oc=5",
      "source": "kare11.com",
@@ -3444,7 +3473,7 @@
      "published": "2026-07-27T07:00:00+00:00"
     }
    ],
-   "report_count": 3
+   "report_count": 4
   },
   {
    "title": "Pokémon TCG-Fan stellt fest, dass eine Freundin eine wertvolle Karte einfach als Lesezeichen nutzt – ohne Sleeve - GamePro",
@@ -3973,28 +4002,6 @@
     "news:de"
    ],
    "first_seen": "2026-07-25T15:38:59.038410+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Pokémon TCG-Fan findet 5000 Dollar-Kindheitssammlung wieder und Community sagt: \"Bruder, pack sie in Sleeves\" - GamePro",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbXVLOWd3dVZ6N2RuTVNjZ1lXVjg3OXN1dnBad3BtX0MwSUM2Wk5nUEk2NDAwNVgzekRubkRJS3dicktWTWlZSi1KVFJmRVZzV3FyRFp3WDAwTDlPcnFJYzQzYVJQYlVySXRfZUxTWm9Fb3ozNXdUTWZiVlpIMzVGNTl5SERiWENXcUlyUG8yQzRvQkFybkE?oc=5",
-   "source": "GamePro",
-   "platform": "news",
-   "published": "2026-07-22T07:00:00+00:00",
-   "summary": "Pokémon TCG-Fan findet 5000 Dollar-Kindheitssammlung wieder und Community sagt: \"Bruder, pack sie in Sleeves\" GamePro",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "gamepro.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-07-25T15:38:59.038228+00:00",
    "related": [],
    "report_count": 1
   }
