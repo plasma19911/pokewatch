@@ -1,16 +1,41 @@
 {
- "generated": "2026-09-23T10:02:56.371480+00:00",
+ "generated": "2026-09-23T12:03:07.404373+00:00",
  "builder": "2026-07-25g",
- "count": 129,
- "new": 0,
+ "count": 131,
+ "new": 3,
  "items": [
   {
-   "title": "‘Absolutely infuriating’: $70K worth of Pokémon cards stolen from Canadian store owner - ctvnews.ca",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQWFLRHNpTVJMY1YyRG5Ua09qMGVGank1ZWQ2WG91ZDRzZnUxa0dSbzVOMURWa0F0MHNiWXh4U1ZJRENwMVBNMmNnaDBHVFJKU1F3blFnZmhFOVp0Ul9KcXBjUm5MTUMxQlhiMVAzLUhzcHJVNFE1S0dCOW1kbzZiRlBEQi1Wb1lFWEZvWFRyLXZ1aFhKVnBlZ2duNkIxYlZXdGJweGVkRmxLNHdISzZPVzU0bDFaVWxvdjRpUFR2Y2V5akJnSUE?oc=5",
-   "source": "ctvnews.ca",
+   "title": "POL-OF: Falsche Handwerker: Trickdiebe erbeuteten Goldschmuck; Zeugensuche nach Einbruch in Mehrfamilienhaus; Wagen der Post beim Vorbeifahren beschädigt: Wer hat den Unfall beobachtet? und mehr",
+   "url": "https://www.presseportal.de/blaulicht/pm/43561/6357655",
+   "source": "Presseportal.de - Hessen",
+   "platform": "rss",
+   "published": "2026-09-23T12:38:51+02:00",
+   "summary": "Stadt und Kreis Offenbach (ots) - 1. Falsche Handwerker: Trickdiebe erbeuteten Goldschmuck - Offenbach (cb) Im Stadtteil Bieber ist eine Seniorin jüngst zum Opfer dreister Trickdiebe geworden. Ein bislang unbekanntes Pärchen verschaffte sich am ...",
+   "author": "",
+   "category": "einbruch",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "presseportalde-hessen.de",
+   "logo": "",
+   "score": 11,
+   "matched": [
+    "beute",
+    "einbruch",
+    "erbeut",
+    "muster:versand"
+   ],
+   "first_seen": "2026-09-23T12:03:07.392370+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "‘Absolutely infuriating’: $70K worth of Pokémon cards stolen from Canadian store owner - CTV News",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWXJFTEVaZElvM1JqN3pLcG1IVTNtSjlZM2R4ZXQwTFltaUFkNXY4VkhDTG9uUkhnWlV1V1NoZmtfYktpdUVRVlY0eWh3bDhaQS1BZGJIbGJvT2tSNFRwelc2SVZiQW5QdjNjN1FVYlRLdjFYcm1ic3lkSGVnWnlxU0hZR1FrZ2dPbUw3eUJmaEtnYzIzWGFjc3lQLXpBUFJ6TzZpbVljbzZzWmMyaGdsSmg4dWFVVWQ0cFpGVXRMeXc1Z05IVmpJX3NWaVZvamUtaVBpOHBB?oc=5",
+   "source": "CTV News",
    "platform": "news",
    "published": "2026-09-23T00:11:00+00:00",
-   "summary": "‘Absolutely infuriating’: $70K worth of Pokémon cards stolen from Canadian store owner ctvnews.ca",
+   "summary": "‘Absolutely infuriating’: $70K worth of Pokémon cards stolen from Canadian store owner CTV News",
    "author": "",
    "category": "einbruch",
    "region": "int",
@@ -24,13 +49,13 @@
     "pokémon",
     "stolen"
    ],
-   "first_seen": "2026-09-23T01:01:06.267905+00:00",
+   "first_seen": "2026-09-23T04:03:26.390343+00:00",
    "related": [
     {
-     "title": "‘Absolutely infuriating’: $70K worth of Pokémon cards stolen from Canadian store owner - CTV News",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWXJFTEVaZElvM1JqN3pLcG1IVTNtSjlZM2R4ZXQwTFltaUFkNXY4VkhDTG9uUkhnWlV1V1NoZmtfYktpdUVRVlY0eWh3bDhaQS1BZGJIbGJvT2tSNFRwelc2SVZiQW5QdjNjN1FVYlRLdjFYcm1ic3lkSGVnWnlxU0hZR1FrZ2dPbUw3eUJmaEtnYzIzWGFjc3lQLXpBUFJ6TzZpbVljbzZzWmMyaGdsSmg4dWFVVWQ0cFpGVXRMeXc1Z05IVmpJX3NWaVZvamUtaVBpOHBB?oc=5",
-     "source": "CTV News",
-     "published": "2026-09-22T22:29:46+00:00"
+     "title": "‘Absolutely infuriating’: $70K worth of Pokémon cards stolen from Canadian store owner - CP24",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN2ZtQm4xS3VzMEt5WEtTOXFEVlNVQWZKMW0xY3djdmxPalZ0c2hNUlp2TkJZZVdqQ2ZXQk15cFBzYnlIcmhNcHRidlZ5WVpuWmxLbjZLWEtOdTFDSHg3ei1Vb0tXNXV5UVZSXzlaa1ZRYVpNQU96VVpldTBvMXBGelpaTE5tWTlpNFk1enRrSHNmMWxQN0l3TzZiZUgtclg0SXpLNXhjZERINUY3TVJQdThHeldqVXYzYXJFNy1tY3VXQ3NDWEp3U2lwMkV4QQ?oc=5",
+     "source": "CP24",
+     "published": "2026-09-23T00:11:00+00:00"
     }
    ],
    "report_count": 2
@@ -122,18 +147,18 @@
    "report_count": 1
   },
   {
-   "title": "A Pokémon card worth €3,440 was stolen in Bratislava. It is not the only case - spectator.sme.sk",
+   "title": "A Pokémon card worth €3,440 was stolen in Bratislava. It is not the only case - The Slovak Spectator",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeS1VWThISk5kaDRQbUlPdmdONUFIX08yUF9iakVfd3lXUmRTUkV6eWU2Q0MxMV9yckx5eHZGSFRuXy1sT2h3c1B3QUNBRzhSckpxMEgtcEd3elAxcFViUXdvZXp5Zi1XcTJ0Nkw0MGlGOVZ0Tk0zeXgzTk80N1RjYzZiX0RsUnhuT1lodm9Ya3ZBVzJlbjVwOUpwYzAwaExpdFNFOGthbU5WbHpqd09OaGNPN2VCNDVncVo1Y20tT2c?oc=5",
-   "source": "spectator.sme.sk",
+   "source": "The Slovak Spectator",
    "platform": "news",
    "published": "2026-09-22T15:35:00+00:00",
-   "summary": "A Pokémon card worth €3,440 was stolen in Bratislava. It is not the only case spectator.sme.sk",
+   "summary": "A Pokémon card worth €3,440 was stolen in Bratislava. It is not the only case The Slovak Spectator",
    "author": "",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "spectator.sme.sk",
+   "domain": "theslovakspectator.com",
    "logo": "",
    "score": 3,
    "matched": [
@@ -141,7 +166,7 @@
     "pokémon",
     "stolen"
    ],
-   "first_seen": "2026-09-22T21:31:31.210178+00:00",
+   "first_seen": "2026-09-22T16:03:21.469715+00:00",
    "related": [],
    "report_count": 1
   },
@@ -181,24 +206,24 @@
    "report_count": 3
   },
   {
-   "title": "Pokémon-Karten statt Geld: So ließ Kokainhändler Drogenschulden begleichen - discover.swns.com",
+   "title": "Pokémon-Karten statt Geld: So ließ Kokainhändler Drogenschulden begleichen - Discover SWNS",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORjZkNnlGTy1xaUpfb205ZG5jQ1VNNlRiVXRMMFBYSlk3SW9sZVdQMGZ6RzNYN2lDX0FaYkJnVm8zRFF5aWJFWkNVTHF6ZHhGWm9vbXpWaTR6YnhLZ2Z2SUdJQ1FDNWhlSHNwOGI2VWY5REJyeXl3aGpYbnFoQ1Zpd19MVmhkTG9CaTdJQUZqaXU4Wld0UE9DaXE2TWZBeUJPdm0td0R3cWN1LUpXamJfcld6WQ?oc=5",
-   "source": "discover.swns.com",
+   "source": "Discover SWNS",
    "platform": "news",
    "published": "2026-09-22T12:39:40+00:00",
-   "summary": "Pokémon-Karten statt Geld: So ließ Kokainhändler Drogenschulden begleichen discover.swns.com",
+   "summary": "Pokémon-Karten statt Geld: So ließ Kokainhändler Drogenschulden begleichen Discover SWNS",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "discover.swns.com",
+   "domain": "discoverswns.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-09-22T21:31:31.210279+00:00",
+   "first_seen": "2026-09-22T16:03:21.469844+00:00",
    "related": [],
    "report_count": 1
   },
@@ -313,12 +338,12 @@
    "report_count": 1
   },
   {
-   "title": "„Das ist besser als Weihnachten“: Diese Karten machen Pokémon-Spieler besonders glücklich - Freie Presse",
+   "title": "„Das ist besser als Weihnachten“: Diese Karten machen Pokémon-Spieler besonders glücklich - freiepresse.de",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU3cxX0RMaDh0TG1lV1BsdzZIWm1RcEJJVzJjQnNBX1ZhLVhUSFVHUUtpdUNTeUE2NUVtQlA5NlllYW52b0lYeFZYNHd1MnhjaGl3Um9oYlNlU1liSjBOeVFNcmE2YTFEU2t6RGRDb3EtYXNmRS1xZnpMOFRhczRQaTA0cEJpOENtS1l4VENoN0NpSTFhU21HaHFrRVVBM2swTU9zMkhLOHNvZGJ5emtFUzV1UGtWczByZUJ3Q3R3V3dveG1rbk1WZFMwMXJfR2ZLdmRHMUk1MXQzNGFiMHdJb2pR?oc=5",
-   "source": "Freie Presse",
+   "source": "freiepresse.de",
    "platform": "news",
    "published": "2026-09-21T09:53:00+00:00",
-   "summary": "„Das ist besser als Weihnachten“: Diese Karten machen Pokémon-Spieler besonders glücklich Freie Presse",
+   "summary": "„Das ist besser als Weihnachten“: Diese Karten machen Pokémon-Spieler besonders glücklich freiepresse.de",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -330,7 +355,7 @@
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-09-21T04:03:44.174456+00:00",
+   "first_seen": "2026-09-22T02:03:19.796237+00:00",
    "related": [
     {
      "title": "Deutschlands bester Pokémon-Spieler wagt bei der WM, was sich fast keiner traut - ingame.de",
@@ -373,12 +398,12 @@
    "report_count": 2
   },
   {
-   "title": "Police seek man after Pokemon cards stolen from home porch - oakvillenews.org",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMkpEZ3ZvZXhiZDRGRjNzUHZMekFnNkdKclh0Z2p0VEYtMEhINWVxT3pYSnZXSVVoWTEwYXBobzFhTmsybHNlREFoc282Y040Z0tjMFU5OW1ndnZKcnVOS1NfZ1cwYnk1X2s4SU1uN1AwTzVVNkJETFRFWWxMUHpmbEVYMnFxZV9BcHJBZXFNREZ5SDRVQlhDUGs4aVh1b1p4cWtvel95UTVaX0k?oc=5",
-   "source": "oakvillenews.org",
+   "title": "Police seek man after Pokemon cards stolen from Milton porch - MiltonToday.ca",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQakNhUXQ3bnNhUjA3eHJ6MkhmaHE0cVdDTE1IVklnU3NtRWdGekdfNWViVjJBRGZGTV9xdW53akRFYmJjYk5ZZlZNQVB4cVIydUN6YzlkRXRudGU5aENRd2lSc3c5eU5PUW9FbGdBSllxOExPNmJ6enBLSXlfd0x6aU9aUkpWLWtPMmI2SERkZU80UGhmRXZldHlnNnhFNTZBN3QwT1o2Z21tSng1?oc=5",
+   "source": "MiltonToday.ca",
    "platform": "news",
    "published": "2026-09-20T13:30:00+00:00",
-   "summary": "Police seek man after Pokemon cards stolen from home porch oakvillenews.org",
+   "summary": "Police seek man after Pokemon cards stolen from Milton porch MiltonToday.ca",
    "author": "",
    "category": "einbruch",
    "region": "int",
@@ -392,13 +417,13 @@
     "pokémon",
     "stolen"
    ],
-   "first_seen": "2026-09-21T18:03:02.116166+00:00",
+   "first_seen": "2026-09-19T17:21:54.557307+00:00",
    "related": [
     {
-     "title": "Police seek man after Pokemon cards stolen from Milton porch - MiltonToday.ca",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQakNhUXQ3bnNhUjA3eHJ6MkhmaHE0cVdDTE1IVklnU3NtRWdGekdfNWViVjJBRGZGTV9xdW53akRFYmJjYk5ZZlZNQVB4cVIydUN6YzlkRXRudGU5aENRd2lSc3c5eU5PUW9FbGdBSllxOExPNmJ6enBLSXlfd0x6aU9aUkpWLWtPMmI2SERkZU80UGhmRXZldHlnNnhFNTZBN3QwT1o2Z21tSng1?oc=5",
-     "source": "MiltonToday.ca",
-     "published": "2026-09-19T16:05:00+00:00"
+     "title": "Police seek man after Pokemon cards stolen from home porch - Oakville News",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMkpEZ3ZvZXhiZDRGRjNzUHZMekFnNkdKclh0Z2p0VEYtMEhINWVxT3pYSnZXSVVoWTEwYXBobzFhTmsybHNlREFoc282Y040Z0tjMFU5OW1ndnZKcnVOS1NfZ1cwYnk1X2s4SU1uN1AwTzVVNkJETFRFWWxMUHpmbEVYMnFxZV9BcHJBZXFNREZ5SDRVQlhDUGs4aVh1b1p4cWtvel95UTVaX0k?oc=5",
+     "source": "Oakville News",
+     "published": "2026-09-20T13:30:00+00:00"
     }
    ],
    "report_count": 2
@@ -459,12 +484,12 @@
    "report_count": 2
   },
   {
-   "title": "Pokémon-Hype in Chemnitz: Viele warten stundenlang umsonst auf Karten-Set zum Jubiläum - Freie Presse",
+   "title": "Pokémon-Hype in Chemnitz: Viele warten stundenlang umsonst auf Karten-Set zum Jubiläum - freiepresse.de",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbV9lUkR1WHQ2Nk9qbWdBR3l3QUctNVVyX0tCZjlMaEZOZlBQX3l5QUsybUZzdmloaUNUZ19UalhoZ19vaTVUQzl5ZmlkM0VldmpLTkRvY2RWVGxUWE5mSDh2RnM2c05ERXBlMUZUczFSNm1oNk1hSHFYX1o3Q3F5ZkFWSzE0NjBBcUtxbXdnelZfSjVJWjBUYUUydXZSaUVvRUdCUFZSQVQ3NzEyendES3ppankxdWlfS3pLWU1fbVFpSU5tZGkybExpRW1sWnJ3eWpUcg?oc=5",
-   "source": "Freie Presse",
+   "source": "freiepresse.de",
    "platform": "news",
    "published": "2026-09-19T02:48:00+00:00",
-   "summary": "Pokémon-Hype in Chemnitz: Viele warten stundenlang umsonst auf Karten-Set zum Jubiläum Freie Presse",
+   "summary": "Pokémon-Hype in Chemnitz: Viele warten stundenlang umsonst auf Karten-Set zum Jubiläum freiepresse.de",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -476,7 +501,7 @@
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-09-17T00:04:00.402628+00:00",
+   "first_seen": "2026-09-17T06:03:14.987665+00:00",
    "related": [
     {
      "title": "Stundenlang angestanden für nichts: Pokémon-Fans toben nach Verkaufsstart - HNA",
@@ -488,35 +513,11 @@
    "report_count": 2
   },
   {
-   "title": "Pokémon cards worth thousands stolen in less than 2 minutes - ctvnews.ca",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1o0U2JzdU5fUldMa3lqV1pKR0VramFlWjVweVZqRTdNSHk5cTI5REQ1YnV1cmd1ZUxIVW1PQ1ZCZVBhVnhwMm1KblRSNUUwdWFMaGxab3BCbXhJOHZwaW12VkFLMTZ4cTR6c0Vyd3pOYTBVdThhZmszbkhFRmFxaEZLaTVpUHhiTlEzNDllOER3bm9pa0JmbGNYWHhIQ0VDSnZhOWNDZEFJV0xXaDY5VEhEN0VvM094WUE?oc=5",
-   "source": "ctvnews.ca",
-   "platform": "news",
-   "published": "2026-09-19T01:49:00+00:00",
-   "summary": "Pokémon cards worth thousands stolen in less than 2 minutes ctvnews.ca",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "ctvnews.ca",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "pokemon",
-    "pokémon",
-    "stolen"
-   ],
-   "first_seen": "2026-09-19T02:03:03.234794+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Pokémon cards worth thousands stolen in less than 2 minutes - CTV News",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUHA3eTJOaUNYcmhQNVVFaEhNRkIyV0pES2ExeTJOTVFxS0pnWE1JYlliT1V2MFNXZ2NMZldQOUlBejQ5U2Z1Z3lxLW5CZndnUGlEYzNZNFE0RnpLZnZvMlYyd3p6MVc1ZndtWG5xcTg1NkZLYTNjTDRjZmFpUnN0M2NVS044RUdMT3czQjUwRjB2Y2NyLUFhS1FRNTRQRmItZEZJOUhhdTR0Z18wOUgw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1o0U2JzdU5fUldMa3lqV1pKR0VramFlWjVweVZqRTdNSHk5cTI5REQ1YnV1cmd1ZUxIVW1PQ1ZCZVBhVnhwMm1KblRSNUUwdWFMaGxab3BCbXhJOHZwaW12VkFLMTZ4cTR6c0Vyd3pOYTBVdThhZmszbkhFRmFxaEZLaTVpUHhiTlEzNDllOER3bm9pa0JmbGNYWHhIQ0VDSnZhOWNDZEFJV0xXaDY5VEhEN0VvM094WUE?oc=5",
    "source": "CTV News",
    "platform": "news",
-   "published": "2026-09-18T23:56:51+00:00",
+   "published": "2026-09-19T01:49:00+00:00",
    "summary": "Pokémon cards worth thousands stolen in less than 2 minutes CTV News",
    "author": "",
    "category": "einbruch",
@@ -620,16 +621,16 @@
    "report_count": 2
   },
   {
-   "title": "This Gaming Card Shop Suddenly Vanished—Now It’s Tied to a Reported P500M Fraud - wheninmanila.com",
+   "title": "This Gaming Card Shop Suddenly Vanished—Now It’s Tied to a Reported P500M Fraud - When In Manila",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWOXdDeVJfNjduLWI4WTNNajE0YkR3Tk9kY09rbWJLYVdZWEo1cEY2cWVqcC1sekJ5RUZIWmZzeERhdElOa0V1SnZOVnVUZG5IcWtWSlY1ZHh4c3RkcFNZNXg3d3B4M2RpaE9xR3VfdG9JN0R3Q3dfUzVvSHJPUQ?oc=5",
-   "source": "wheninmanila.com",
+   "source": "When In Manila",
    "platform": "news",
    "published": "2026-09-18T09:52:09+00:00",
-   "summary": "This Gaming Card Shop Suddenly Vanished—Now It’s Tied to a Reported P500M Fraud wheninmanila.com",
+   "summary": "This Gaming Card Shop Suddenly Vanished—Now It’s Tied to a Reported P500M Fraud When In Manila",
    "author": "",
    "category": "betrug",
    "region": "int",
-   "country": "",
+   "country": "Philippinen",
    "image": "",
    "domain": "wheninmanila.com",
    "logo": "",
@@ -638,7 +639,7 @@
     "card shop",
     "fraud"
    ],
-   "first_seen": "2026-09-18T18:05:03.861793+00:00",
+   "first_seen": "2026-09-18T10:03:20.552544+00:00",
    "related": [],
    "report_count": 1
   },
@@ -721,29 +722,29 @@
    "report_count": 1
   },
   {
-   "title": "Menschen stehen Schlange: Riesiger Pokémon-Hype in Regensburg – Wo gibt es noch Karten? - Mittelbayerische Zeitung",
+   "title": "Menschen stehen Schlange: Riesiger Pokémon-Hype in Regensburg – Wo gibt es noch Karten? - mittelbayerische.de",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOElNX0JZU1NiNF9ZMDVzUG1EWFJtcjlNNVdXU0RsQXAzWW5TbTNkWlJCTzNneDlJaEliYzVvQ1Q1bXhTX3NkUXNSWDgzQmc4WEd6Wms1Qnk4eVFaeUlWcVMtVFh3TkVLdXhKLWtaNE9ZY01HQjQzejAzN2w5cncyYzliVjRXTE5lSDI3RHQ2MnVvMzNaeDJYbG5sTmdla1VGX04tZF93d0tNNmVfX0l1WGQwV1otcGY0ZDNHWGRvQXZQT1owQ1pubWlCcElZM09iN2tVeGVFNmJUSnVhQXpvOGQybw?oc=5",
-   "source": "Mittelbayerische Zeitung",
+   "source": "mittelbayerische.de",
    "platform": "news",
    "published": "2026-09-17T15:37:25+00:00",
-   "summary": "Menschen stehen Schlange: Riesiger Pokémon-Hype in Regensburg – Wo gibt es noch Karten? Mittelbayerische Zeitung",
+   "summary": "Menschen stehen Schlange: Riesiger Pokémon-Hype in Regensburg – Wo gibt es noch Karten? mittelbayerische.de",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "mittelbayerischezeitung.de",
+   "domain": "mittelbayerische.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-09-17T12:03:25.266252+00:00",
+   "first_seen": "2026-09-17T18:24:22.034623+00:00",
    "related": [
     {
-     "title": "Faszination Pokémon: Darum stehen Fans für neue Karten Schlange - swr.de",
+     "title": "Faszination Pokémon: Darum stehen Fans für neue Karten Schlange - SWR",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3NJSUJiUU1OSGpWNVVKUDZ2SURta0NXN1U5bWpSNE1VRVRaS3pwLUs3U184dXhYV3Rab0RVTFJ3VHJyX2t6RXZFLU82MjhNdDdJOXpzeUNzeUpqb1JEa1ZhQzYtSVhfTzNIazZDSW1pMERhdjI2LXpsR2dwa3UySTdRbHdFbFdibVRuZkcyYlc0TlBwS0xObllLckd2cWJNVWtWS0dfNFNYTHF1?oc=5",
-     "source": "swr.de",
+     "source": "SWR",
      "published": "2026-09-17T15:37:25+00:00"
     }
    ],
@@ -770,15 +771,15 @@
    "first_seen": "2026-09-15T16:03:31.083793+00:00",
    "related": [
     {
-     "title": "Ahauser Händler erwarten Pokémon-Ansturm: Und begrenzen den Verkauf - Münsterland Zeitung",
+     "title": "Ahauser Händler erwarten Pokémon-Ansturm: Und begrenzen den Verkauf - muensterlandzeitung.de",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc1FZWlh3eGJmdE1FQ09sbDUwNjNJVTV3SDVHMWlJcGw2ZWpjVzFsTndZRUp5VjBBWVhLOXVmbFIyX3dnSVRGendjVjhoUGcycDhGdXNjTUU2TWhzV3B2WS1uX1I1Y052SGZPYkphUFFaLVgwdkpsTFZXY28wdU9pcXlDY2xEWDNSM2JPOU1oc2tBS2Roam5Yc0ZNLVJtd2xuTndGWW5QbUhMQkVyOVVDakVB?oc=5",
-     "source": "Münsterland Zeitung",
+     "source": "muensterlandzeitung.de",
      "published": "2026-09-12T03:40:00+00:00"
     },
     {
-     "title": "Vogtland: Ansturm auf neues Pokémon-Set – Gaming-Händler sind sauer - Freie Presse",
+     "title": "Vogtland: Ansturm auf neues Pokémon-Set – Gaming-Händler sind sauer - freiepresse.de",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaEdtcXphSjFENUNmcTRWN2ttZVlnbmllUEduRS0xc1pCSUhOWEw4Njg2SEVQdGVhOGVKak5DSDItYnRTSHR3TGZqRXVXUjdlS2dUQnFzblBJbEdvXzFFaEo0RUd4Z0xDU1J2Wm02XzFmTUJGbEZJbm5ZV0ljWXJaUmpQRTI0d1VNTkJCa290Y0M2QnVVRmZEVFFDalJPMnJjYWpCNkJGeExKUjFkMFhjcVRFRDZEUS1NQXhFRXFremJ1OG03V0E?oc=5",
-     "source": "Freie Presse",
+     "source": "freiepresse.de",
      "published": "2026-09-17T13:30:00+00:00"
     }
    ],
@@ -887,24 +888,24 @@
    "report_count": 1
   },
   {
-   "title": "Marktgröße, Marktanteil, Wachstum und Analyse des Marktes für Sammelkartenspiele bis 2034 - Straits Research",
+   "title": "Marktgröße, Marktanteil, Wachstum und Analyse des Marktes für Sammelkartenspiele bis 2034 - straitsresearch.com",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41U04xNUk5ZE1mV2d2aEI0MmJLWXl6WjVjaTJnTDBPeEVjeVJiZjlBZWx4TTlQQ1lsTEZkYmU2MFJ4R3RoMHBiRWl5QVFPWW9aZVlSSUdRRHM3OEZRaDhzQVlXcWR0emxaVV91b0h6MDZzcnRRNHc?oc=5",
-   "source": "Straits Research",
+   "source": "straitsresearch.com",
    "platform": "news",
    "published": "2026-09-17T07:00:00+00:00",
-   "summary": "Marktgröße, Marktanteil, Wachstum und Analyse des Marktes für Sammelkartenspiele bis 2034 Straits Research",
+   "summary": "Marktgröße, Marktanteil, Wachstum und Analyse des Marktes für Sammelkartenspiele bis 2034 straitsresearch.com",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "straitsresearch.de",
+   "domain": "straitsresearch.com",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-08-26T11:19:54.857098+00:00",
+   "first_seen": "2026-09-01T04:02:44.661760+00:00",
    "related": [],
    "report_count": 1
   },
@@ -920,7 +921,7 @@
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "couriermail.com.au",
+   "domain": "thecouriermail.com",
    "logo": "",
    "score": 3,
    "matched": [
@@ -931,9 +932,9 @@
    "first_seen": "2026-09-16T16:04:16.911608+00:00",
    "related": [
     {
-     "title": "WATCH: Thieves botch heist for Pokemon cards worth $20k - couriermail.com.au",
+     "title": "WATCH: Thieves botch heist for Pokemon cards worth $20k - The Courier Mail",
      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPeUt1bGd3RDRsRGg0OU9ubVZfMU9EakRoTWlCajZDbThGVWFHUFlRUE13YmNOWXZuaHJtdEF2bVA5NWJGVXBtWFl1VER5d2VDT0hIM0txUHZZMXM5WC1USGI0R2t4NHVDcExLeFhQOW1yTUt0LTF2aEc0dzNfUzBrVWMySUU3djBqNnJRYXVHcGxnZkRPbFR5ODdCVWU1M3NlVlRQUUpIN3Vvci1OcWJOMjNhejZmcEdEOEpTQ1hGUWtILWkyMlFUY2l5ZGJrR0ZSdUV4eFBRZGFVQTNHUUNwdkd0OF9WeWhWb3JLc1VLQk1SMXZlYk9KbE5NLVFmOWRVMl9CbGlrME9sNDZ1RWtqZjdxYjMtdWgya3A1azlWMXd6QQ?oc=5",
-     "source": "couriermail.com.au",
+     "source": "The Courier Mail",
      "published": "2026-09-16T12:55:28+00:00"
     }
    ],
@@ -1004,12 +1005,12 @@
    "report_count": 2
   },
   {
-   "title": "Pokémon-Sammelkartenspiel: 30 Jahre ist jetzt in Pokémon-Sammelkartenspiel-Live erhältlich - pokemon.com",
+   "title": "Pokémon-Sammelkartenspiel: 30 Jahre ist jetzt in Pokémon-Sammelkartenspiel-Live erhältlich - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWJDTjlpQWFYYVpzbFdjbTBtdVVRMUlMOU1wbUhOVl8yelNuYWROU1Y0MTZONXU3bEpPWlNzRjI2cGkwZjU3aHRXUEFxX1VzUmtUWjZyNERQbHFWSm5nNW4yZzFIV2hqVno3cEZHclB2bTRuTTFJd3RQUXI3UGVvMC1hamFKSGNhaW9Dcjk1dVhSTGN6M1NyS3JKZnMzOEViOF9wbVJBYkw1SXNoT3N4am5zb29QVTN3LVA4Q1BZUQ?oc=5",
-   "source": "pokemon.com",
+   "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-09-16T17:10:18+00:00",
-   "summary": "Pokémon-Sammelkartenspiel: 30 Jahre ist jetzt in Pokémon-Sammelkartenspiel-Live erhältlich pokemon.com",
+   "summary": "Pokémon-Sammelkartenspiel: 30 Jahre ist jetzt in Pokémon-Sammelkartenspiel-Live erhältlich Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -1033,29 +1034,37 @@
    "report_count": 2
   },
   {
-   "title": "Counterfeit Pokémon cards and gadgets in Rome: 4 items seized, seven people reported. - Agenzia Nova",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWkJWbnpmd1FZdUlFQ2h0aTZPeVU4NXd3OXpTYTNMQ1ZCc3NDUS1ib1VUSGZiZ0Vmc3N1LTUtMGxacGlyZTRrckhFMVkwcUpsVUNXV1pvLTVPVXFMTUloaVF6TVhwUVBRMEFITzZtMjRLVGNOYTJXTjlOZ0Y1eUhQc2xRR2lvSGo2Szd1ZkZnZnpfSmtaaE9yZmtrbVRwekp3d2xVZUhsQ0xmeVJtNDhuYWF1MjlWcnNoRGlYQVdTa3dLSDU1VW1Mc3hiVjU?oc=5",
+   "title": "Gefälschte Pokémon-Karten und -Gadgets in Rom: 4 Artikel beschlagnahmt, sieben Personen angezeigt. - Agenzia Nova",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNM0hpMURvV2FkOWkxeUJLaktjeGx2OGtlMzBzeG9xeS1YSDVCYzdxRXR5RDI0UVF4QTdMOGZBWTZNZzhsX18tMkh2U0VwVU85M0FsRVU0VC1NX0NPYVpySGJRXzBQdnZuUUpOVHprcU82bHRELXhUc214NWpnYTVQZ1FwSXpiTHYwQ0VtTVB4NHdjUGxMUnhzM2twN24wR1Y0ekpUeEo1T1BHX2lPT2U0aEVTVkdiTnN2eFZrZFNhZWwxWWNMMHBKdW96Mkp0N2MyMmJ1SEs0QkJiVC1ucDVod1JQeEVxRWM?oc=5",
    "source": "Agenzia Nova",
    "platform": "news",
    "published": "2026-09-16T14:54:05+00:00",
-   "summary": "Counterfeit Pokémon cards and gadgets in Rome: 4 items seized, seven people reported. Agenzia Nova",
+   "summary": "Gefälschte Pokémon-Karten und -Gadgets in Rom: 4 Artikel beschlagnahmt, sieben Personen angezeigt. Agenzia Nova",
    "author": "",
    "category": "betrug",
-   "region": "int",
+   "region": "de",
    "country": "",
    "image": "",
-   "domain": "agenzianova.com",
+   "domain": "agenzianova.de",
    "logo": "",
-   "score": 4,
+   "score": 5,
    "matched": [
-    "counterfeit",
+    "beschlagnahmt",
+    "gefaelscht",
+    "gefälscht",
     "pokemon",
-    "pokémon",
-    "seized"
+    "pokémon"
    ],
-   "first_seen": "2026-09-16T17:21:55.762754+00:00",
-   "related": [],
-   "report_count": 1
+   "first_seen": "2026-09-23T12:03:07.393984+00:00",
+   "related": [
+    {
+     "title": "Counterfeit Pokémon cards and gadgets in Rome: 4 items seized, seven people reported. - Agenzia Nova",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWkJWbnpmd1FZdUlFQ2h0aTZPeVU4NXd3OXpTYTNMQ1ZCc3NDUS1ib1VUSGZiZ0Vmc3N1LTUtMGxacGlyZTRrckhFMVkwcUpsVUNXV1pvLTVPVXFMTUloaVF6TVhwUVBRMEFITzZtMjRLVGNOYTJXTjlOZ0Y1eUhQc2xRR2lvSGo2Szd1ZkZnZnpfSmtaaE9yZmtrbVRwekp3d2xVZUhsQ0xmeVJtNDhuYWF1MjlWcnNoRGlYQVdTa3dLSDU1VW1Mc3hiVjU?oc=5",
+     "source": "Agenzia Nova",
+     "published": "2026-09-16T14:54:05+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "\"Pokémon 30 Jahre\" – Diese Pokémon-Karten gibt es jetzt zum großen Jubiläum - Heute",
@@ -1080,12 +1089,12 @@
    "report_count": 1
   },
   {
-   "title": "30 Jahre Pokémon: Neue Sammelkarten kommen auf den Markt! - techrush",
+   "title": "30 Jahre Pokémon: Neue Sammelkarten kommen auf den Markt! - techrush.de",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQajhIbzNjQTVMTkp0YjY1VXlmUmZsd3ZHejRRaERLRmF2SzRRbmhjS2RrR2hYeGdaLTJCdDBHc3BnQjFsNUplem9TS2NvejRqU1ZfLVM3YVhIV1pBNVlUVFNTNDJ0TkVSQmpEdTFQUUllVTdueGFROUNfdXQ0ZV96TUtR?oc=5",
-   "source": "techrush",
+   "source": "techrush.de",
    "platform": "news",
    "published": "2026-09-16T13:23:57+00:00",
-   "summary": "30 Jahre Pokémon: Neue Sammelkarten kommen auf den Markt! techrush",
+   "summary": "30 Jahre Pokémon: Neue Sammelkarten kommen auf den Markt! techrush.de",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -1097,7 +1106,7 @@
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-09-16T14:03:04.363574+00:00",
+   "first_seen": "2026-09-16T13:38:39.879028+00:00",
    "related": [],
    "report_count": 1
   },
@@ -1232,6 +1241,43 @@
    "report_count": 1
   },
   {
+   "title": "Teens arrested in string of smash-and-grab thefts targeting trading card retailers, pawn shops - CTV News",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSGZuSU1NTUpsc0FzSHQ5TzR0R3NmTXk5M0xjdWdjNkJoSWhFbnk5NVZvNGd2ZTVpZ01hT1UxUHpOQmRXV1BERm10enBGLUgxZGJhbFpLS1RlampNT3FWbzc5RnFBczFnTWtmUG4yWWx1SHl1WC1wamtTeDZMblpoX0FhSGFPNVhSRVNFMmQwTkRFbmVDTFZmUTlaYkcxNTZ5STdwblNOa0xJOUU0Ym1GVWNaMHE0aUxkNVVjTXl5MU5nWmdmWERpMDE2UW9rNjlmdjhIVTY2QjhKRV95RFhBRlZnbw?oc=5",
+   "source": "CTV News",
+   "platform": "news",
+   "published": "2026-09-15T17:00:06+00:00",
+   "summary": "Teens arrested in string of smash-and-grab thefts targeting trading card retailers, pawn shops CTV News",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "ctvnews.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "arrested",
+    "theft",
+    "trading card"
+   ],
+   "first_seen": "2026-09-10T16:44:48.774566+00:00",
+   "related": [
+    {
+     "title": "Teens arrested in string of smash-and-grab thefts targeting trading card retailers, pawn shops - CP24",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZDlsR01vOEh1Q0tUenBGTTgyZENwZ2RXQWJXdE5GYi1Ec3U4Zk9zYVJHdzdZTkZEaUUyWTBseVVVZXdfcktCTTBSZktVXzI4Z0ktM2hoV0lNQVhzY21XRDlOUUJSa1pXLTMyRnFKZ0FhbDE5RlJhanBGdndPb2VxbE9BVkFrZy15bmRrTS1DQ0ZiWkVTUjZBVVU3Mk1nMVlmbURLcGNhdTljWjBNWnU5aTZYWjk4ZzRWOFdIRWxjQXhWOU9oM3NhRXd0RklrS2hibDN1cmdB?oc=5",
+     "source": "CP24",
+     "published": "2026-09-10T07:00:00+00:00"
+    },
+    {
+     "title": "Day in the life at Pokémon Worlds",
+     "url": "https://www.youtube.com/shorts/kSLG_dyJNZM",
+     "source": "Leonhart",
+     "published": "2026-09-15T17:00:06+00:00"
+    }
+   ],
+   "report_count": 3
+  },
+  {
    "title": "Slideshow: Pokémon Trading Card Game Pocket Images - IGN Deutschland",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR2FEczZyTGVPcU5uOGczUm10aG5xMEtzQnQ2a0Nhb0lVUDRDVXBCNmwyQmoyOF90bFBwU1Z0STVXdUVpM2lkOWFhS05sSkpsbC1ham1EMjZjTy1nVDVQTTEyN3FVRlk3ZkVyeXhTUWJ5bTY3QnBITXRuU2JnQXRxME11NDRiWUtQVFBNUldtUEE2MTFrM3JiR2tRMXFicnBiV0NmYQ?oc=5",
    "source": "IGN Deutschland",
@@ -1333,18 +1379,18 @@
    "report_count": 1
   },
   {
-   "title": "Two Pokémon card stores hit by burglars in Washington County in one month; police search for suspect - TMJ4 News",
+   "title": "Two Pokémon card stores hit by burglars in Washington County in one month; police search for suspect - tmj4.com",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOYmpRMTRrYU8zLVhGdHNvUTZudmZxeXdSVjZLTzRMZi1GSlpWcjNLNFcyVXFKek5PUE5KTmJLeW5LZHRGejVsbk9LYlA4LURtbjh3ZmxZQ2E0QXZaeUdQVmR1ZXdSVkNJNGlRT2RKbXZldTE3QTFxb1d0ZENXMWVqeThKa1N6QzRfUF9Jbkh1eGFpVDBpcXZnclJxU2hHMnVXV29Ca3BDSzB2a1FMbDJOWEt2ZkJjUlNXTGM2aVI0SWdjbFJDalFvU3RhU3NicjFIdnRjbmNVbkV4T1Z0MGFaU1JxR0JRZzdzSElVLU5DSmx3Qm9LQXVHLXA3TFdGTXVRVFE?oc=5",
-   "source": "TMJ4 News",
+   "source": "tmj4.com",
    "platform": "news",
    "published": "2026-09-14T07:00:00+00:00",
-   "summary": "Two Pokémon card stores hit by burglars in Washington County in one month; police search for suspect TMJ4 News",
+   "summary": "Two Pokémon card stores hit by burglars in Washington County in one month; police search for suspect tmj4.com",
    "author": "",
    "category": "einbruch",
    "region": "int",
    "country": "USA",
    "image": "",
-   "domain": "tmj4news.com",
+   "domain": "tmj4.com",
    "logo": "",
    "score": 4,
    "matched": [
@@ -1353,7 +1399,7 @@
     "pokemon",
     "pokémon"
    ],
-   "first_seen": "2026-09-15T06:02:52.519592+00:00",
+   "first_seen": "2026-09-15T17:10:47.863816+00:00",
    "related": [],
    "report_count": 1
   },
@@ -1451,43 +1497,6 @@
    "report_count": 1
   },
   {
-   "title": "Teens arrested in string of smash-and-grab thefts targeting trading card retailers, pawn shops - ctvnews.ca",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNem0tMjZQNkJWenpGNTQ5QVFoUTRCOUQ1TTJVUmIwdnZhZ3JqdEQ4a1ZSUUpacy04eGd5VGhHeTc4WTNJWG5JUV9ENl9wend3SWpiX18ybDlnODJwUXA4QTdoaG9FeTBUX2lWRUNXSHNyMGo3WjdQUUVIanJUT0h3WWVqZUNKY3c3aFBseFZZcy1tT1ViR2dDWENLdHlobEhLVDA1MkVCUjlNOFFIOUNMckJicTI5N0ZKbkN5R0g2akM1VDdPS0l0NGVRLWQyLXJZd3Vqc1ZTdzdPNi1wZkhZ?oc=5",
-   "source": "ctvnews.ca",
-   "platform": "news",
-   "published": "2026-09-10T07:00:00+00:00",
-   "summary": "Teens arrested in string of smash-and-grab thefts targeting trading card retailers, pawn shops ctvnews.ca",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "ctvnews.ca",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "arrested",
-    "theft",
-    "trading card"
-   ],
-   "first_seen": "2026-09-10T18:04:01.917999+00:00",
-   "related": [
-    {
-     "title": "Teens arrested in string of smash-and-grab thefts targeting trading card retailers, pawn shops - CTV News",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSGZuSU1NTUpsc0FzSHQ5TzR0R3NmTXk5M0xjdWdjNkJoSWhFbnk5NVZvNGd2ZTVpZ01hT1UxUHpOQmRXV1BERm10enBGLUgxZGJhbFpLS1RlampNT3FWbzc5RnFBczFnTWtmUG4yWWx1SHl1WC1wamtTeDZMblpoX0FhSGFPNVhSRVNFMmQwTkRFbmVDTFZmUTlaYkcxNTZ5STdwblNOa0xJOUU0Ym1GVWNaMHE0aUxkNVVjTXl5MU5nWmdmWERpMDE2UW9rNjlmdjhIVTY2QjhKRV95RFhBRlZnbw?oc=5",
-     "source": "CTV News",
-     "published": "2026-09-10T07:00:00+00:00"
-    },
-    {
-     "title": "Teens arrested in string of smash-and-grab thefts targeting trading card retailers, pawn shops - CP24",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZDlsR01vOEh1Q0tUenBGTTgyZENwZ2RXQWJXdE5GYi1Ec3U4Zk9zYVJHdzdZTkZEaUUyWTBseVVVZXdfcktCTTBSZktVXzI4Z0ktM2hoV0lNQVhzY21XRDlOUUJSa1pXLTMyRnFKZ0FhbDE5RlJhanBGdndPb2VxbE9BVkFrZy15bmRrTS1DQ0ZiWkVTUjZBVVU3Mk1nMVlmbURLcGNhdTljWjBNWnU5aTZYWjk4ZzRWOFdIRWxjQXhWOU9oM3NhRXd0RklrS2hibDN1cmdB?oc=5",
-     "source": "CP24",
-     "published": "2026-09-10T07:00:00+00:00"
-    }
-   ],
-   "report_count": 3
-  },
-  {
    "title": "\"One Piece\" trading card valued at $8,000 stolen from Pennsylvania store; 2 suspects sought - CBS News",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkZMMlBWTF9FQ1c4U2MtYV92NVY1MDhlZk1GMFdwUUZnWFFPS3paWWRkMVdlUWlYNVNiR2cyZnkyak94SGl5dEdPVlF4UTd0LW9vWmk1N1Z3NXdIbVBPeXJxempWaTdFOVNwRzNRbjZnOUU1ZVRENFhPX3RtZkx6dmhJNVIxWXE1X1JDS0xsU0tZWTlLRWY1cVBvNnE?oc=5",
    "source": "CBS News",
@@ -1511,12 +1520,12 @@
    "report_count": 1
   },
   {
-   "title": "Wirf einen Blick auf alle Pokémon-Sammelkartenspiel-Produkte, die im September 2026 veröffentlicht werden - pokemon.com",
+   "title": "Wirf einen Blick auf alle Pokémon-Sammelkartenspiel-Produkte, die im September 2026 veröffentlicht werden - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeFJpZ1R1U2tkSlBtcjJ2UVNlOUEzeWVyeWdZNDloMHloUVF0OTVsUTNEd2dPUDFKcUxmTUx5Uk1PZ3hqdG5iVW1ndTFPNWwtemRqOF9uT241cklLUTFENHJTV1R3VTFPTzYxOUxQYXNKQXNGM0tOQm04bjVTczdSb25JZUg5d2dnVHBoU3UwZEFRRWktRDBSWkJ0MjB0Y3RvM1dsX3R2eTBSdjVkTmp0cGU4S2YzNTJaU25JOExpbFdRRkRKRUpsdmYxaTNKVVJiTk1B?oc=5",
-   "source": "pokemon.com",
+   "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-09-09T07:00:00+00:00",
-   "summary": "Wirf einen Blick auf alle Pokémon-Sammelkartenspiel-Produkte, die im September 2026 veröffentlicht werden pokemon.com",
+   "summary": "Wirf einen Blick auf alle Pokémon-Sammelkartenspiel-Produkte, die im September 2026 veröffentlicht werden Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -1531,9 +1540,9 @@
    "first_seen": "2026-09-01T16:03:31.016887+00:00",
    "related": [
     {
-     "title": "Pokémon TCG Pocket: Codes – Alle Infos im September 2026 - Mein-MMO",
+     "title": "Pokémon TCG Pocket: Codes – Alle Infos im September 2026 - mein-mmo.de",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14b3EwZzFienNHVnJuZ3hSSWRKQkdjS0JPMGtDM010M2NXejFXOXc5VjdxTGZLSXNEXzNUQmZYUXYwbjMwZjBGWllCX3RGM3JDdGRUY1Y1S1ZWT1lGOFRabGxqVkxHR0U?oc=5",
-     "source": "Mein-MMO",
+     "source": "mein-mmo.de",
      "published": "2026-09-09T07:00:00+00:00"
     }
    ],
@@ -1584,12 +1593,12 @@
    "report_count": 1
   },
   {
-   "title": "Schau dir Legendäre Pokémon und mehr aus Pokémon-Sammelkartenspiel: 30 Jahre an - pokemon.com",
+   "title": "Schau dir Legendäre Pokémon und mehr aus Pokémon-Sammelkartenspiel: 30 Jahre an - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3NCTUhsNm5XOEZvcFJTeFNMUS04MWg4MXRVdmRYY2VHdHB5bDNRMzlVT0pYWXVJWDlCc0NwWE9DYUVqQW9GM2t1alFkT2RGMEpIZGFxUnN1d21WNkdyUHYxeVk5QXZoOXZhOWdILVlIdEZmNWJwU2g3TFRHNVdJeFd3UnNCaHNpZlM4Y3pmRW9ZdDNrRGo2RE5lZUtlTlFCMXNPMXZwaEJjUnB1UGVXSg?oc=5",
-   "source": "pokemon.com",
+   "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-09-09T07:00:00+00:00",
-   "summary": "Schau dir Legendäre Pokémon und mehr aus Pokémon-Sammelkartenspiel: 30 Jahre an pokemon.com",
+   "summary": "Schau dir Legendäre Pokémon und mehr aus Pokémon-Sammelkartenspiel: 30 Jahre an Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -1651,12 +1660,12 @@
    "report_count": 1
   },
   {
-   "title": "Erhalte einen Vorgeschmack auf Pokémon Elektrisierende Nacht - pokemon.com",
+   "title": "Erhalte einen Vorgeschmack auf Pokémon Elektrisierende Nacht - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTkVDa2lxb3BsTjBTNlRBaThHLVNOa0RPdkhtRzdxeW02blkwZHRzUEJIOFJDUi1lZGlZVUFfTGp0UFZrZ1dtTVAwa1RVNDhEd1hXTlA5Y3R6SUFLWlJwTVNxNy1MazY0RDAzSGZSZ2llMzl1dDNWcW9EZHFSeXlrZldkSEpvOWNHbC1SVmo3NmNfVE5NWUFR?oc=5",
-   "source": "pokemon.com",
+   "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-09-08T07:00:00+00:00",
-   "summary": "Erhalte einen Vorgeschmack auf Pokémon Elektrisierende Nacht pokemon.com",
+   "summary": "Erhalte einen Vorgeschmack auf Pokémon Elektrisierende Nacht Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -1673,12 +1682,12 @@
    "report_count": 1
   },
   {
-   "title": "New York man wanted in Pokémon fraud cases in North Carolina arrested in Milwaukee - wxii12.com",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbkF5Z3NoRHo0MVN6YUV5S1ltd1c5b3dmSi1DenN6b1FoV2NkSm1YVktlWGtKX3NtX0NudkVLQXp4MWVoS2swSVpEZHVOdkU1TlQzNVp1bi1jNm43Q1hNcVVTWWVXZW9sQzViOHRkbHQ4d0RRMXhUTzZoLVREeHNvS05yd0VZNmdJWkEzTUhIWDVmMGl5YjdOYzBVbmxVSTFGUmc?oc=5",
-   "source": "wxii12.com",
+   "title": "Wanted in Clarksville: Man used credit fraud to buy $2,500 Pokemon card - Clarksville Now",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTm9CaGlPeF9OTDRGYVdEdzRqbTFkSTlDVEJGY1FnQ2RzejVCZUJ5Vkh6OEwwSlpiUllYdUdKSGUxZE4wbnBndjJGWmZobUZtMElYMzRhWmlwVTZ3cVJjaTlCZGJlMjhmdGY5bU5NdEFBbDFFbi1la0ZZTDJybWMtNGFudjlkNEVuTWk3Z1llanJmdTdKcFpNay1fVXh3SWJOVkdRaw?oc=5",
+   "source": "Clarksville Now",
    "platform": "news",
    "published": "2026-09-07T07:00:00+00:00",
-   "summary": "New York man wanted in Pokémon fraud cases in North Carolina arrested in Milwaukee wxii12.com",
+   "summary": "Wanted in Clarksville: Man used credit fraud to buy $2,500 Pokemon card Clarksville Now",
    "author": "",
    "category": "betrug",
    "region": "int",
@@ -1692,14 +1701,8 @@
     "pokemon",
     "pokémon"
    ],
-   "first_seen": "2026-09-21T23:24:58.335986+00:00",
+   "first_seen": "2026-09-16T10:03:22.706592+00:00",
    "related": [
-    {
-     "title": "Wanted in Clarksville: Man used credit fraud to buy $2,500 Pokemon card - Clarksville Now",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTm9CaGlPeF9OTDRGYVdEdzRqbTFkSTlDVEJGY1FnQ2RzejVCZUJ5Vkh6OEwwSlpiUllYdUdKSGUxZE4wbnBndjJGWmZobUZtMElYMzRhWmlwVTZ3cVJjaTlCZGJlMjhmdGY5bU5NdEFBbDFFbi1la0ZZTDJybWMtNGFudjlkNEVuTWk3Z1llanJmdTdKcFpNay1fVXh3SWJOVkdRaw?oc=5",
-     "source": "Clarksville Now",
-     "published": "2026-08-25T07:00:00+00:00"
-    },
     {
      "title": "2 wanted in connection with theft of high-value trading card from Berks County store - Audacy",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUdmX1dQRGNyN21ZNVZDcWVNb19DTXhhWnB5Q1k4MUFZNk1mYklUaXhFbDN1aDVrZGhQQk0zam8wVU9IRWNla3V6UlBvRmNNSTAzdXRiN3FsTGdZZ0FDVTJoZ1FLNk1hUXQ0WkJwU1VnRGFVUjE4Tkg4d0lETHJPbHdlNmpXREdiV0VkQ25DeWNqMDRtOFllZDRROGZhZEt1?oc=5",
@@ -1707,15 +1710,15 @@
      "published": "2026-09-07T07:00:00+00:00"
     }
    ],
-   "report_count": 3
+   "report_count": 2
   },
   {
-   "title": "Sieh dir Karten mit dem Thema „Tag und Nacht“ aus Pokémon-Sammelkartenspiel: 30 Jahre an - pokemon.com",
+   "title": "Sieh dir Karten mit dem Thema „Tag und Nacht“ aus Pokémon-Sammelkartenspiel: 30 Jahre an - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOelhMaHdfcFRXcTkzQkR3UnQxemVLWDlsU3lFVTlxTzlid1pjVnBzcUtUUi1KZTFNOWZVeGNJRW1pbDhjR0hmRnB0Vl9mZ2xZSHFCU0JtSzVlN2VEWFhkS0hRWnBhR1paQ3ZoaHItSTRjZWU4blRCcVlTSlVDNkFOeXd4ZGpjZkprazNDbkFwa2hrV29zWk9fY1ZWX2pVY3FUU1A5WnJfZzM3RDhUUnhNRHhCdVlBcTR0?oc=5",
-   "source": "pokemon.com",
+   "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-09-07T07:00:00+00:00",
-   "summary": "Sieh dir Karten mit dem Thema „Tag und Nacht“ aus Pokémon-Sammelkartenspiel: 30 Jahre an pokemon.com",
+   "summary": "Sieh dir Karten mit dem Thema „Tag und Nacht“ aus Pokémon-Sammelkartenspiel: 30 Jahre an Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -1803,12 +1806,37 @@
    "report_count": 1
   },
   {
-   "title": "Champs im Rampenlicht: Cerys Jones inspiriert mit ihren raffinierten Spielzügen - pokemon.com",
+   "title": "I just heard my local card shop getting robbed of Pokémon cards. Fortunately, they didn’t get rare cards due to where the cards were placed and they left blood cause the thief cut ",
+   "url": "https://bsky.app/profile/yingmtl.bsky.social/post/3mupz4p347k2f",
+   "source": "@yingmtl.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-09-04T22:27:16.411000+00:00",
+   "summary": "I just heard my local card shop getting robbed of Pokémon cards. Fortunately, they didn’t get rare cards due to where the cards were placed and they left blood cause the thief cut himself.\n\nI have various binders for my collection and I keep them in my room. My most expensive card is under 60$CAD.",
+   "author": "Vanessa Perez",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "yingmtlbskysocial.com",
+   "logo": "",
+   "score": 6,
+   "matched": [
+    "card shop",
+    "pokemon",
+    "pokémon",
+    "robbed"
+   ],
+   "first_seen": "2026-09-04T22:37:08.084026+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Champs im Rampenlicht: Cerys Jones inspiriert mit ihren raffinierten Spielzügen - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORjZZYWdzUllJVERjbGxMUklYYkpjQU9qSDVYTnlWVFM3ZXdjTVdIMC1hRllHM0NKc3hkaFNYNnhONHZKT0VTNVJFbGpPUXZjdVY5TXpCOFNqdGdYUWZmcXJUclJHUElZZmZBckVtMzEzb2xjYzJScVdyeHlWVjZoVWFCZUZfMm5jYWJ0RUUySDJZUzBxa1BmZzZsUUs5Ym8xX1FpZXRxc0dkWjVuQWtKRHhwRUFkUQ?oc=5",
-   "source": "pokemon.com",
+   "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-09-04T07:00:00+00:00",
-   "summary": "Champs im Rampenlicht: Cerys Jones inspiriert mit ihren raffinierten Spielzügen pokemon.com",
+   "summary": "Champs im Rampenlicht: Cerys Jones inspiriert mit ihren raffinierten Spielzügen Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -1823,21 +1851,21 @@
    "first_seen": "2026-08-24T15:27:40.616415+00:00",
    "related": [
     {
-     "title": "Rückblick auf eine Region: Kalos im Rampenlicht - pokemon.com",
+     "title": "Rückblick auf eine Region: Kalos im Rampenlicht - Pokemon.com",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSFVRa21EbEVfU2o1a242Yl9xd01yOXpZSi05MVJxSEN0VlBqbkZhSEVKRUdCbW8zUDI3TE41WEVMbEk1TzFGSGw0WWlXYS1tR3FBMU5UaU0xSHNieWJ0cXY4OU03cHh4YnNZNUt4Rl9yU3JBZ095eHY1VUR6WV9aNDNYV3ViNVNxQ2R3?oc=5",
-     "source": "pokemon.com",
+     "source": "Pokemon.com",
      "published": "2026-09-04T07:00:00+00:00"
     }
    ],
    "report_count": 2
   },
   {
-   "title": "Feiere Pokémon-Sammelkartenspiel: 30 Jahre im duo flagshipstore - pokemon.com",
+   "title": "Feiere Pokémon-Sammelkartenspiel: 30 Jahre im duo flagshipstore - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWS1xcmZvbGNwdzFlTzcyNUJpdGNxSFdwdTluRVpzSzVzZVlBN25ZU3N1LWdXc1hNeG03NS1vZjhnQVlHcFc1MTdBQWZhZGlYeU9kN1FWaDE5RWJ4RU8xVzlneEFpc1h2SHFJSmZ3ZTd2Z2tOWWVwNThzamVGVkFQb2E4QjJKT3Q3NGdQUWM2emprNU5QbWg1alVB?oc=5",
-   "source": "pokemon.com",
+   "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-09-04T07:00:00+00:00",
-   "summary": "Feiere Pokémon-Sammelkartenspiel: 30 Jahre im duo flagshipstore pokemon.com",
+   "summary": "Feiere Pokémon-Sammelkartenspiel: 30 Jahre im duo flagshipstore Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -1854,12 +1882,12 @@
    "report_count": 1
   },
   {
-   "title": "UPDATE: NYC man arrested in Craven County Pokémon card fraud - WITN",
+   "title": "UPDATE: NYC man arrested in Craven County Pokémon card fraud - witn.com",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdXZjN2stdkVSZGlVeDhVS2pEWFhFZ0ZqNDllbGNLUjhCQzJlbmhHR3A1S216ZHlKMjd2RlRDT0JYcFM1V2NQRTZEYWoyTThjTHpWZDhHQmpmWVZuVWZsZzk1al9FWW95ZXRWeHplNTc3dk9nYUdUeUE0NUV1azR4VzV2dEZMZTNmbXlVZDdLaE1Ld9IBpgFBVV95cUxQMG5uNDQtdUhFWVJ1UVlsWmwyY05FV0R0Tk1HOUthcjh5UzN1MDN6cldtWFRVMzA0ZC01VGpMRkxpR2dmR2liMVFlU1Rzb3Brc0htaE1wX2lnQVZSQmdoZldOY1M3MVM4WFRpTzd1Szl5NUQ3ejAzcG53VnZUbEpQTm1lbTY2dEwwQlkwMXI5TFctdzFMQlZSUC14NDBTNjZYSUplbjJ3?oc=5",
-   "source": "WITN",
+   "source": "witn.com",
    "platform": "news",
    "published": "2026-09-03T07:00:00+00:00",
-   "summary": "UPDATE: NYC man arrested in Craven County Pokémon card fraud WITN",
+   "summary": "UPDATE: NYC man arrested in Craven County Pokémon card fraud witn.com",
    "author": "",
    "category": "betrug",
    "region": "int",
@@ -1874,7 +1902,7 @@
     "pokemon",
     "pokémon"
    ],
-   "first_seen": "2026-09-21T22:03:20.756260+00:00",
+   "first_seen": "2026-09-23T12:03:07.395347+00:00",
    "related": [],
    "report_count": 1
   },
@@ -1963,12 +1991,34 @@
    "report_count": 2
   },
   {
-   "title": "Mit der Lernsaison beginnt wieder die Schule in Pokémon-Sammelkartenspiel-Live - pokemon.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0plNUptM0FxRlQ2eW5ZejU4aGY1SkpxSUFPdHFzSmM5YXctX2VaOWphdkRVUzdIWWRuQnhmWkIzclNWdVRHS2phVF9HVjNIb3NkX1ZfUnUwb2pCQmpOR1h3SFVfd2RadHlhZl8zc2FERml5UTZNdE9XYVI5c1F2ZzdxSmxqZjlIWmY0Nkc5VmhaQmNZaXdyel82Y1ZFbjlTT2RCLWxib3VJSEhaUHB3?oc=5",
-   "source": "pokemon.com",
+   "title": "Wer beliebte Pokémon-Karten haben möchte, sollte heute bei Penny reinschauen - giga.de",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU2w0blljaWc0M1ZtQ2xKZlBDNHQ0RXFpSi0yaE1oZ2UxSFh0S1EzV2lTYnBzNTJYYm9TUGtLcnNjY1hkS0pXcVl3bG04YzA4R1Q1d3FFVjdOd01HekVkMTFNUzFYdXdCZm5VbUV5VFNZcmw5cXN0YzlVQjd1SzZua3BubUM1aXpuZmFWWmVTZDAySTZlb3FjS3VROXp0Y2QySUNIRkNncTVoc1Y2Z1ZDZldZQVprN3k4RWdsR0dLSTFHVmZRWTByU21n?oc=5",
+   "source": "giga.de",
    "platform": "news",
    "published": "2026-09-03T07:00:00+00:00",
-   "summary": "Mit der Lernsaison beginnt wieder die Schule in Pokémon-Sammelkartenspiel-Live pokemon.com",
+   "summary": "Wer beliebte Pokémon-Karten haben möchte, sollte heute bei Penny reinschauen giga.de",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "giga.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-09-04T20:53:11.086454+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Mit der Lernsaison beginnt wieder die Schule in Pokémon-Sammelkartenspiel-Live - Pokemon.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0plNUptM0FxRlQ2eW5ZejU4aGY1SkpxSUFPdHFzSmM5YXctX2VaOWphdkRVUzdIWWRuQnhmWkIzclNWdVRHS2phVF9HVjNIb3NkX1ZfUnUwb2pCQmpOR1h3SFVfd2RadHlhZl8zc2FERml5UTZNdE9XYVI5c1F2ZzdxSmxqZjlIWmY0Nkc5VmhaQmNZaXdyel82Y1ZFbjlTT2RCLWxib3VJSEhaUHB3?oc=5",
+   "source": "Pokemon.com",
+   "platform": "news",
+   "published": "2026-09-03T07:00:00+00:00",
+   "summary": "Mit der Lernsaison beginnt wieder die Schule in Pokémon-Sammelkartenspiel-Live Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -2026,12 +2076,12 @@
    "report_count": 3
   },
   {
-   "title": "77-Year-Old Volunteer Teacher Arrested After Striking Young Student in Altercation Over Pokemon Cards - IGN Nordic",
+   "title": "77-Year-Old Volunteer Teacher Arrested After Striking Young Student in Altercation Over Pokemon Cards - nordic.ign.com",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTnpHOTVFYkZqNnAzTDBBUVpDTTBvX2c5bUdDTEk0ZWZPM25XVFBNMnFvZkltRGRIYVBfRkxVS1ZsM055Tmo0TE54QnAzbE1tVXhLdDg2aG9WMzA1YUxrTElCY3d5ZkVqVWhoRVVpb0UyZTlDaHV0cEVWZzF2a0JUcjJ0VUJ4dFBlV2dnd20wVVVHenBBSGVhYXhIRnVsRnZVTHptTzM5UFI3TVdHcHEyZ2dVTGJ1TVJpOGtGZUstemFSTUlCNmgyYTJ5M3hCUU15T0tjdzZnTHpVNFRNUkE4NFdfQWtsRVpDSkZ2dDNEcXVGRVBmZXRGTg?oc=5",
-   "source": "IGN Nordic",
+   "source": "nordic.ign.com",
    "platform": "news",
    "published": "2026-09-02T07:00:00+00:00",
-   "summary": "77-Year-Old Volunteer Teacher Arrested After Striking Young Student in Altercation Over Pokemon Cards IGN Nordic",
+   "summary": "77-Year-Old Volunteer Teacher Arrested After Striking Young Student in Altercation Over Pokemon Cards nordic.ign.com",
    "author": "",
    "category": "behoerden",
    "region": "int",
@@ -2045,7 +2095,7 @@
     "pokemon",
     "pokémon"
    ],
-   "first_seen": "2026-09-03T16:03:51.900384+00:00",
+   "first_seen": "2026-09-02T22:03:26.395247+00:00",
    "related": [
     {
      "title": "77-year-old teacher arrested after fight with child over Pokemon cards - Dexerto",
@@ -2058,9 +2108,15 @@
      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUGNvZnpoZGluaXlhVVZGNUNfMFIxcU5wTWNxcjFGb244OG40cHpLME1FTE1CR09ZYVNESk1hQXV3dl9IQkxVX0pxcUd3MkhwYl91R3Jhc0VJaXJ2bGxYWXJWTWNLYVlfclBVci1EV094QzkxbUZYcUZFX2tVZV91VTRfWklhVXNOem9DU3JwYU1la1Ntb2hrR3JBdHdNTnhGVWZ0WGtsbWFkX3NCcWpnb2VjbG5SSk1qMXBLQWxmVkpBcXI1U2FoamFpSXlUd2NkWUtYbFRLNU5yZzByZWJ4cm1FQ2ZJdzA?oc=5",
      "source": "IGN Africa",
      "published": "2026-09-02T07:00:00+00:00"
+    },
+    {
+     "title": "77-Year-Old Volunteer Teacher Arrested After Striking Young Student in Altercation Over Pokemon Cards - IGN",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZHJIQnVRbWphS0FzaFNvVUQ5UWNsY0hjM2xOcDM1RVZlRk9vRm11V0Qyb1l6a3Z0VVpKckZjbUNPVkRNSzV6d0RNeGtEak03MzZCVlZrUWQ0bE0tZzZCb080RHVEbExNeGR4d1hvaUs5a3lVdEtnMFpERWZoMGYtWlV4R0F5N0xDVk4xT29jY2Y3aW03ZVBfcHJURnRnTXZoVllHWVV2R0xlaVpvdUlZQ0xCMHoyZVdCM1kwbFl1UGdZeEJ0SVVDMlNB?oc=5",
+     "source": "IGN",
+     "published": "2026-09-02T07:00:00+00:00"
     }
    ],
-   "report_count": 3
+   "report_count": 4
   },
   {
    "title": "Einbrecher stehlen wertvolle Sammelkarten: Nach einem Unfall klicken die Handschellen - hessenschau.de",
@@ -2211,12 +2267,12 @@
    "report_count": 2
   },
   {
-   "title": "Event-Resultate der Pokémon-Weltmeisterschaften 2026 - pokemon.com",
+   "title": "Event-Resultate der Pokémon-Weltmeisterschaften 2026 - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNC1oSmdLZkM4QVlodVBULTZFcjY2RUZsVDFDVmcyUTV3RjNTQllHUzE0MWV1ejlEelA4eEVsOU9SNDJoZkRMSURhVVM1c1N3MnRRMDJnQmJzUS1LcG1ZQW5MbEVGeGhDOFVKZll2R3prR0NHR1gwUHZUSHZDbmoxUGNDVnNKUFNlVkZUcQ?oc=5",
-   "source": "pokemon.com",
+   "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-08-30T07:00:00+00:00",
-   "summary": "Event-Resultate der Pokémon-Weltmeisterschaften 2026 pokemon.com",
+   "summary": "Event-Resultate der Pokémon-Weltmeisterschaften 2026 Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -2361,9 +2417,9 @@
      "published": "2026-08-27T07:00:00+00:00"
     },
     {
-     "title": "Tom Brady’s Trading Card Store Burglarized 1 Week After Opening - people.com",
+     "title": "Tom Brady’s Trading Card Store Burglarized 1 Week After Opening - People.com",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHBmSGg4aHpSVVJNdVVmOU9TaEd5UG8wUk9VYWFyVjdreFpYRDRzNGZDQWtLc201SXJvQ2ViYzQ4TF80ckNYT05URjhLd1l0R3dqT3BzWXlFMmFGZXlOTG9ZWWMtS3hMZExnUFRNS01TZmRvTjk2TUxPN3A3aG1FalFXMmxIT2FQdFdFcVdQX25UanpnVnc?oc=5",
-     "source": "people.com",
+     "source": "People.com",
      "published": "2026-08-27T07:00:00+00:00"
     },
     {
@@ -2373,9 +2429,9 @@
      "published": "2026-08-28T07:00:00+00:00"
     },
     {
-     "title": "Tom Brady’s Trading Card Store Robbed of $12,000 in Merchandise 1 Week After Opening - Us Weekly",
+     "title": "Tom Brady’s Trading Card Store Robbed of $12,000 in Merchandise 1 Week After Opening - usmagazine.com",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHk2VGxOeWtIZjRhUXVtU2owSFIxdmpVb2N4UVhNS0dZRDZRNEJpWFdJeW5vVW1HVTZtZkc1OV9YX1ZJZEwyUVhtMG1teWNQdTljQ2M2OTZjOWZxeGc5VWRDZFVjejRwUDFxajdSSG5SN1JzdG1hS0xxU3RHcWxHR1NXelg1cW9pVXcxU0x6eU43bDVSbWQ4bW5meGFLNVhPazBTdQ?oc=5",
-     "source": "Us Weekly",
+     "source": "usmagazine.com",
      "published": "2026-08-28T07:00:00+00:00"
     }
    ],
@@ -2419,12 +2475,12 @@
    "report_count": 3
   },
   {
-   "title": "Clarksville Police Identify Suspect in $2,500 Pokémon Card Fraud Case as Andrew Taylor Brown - clarksvilleonline.com",
+   "title": "Clarksville Police Identify Suspect in $2,500 Pokémon Card Fraud Case as Andrew Taylor Brown - Clarksville Online",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ0VpaTAwTEhmWm5QRzlFMGY3THRSMUJKbWotb3Nxb0xzMDZRT0RPNG1yb0RTVjgyZUJGekhaYXl0ajhnbEZVV05kY2ZlUm1BTTJtWnBpWk9JN2l1ZVcxX0Z1SzdqS0YzVDdQNmIzRUFkUmgyN0t2N2drSHhKV2IwVnAxVzZFMUNxNFRRUFpqSmlOaENxaklfX2xHWERaSkpDOEZVZHdvM0lWWjZDd3JVSTJmaFlJSkR2RDB3aU1wSGwySUVvSWU3ZmZEUGg0Q0FZRFE?oc=5",
-   "source": "clarksvilleonline.com",
+   "source": "Clarksville Online",
    "platform": "news",
    "published": "2026-08-28T07:00:00+00:00",
-   "summary": "Clarksville Police Identify Suspect in $2,500 Pokémon Card Fraud Case as Andrew Taylor Brown clarksvilleonline.com",
+   "summary": "Clarksville Police Identify Suspect in $2,500 Pokémon Card Fraud Case as Andrew Taylor Brown Clarksville Online",
    "author": "",
    "category": "betrug",
    "region": "int",
@@ -2438,7 +2494,7 @@
     "pokemon",
     "pokémon"
    ],
-   "first_seen": "2026-09-05T22:03:02.804614+00:00",
+   "first_seen": "2026-09-07T22:55:52.387457+00:00",
    "related": [
     {
      "title": "Clarksville police identify suspect in $2,500 Pokémon card theft. Here’s what we know - WSMV",
@@ -2456,12 +2512,12 @@
    "report_count": 3
   },
   {
-   "title": "Lass dir die Action bei PokémonXP und den Pokémon-Weltmeisterschaften 2026 nicht entgehen - pokemon.com",
+   "title": "Lass dir die Action bei PokémonXP und den Pokémon-Weltmeisterschaften 2026 nicht entgehen - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZGhKcGFOcWpYVkhVQmdGSHRDeFpMRk14OTAwa2tuTVhHVWZ5em1YbmNyNWVRVUxoVkhuZDlhSlZ3SHl0SkZJNTdCMkh6Q3o2QXRDZGdnOUhwV254RkxtMl9RYlIwN3FXMlY4RjdTQmlGdWoxRGxMalNveENhbFB3b1dlaTFHTkxlTmZzMk94b2dtaGNKRjB3eng3bmloM3BXU2lYTDc4TndCdnhOT05BRE8tTENiM1lEbnQ5NFJn?oc=5",
-   "source": "pokemon.com",
+   "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-08-28T07:00:00+00:00",
-   "summary": "Lass dir die Action bei PokémonXP und den Pokémon-Weltmeisterschaften 2026 nicht entgehen pokemon.com",
+   "summary": "Lass dir die Action bei PokémonXP und den Pokémon-Weltmeisterschaften 2026 nicht entgehen Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -2476,9 +2532,9 @@
    "first_seen": "2026-08-27T06:03:55.495288+00:00",
    "related": [
     {
-     "title": "Bei PokémonXP wurden neue Karten für Pokémon-Sammelkartenspiel-Pocket enthüllt - pokemon.com",
+     "title": "Bei PokémonXP wurden neue Karten für Pokémon-Sammelkartenspiel-Pocket enthüllt - Pokemon.com",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjhrVE8tdV9tZXcxeWRNNXlnV1dYakdxS2xXSll0dkJkY1RNYUI5WDI4aUhPYnlvMjFnQUlwQWlWc3Vnb0pFdjNOU3RHSm55cmpObHMzTFhVNGlVUjdWZEpzV2Z0VFhUeFlOMkZuQVVmSHR4dTNEOW1UTUVuT0g4T29GSV9rRGtpcHE0OXNWc015N19RNWpPX1YzX3kyWEtpNi1sY3FQOEdQWnhTTUEyV3RB?oc=5",
-     "source": "pokemon.com",
+     "source": "Pokemon.com",
      "published": "2026-08-28T07:00:00+00:00"
     }
    ],
@@ -2683,12 +2739,12 @@
    "report_count": 1
   },
   {
-   "title": "Die Erweiterung Mega-Entwicklung – Delta-Herrschaft des Pokémon-Sammelkartenspiels erscheint am 6. November 2026 - pokemon.com",
+   "title": "Die Erweiterung Mega-Entwicklung – Delta-Herrschaft des Pokémon-Sammelkartenspiels erscheint am 6. November 2026 - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0RWRVBIVzAzSW1ma2g3ck8yMUs5S3NSTUYyQU1MZXFFVTBsSWcwakJvM0drU2JoS2xMbUp6S3k1TFR1ZkNGQWY0aklwYjMtdUVvZ3UzaUFDZDB5LWs1SDdEWWdXY2dJeW4weGNBNW53dzl6R3d0emNIeHd1QURLNEcwQmdzR21mdElHR0tuR3dtYWxXdEpSUFJVUlYwYVFibHBXdzg0dVhBZmZoelNEWk1sVnBZSENUb05rb0tPWmZZbzNrZm5PQ0xGV1NzY0lFdnZFVkFQeEE?oc=5",
-   "source": "pokemon.com",
+   "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-08-21T22:16:27+00:00",
-   "summary": "Die Erweiterung Mega-Entwicklung – Delta-Herrschaft des Pokémon-Sammelkartenspiels erscheint am 6. November 2026 pokemon.com",
+   "summary": "Die Erweiterung Mega-Entwicklung – Delta-Herrschaft des Pokémon-Sammelkartenspiels erscheint am 6. November 2026 Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -2718,40 +2774,40 @@
    "report_count": 3
   },
   {
-   "title": "Märklin bis Pokemon TCG: Neuer Geheimtipp in Hamburg liegt versteckt im Hinterhof - abendblatt.de",
+   "title": "Märklin bis Pokemon TCG: Neuer Geheimtipp in Hamburg liegt versteckt im Hinterhof - Hamburger Abendblatt",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeFgxUDlBRW5NY2xndjZNMkJlNGN1T0dhSnd0T3NvZFFTZ3lxX1RIOHhmbVl0WlprZmg0TTZLeDg3XzNCZkZvaC1vMFkzOHNGQ2oweFpFTG12YUNXUG5IdmlqOTBBYi1CZ2llZ2pvd0h6X2hWbmpnT1dscXlnWVk3MkIwRE4yQWdwTjRsb0R5bF9fTDRfXzJmZXFsd1k3UmFlQzFkNzNteXExQ0VubVZKQ250M25sZjdmUGNEYWVlY0RsYVdTYzBCVC03aEQ0aldzamlEa1BDbXVvVlU?oc=5",
-   "source": "abendblatt.de",
+   "source": "Hamburger Abendblatt",
    "platform": "news",
    "published": "2026-08-21T07:00:00+00:00",
-   "summary": "Märklin bis Pokemon TCG: Neuer Geheimtipp in Hamburg liegt versteckt im Hinterhof abendblatt.de",
+   "summary": "Märklin bis Pokemon TCG: Neuer Geheimtipp in Hamburg liegt versteckt im Hinterhof Hamburger Abendblatt",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "abendblatt.de",
+   "domain": "hamburgerabendblatt.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-09-03T06:02:49.950107+00:00",
+   "first_seen": "2026-09-02T08:03:32.423859+00:00",
    "related": [],
    "report_count": 1
   },
   {
-   "title": "How a Pokémon card collector tracked down his stolen cards and confronted the alleged thieves - ctvnews.ca",
+   "title": "How a Pokémon card collector tracked down his stolen cards and confronted the alleged thieves - CTV News",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMFJ6dXNuMDNaNzRhWlZkTXQ4aTY1dW1VVEZLWnp2dVdjYXR5NnVaaVRMTlJmN0xKTkRRU3FtMUh6eFVQS1lNZkdZTUVaUDZDWFRzRi1PNl9xeXFVU2hCOTBqMURMNXhINUlFdEp3dGVsaksxN3pkNVRVQTdUM1lBalNNMnlnV2hXUExwZ2NhX1NyNEFnWl96NWFxV3puZ3Y3U2kzcFhCY0NlZzhwZTVxbWpzdXhFbEZDYmNicTVMWjNLZGlrRkV6N1ZxaHNXSFI1?oc=5",
-   "source": "ctvnews.ca",
+   "source": "CTV News",
    "platform": "news",
    "published": "2026-08-20T07:00:00+00:00",
-   "summary": "How a Pokémon card collector tracked down his stolen cards and confronted the alleged thieves ctvnews.ca",
+   "summary": "How a Pokémon card collector tracked down his stolen cards and confronted the alleged thieves CTV News",
    "author": "",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "ctvnews.ca",
+   "domain": "ctvnews.com",
    "logo": "",
    "score": 3,
    "matched": [
@@ -2759,7 +2815,7 @@
     "pokémon",
     "stolen"
    ],
-   "first_seen": "2026-09-01T11:50:49.382306+00:00",
+   "first_seen": "2026-08-21T03:37:04.912248+00:00",
    "related": [],
    "report_count": 1
   },
@@ -2939,12 +2995,12 @@
    "report_count": 1
   },
   {
-   "title": "Erhalte eine Vorschau auf Lugia und Ho-Oh aus Pokémon-Sammelkartenspiel: 30 Jahre - pokemon.com",
+   "title": "Erhalte eine Vorschau auf Lugia und Ho-Oh aus Pokémon-Sammelkartenspiel: 30 Jahre - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUHJZUGVmYlhxcWtQRk9HS1d0XzBMdF8yUDk2SkVZT0RzYXdDVG03dkoxb25PMWJpM3plX3d1WnIyb2tGQlN0X1FURUJXUnIzV1NoWV9SVUN6eFpqa2U4Qmtvc3lENGZxeDYtNjZaUWlXbFowaU1lenE3MDRXS0YtNGxhbVZGYzVqWFc4Qm9YUjBuWXE3TlZQRXhVWmhsdlpVOWx1bFdZelhUblJtM2drM2pR?oc=5",
-   "source": "pokemon.com",
+   "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-08-19T07:00:00+00:00",
-   "summary": "Erhalte eine Vorschau auf Lugia und Ho-Oh aus Pokémon-Sammelkartenspiel: 30 Jahre pokemon.com",
+   "summary": "Erhalte eine Vorschau auf Lugia und Ho-Oh aus Pokémon-Sammelkartenspiel: 30 Jahre Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -2983,12 +3039,12 @@
    "report_count": 1
   },
   {
-   "title": "Schau dir einige elektrisierende Pikachu-Karten aus Pokémon-Sammelkartenspiel: 30 Jahre genauer an - pokemon.com",
+   "title": "Schau dir einige elektrisierende Pikachu-Karten aus Pokémon-Sammelkartenspiel: 30 Jahre genauer an - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY3p5dVFrMGJqYXVfZDM4aGdpMlFwUW1IaWdiSFJVdXQyUVRkZWdrclhwQ2M1MTlxcF8taUtDeXFicHVaZ1Y2bkZSNG9BY1NjR1Jnc21GbGh5WXgtdEdzdy1DTDNYZ3NFMHRrdGlZd3pXdHR2ZkNvbDBFc3RxUXN3UU56NWJydGl3eXVMX056X3NiRlozRUdHZkVsbUNONWZuNXZlWUpMTHFzU0pHbUtsX09nYklWNFlQcVFDNERlNVlUWVZmcmNLOA?oc=5",
-   "source": "pokemon.com",
+   "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-08-18T07:00:00+00:00",
-   "summary": "Schau dir einige elektrisierende Pikachu-Karten aus Pokémon-Sammelkartenspiel: 30 Jahre genauer an pokemon.com",
+   "summary": "Schau dir einige elektrisierende Pikachu-Karten aus Pokémon-Sammelkartenspiel: 30 Jahre genauer an Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -3005,12 +3061,12 @@
    "report_count": 1
   },
   {
-   "title": "Wirf in diesem Video-Interview mit YOSHIROTTEN einen Blick auf die Zukunft des Pokémon-Sammelkartenspiels - pokemon.com",
+   "title": "Wirf in diesem Video-Interview mit YOSHIROTTEN einen Blick auf die Zukunft des Pokémon-Sammelkartenspiels - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPREVHbW9zSjM2VktsRmI1UmZMSlFoVVlPQ0hyckxUcEpsMjgwelR6TTlJRVJreS1BdXl5N2VUa1pZSXJleDJCbThKSlpRNFdBY29MTjM1SU9jaVRTRFdQUU9HclgybDVDZzBIa1F4Y3FKNFhDSnYxR2tCdU44R3Jzc2l4dVFSWU5EUVNESUVsNkFtMlJkQVhqZXdhQkZNOU9fQ1pZS2FabkYyYUl4eW5iSmxwaHVEYjdXYjVWUFRBOTJxTkhsWmRwREJjZTRGdlczWkRJ?oc=5",
-   "source": "pokemon.com",
+   "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-08-18T07:00:00+00:00",
-   "summary": "Wirf in diesem Video-Interview mit YOSHIROTTEN einen Blick auf die Zukunft des Pokémon-Sammelkartenspiels pokemon.com",
+   "summary": "Wirf in diesem Video-Interview mit YOSHIROTTEN einen Blick auf die Zukunft des Pokémon-Sammelkartenspiels Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -3025,9 +3081,9 @@
    "first_seen": "2026-08-18T15:58:05.243361+00:00",
    "related": [
     {
-     "title": "Wirf einen ersten Blick auf Pikachu-Karten aus Pokémon-Sammelkartenspiel: 30 Jahre - pokemon.com",
+     "title": "Wirf einen ersten Blick auf Pikachu-Karten aus Pokémon-Sammelkartenspiel: 30 Jahre - Pokemon.com",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbm9uQWpMVjQ5enNraWlZaGVXWVdoWkt0UWExb1BNTVJwdGx1T3otTTVEaTVVMm41NmNmRUthdXRGdENwWExndGNtZUNQcG05NFc2WDhYU2NHNkVRakJJbWIzdFkxMkVsbnBoS29KX3FEdjlVbm5jSlg3TDBNcDZOVWFjSVZHT0lkWGVGZzRKMTJZb1oxUUQ4LUIteWJFeGUwSEhqZExlcTZzSlF4MjltenJlSQ?oc=5",
-     "source": "pokemon.com",
+     "source": "Pokemon.com",
      "published": "2026-08-12T07:00:00+00:00"
     }
    ],
@@ -3147,12 +3203,12 @@
    "report_count": 1
   },
   {
-   "title": "Freu dich auf eine Pikachu-Parade in Pokémon-Sammelkartenspiel: 30 Jahre - pokemon.com",
+   "title": "Freu dich auf eine Pikachu-Parade in Pokémon-Sammelkartenspiel: 30 Jahre - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYklGWW5ud1ktSUdiVWZBUVBodEs3eEhKbVlJdHI4RU80WUxOWWlPLVNHN1JrYVNYNm5mSEFGbzBFMlB0MjRwRGwwZ3k1YV9sSkVLamNEbGNfYzIxRzZYTlFnZlVkdjZnVFp6X3loX0NTMXF3MmpXNUxrT0dqZy1JUlNxXzZDeHM2b1EyLWJmaXZNeW5tQzVqd3FydW8ySzBZNFZiT1dR?oc=5",
-   "source": "pokemon.com",
+   "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-08-17T07:00:00+00:00",
-   "summary": "Freu dich auf eine Pikachu-Parade in Pokémon-Sammelkartenspiel: 30 Jahre pokemon.com",
+   "summary": "Freu dich auf eine Pikachu-Parade in Pokémon-Sammelkartenspiel: 30 Jahre Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -3208,12 +3264,12 @@
    "report_count": 3
   },
   {
-   "title": "Second man jailed in UK over £62,000 Pokemon card theft - rte.ie",
+   "title": "Second man jailed in UK over £62,000 Pokemon card theft - RTE.ie",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsMXpfbDAtN1ByZ3JnNzc5TkdSeGVMSW1Zb3ZqQkJPU0gtY1pERFhWT0RPT1AybXRkUURHcWNtUExQeDUtUVBJdU9jLVE5WDR3ZjlMRU5RZm1DQURsTHE1MmJka2ZIbmRGcWhBN09BQmlMRDduaEhWNllzODI?oc=5",
-   "source": "rte.ie",
+   "source": "RTE.ie",
    "platform": "news",
    "published": "2026-08-15T07:00:00+00:00",
-   "summary": "Second man jailed in UK over £62,000 Pokemon card theft rte.ie",
+   "summary": "Second man jailed in UK over £62,000 Pokemon card theft RTE.ie",
    "author": "",
    "category": "einbruch",
    "region": "int",
@@ -3308,12 +3364,12 @@
    "report_count": 2
   },
   {
-   "title": "$100K+ worth of Pokémon cards stolen from Castle Hills trading card shop, owner says - KSAT",
+   "title": "$100K+ worth of Pokémon cards stolen from Castle Hills trading card shop, owner says - ksat.com",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY21HRHdQNmF0WlZqN0xwTjlJUHI1dmJ4ZkJvczdQMkZWOEd4NXF0S2pUYnJlQnhXTVVkMl82SjZINEtYcmpWd21vNTJzR3U1Uno0RlhEaEJvLXpKN1l1NEFKM1NESklXeTdrVDBmRWlKMFZUel8xV1hXdkk3U0F4RmR1U0RqYzFZR2JFQVZIdWJKRDRHblR0bzRSWTgwZFlEdVdicnBWeUpZSk91N2lQWV9YUHk1eG92ek9pZ2U1aWxVVjZvZzNPa3JXYw?oc=5",
-   "source": "KSAT",
+   "source": "ksat.com",
    "platform": "news",
    "published": "2026-08-11T07:00:00+00:00",
-   "summary": "$100K+ worth of Pokémon cards stolen from Castle Hills trading card shop, owner says KSAT",
+   "summary": "$100K+ worth of Pokémon cards stolen from Castle Hills trading card shop, owner says ksat.com",
    "author": "",
    "category": "einbruch",
    "region": "int",
@@ -3329,17 +3385,17 @@
     "stolen",
     "trading card"
    ],
-   "first_seen": "2026-08-12T20:43:30.149961+00:00",
+   "first_seen": "2026-08-13T10:44:13.665030+00:00",
    "related": [],
    "report_count": 1
   },
   {
-   "title": "Pokemon cards raid leaves shop owner 'heartbroken' - bbc.com",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzTnhuQjYxSENaTlhsQV9TZzN5STFVZDV4bGxHSHF5UXZkT1MtYmx3SVljWFQ4WDViREdlZ2MxbzFOckg0Q2NjWDdJck9aV3JzdXJ4cll0TDFOQQ?oc=5",
-   "source": "bbc.com",
+   "title": "Pokemon cards raid leaves shop owner 'heartbroken' - BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83VXQ1WXJHd3NzbDJ6SlJBOFNzWHJiMW5WUTZFeHo1Q0dqbVF0VWJ1Qm16UElZX05PSWFwYUpGNGR5anpvc3NEdUM3eVFJbWJCZDhRbWphYTJzOWFr?oc=5",
+   "source": "BBC",
    "platform": "news",
    "published": "2026-08-11T07:00:00+00:00",
-   "summary": "Pokemon cards raid leaves shop owner 'heartbroken' bbc.com",
+   "summary": "Pokemon cards raid leaves shop owner 'heartbroken' BBC",
    "author": "",
    "category": "behoerden",
    "region": "int",
@@ -3353,16 +3409,9 @@
     "pokémon",
     "raid"
    ],
-   "first_seen": "2026-08-31T16:03:10.448066+00:00",
-   "related": [
-    {
-     "title": "Pokemon cards raid leaves shop owner 'heartbroken' - BBC",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83VXQ1WXJHd3NzbDJ6SlJBOFNzWHJiMW5WUTZFeHo1Q0dqbVF0VWJ1Qm16UElZX05PSWFwYUpGNGR5anpvc3NEdUM3eVFJbWJCZDhRbWphYTJzOWFr?oc=5",
-     "source": "BBC",
-     "published": "2026-08-11T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
+   "first_seen": "2026-08-12T20:43:30.150499+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Pokémon TCG Pocket Tier-List: Das sind die besten Meta Decks - jetzt mit Herrscher der Lüfte/B4 (August 2026) - GamePro",
@@ -3387,12 +3436,12 @@
    "report_count": 1
   },
   {
-   "title": "Streame die Panels der bevorstehenden PokémonXP-Events live - pokemon.com",
+   "title": "Streame die Panels der bevorstehenden PokémonXP-Events live - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY0N6WnNqX21jV21jUlFjb0VDRG5MNHFlSF9aa3R3NHR3c3JfUmJXZk42aWp0SDdHWDlFNUd4NWctS2hZZERjRUZBd3JJMUhuVmtjVUtfZjk2WjVvZHRsVFU0LUFMeHZBR2plV1BHZXN1UmtsTWhVeEc2U0lqeE9LczREZkdqTlM4cWZfa1d0N0p2LUZjMGc?oc=5",
-   "source": "pokemon.com",
+   "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-08-11T07:00:00+00:00",
-   "summary": "Streame die Panels der bevorstehenden PokémonXP-Events live pokemon.com",
+   "summary": "Streame die Panels der bevorstehenden PokémonXP-Events live Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -3431,18 +3480,18 @@
    "report_count": 1
   },
   {
-   "title": "Pokémon shop owner wakes up to shattered store and more than $300K worth of cards stolen - TMJ4 News",
+   "title": "Pokémon shop owner wakes up to shattered store and more than $300K worth of cards stolen - tmj4.com",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZHUzdUhKMlo4MVhxaWROZDFuS001R29TWUZUd0JxaGZNcHZ1Y05iT1NjRi1lOWd4LTUtUG5JSVRNTTlWUHJmdFU1dXN6LUVNY2NUdmRpcG02YV8yTUlYbU1mQWt0RFhmMUc1T29pX3ZSaTRCbXAwRDVTSUF6Z1RWSHRWQVYwd1FsRHVFZHZHeXN4X0NQZ2JCRkpkbnY0cXAwWXAyX3pfeGlXV0JESHBhMHpjbERET21UaS01cFZzMTZkclJBZ2Y4RDVyYlhPWXl6MUhvM0JnUm9UY1BVSGZtVjBTR1VHT2xqLS1YSWt3?oc=5",
-   "source": "TMJ4 News",
+   "source": "tmj4.com",
    "platform": "news",
    "published": "2026-08-10T07:00:00+00:00",
-   "summary": "Pokémon shop owner wakes up to shattered store and more than $300K worth of cards stolen TMJ4 News",
+   "summary": "Pokémon shop owner wakes up to shattered store and more than $300K worth of cards stolen tmj4.com",
    "author": "",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "tmj4news.com",
+   "domain": "tmj4.com",
    "logo": "",
    "score": 3,
    "matched": [
@@ -3450,7 +3499,7 @@
     "pokémon",
     "stolen"
    ],
-   "first_seen": "2026-08-12T22:03:38.604848+00:00",
+   "first_seen": "2026-08-12T20:43:30.150683+00:00",
    "related": [],
    "report_count": 1
   }
