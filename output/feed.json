@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T05:55:50.138901+00:00",
+ "generated": "2026-10-02T06:03:49.081314+00:00",
  "builder": "2026-07-25g",
  "count": 150,
  "new": 0,
@@ -354,15 +354,22 @@
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "giga.de",
+   "domain": "hna.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
    "first_seen": "2026-10-01T13:34:59.271123+00:00",
-   "related": [],
-   "report_count": 1
+   "related": [
+    {
+     "title": "Stundenlang angestanden für nichts: Pokémon-Fans toben nach Verkaufsstart - HNA",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQjMybGY0dTA2eUNlT0w1WThzaXNNVlJOd2twZjZ1SFRvWmdkWFI2TFRHMkpPN2tHWjNncUlveFZKbXhYOEdtam43VEw3OVRsNVd0V28xbjMyVkYwTm5KUVBNdGtmX1cyYVJGaEJLaEV2R3psTkpiRGdrYVZoTTNwZmNVQVZtYjNWRXZMYWJuazNBcm05YzhDaGh6cUFjWXVGYm5kRDZ0elJiUDJ2X2RzYll6SU9sNHg3NEctRjd6eVE?oc=5",
+     "source": "HNA",
+     "published": "2026-09-19T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Es ist wieder so weit: Neue Pokémon-Karten kommen ins Happy Meal bei McDonald’s - jpgames.de",
@@ -1564,28 +1571,6 @@
    "report_count": 1
   },
   {
-   "title": "Stundenlang angestanden für nichts: Pokémon-Fans toben nach Verkaufsstart - HNA",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQjMybGY0dTA2eUNlT0w1WThzaXNNVlJOd2twZjZ1SFRvWmdkWFI2TFRHMkpPN2tHWjNncUlveFZKbXhYOEdtam43VEw3OVRsNVd0V28xbjMyVkYwTm5KUVBNdGtmX1cyYVJGaEJLaEV2R3psTkpiRGdrYVZoTTNwZmNVQVZtYjNWRXZMYWJuazNBcm05YzhDaGh6cUFjWXVGYm5kRDZ0elJiUDJ2X2RzYll6SU9sNHg3NEctRjd6eVE?oc=5",
-   "source": "HNA",
-   "platform": "news",
-   "published": "2026-09-19T07:00:00+00:00",
-   "summary": "Stundenlang angestanden für nichts: Pokémon-Fans toben nach Verkaufsstart HNA",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "hna.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-09-19T17:21:54.557917+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Pokémon cards worth thousands stolen in less than 2 minutes",
    "url": "https://bsky.app/profile/ctvnewsvancouver.bsky.social/post/3mvtsbaugcr26",
    "source": "@ctvnewsvancouver.bsky.social",
@@ -2144,12 +2129,12 @@
    "report_count": 1
   },
   {
-   "title": "30 Jahre Pokémon: Neue Sammelkarten kommen auf den Markt! - techrush.de",
+   "title": "30 Jahre Pokémon: Neue Sammelkarten kommen auf den Markt! - techrush",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQajhIbzNjQTVMTkp0YjY1VXlmUmZsd3ZHejRRaERLRmF2SzRRbmhjS2RrR2hYeGdaLTJCdDBHc3BnQjFsNUplem9TS2NvejRqU1ZfLVM3YVhIV1pBNVlUVFNTNDJ0TkVSQmpEdTFQUUllVTdueGFROUNfdXQ0ZV96TUtR?oc=5",
-   "source": "techrush.de",
+   "source": "techrush",
    "platform": "news",
    "published": "2026-09-16T07:00:00+00:00",
-   "summary": "30 Jahre Pokémon: Neue Sammelkarten kommen auf den Markt! techrush.de",
+   "summary": "30 Jahre Pokémon: Neue Sammelkarten kommen auf den Markt! techrush",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -2161,7 +2146,7 @@
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-09-16T13:38:39.879028+00:00",
+   "first_seen": "2026-09-16T14:03:04.363574+00:00",
    "related": [],
    "report_count": 1
   },
@@ -2786,28 +2771,6 @@
    "report_count": 1
   },
   {
-   "title": "20-jähriger bricht Studium ab, um Pokémon-Karten zu verkaufen - heute macht er damit 7 Millionen Euro Umsatz im Jahr - GamePro",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ3dyR250MEFCa3Rfek1uRUwtd1V2dHZvTzlKeVI2MjBROVJoYlRlTmNlZ1J3LXdnV1ZCN2ZSWVZHN1FBNmZxLUxUZ3d6d2RkTkhjVkZhM2I4WkdlVDNpY252Zjg1VWx0M3BmRlhrR3RKSGdwNG5mZmVMOVlWUjJ3dHg1NzFPcFdPX05ZOS13VjVCVFRHeDAxWg?oc=5",
-   "source": "GamePro",
-   "platform": "news",
-   "published": "2026-09-06T07:00:00+00:00",
-   "summary": "20-jähriger bricht Studium ab, um Pokémon-Karten zu verkaufen - heute macht er damit 7 Millionen Euro Umsatz im Jahr GamePro",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "gamepro.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-09-07T10:02:53.168190+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Diese neuen Pokémon-Plüschtiere könnten echte Fan-Favoriten werden - jpgames.de",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXhidmY0U3JJbzlEQkxaVVJPOFRsYTh5SXR0ZXI5elhMV2tlRVRsUmR5ZndsYzgwbjRiVHdocDdCckxtNmpNQmxZcm81Vll3eC1rcWFfLURkT0plbjVzZl9XWUZwcFFOcWs0NlZSdmtsWVA0MUFya1ZpNlB0MHpPNFRCcHRoTXlFR1lsNjBFaW9RR3Y0azBLMG4zbmI?oc=5",
    "source": "jpgames.de",
@@ -3083,6 +3046,42 @@
    "report_count": 3
   },
   {
+   "title": "Die Pokémon Scalper Mafia kauft ALLES leer! 😳 #shorts",
+   "url": "https://www.youtube.com/shorts/ZrKubPSg5LQ",
+   "source": "Serhasch",
+   "platform": "youtube",
+   "published": "2026-09-02T14:01:48+00:00",
+   "summary": "✔️ Code SERHASCH für 1 Gratis Booster ab 30€ bei https://tcgviert.com/products/gratis-serhash-booster ( Booster im Warenkorb + Code = Gratis Pack ) # Werbung\n\n🔔 Abonniert für mehr Pokémon Karten Opening Videos! \n\nDas Pokémon-Sammelkartenspiel (engl. Pokémon Trading Card Game, kurz TCG) ist ein Samme",
+   "author": "Serhasch",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "https://i3.ytimg.com/vi/FnBo5faPKzQ/hqdefault.jpg",
+   "domain": "serhasch.de",
+   "logo": "",
+   "score": 8,
+   "matched": [
+    "booster",
+    "pokemon",
+    "pokémon",
+    "sammelkarten",
+    "scalper",
+    "tcg",
+    "trading card",
+    "yu-gi-oh"
+   ],
+   "first_seen": "2026-09-30T12:03:29.185262+00:00",
+   "related": [
+    {
+     "title": "NEUER Pokémon Film 2027 (Scalper Endboss😂) #shorts",
+     "url": "https://www.youtube.com/shorts/FnBo5faPKzQ",
+     "source": "Serhasch",
+     "published": "2026-08-31T09:23:49+00:00"
+    }
+   ],
+   "report_count": 2
+  },
+  {
    "title": "if i had any rare pokemon cards as a kid i probably would have done some dumb shit too. i got multiple rare-ish yu gi oh cards stolen from me because of me stupidly trusting random",
    "url": "https://bsky.app/profile/miii-cho.bsky.social/post/3mujhje2an22b",
    "source": "@miii-cho.bsky.social",
@@ -3171,6 +3170,28 @@
     "news:de"
    ],
    "first_seen": "2026-09-01T16:03:31.016887+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Er frittierte für zehn Dollar die Stunde – jetzt macht er Millionen mit Pokémon - Berliner Zeitung",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzRhM3NjdUt3OU5RTE5feHVUdEtMSEhfWGVYZmp1QkcySmdCa2lzQ21vN1Y2S0phY003cHotbWpNektjUnRnTUk0NG1hRlExMmFWenAycHFKblRGTW9La3gzOWl4M1NFY3VtdUluS1lITU5tX28weHptUTE1WjQ5NThoX2dKNGhmRjlXNDZqMS13Q1g5ZGJGZ0RRQUZBa0d4d01QLUdiakN4QTFreHdzZF9SWkpqUkRCNHNfQlYtcVN3YmFSM0E?oc=5",
+   "source": "Berliner Zeitung",
+   "platform": "news",
+   "published": "2026-09-01T07:00:00+00:00",
+   "summary": "Er frittierte für zehn Dollar die Stunde – jetzt macht er Millionen mit Pokémon Berliner Zeitung",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "berlinerzeitung.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-09-01T05:23:04.571988+00:00",
    "related": [],
    "report_count": 1
   },
@@ -3469,9 +3490,9 @@
    "first_seen": "2026-09-16T10:03:22.706592+00:00",
    "related": [
     {
-     "title": "Clarksville police identify suspect in alleged $2,500 Pokémon card fraud case - WZTV",
+     "title": "Clarksville police identify suspect in alleged $2,500 Pokémon card fraud case - fox17.com",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcmFLeWMxLUtodGRLeGVoOGZBSDFVR0RxYU1rb3pOaXhFTUdFSkZOZnNGUTZ4dTN5bENiYl9tNFA1a1lRdE1WUk9oUjVrejhlV3hlSVIxRVFKSExZbTFvcENVanJfU2ZTYThDZWxQVTlmWlk4dnZtNldUV0tZOTZxNHhkajF5T0dmVUs1YUVUMm9jaWs?oc=5",
-     "source": "WZTV",
+     "source": "fox17.com",
      "published": "2026-08-28T07:00:00+00:00"
     }
    ],
@@ -3806,12 +3827,12 @@
    "report_count": 2
   },
   {
-   "title": "Man charged in Tacoma robberies involving Pokémon cards, stolen necklaces, shooting victim in the head - king5.com",
+   "title": "Man charged in Tacoma robberies involving Pokémon cards, stolen necklaces, shooting victim in the head - KING5.com",
    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObmFtWHJlZXVqZXhWb2VUMTg0ZlNVYWxKTmZudl93dkhYRUxkVmdQZzJwRXpXdWtFbGUteDFsdVZhOXBwbm40M0RLTW5jRThFdlhyNXM4MkFhUUpCd1Z3OVlJdGc4WEtNbHZDeWVxQXhOX3FLWGRKdHY0cVRBVE9lQkFObEdBc3RhaGFSd2RKc1BQQ3gyWl8tVXBRV2JtcWlZTmFGUEl1YThpUzM5bVJVeGlJU1VNcGU2Z2NSLVdmTDMzbGktajF1TjQ2clpqRWRIVGJPUDFXNGFKUVhpZFhBVU1yZHB1Qnk1SHd0S0VKZVVCMXN4dmMzSDU2YlRLREg1SDMwNGhSQ21IT0dobGc?oc=5",
-   "source": "king5.com",
+   "source": "KING5.com",
    "platform": "news",
    "published": "2026-08-21T07:00:00+00:00",
-   "summary": "Man charged in Tacoma robberies involving Pokémon cards, stolen necklaces, shooting victim in the head king5.com",
+   "summary": "Man charged in Tacoma robberies involving Pokémon cards, stolen necklaces, shooting victim in the head KING5.com",
    "author": "",
    "category": "einbruch",
    "region": "int",
@@ -3980,18 +4001,18 @@
    "report_count": 1
   },
   {
-   "title": "From deli meat to Pokémon: Man accused of $1,500 Walmart theft - Minden Press-Herald",
+   "title": "From deli meat to Pokémon: Man accused of $1,500 Walmart theft - press-herald.com",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFZxdnhJb0lWbTRjc0VpSWRDSEFOZms0STh1a0JlcHU0d2hwMDVEQjJReFp1N1NsV1p2ZnVwZHNGcWVHZ1FrZVJIV2pfaWtZb0NCbkN4c0ptd0xCdkFGdVFlR09SRDBiRUdQLVpGbW1Yck1NaWN2RWc0czBBNjhlZ0UzMDZfU1JSLWVrWkxR?oc=5",
-   "source": "Minden Press-Herald",
+   "source": "press-herald.com",
    "platform": "news",
    "published": "2026-08-19T14:12:10+00:00",
-   "summary": "From deli meat to Pokémon: Man accused of $1,500 Walmart theft Minden Press-Herald",
+   "summary": "From deli meat to Pokémon: Man accused of $1,500 Walmart theft press-herald.com",
    "author": "",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "mindenpress-herald.com",
+   "domain": "press-herald.com",
    "logo": "",
    "score": 3,
    "matched": [
@@ -3999,7 +4020,7 @@
     "pokémon",
     "theft"
    ],
-   "first_seen": "2026-08-19T15:57:26.784416+00:00",
+   "first_seen": "2026-08-19T14:19:46.316223+00:00",
    "related": [],
    "report_count": 1
   }
