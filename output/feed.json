@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-03T11:52:02.646193+00:00",
+ "generated": "2026-10-03T12:03:38.257679+00:00",
  "builder": "2026-07-25g",
  "count": 150,
- "new": 4,
+ "new": 0,
  "items": [
   {
    "title": "30 Jahre Pokémon: 10 neue Sammelkarten-Tins ab 13,99 Euro und Boosterbundle bei Amazon - PC Games (DE)",
@@ -399,18 +399,18 @@
    "report_count": 3
   },
   {
-   "title": "Trading card shop has message to 'dummies' who broke in, stole empty cases, binders - wyff4.com",
+   "title": "Trading card shop has message to 'dummies' who broke in, stole empty cases, binders - WYFF",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wTEpMM2JyNmhmSVY5SDVfTTFxRHBEc1JGWXUxLWZ3SnJwLXl3TzJFdVpGMUlyUjkxeENvb2N0T0ZiYko1Sm9xaHR0Y3dLcFl3MU84OHhJZDBNZ0w2RnBUZUgwbHk0UXR1RHlsZkdhNA?oc=5",
-   "source": "wyff4.com",
+   "source": "WYFF",
    "platform": "news",
    "published": "2026-10-01T12:25:00+00:00",
-   "summary": "Trading card shop has message to 'dummies' who broke in, stole empty cases, binders wyff4.com",
+   "summary": "Trading card shop has message to 'dummies' who broke in, stole empty cases, binders WYFF",
    "author": "",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "wyff4.com",
+   "domain": "wyff.com",
    "logo": "",
    "score": 3,
    "matched": [
@@ -418,7 +418,7 @@
     "card shop",
     "trading card"
    ],
-   "first_seen": "2026-10-02T08:03:40.482534+00:00",
+   "first_seen": "2026-10-01T13:34:59.270693+00:00",
    "related": [],
    "report_count": 1
   },
@@ -541,28 +541,35 @@
    "report_count": 2
   },
   {
-   "title": "FBI says ShinyHunters leader arrested as Pokemon-themed hacking group faces probe - Dexerto",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONDl3ZVY3cUJFS0RrU2FEV3dHUEQzRFJ2V3I2YmxTcnk2N2twVzdPQTNicFhITUxKSlFMZFFudnZzcm9NYUhMSFpKQUdJclhGTFdrVTFHV01CaEV5TktTYnVlejVhZXVIMUNMVzRxMzM0S28wVEJjeDIyTlBXMEZmbTAzZDFDb1BrR0YtcEYtNnhULWNNMmJUazcyckNGU081MW02U2pvVEtMOU5ibGw2RjJheGxDVzM2ek9aLUd2OA?oc=5",
-   "source": "Dexerto",
-   "platform": "news",
+   "title": "Friend had a pokemon themed party today and for one of the activities we painted over counterfeit/hand me down pokemon cards n it was so fun",
+   "url": "https://bsky.app/profile/abracafckyou.bsky.social/post/3mwh32tx6dc2y",
+   "source": "@abracafckyou.bsky.social",
+   "platform": "bluesky",
    "published": "2026-09-29T16:21:19+00:00",
-   "summary": "FBI says ShinyHunters leader arrested as Pokemon-themed hacking group faces probe Dexerto",
-   "author": "",
-   "category": "behoerden",
+   "summary": "Friend had a pokemon themed party today and for one of the activities we painted over counterfeit/hand me down pokemon cards n it was so fun",
+   "author": "✨Karli✨ MAUL ERA",
+   "category": "betrug",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "dexerto.com",
+   "domain": "abracafckyoubskysocial.com",
    "logo": "",
    "score": 3,
    "matched": [
-    "arrested",
+    "counterfeit",
     "pokemon",
     "pokémon"
    ],
-   "first_seen": "2026-10-03T11:52:02.632835+00:00",
-   "related": [],
-   "report_count": 1
+   "first_seen": "2026-09-26T21:20:16.740571+00:00",
+   "related": [
+    {
+     "title": "FBI says ShinyHunters leader arrested as Pokemon-themed hacking group faces probe - Dexerto",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONDl3ZVY3cUJFS0RrU2FEV3dHUEQzRFJ2V3I2YmxTcnk2N2twVzdPQTNicFhITUxKSlFMZFFudnZzcm9NYUhMSFpKQUdJclhGTFdrVTFHV01CaEV5TktTYnVlejVhZXVIMUNMVzRxMzM0S28wVEJjeDIyTlBXMEZmbTAzZDFDb1BrR0YtcEYtNnhULWNNMmJUazcyckNGU081MW02U2pvVEtMOU5ibGw2RjJheGxDVzM2ek9aLUd2OA?oc=5",
+     "source": "Dexerto",
+     "published": "2026-09-29T16:21:19+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Pokémon-Karten: Netto verkauft japanisches 30-Jahre-Display zum fairen Preis - giga.de",
@@ -688,9 +695,9 @@
    "first_seen": "2026-09-28T16:04:24.176181+00:00",
    "related": [
     {
-     "title": "Pokémon wird 30 – Amazon lässt die Jubiläums-Boxen nur per Einladung in den Warenkorb - T-Online",
+     "title": "Pokémon wird 30 – Amazon lässt die Jubiläums-Boxen nur per Einladung in den Warenkorb - t-online.de",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMkZwMXM0b01UWUhyeEo3T0doYl9ESzdfbjZ1WmY0c0RKN0NGb05CSVRrWVhUQ1FZWm45ZXIxeGQyT0FFV2VyeUFPcDQ5dnB5WjVVbkZLQWthWkxBSDNYWnFURFNuT3ktaU00SzI4VWxIem1FbEl5YU92QUozUTFjUUNJZ2pFSDRuRUNvczhONlljN3ZBUVdBM2EwYzYtbE5HdThrV0REamM0Ni1CTE1BSGM3ZE5PV20zQldNMURqbk9vNTlhb1p0ZDEtYkRoalJEVHBad0RFTXpDRTlf?oc=5",
-     "source": "T-Online",
+     "source": "t-online.de",
      "published": "2026-09-28T07:00:00+00:00"
     }
    ],
@@ -817,37 +824,6 @@
    "report_count": 3
   },
   {
-   "title": "If you weren't sure if card and game grading was a nonsense scam that afflicts only the most bizarre of collectors;\n\nI saw a Kirby's friend Nago hanafuda card, graded mint 10, list",
-   "url": "https://bsky.app/profile/shinsua.bsky.social/post/3mvmghccdf225",
-   "source": "@shinsua.bsky.social",
-   "platform": "bluesky",
-   "published": "2026-09-26T19:58:27.520000+00:00",
-   "summary": "If you weren't sure if card and game grading was a nonsense scam that afflicts only the most bizarre of collectors;\n\nI saw a Kirby's friend Nago hanafuda card, graded mint 10, listed for $100\n\nIt comes from a full hanafuda deck that was originally around $30 usd",
-   "author": "Shinsua🎐♨️",
-   "category": "betrug",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "shinsuabskysocial.com",
-   "logo": "",
-   "score": 4,
-   "matched": [
-    "graded",
-    "grading",
-    "scam"
-   ],
-   "first_seen": "2026-09-16T06:03:06.012853+00:00",
-   "related": [
-    {
-     "title": "Friend had a pokemon themed party today and for one of the activities we painted over counterfeit/hand me down pokemon cards n it was so fun",
-     "url": "https://bsky.app/profile/abracafckyou.bsky.social/post/3mwh32tx6dc2y",
-     "source": "@abracafckyou.bsky.social",
-     "published": "2026-09-26T19:58:27.520000+00:00"
-    }
-   ],
-   "report_count": 2
-  },
-  {
    "title": "Pokémon TCG-Fan findet Ordner mit seltenen Karten aus der Kindheit wieder – darin sind zahlreiche Schätze versteckt, die mehrere tausend Euro wert sein könnten - GamePro",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVVLc0JZTWRwM2YzUndmMDJXVWdGX08wVVRUZXoyMnFRV0ZIZENZaXZYRE1CNlhKV3dMRFFzUWFjdmRfSHdIXzRPQWhqeGxUMm5qd0MxOWRXbVlsbkladFVHT2stU080TnB2WnZYWmVFd2I5YlhtZFRVa3pXZEdORUdfSkRiS0VuOFNMYkY4RVA?oc=5",
    "source": "GamePro",
@@ -877,18 +853,18 @@
    "report_count": 2
   },
   {
-   "title": "Repeat Pokemon heist pushes Winnipeg owner to quit - globalnews.ca",
+   "title": "Repeat Pokemon heist pushes Winnipeg owner to quit - Global News",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSWw5TnJwUTFZU1JqRmtVUGlfYVVqb2NLaF9LRFA4RmNSalllWFhRNDRZd2pzbTA5aFctbG9SWEctMlVmT3NnNGRZZmZuRTRkWUZYVXRrMlBGb0s5Tk9OUlJNSTlmTl8zMnNBTVdZWENrdnEydUhxbjhtWWU5Wkt2Ykxqaw?oc=5",
-   "source": "globalnews.ca",
+   "source": "Global News",
    "platform": "news",
    "published": "2026-09-26T12:27:06+00:00",
-   "summary": "Repeat Pokemon heist pushes Winnipeg owner to quit globalnews.ca",
+   "summary": "Repeat Pokemon heist pushes Winnipeg owner to quit Global News",
    "author": "",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "globalnews.ca",
+   "domain": "globalnews.com",
    "logo": "",
    "score": 3,
    "matched": [
@@ -896,7 +872,7 @@
     "pokemon",
     "pokémon"
    ],
-   "first_seen": "2026-09-27T00:45:08.190043+00:00",
+   "first_seen": "2026-09-26T16:49:37.858615+00:00",
    "related": [],
    "report_count": 1
   },
@@ -1886,30 +1862,6 @@
     }
    ],
    "report_count": 2
-  },
-  {
-   "title": "Pokémon cards worth thousands stolen in less than 2 minutes - guelph.ctvnews.ca",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkJXaUdPQlFCaE9RN1JkQm5Za1k3WC1hSTRHT1VTc0dOMDlPa01HLThDMDUya2w5UE9Cc2g2Vnc4TVRnZVN3d2dhZjUxTHFTZWxLNkd2anZmaEV1VDFUTHlhT3Z6anpTay1UaXZPaWgtZjAzMjMyWWZ5ZEhCYU9zMTNFcjJwXzFQdC1RUjhjOGxDYldUcGpGMG9nWnBKblNjREpORkdZVG0zTGdhTXNPZDgzYTN4Q0JCLWt0QzBB?oc=5",
-   "source": "guelph.ctvnews.ca",
-   "platform": "news",
-   "published": "2026-09-18T07:00:00+00:00",
-   "summary": "Pokémon cards worth thousands stolen in less than 2 minutes guelph.ctvnews.ca",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "guelph.ctvnews.ca",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "pokemon",
-    "pokémon",
-    "stolen"
-   ],
-   "first_seen": "2026-09-26T05:12:42.448797+00:00",
-   "related": [],
-   "report_count": 1
   },
   {
    "title": "Pokémon cards worth thousands stolen in less than 2 minutes - CTV News",
@@ -4072,6 +4024,50 @@
     }
    ],
    "report_count": 2
+  },
+  {
+   "title": "Bereitet euch auf Ärger und Donnergrollen vor: Neue Pokémon-Erweiterungen enthüllt - jpgames.de",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS2JkRlVPN2JKajBKVHQyaHI1WTNOYzFCUFFCcjM5MFpFN1ltWjNuNFRZLTU0alloQXd6ZVZLSHJqNnNjRk1GQ1kyNFBfZ1RQcjluYzRfVU5YbGhreHNTSm5yLTU5amtvMzRUTDdyYzdlUUg2VXAtMmxjd1FPZkkzc2hZRW1aSmxzV0Vla3Zqb3ExMDBCUXg4WkxhVlJpLWdwSHlJNjF1YVI2eEo4ZnZrZw?oc=5",
+   "source": "jpgames.de",
+   "platform": "news",
+   "published": "2026-08-20T07:00:00+00:00",
+   "summary": "Bereitet euch auf Ärger und Donnergrollen vor: Neue Pokémon-Erweiterungen enthüllt jpgames.de",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "jpgames.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-08-20T16:03:00.855687+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Pokémon TCG Pocket: Release und Event-Fahrplan für \"Team Rockets Pläne\" enthüllt - Eurogamer.de",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYjhVNlF5M0hmd3BNcF9SajFlbktJRURQWWVhSUh4NXF2VW5kZHhKLTh5WnRzbUpOcW9Bd0lDY2J3aVNVbExJNDlaVmJpNzZPWXpCSS1wOHdYUUg3T2J1Z2R0X1prQnlUWXlfTG55ZVk3YjVZYjVtTGhHN0FreGhKSg?oc=5",
+   "source": "Eurogamer.de",
+   "platform": "news",
+   "published": "2026-08-20T07:00:00+00:00",
+   "summary": "Pokémon TCG Pocket: Release und Event-Fahrplan für \"Team Rockets Pläne\" enthüllt Eurogamer.de",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "eurogamer.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-08-20T14:23:14.091108+00:00",
+   "related": [],
+   "report_count": 1
   }
  ]
 }
