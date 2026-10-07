@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T04:03:37.821965+00:00",
+ "generated": "2026-10-07T06:03:38.728222+00:00",
  "builder": "2026-07-25g",
  "count": 150,
  "new": 0,
@@ -629,15 +629,22 @@
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "jpgames.de",
+   "domain": "giga.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
    "first_seen": "2026-10-02T12:03:36.150480+00:00",
-   "related": [],
-   "report_count": 1
+   "related": [
+    {
+     "title": "Vom Kinderzimmer zur Millionenauktion: Diese Pokémon-Karten sind extrem wertvoll - Giga",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcElZZTJBc2VoX3k1VnptRFFXRF9EUEp3encyVHVzNGdHMHREUTVtLWpfaEdhQ2FPX2hOR1lpX3pGUEc4VDdhVThkNWM4N3h2ZkszaHp1Rklyc1ZzMU0xN1N6NHp5ZXA3S2dMM0pybnRmbWNyUE05bTc2SE41WTNJVHdHRkZiMTNFd2pMRnRNeU5xYlBUdmowZ2xnd0xJdWJlY1AxWHNZVEpWcVozRzZJVVgtOGktdjVVbEpFZEozVjFjRnplRmtMeVRqeHhVQQ?oc=5",
+     "source": "Giga",
+     "published": "2026-09-30T08:26:20+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Test zu Pokémon-Legenden: Z-A - Instant Gaming News",
@@ -1382,7 +1389,7 @@
    "related": [
     {
      "title": "Fresno man arrested after burglary at Kerman trading card store, police say - Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZnVpb0RuRXNFNG1SSi1NQmhwdmV0UzZEN01JVUVtSjgxbl9iaUhZUGRVWmtFeTU5Z2U1eVhRb2FpRlpRV1Y1cnVqM1JSUVNFUTVoaG5uX3p2Rm91dTZHSWZEMUxPQ3ZQMlBaZkxuSFJ0ZWs0OEtlZUNOODVWOS1kMG5XR2FsdW1uamV5Vg?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdVl6TVBBem5LSnEwc01EUEJYMm1jb3M4NWtuZUxWcnZxcGtSZFVKbV9wOC1Rby05T1RmcVRxcjhzV0hlWllXS0lmaDVTM3FxM1dlQzRoblNMM19UTVlWTlNldEp1OGxxOElPUkQ2V0ZnTlZFVHQxcjh6X1FLTzBaYm42NEt2N3NNd1RtYzc1Zw?oc=5",
      "source": "Yahoo",
      "published": "2026-09-21T07:00:00+00:00"
     },
