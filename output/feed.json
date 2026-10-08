@@ -1,30 +1,106 @@
 {
- "generated": "2026-10-08T10:03:51.121641+00:00",
+ "generated": "2026-10-08T12:03:45.095896+00:00",
  "builder": "2026-07-25g",
  "count": 150,
- "new": 1,
+ "new": 2,
  "items": [
   {
-   "title": "Pokémon \"30 Jahre\" kaufen - Alle Boxen und Kollektionen! - PokeZentrum",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX0JSdmY4dzNCYUd5MVhGRUpvdlJsUU85RXBiUEIzWFNKRWxkelJYXzBNMTl0ZUlzamdyZ1RDTklRblp5RFd2T3IxS0VSYzAxamxQTmNRVzlqbUp0dkd6X3ZDRTAxdG1JLTA5T3A2c0VFc0VzZlVNVWF3NDVYbEJReF93T0ZWNnFfZTZYNURBU3NNT0NzOWk1S3h0RVQ1c3c?oc=5",
-   "source": "PokeZentrum",
-   "platform": "news",
-   "published": "2026-10-08T08:04:27+00:00",
-   "summary": "Pokémon \"30 Jahre\" kaufen - Alle Boxen und Kollektionen! PokeZentrum",
-   "author": "",
-   "category": "szene",
-   "region": "de",
+   "title": "Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft - Decrypt News",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkxGbmhXMUtqcE5iRzFwNXgxME8xM0JQc09wN0VfZnAxZFZUa1JNN1dRWEZaaU4zRGVrMmFZa2Vkd01tY0tDSGlFMEM0UEFPVVNCQlkwckFKdGFzeks0YktMUlhjM2c0UUE2R0tORU1aR0Q5Ti1mLU9EZ1ZRZUstNmR5dzZCUFZlc1k2YnFkcndJcERzRmNxbWhsbXB1ZHJBSFVqeUNSbzNuNHNx?oc=5",
+   "source": "Decrypt News",
+   "platform": "bluesky",
+   "published": "2026-10-08T11:41:09.044000+00:00",
+   "summary": "Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft Decrypt News",
+   "author": "Daily Northern",
+   "category": "einbruch",
+   "region": "int",
    "country": "",
    "image": "",
-   "domain": "pokezentrum.de",
+   "domain": "dailynortherncom.com",
    "logo": "",
-   "score": 1,
+   "score": 3,
    "matched": [
-    "news:de"
+    "pokemon",
+    "pokémon",
+    "stolen"
    ],
-   "first_seen": "2026-09-08T18:03:30.757441+00:00",
+   "first_seen": "2026-10-08T12:03:45.084243+00:00",
+   "related": [
+    {
+     "title": "Two people convicted over handling stolen Pokémon cards #crime #denmark #Pokémoncards",
+     "url": "https://bsky.app/profile/dailynorthern.com/post/3mwsbx5u4hw2y",
+     "source": "@dailynorthern.com",
+     "published": "2026-10-01T07:00:56+00:00"
+    },
+    {
+     "title": "Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft",
+     "url": "https://bsky.app/profile/decrypt.co/post/3mxeeunc7z725",
+     "source": "@decrypt.co",
+     "published": "2026-10-08T11:41:09.044000+00:00"
+    }
+   ],
+   "report_count": 3
+  },
+  {
+   "title": "win, it highlights how vulnerable unaudited protocols remain, and how stolen funds flow into tangible assets like Pokémon cards and Roman coins—assets that are harder to trace than",
+   "url": "https://bsky.app/profile/politikrypt.bsky.social/post/3mxeetvfd6b2x",
+   "source": "@politikrypt.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-10-08T11:40:43.965191+00:00",
+   "summary": "win, it highlights how vulnerable unaudited protocols remain, and how stolen funds flow into tangible assets like Pokémon cards and Roman coins—assets that are harder to trace than crypto. This case sets a precedent for cross-chain forensics, but also signals that regulatory pressure on 🧵(2/4)",
+   "author": "politikrypt.bsky.social",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "politikryptbskysocial.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "stolen"
+   ],
+   "first_seen": "2026-10-08T12:03:45.084311+00:00",
    "related": [],
    "report_count": 1
+  },
+  {
+   "title": "Crypto Hacker Who Spent Stolen Millions on Pokémon Cards Found Guilty in New York - BeInCrypto",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1leDZGQVlSVEk2NkNsbFROMmJDdVEwLWdKbWxpdDc0eVN4NGNNbEt2eVBjaDkzdXpaUVFaN0FYLUFPN0gtb2xEbjVOcjFZanFNN0o1NEpZdEV3eDU3TFJyM2FLY25TbEdrcEs0NjJB?oc=5",
+   "source": "BeInCrypto",
+   "platform": "news",
+   "published": "2026-10-08T08:03:41+00:00",
+   "summary": "Crypto Hacker Who Spent Stolen Millions on Pokémon Cards Found Guilty in New York BeInCrypto",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "USA",
+   "image": "",
+   "domain": "beincrypto.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "stolen"
+   ],
+   "first_seen": "2026-10-07T22:03:48.040080+00:00",
+   "related": [
+    {
+     "title": "Crypto Hacker Who Spent Stolen Millions on Pokémon Cards Found Guilty in New York - Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUkYxeXVwTlBRSFpqdGtrNTRZRVJpdzVfOWxSSVpWYUFDcUNjbVk3QThjU09tWUtTRmJCdzBQUXJNMnJfcmNSaTAwQlZrWGhlSFR6UXZwVm5DZ3lGeFNuX0szVWp2djQ3cGhjYlh0QVZUMEVmN1hnb3YtbkdKRDIzYnRjT1dyaWNRQ3JYVnJ1dE10eTA?oc=5",
+     "source": "Yahoo",
+     "published": "2026-10-07T21:00:00+00:00"
+    },
+    {
+     "title": "Pokemon Crypto Hacker Spends $3M on Rare Cards Following $55M Heist - Tokenist",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzZ0FiLW9WaUk4bDcwVmpnU0d1THk2enhpNDVTWkU5MWlBU2sxWkZpRWJyQ054eC14cXhYX2RuN0dwU2RWTW9wOExWU3lJeTd6QVpNVWhBa0Q0QTZSVVpCQnpTQklXUXFNYXZBbkcxQTR5RFBFZ09B?oc=5",
+     "source": "Tokenist",
+     "published": "2026-10-08T08:03:41+00:00"
+    }
+   ],
+   "report_count": 3
   },
   {
    "title": "Krypto-Hacker, der gestohlene Millionen für Pokémon-Karten ausgab, in New York verurteilt - BeInCrypto",
@@ -107,37 +183,6 @@
    "report_count": 1
   },
   {
-   "title": "Crypto Hacker Who Spent Stolen Millions on Pokémon Cards Found Guilty in New York - BeInCrypto",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1leDZGQVlSVEk2NkNsbFROMmJDdVEwLWdKbWxpdDc0eVN4NGNNbEt2eVBjaDkzdXpaUVFaN0FYLUFPN0gtb2xEbjVOcjFZanFNN0o1NEpZdEV3eDU3TFJyM2FLY25TbEdrcEs0NjJB?oc=5",
-   "source": "BeInCrypto",
-   "platform": "news",
-   "published": "2026-10-07T21:00:00+00:00",
-   "summary": "Crypto Hacker Who Spent Stolen Millions on Pokémon Cards Found Guilty in New York BeInCrypto",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "USA",
-   "image": "",
-   "domain": "beincrypto.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "pokemon",
-    "pokémon",
-    "stolen"
-   ],
-   "first_seen": "2026-10-07T22:03:48.040080+00:00",
-   "related": [
-    {
-     "title": "Crypto Hacker Who Spent Stolen Millions on Pokémon Cards Found Guilty in New York - Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUkYxeXVwTlBRSFpqdGtrNTRZRVJpdzVfOWxSSVpWYUFDcUNjbVk3QThjU09tWUtTRmJCdzBQUXJNMnJfcmNSaTAwQlZrWGhlSFR6UXZwVm5DZ3lGeFNuX0szVWp2djQ3cGhjYlh0QVZUMEVmN1hnb3YtbkdKRDIzYnRjT1dyaWNRQ3JYVnJ1dE10eTA?oc=5",
-     "source": "Yahoo",
-     "published": "2026-10-07T21:00:00+00:00"
-    }
-   ],
-   "report_count": 2
-  },
-  {
    "title": "Pokémon Pokopia – Neuer Code bringt 5 Resortmöbel gratis bis 2028 - PlayCentral",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaHgyYVVNODgzbnJfbTdQUE5JYnJrWnpENGU0QmlnSGRtTm1jbWh0TzczMWVOblhQT2g4SktXU0Y1NHVQM2s2QVkyR0ozNjM5S3htVXdzZnpaZnpMSjE3VFV1WFlGOEVoZzl0T052YXViVXdqLV9sQXZYc19TRDktVWppUXZ2YVItejF1N3Vkb2p0ODdSNng4?oc=5",
    "source": "PlayCentral",
@@ -156,6 +201,28 @@
     "news:de"
    ],
    "first_seen": "2026-10-07T17:30:20.434617+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Pokémon \"30 Jahre\" kaufen - Alle Boxen und Kollektionen! - PokeZentrum",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX0JSdmY4dzNCYUd5MVhGRUpvdlJsUU85RXBiUEIzWFNKRWxkelJYXzBNMTl0ZUlzamdyZ1RDTklRblp5RFd2T3IxS0VSYzAxamxQTmNRVzlqbUp0dkd6X3ZDRTAxdG1JLTA5T3A2c0VFc0VzZlVNVWF3NDVYbEJReF93T0ZWNnFfZTZYNURBU3NNT0NzOWk1S3h0RVQ1c3c?oc=5",
+   "source": "PokeZentrum",
+   "platform": "news",
+   "published": "2026-10-07T07:00:00+00:00",
+   "summary": "Pokémon \"30 Jahre\" kaufen - Alle Boxen und Kollektionen! PokeZentrum",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "pokezentrum.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-09-08T18:03:30.757441+00:00",
    "related": [],
    "report_count": 1
   },
@@ -614,28 +681,6 @@
    "report_count": 4
   },
   {
-   "title": "Emblem-Event zur Erweiterung „Deluxepack: Mega“ in Pokémon-Sammelkartenspiel-Pocket gestartet - Bisafans.de",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYm5EbHJudEEzdDBYVjdFSmszLWpyTC1qdTVuY0ltWUkyTDVFNThqOFAyRHlaU3NuNmNGMVNHRU4yejU5cUowYVVrVGxTTloxQXBiYUdKRmg1SkZhZTJRSmF1MDViMkxET0dIaGV5Y3ZNa1J6aWoxeTlQSWZqODB6VTlBbFFSRnY2dDhiazJMQXJXSXFRYjhIYl8ySHZ2YkpKTTZZRTJPeHZLN042TTB2Rmo0aVR6QWEwM2p4OEoyZGV0Qm9yMUFxZVA4TlhBRUdIbnNkeV9STdIB3AFBVV95cUxOLTdrdXdOSG1Za1FOYWtJR1JZZkt4bUZVd2RTNEJKQ3JqQnc5b2VWVV9wdXZZeDZoaHdUNnF5NnhHNVlINlVlM19ScFE3WTlEMkZRNUIxM2ZqbFRlSDBlaGVrQVZOdHhyMWdMYlcyNzI1TGprejFiT0lNVDNTUmVyM3BXY2lkcnM4ZUpNZmFxekdRMzhON1ZhRV9ucl9wVy1RUGsybHp5dUVZcUpFemFjVnZNTVk5NXFKZXdVWnVzOGM5VG5Jc3RqR2RhWXZScXE4cDZjZC1kMWQ4cEJi?oc=5",
-   "source": "Bisafans.de",
-   "platform": "news",
-   "published": "2026-10-03T06:00:00+00:00",
-   "summary": "Emblem-Event zur Erweiterung „Deluxepack: Mega“ in Pokémon-Sammelkartenspiel-Pocket gestartet Bisafans.de",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "bisafans.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-10-03T08:03:17.692889+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Winnipeg toy store owner had 20,000 Pokemon cards stolen, but she's not giving up\n\nhttps://wargamer.com/pokemon-trading-card-game/terris-trinkets-theft",
    "url": "https://bsky.app/profile/steeltowngames.bsky.social/post/3mwwjixlhzi2p",
    "source": "@steeltowngames.bsky.social",
@@ -698,30 +743,30 @@
    "report_count": 2
   },
   {
-   "title": "Pokémon-Karten: Netto verkauft 30 Jahre Elite-Trainer-Box aktuell ohne Versandkosten - Giga",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMHZ4N1liV2x3MHVCZzR2SlhESmUybkFWWkVQbjQ5VjBtNTBqaXRtRE1fZjczRE93VmdJU1hpSGlaUWhRamw1Z3p4TjlGTWhDallaY0pLM1p0aVRJSkJ0Z3N5dDRCYkg4NkhGeC1DdmNCSG9vbnpSYWQ2UW5PMlhuX1JCTjlsWFYyUC1Xb0J0NUh2ZG91bjI3eW55cmV0ZE9NcW1SUUxEQjBLbUJISTFoVlAyZlNlTkVlcWhEa2Q0QnB6TGFtTC1DamZweWg3RFRNNWtj?oc=5",
+   "title": "Pokémon-Karten: Netto verkauft „Prismatische Entwicklung“ Elite-Trainer-Box - Giga",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUHctUjRGUm9Qd19aY0F0THFTR1JVRVRwMGlaTGhYLW4tWVFON0lERWNwZktDVzYzTkVrTmdUbzJGVHBFX2VhVmZFWXF5RUVBNHp0NFlxQWdJWmFOSmZuZFJJZ3J4Y2lQQk9QZURiOEZUTHludUh4WG45Qk9HUEZBbU56SEdFLTl4d1ZRdzBBTTVHM1hMN0ZHNUU2QklYUC1lcHo3aHF5N0pVZG1QUFN0LV9WZTJNb2toYUpQbjRES0hDQ3M?oc=5",
    "source": "Giga",
    "platform": "news",
    "published": "2026-10-02T12:15:50+00:00",
-   "summary": "Pokémon-Karten: Netto verkauft 30 Jahre Elite-Trainer-Box aktuell ohne Versandkosten Giga",
+   "summary": "Pokémon-Karten: Netto verkauft „Prismatische Entwicklung“ Elite-Trainer-Box Giga",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "giga.de",
+   "domain": "golem.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-10-06T21:06:14.397953+00:00",
+   "first_seen": "2026-10-06T17:00:00.211419+00:00",
    "related": [
     {
-     "title": "Pokémon-Karten: Netto verkauft „Prismatische Entwicklung“ Elite-Trainer-Box - Giga",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUHctUjRGUm9Qd19aY0F0THFTR1JVRVRwMGlaTGhYLW4tWVFON0lERWNwZktDVzYzTkVrTmdUbzJGVHBFX2VhVmZFWXF5RUVBNHp0NFlxQWdJWmFOSmZuZFJJZ3J4Y2lQQk9QZURiOEZUTHludUh4WG45Qk9HUEZBbU56SEdFLTl4d1ZRdzBBTTVHM1hMN0ZHNUU2QklYUC1lcHo3aHF5N0pVZG1QUFN0LV9WZTJNb2toYUpQbjRES0hDQ3M?oc=5",
-     "source": "Giga",
-     "published": "2026-10-02T12:15:50+00:00"
+     "title": "52,99 statt 169,99 Euro: Pokémon-Top-Trainer-Box bei Amazon zum Sparpreis - Golem",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc0Z2dlNlOHpZY1VKQmlRWndnbi02amN5amhtZVNwTVhGVHRlUzF0amE4VVZsT2lYTW52S0hSMGVxM0RtR24yOU5kdnV5eExicnRZNGpLZlpBMkRxNnRsanlNdHJ3S0ZQR1lwOTlZU05lZGpzNWNMQXNHMDVqYWtic0Vuc3BhQk5JRE15UTdFbmtqVXBoemFSZE9OMlZtYjREVmlhazJFVmJEZ3JzelhJMl9uMUNoSEJ3OVF0cDF3?oc=5",
+     "source": "Golem",
+     "published": "2026-09-28T07:00:00+00:00"
     }
    ],
    "report_count": 2
@@ -820,29 +865,6 @@
    "report_count": 1
   },
   {
-   "title": "Burlington card shop break-in caught on camera, days after another store targeted - WXLV",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmI5WUZPeEt4Vm5sWjJ3bDFLMUhoZmswRUh6Q3lGd1FkVV9kZndScVYtM2RDMUIwVzVTUTNKMklJLXV0bzhLMlFjYm1PVkoyOUg3OC04YkxWcXJvNmdpM3pQb3pmb1ZJeUx0bWtfb3c4akdrVS1qNUFvNEVRMHZUX2dma19ULXhxMzJJS3BGTjRDOHhfUzhsamdySnRQR0U2dzROMGR5aW1rdUMzN3c?oc=5",
-   "source": "WXLV",
-   "platform": "news",
-   "published": "2026-10-01T22:38:31+00:00",
-   "summary": "Burlington card shop break-in caught on camera, days after another store targeted WXLV",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "wxlv.com",
-   "logo": "",
-   "score": 6,
-   "matched": [
-    "break-in",
-    "card shop"
-   ],
-   "first_seen": "2026-10-02T04:03:40.858662+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Wirf einen Blick auf alle Pokémon-Sammelkartenspiel-Produkte, die im Oktober 2026 veröffentlicht werden - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNUVjMFV1Nldld3I2ZDRLTHFxZ1g3SDBvcktvWVhCWEVJRDZWdGxXMUJWRGlxa08tMk9XX002MnlkdWtOZ2NNeW8wTVhBdThjVURPZndJT0VfdE8yekp0WWEzSWZzdkF6Z1kxNUg1RHpoVDg5SVhQUmZYX01HQ0dFOVE1bk5rdE5kNmZvX0pkR3N4YWZpa1RaSlY4VDRfQy1WS1hmODFGaW1qRk5ucjFlMi1JaXZYbWllN2V1RGNfSHhLbGRVRFd3UTRhV1I3VjFS?oc=5",
    "source": "Pokemon.com",
@@ -918,26 +940,25 @@
    "report_count": 2
   },
   {
-   "title": "Two people convicted over handling stolen Pokémon cards #crime #denmark #Pokémoncards",
-   "url": "https://bsky.app/profile/dailynorthern.com/post/3mwsbx5u4hw2y",
-   "source": "@dailynorthern.com",
-   "platform": "bluesky",
-   "published": "2026-10-01T07:00:56+00:00",
-   "summary": "Two people convicted over handling stolen Pokémon cards #crime #denmark #Pokémoncards",
-   "author": "Daily Northern",
+   "title": "Burlington card shop break-in caught on camera, days after another store targeted - WXLV",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0RHR1p5eUtNSEtBcUdEbC1YVVBLbUlhM0xreGtVc3k4TGthRWFTamtYTXN5OHZHT0M1Mm16ZDBqckhzZnMxNEZPMnJKN1lVcW4zbGVZa09za216ZWI5bkg5S1JXYzJHVF9Sd3FsQVVGSmZvemthZjlEakFsZ1d2S0c0RTVkeXNuaVg4V3pnZjNKRm1XV2FMOXZTT0RxWjNoZ1N0ZDA5WnVOc3hvbXRtNHRlV09ZZw?oc=5",
+   "source": "WXLV",
+   "platform": "news",
+   "published": "2026-10-01T07:00:00+00:00",
+   "summary": "Burlington card shop break-in caught on camera, days after another store targeted WXLV",
+   "author": "",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "dailynortherncom.com",
+   "domain": "wxlv.com",
    "logo": "",
-   "score": 3,
+   "score": 6,
    "matched": [
-    "pokemon",
-    "pokémon",
-    "stolen"
+    "break-in",
+    "card shop"
    ],
-   "first_seen": "2026-10-01T08:03:06.391522+00:00",
+   "first_seen": "2026-10-02T04:03:40.858662+00:00",
    "related": [],
    "report_count": 1
   },
@@ -1051,28 +1072,6 @@
    "report_count": 1
   },
   {
-   "title": "Pokémon-Karten: Netto verkauft japanisches 30-Jahre-Display zum fairen Preis - Giga",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU041OThMc0dld0NGanUyVUFudThBa1B0X1dDNjVJM3hJTW5SWXFGZkNhWTk2Vi0xcUFXWVdYeUkyb2dSNVd3UEkzVVlrSTdmc3E5eWlKZTNwUjhnWVhFVzBMTmVKdGtValZlSVpob1ZuQWJsMnVvT0QzaTgydHhCbzVrWG1PVW1XZlMwc3VzUktTa19zTlpBUTY2aUpzTk9rSUh1NFlEWEk0bzJfZGY0VzFDVGpqQ3diV0lkbEpnQ0hYMkwzQlVlUg?oc=5",
-   "source": "Giga",
-   "platform": "news",
-   "published": "2026-09-29T11:24:55+00:00",
-   "summary": "Pokémon-Karten: Netto verkauft japanisches 30-Jahre-Display zum fairen Preis Giga",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "giga.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-10-06T17:00:00.211968+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Es ist wieder so weit: Neue Pokémon-Karten kommen ins Happy Meal bei McDonald’s - jpgames.de",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2NNM3FFd09GNHBfaS0yVkNGTUtycjVwcHp1S1Nra0Z5RGg0YTRnRG4xUXc4emhtVk0zeW9sSURwZ3RhTHFEeWt0Yll1OGFydFVwc01oNS1MZ2NzOGlVeEpRTExDLVUySDJLZTdoUWF3Y2ZlWnNNOFkwWmNGSUtodnI2cU5HVlk1MUpzX083Ul9RUXVvb1A2VHlPelB1YzFVTGxOZkp6Zw?oc=5",
    "source": "jpgames.de",
@@ -1164,6 +1163,28 @@
    "report_count": 2
   },
   {
+   "title": "Pokémon-Karten: Netto verkauft japanisches 30-Jahre-Display zum fairen Preis - Giga",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU041OThMc0dld0NGanUyVUFudThBa1B0X1dDNjVJM3hJTW5SWXFGZkNhWTk2Vi0xcUFXWVdYeUkyb2dSNVd3UEkzVVlrSTdmc3E5eWlKZTNwUjhnWVhFVzBMTmVKdGtValZlSVpob1ZuQWJsMnVvT0QzaTgydHhCbzVrWG1PVW1XZlMwc3VzUktTa19zTlpBUTY2aUpzTk9rSUh1NFlEWEk0bzJfZGY0VzFDVGpqQ3diV0lkbEpnQ0hYMkwzQlVlUg?oc=5",
+   "source": "Giga",
+   "platform": "news",
+   "published": "2026-09-29T07:00:00+00:00",
+   "summary": "Pokémon-Karten: Netto verkauft japanisches 30-Jahre-Display zum fairen Preis Giga",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "giga.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-10-06T17:00:00.211968+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
    "title": "Rodgau: Sammelkarten gestohlen - Vorsprung Online",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZUmZTNGhJbGV4c3RvZHBLZnlKNmVjNTB4TG9qSkZyMUV6X1F6MzgyMnNwOWVxd1BVbmN3UjlyUEpka0p5OXo0eDFadWY2RThMTkZFNUJkQlo2OFVSN0xFVFlxR0RVMUNrc0lIVjFVbDZyNEFCd1dmLTY1UG0?oc=5",
    "source": "Vorsprung Online",
@@ -1246,28 +1267,6 @@
     }
    ],
    "report_count": 3
-  },
-  {
-   "title": "52,99 statt 169,99 Euro: Pokémon-Top-Trainer-Box bei Amazon zum Sparpreis - Golem",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc0Z2dlNlOHpZY1VKQmlRWndnbi02amN5amhtZVNwTVhGVHRlUzF0amE4VVZsT2lYTW52S0hSMGVxM0RtR24yOU5kdnV5eExicnRZNGpLZlpBMkRxNnRsanlNdHJ3S0ZQR1lwOTlZU05lZGpzNWNMQXNHMDVqYWtic0Vuc3BhQk5JRE15UTdFbmtqVXBoemFSZE9OMlZtYjREVmlhazJFVmJEZ3JzelhJMl9uMUNoSEJ3OVF0cDF3?oc=5",
-   "source": "Golem",
-   "platform": "news",
-   "published": "2026-09-28T07:00:00+00:00",
-   "summary": "52,99 statt 169,99 Euro: Pokémon-Top-Trainer-Box bei Amazon zum Sparpreis Golem",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "golem.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-09-29T08:44:59.984618+00:00",
-   "related": [],
-   "report_count": 1
   },
   {
    "title": "Pokémon-Trainerbox bei Amazon nur mit Einladung: Bei Netto gibt es die englische Variante sofort, aber teurer - Netzwelt",
@@ -1619,6 +1618,37 @@
    "report_count": 3
   },
   {
+   "title": "If you weren't sure if card and game grading was a nonsense scam that afflicts only the most bizarre of collectors;\n\nI saw a Kirby's friend Nago hanafuda card, graded mint 10, list",
+   "url": "https://bsky.app/profile/shinsua.bsky.social/post/3mvmghccdf225",
+   "source": "@shinsua.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-09-23T07:00:00+00:00",
+   "summary": "If you weren't sure if card and game grading was a nonsense scam that afflicts only the most bizarre of collectors;\n\nI saw a Kirby's friend Nago hanafuda card, graded mint 10, listed for $100\n\nIt comes from a full hanafuda deck that was originally around $30 usd",
+   "author": "Shinsua🎐♨️",
+   "category": "betrug",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "shinsuabskysocial.com",
+   "logo": "",
+   "score": 4,
+   "matched": [
+    "graded",
+    "grading",
+    "scam"
+   ],
+   "first_seen": "2026-09-16T06:03:06.012853+00:00",
+   "related": [
+    {
+     "title": "dcsports87 is selling COUNTERFEITS and PSA might be grading some?? - YouTube",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5idV9YVlJqSlk2UTQxa2RWUzVPTjFJNzdrY1NwdEM1YlM5WUM3LU9hUnBDQzljLXRkdTI5VXFSMkQ2OVFEOFY0b3ptNG1lNTBRbXZQOUFkU0lrTTEz?oc=5",
+     "source": "YouTube",
+     "published": "2026-09-23T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
+  },
+  {
    "title": "Man arrested in Tracy after stealing high-value Pokémon cards near Fresno, police say - FOX40",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU19uYVJNMVBuVGk5ODhpWlZPZTRXTVRnYTBtdjhudTB0UTFrNHF5WmFMejZiMkJvMWM4LUdOR0lPWnZJRU83RjV0OGI4ejdoWnNKM0VFQnZDSDIycnpvb0ljTHhudU5XTFRpU2ptT0FDZjI0YzRLX3dyNVAxbUlVbHUtLUJPNzFMb0M2VzB0SjhaNVBRR2JKRjRkT001RWowY19MeWl4VEVSSkppdzR4b3I1Mm0tbW1ramNUZ0E4dzhjTVJtZmVNTC1vbWdDTy1JYnfSAcgBQVVfeXFMTkMxSGVicHZZYW51OW1MM0xMaGxLenAxMUIzeVBsRC03VGV0NV9vLTV2NF9ObXVqSy1JLWQ3SDY3WkNLX1pfVGYyaWVYSFFxSk9fejF4TFY5QjV5OVpZYXBITmlsU0RvX3NjNDQ2Q3dnNUFteW1qcGRLNnBNLVl1R2RQOU9pcTJya21QaEl3RnRTanNvdl8yWGNoQVloZFZHMk0zakFJdW1oUGVXY09wbm5MbkZldmlUcmtlRjVSeXFxZjlGNXFHMWU?oc=5",
    "source": "FOX40",
@@ -1639,30 +1669,6 @@
     "pokémon"
    ],
    "first_seen": "2026-09-24T05:05:42.966948+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "dcsports87 is selling COUNTERFEITS and PSA might be grading some?? - YouTube",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5idV9YVlJqSlk2UTQxa2RWUzVPTjFJNzdrY1NwdEM1YlM5WUM3LU9hUnBDQzljLXRkdTI5VXFSMkQ2OVFEOFY0b3ptNG1lNTBRbXZQOUFkU0lrTTEz?oc=5",
-   "source": "YouTube",
-   "platform": "news",
-   "published": "2026-09-23T07:00:00+00:00",
-   "summary": "dcsports87 is selling COUNTERFEITS and PSA might be grading some?? YouTube",
-   "author": "",
-   "category": "betrug",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "youtube.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "counterfeit",
-    "grading",
-    "psa"
-   ],
-   "first_seen": "2026-10-08T10:03:51.110055+00:00",
    "related": [],
    "report_count": 1
   },
@@ -4041,6 +4047,37 @@
     }
    ],
    "report_count": 8
+  },
+  {
+   "title": "Tenn. man accused of using fraudulent card to buy $2.5K Pokémon card arrested - News Channel 5 Nashville",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNkEzelNJZkQwVWtBN2hZM05TYmE0eXR4SGtKaS05NVk2SmtKeHBfOG50SWl2aGUwdUwxZ2l5ekN5VUF4RmZwLUFhRWFkMHMzc2ZIRlpxR004UXJZajc5WlJmUWxWZVNKdG1DaWF5d1pIOE42RnZmZVVJYUc0U291dUE1bzhfZnREQlppdTMzU3llTjU4cDJybk9HdUE2UjRuem1ULUp4QmxnUjFSTEhZU1hybmFFbE56TnlIZHc1aGhLenBXQThaRkZacFZ2NXNhRTV2Vm0zODF0d1U?oc=5",
+   "source": "News Channel 5 Nashville",
+   "platform": "news",
+   "published": "2026-08-28T07:00:00+00:00",
+   "summary": "Tenn. man accused of using fraudulent card to buy $2.5K Pokémon card arrested News Channel 5 Nashville",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "1340wjol.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "theft"
+   ],
+   "first_seen": "2026-08-28T20:03:56.592344+00:00",
+   "related": [
+    {
+     "title": "Pokemon Fan Accused Of Retail Theft In New Lenox - 1340 WJOL",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEZG84ZUc1QUwxZ0lmMUJ6ZHdNellmS0J1dEl4amEwWFphQy1qLXNNdnV1c2NjZE5RUjJscmgxbzhmR2p2aGZveTB6SkNfY2tsbWxGRjcwdDQtMWszVGhIaTRJSW5MM05GdkZHTVFQQzNxSmhxU0g0VUNR?oc=5",
+     "source": "1340 WJOL",
+     "published": "2026-08-26T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   }
  ]
 }
