@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-11T19:03:32.773224+00:00",
+ "generated": "2026-10-11T19:15:14.832651+00:00",
  "builder": "2026-07-25g",
  "count": 150,
- "new": 1,
+ "new": 0,
  "items": [
   {
    "title": "Pokemon, Magic und Turniere: Neuer Gamestore eröffnet in Graz - 5 Minuten",
@@ -1470,37 +1470,6 @@
    "report_count": 2
   },
   {
-   "title": "Friend had a pokemon themed party today and for one of the activities we painted over counterfeit/hand me down pokemon cards n it was so fun",
-   "url": "https://bsky.app/profile/abracafckyou.bsky.social/post/3mwh32tx6dc2y",
-   "source": "@abracafckyou.bsky.social",
-   "platform": "bluesky",
-   "published": "2026-09-29T07:00:00+00:00",
-   "summary": "Friend had a pokemon themed party today and for one of the activities we painted over counterfeit/hand me down pokemon cards n it was so fun",
-   "author": "✨Karli, Tech Wizard Apprentice✨",
-   "category": "betrug",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "abracafckyoubskysocial.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "counterfeit",
-    "pokemon",
-    "pokémon"
-   ],
-   "first_seen": "2026-09-26T21:20:16.740571+00:00",
-   "related": [
-    {
-     "title": "FBI says ShinyHunters leader arrested as Pokemon-themed hacking group faces probe - Dexerto",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONDl3ZVY3cUJFS0RrU2FEV3dHUEQzRFJ2V3I2YmxTcnk2N2twVzdPQTNicFhITUxKSlFMZFFudnZzcm9NYUhMSFpKQUdJclhGTFdrVTFHV01CaEV5TktTYnVlejVhZXVIMUNMVzRxMzM0S28wVEJjeDIyTlBXMEZmbTAzZDFDb1BrR0YtcEYtNnhULWNNMmJUazcyckNGU081MW02U2pvVEtMOU5ibGw2RjJheGxDVzM2ek9aLUd2OA?oc=5",
-     "source": "Dexerto",
-     "published": "2026-09-29T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
-  },
-  {
    "title": "Es ist wieder so weit: Neue Pokémon-Karten kommen ins Happy Meal bei McDonald’s - jpgames.de",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2NNM3FFd09GNHBfaS0yVkNGTUtycjVwcHp1S1Nra0Z5RGg0YTRnRG4xUXc4emhtVk0zeW9sSURwZ3RhTHFEeWt0Yll1OGFydFVwc01oNS1MZ2NzOGlVeEpRTExDLVUySDJLZTdoUWF3Y2ZlWnNNOFkwWmNGSUtodnI2cU5HVlk1MUpzX083Ul9RUXVvb1A2VHlPelB1YzFVTGxOZkp6Zw?oc=5",
    "source": "jpgames.de",
@@ -1629,6 +1598,37 @@
    "first_seen": "2026-09-27T17:21:46.348147+00:00",
    "related": [],
    "report_count": 1
+  },
+  {
+   "title": "If you weren't sure if card and game grading was a nonsense scam that afflicts only the most bizarre of collectors;\n\nI saw a Kirby's friend Nago hanafuda card, graded mint 10, list",
+   "url": "https://bsky.app/profile/shinsua.bsky.social/post/3mvmghccdf225",
+   "source": "@shinsua.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-09-26T19:58:27.520000+00:00",
+   "summary": "If you weren't sure if card and game grading was a nonsense scam that afflicts only the most bizarre of collectors;\n\nI saw a Kirby's friend Nago hanafuda card, graded mint 10, listed for $100\n\nIt comes from a full hanafuda deck that was originally around $30 usd",
+   "author": "Shinsua🎐♨️",
+   "category": "betrug",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "shinsuabskysocial.com",
+   "logo": "",
+   "score": 4,
+   "matched": [
+    "graded",
+    "grading",
+    "scam"
+   ],
+   "first_seen": "2026-09-16T06:03:06.012853+00:00",
+   "related": [
+    {
+     "title": "Friend had a pokemon themed party today and for one of the activities we painted over counterfeit/hand me down pokemon cards n it was so fun",
+     "url": "https://bsky.app/profile/abracafckyou.bsky.social/post/3mwh32tx6dc2y",
+     "source": "@abracafckyou.bsky.social",
+     "published": "2026-09-26T19:58:27.520000+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Repeat Pokemon heist pushes Winnipeg owner to quit - Global News",
@@ -2863,30 +2863,6 @@
    "report_count": 1
   },
   {
-   "title": "WATCH: Thieves botch heist for Pokemon cards worth $20k - The Courier Mail",
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPeUt1bGd3RDRsRGg0OU9ubVZfMU9EakRoTWlCajZDbThGVWFHUFlRUE13YmNOWXZuaHJtdEF2bVA5NWJGVXBtWFl1VER5d2VDT0hIM0txUHZZMXM5WC1USGI0R2t4NHVDcExLeFhQOW1yTUt0LTF2aEc0dzNfUzBrVWMySUU3djBqNnJRYXVHcGxnZkRPbFR5ODdCVWU1M3NlVlRQUUpIN3Vvci1OcWJOMjNhejZmcEdEOEpTQ1hGUWtILWkyMlFUY2l5ZGJrR0ZSdUV4eFBRZGFVQTNHUUNwdkd0OF9WeWhWb3JLc1VLQk1SMXZlYk9KbE5NLVFmOWRVMl9CbGlrME9sNDZ1RWtqZjdxYjMtdWgya3A1azlWMXd6QQ?oc=5",
-   "source": "The Courier Mail",
-   "platform": "news",
-   "published": "2026-09-17T07:00:00+00:00",
-   "summary": "WATCH: Thieves botch heist for Pokemon cards worth $20k The Courier Mail",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "thecouriermail.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "heist",
-    "pokemon",
-    "pokémon"
-   ],
-   "first_seen": "2026-09-16T14:03:04.363625+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Pokémon Fan Robbed Outside West Hollywood Best Buy - Hoodline",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOajNBV0dKR1hNQUlLNnVZbnhacXYtbzhLRkd0V292dVc0RHBSMU9mR21MUVdWekZGREU3aUlpdWNTeDFNbTBYeGIzYkhuTVNKOGpIRFAyb2RySFpYZmgzT2FxcTRtV3pvN3FrOGZhVDNVMVgwcDRUQVFRQ0EwRWtlQlhCUDR4STdxVXV0bTJPdThJdm5CQnEtQXJHeFNjcDVJUWJnY3Z6VVd0SVE?oc=5",
    "source": "Hoodline",
@@ -2907,6 +2883,30 @@
     "robbed"
    ],
    "first_seen": "2026-09-24T12:00:23.317174+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "WATCH: Thieves botch heist for Pokemon cards worth $20k - The Courier Mail",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPeUt1bGd3RDRsRGg0OU9ubVZfMU9EakRoTWlCajZDbThGVWFHUFlRUE13YmNOWXZuaHJtdEF2bVA5NWJGVXBtWFl1VER5d2VDT0hIM0txUHZZMXM5WC1USGI0R2t4NHVDcExLeFhQOW1yTUt0LTF2aEc0dzNfUzBrVWMySUU3djBqNnJRYXVHcGxnZkRPbFR5ODdCVWU1M3NlVlRQUUpIN3Vvci1OcWJOMjNhejZmcEdEOEpTQ1hGUWtILWkyMlFUY2l5ZGJrR0ZSdUV4eFBRZGFVQTNHUUNwdkd0OF9WeWhWb3JLc1VLQk1SMXZlYk9KbE5NLVFmOWRVMl9CbGlrME9sNDZ1RWtqZjdxYjMtdWgya3A1azlWMXd6QQ?oc=5",
+   "source": "The Courier Mail",
+   "platform": "news",
+   "published": "2026-09-17T07:00:00+00:00",
+   "summary": "WATCH: Thieves botch heist for Pokemon cards worth $20k The Courier Mail",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "thecouriermail.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "heist",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-09-16T14:03:04.363625+00:00",
    "related": [],
    "report_count": 1
   },
@@ -3187,18 +3187,18 @@
    "report_count": 1
   },
   {
-   "title": "Teens arrested in string of smash-and-grab thefts targeting trading card retailers, pawn shops - CTV News",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNem0tMjZQNkJWenpGNTQ5QVFoUTRCOUQ1TTJVUmIwdnZhZ3JqdEQ4a1ZSUUpacy04eGd5VGhHeTc4WTNJWG5JUV9ENl9wend3SWpiX18ybDlnODJwUXA4QTdoaG9FeTBUX2lWRUNXSHNyMGo3WjdQUUVIanJUT0h3WWVqZUNKY3c3aFBseFZZcy1tT1ViR2dDWENLdHlobEhLVDA1MkVCUjlNOFFIOUNMckJicTI5N0ZKbkN5R0g2akM1VDdPS0l0NGVRLWQyLXJZd3Vqc1ZTdzdPNi1wZkhZ?oc=5",
-   "source": "CTV News",
+   "title": "Teens arrested in string of smash-and-grab thefts targeting trading card retailers, pawn shops - CP24",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZDlsR01vOEh1Q0tUenBGTTgyZENwZ2RXQWJXdE5GYi1Ec3U4Zk9zYVJHdzdZTkZEaUUyWTBseVVVZXdfcktCTTBSZktVXzI4Z0ktM2hoV0lNQVhzY21XRDlOUUJSa1pXLTMyRnFKZ0FhbDE5RlJhanBGdndPb2VxbE9BVkFrZy15bmRrTS1DQ0ZiWkVTUjZBVVU3Mk1nMVlmbURLcGNhdTljWjBNWnU5aTZYWjk4ZzRWOFdIRWxjQXhWOU9oM3NhRXd0RklrS2hibDN1cmdB?oc=5",
+   "source": "CP24",
    "platform": "news",
    "published": "2026-09-15T17:00:06+00:00",
-   "summary": "Teens arrested in string of smash-and-grab thefts targeting trading card retailers, pawn shops CTV News",
+   "summary": "Teens arrested in string of smash-and-grab thefts targeting trading card retailers, pawn shops CP24",
    "author": "",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "ctvnews.com",
+   "domain": "cp24.com",
    "logo": "",
    "score": 3,
    "matched": [
@@ -3206,14 +3206,8 @@
     "theft",
     "trading card"
    ],
-   "first_seen": "2026-09-10T16:44:48.774566+00:00",
+   "first_seen": "2026-09-15T12:18:08.693883+00:00",
    "related": [
-    {
-     "title": "Teens arrested in string of smash-and-grab thefts targeting trading card retailers, pawn shops - CP24",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZDlsR01vOEh1Q0tUenBGTTgyZENwZ2RXQWJXdE5GYi1Ec3U4Zk9zYVJHdzdZTkZEaUUyWTBseVVVZXdfcktCTTBSZktVXzI4Z0ktM2hoV0lNQVhzY21XRDlOUUJSa1pXLTMyRnFKZ0FhbDE5RlJhanBGdndPb2VxbE9BVkFrZy15bmRrTS1DQ0ZiWkVTUjZBVVU3Mk1nMVlmbURLcGNhdTljWjBNWnU5aTZYWjk4ZzRWOFdIRWxjQXhWOU9oM3NhRXd0RklrS2hibDN1cmdB?oc=5",
-     "source": "CP24",
-     "published": "2026-09-10T07:00:00+00:00"
-    },
     {
      "title": "Day in the life at Pokémon Worlds",
      "url": "https://www.youtube.com/shorts/kSLG_dyJNZM",
@@ -3221,7 +3215,7 @@
      "published": "2026-09-15T17:00:06+00:00"
     }
    ],
-   "report_count": 3
+   "report_count": 2
   },
   {
    "title": "Slideshow: Pokémon Trading Card Game Pocket Images - IGN Deutschland",
