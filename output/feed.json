@@ -1,9 +1,58 @@
 {
- "generated": "2026-10-11T13:08:49.080667+00:00",
+ "generated": "2026-10-11T13:37:19.951287+00:00",
  "builder": "2026-07-25g",
  "count": 150,
- "new": 2,
+ "new": 1,
  "items": [
+  {
+   "title": "Two Arrested for Shoplifting Trading Cards in Florida - West Orlando News",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2xTNEZVaUh0aG9GZTFNVmFxcjhvSGtzbWQ2OHVkSzNjRzg5R0pTS3I5TWZSY2hwR2tnVGl1R2lfQnFmaFV2UXBCNnBjMURPclZiYThHU3FHblZpVWxmOXVJZ0lINmVVMGcwVHIzS1htTHVsdFpUSmFidGQ5dnltb3k0WmpzYjFFMWc?oc=5",
+   "source": "West Orlando News",
+   "platform": "news",
+   "published": "2026-10-11T13:12:31+00:00",
+   "summary": "Two Arrested for Shoplifting Trading Cards in Florida West Orlando News",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "USA",
+   "image": "",
+   "domain": "westorlandonews.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "arrested",
+    "shoplifting",
+    "trading card"
+   ],
+   "first_seen": "2026-10-11T13:37:19.936337+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Polizei nimmt Einbrecher auf Pokemon-Messe im Aachener Liebig fest - Aachener Zeitung",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSEx6WTVSbndfSnloemdpSWlmTzBOaWR1dWhfWHdndTFETnJfaEZMQ1hyeV9TVGhMSm50MjBZQmp1b0s1NGFOd3NtV0lOUjhxYjJvUHJYaU43OFVZN3dWaDBhdnpuMEtDQkQ5blV4MUViR0NJOXAwRnR0eUU0cDJpdEp6Y19UbGdNR0psLTR2NEgxam5UZDAxNUg3V29saGFOQ0wtVmdDSXFzMUlKU2VqYkptdnhNOTJNOFpjQVpaU3M2c2RYT01JQk94VkZPY0RxQlh6Y0hpY2lSZw?oc=5",
+   "source": "Aachener Zeitung",
+   "platform": "news",
+   "published": "2026-10-11T13:11:06+00:00",
+   "summary": "Polizei nimmt Einbrecher auf Pokemon-Messe im Aachener Liebig fest Aachener Zeitung",
+   "author": "",
+   "category": "einbruch",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "aachenerzeitung.de",
+   "logo": "",
+   "score": 4,
+   "matched": [
+    "einbrecher",
+    "pokemon",
+    "pokémon",
+    "polizei"
+   ],
+   "first_seen": "2026-10-11T08:03:01.078802+00:00",
+   "related": [],
+   "report_count": 1
+  },
   {
    "title": "New Card Shop Opens in Sault Ste. Marie Despite Recent Theft - SSBCrack",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkNtUDE2aWdpLWYzSlQwaXlRal80NE81UWxoanhxT0hiMXJTQjhMaElBM0loRzF0bVUtWXZ0LXR6ZU1GTTY2Rk5ORXZIaGxQM3YwQXdrRDduMnJBU3NzS1paakdnckl0SU1hQXdYamhmcFBWR0NvaExBQVRCMEZ5SVNQRmdoWFdjVkhrV3dRTQ?oc=5",
@@ -24,31 +73,6 @@
     "theft"
    ],
    "first_seen": "2026-10-11T13:08:49.066221+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Polizei nimmt Einbrecher auf Pokemon-Messe im Aachener Liebig fest - Aachener Zeitung",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSEx6WTVSbndfSnloemdpSWlmTzBOaWR1dWhfWHdndTFETnJfaEZMQ1hyeV9TVGhMSm50MjBZQmp1b0s1NGFOd3NtV0lOUjhxYjJvUHJYaU43OFVZN3dWaDBhdnpuMEtDQkQ5blV4MUViR0NJOXAwRnR0eUU0cDJpdEp6Y19UbGdNR0psLTR2NEgxam5UZDAxNUg3V29saGFOQ0wtVmdDSXFzMUlKU2VqYkptdnhNOTJNOFpjQVpaU3M2c2RYT01JQk94VkZPY0RxQlh6Y0hpY2lSZw?oc=5",
-   "source": "Aachener Zeitung",
-   "platform": "news",
-   "published": "2026-10-11T12:47:51+00:00",
-   "summary": "Polizei nimmt Einbrecher auf Pokemon-Messe im Aachener Liebig fest Aachener Zeitung",
-   "author": "",
-   "category": "einbruch",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "aachenerzeitung.de",
-   "logo": "",
-   "score": 4,
-   "matched": [
-    "einbrecher",
-    "pokemon",
-    "pokémon",
-    "polizei"
-   ],
-   "first_seen": "2026-10-11T08:03:01.078802+00:00",
    "related": [],
    "report_count": 1
   },
@@ -1093,28 +1117,6 @@
    "report_count": 2
   },
   {
-   "title": "Pokémon GO: Giovanni besiegen – Beste Konter im Oktober 2026 - Mein-MMO",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fMi1tYlM4Tkx3b1Z1NDI2d2wxRUhLcUxuRWZtUm9ZTy0xbVRBUVFHNVJhQjdlay1TYnhwQ1R3WGM2YWZ4ME5jdTkxbVo3NWZxZTdyTUhOd3ZxdVZOU1g4MXQ0Sko0MkFsaUliemZGYw?oc=5",
-   "source": "Mein-MMO",
-   "platform": "news",
-   "published": "2026-10-02T07:00:00+00:00",
-   "summary": "Pokémon GO: Giovanni besiegen – Beste Konter im Oktober 2026 Mein-MMO",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "mein-mmo.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-10-05T08:03:38.874586+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Gardena Storage Locker Burglary Nets Thieves $300K in Pokémon Cards, Vintage Goods - Hoodline",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTDJyb2dOMDV6VTRvaEt0MUd0RDl4VVY4NmtJeDhxczdSNVZ6WVkzRndHVkl1SUpVdTM0bzVYVlV4TTl0d29iZDFfcV9WZm9fWGtvZi1DYlh6Z3R6TGs4TWxzVDdnWDNqVFFjanBGRkRwaE9tMVo4UWdfV0NnVXNZcHNjWXVOSXZOYTZDMmhiN09fTHlhYTdyOXRpc2NDeWg0Q194YXQ3czNpbVJzT1dR?oc=5",
    "source": "Hoodline",
@@ -1305,7 +1307,7 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcGt4ZkM4RXJydFVpR1ZlSUtLUTM0c1QyS2hrVVhSRy1DcUtZLUUyOXlTSm9td2oyd01yRlRHcDVHRDVOT2pLWEpLR09yWi05bFJ1N0FQNTV5N1VQYTFXM1VqaUJ5TU9WWUJhNHZudXFzTGVWcjIydllCUmdJWDk2bkd1X0J6aTlmQUV6Z1VxQjRLZUNjMkFySHBiWkdVdmxHZmVNZU1QalhfcEhqOVd5SnEzOU8tUQ?oc=5",
    "source": "The Standard (HK)",
    "platform": "news",
-   "published": "2026-09-30T06:03:11+00:00",
+   "published": "2026-09-30T07:00:00+00:00",
    "summary": "Pokémon cards worth thousands stolen from West Kowloon site The Standard (HK)",
    "author": "",
    "category": "einbruch",
@@ -1383,30 +1385,6 @@
     }
    ],
    "report_count": 2
-  },
-  {
-   "title": "FBI says ShinyHunters leader arrested as Pokemon-themed hacking group faces probe - Dexerto",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONDl3ZVY3cUJFS0RrU2FEV3dHUEQzRFJ2V3I2YmxTcnk2N2twVzdPQTNicFhITUxKSlFMZFFudnZzcm9NYUhMSFpKQUdJclhGTFdrVTFHV01CaEV5TktTYnVlejVhZXVIMUNMVzRxMzM0S28wVEJjeDIyTlBXMEZmbTAzZDFDb1BrR0YtcEYtNnhULWNNMmJUazcyckNGU081MW02U2pvVEtMOU5ibGw2RjJheGxDVzM2ek9aLUd2OA?oc=5",
-   "source": "Dexerto",
-   "platform": "news",
-   "published": "2026-09-29T07:00:00+00:00",
-   "summary": "FBI says ShinyHunters leader arrested as Pokemon-themed hacking group faces probe Dexerto",
-   "author": "",
-   "category": "behoerden",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "dexerto.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "arrested",
-    "pokemon",
-    "pokémon"
-   ],
-   "first_seen": "2026-10-03T11:52:02.632835+00:00",
-   "related": [],
-   "report_count": 1
   },
   {
    "title": "Es ist wieder so weit: Neue Pokémon-Karten kommen ins Happy Meal bei McDonald’s - jpgames.de",
@@ -1709,30 +1687,6 @@
    "report_count": 2
   },
   {
-   "title": "Man charged in relation to trading card thefts, Logan - Queensland Police News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWFONHpnQ2JaN0xwckIwazhTNmJObS15SnkxTHA1N3JGaDlDcEJXS0Q0T1J4WjRMWG9TdmpKbFlZa2hNYkh3MS1NVDBKcTNIT2UwOE9lWXowVDJ3Rk5OUTRIMVplZFhJMnpGLWtHbGltUmQydWVwY0tzeWhLaTM1d0V6T3pzdTItZHNCaEo0MkVGTnhHNE9xRl9nMWlqZw?oc=5",
-   "source": "Queensland Police News",
-   "platform": "news",
-   "published": "2026-09-25T07:00:00+00:00",
-   "summary": "Man charged in relation to trading card thefts, Logan Queensland Police News",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "Australien",
-   "image": "",
-   "domain": "queenslandpolicenews.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "charged",
-    "theft",
-    "trading card"
-   ],
-   "first_seen": "2026-09-25T06:02:49.993575+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Florida couple accused in trading card shoplifting scheme, deputies say - Yahoo",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQME5RelAzOGZJcm40dEEtcEpMRmJKU1FmWWc1WFBfSG5MOVdUNjZCQ1BIbWFVVmhmWUNLelpoTWRGd3pLd3h6ZXd1OGRYMFpzZHRNRmx2VWtocXBESXJ4emdZeGw3NGNuVmRkN2dXcDVfd25YLVpkVHNxY1FvVjg1TVZXdEg5Z3dTemthS0V3WQ?oc=5",
    "source": "Yahoo",
@@ -1767,6 +1721,30 @@
     }
    ],
    "report_count": 3
+  },
+  {
+   "title": "Man charged in relation to trading card thefts, Logan - Queensland Police News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWFONHpnQ2JaN0xwckIwazhTNmJObS15SnkxTHA1N3JGaDlDcEJXS0Q0T1J4WjRMWG9TdmpKbFlZa2hNYkh3MS1NVDBKcTNIT2UwOE9lWXowVDJ3Rk5OUTRIMVplZFhJMnpGLWtHbGltUmQydWVwY0tzeWhLaTM1d0V6T3pzdTItZHNCaEo0MkVGTnhHNE9xRl9nMWlqZw?oc=5",
+   "source": "Queensland Police News",
+   "platform": "news",
+   "published": "2026-09-25T07:00:00+00:00",
+   "summary": "Man charged in relation to trading card thefts, Logan Queensland Police News",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "Australien",
+   "image": "",
+   "domain": "queenslandpolicenews.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "charged",
+    "theft",
+    "trading card"
+   ],
+   "first_seen": "2026-09-25T06:02:49.993575+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Keine Lust auf Mondpreise? 30 Jahre Pokémon-Sammelkarten ab 12,99 Euro bei Amazon - PCGH",
@@ -1849,30 +1827,6 @@
    "report_count": 2
   },
   {
-   "title": "Man arrested in Tracy after stealing high-value Pokémon cards near Fresno, police say - FOX40",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQkdUNDN1M29JRzA3NFR3RE1PcXdWTThjcGdWcXBMZUZwZHdodmxSZU9jdzBuOWN2NXQ2OVJwWGN1R3ZNZ0tlQmMwN0hld0xuS1ZwNURsWllEMFI5ZHlFTGJaaU5iWWU4VFZXUHJQdVprTWZYZ2hOcFJuZTdubThEOWdoM2FRejRfVFc3MVU3cmE1a3hDSjc0QjdiWUtHZk11TDVFTlVFNndPNUhtN0trdndHa00tbVgwM0dVOXBLVXJjeUV0amhqazJ0S1pwTnJCQnfSAcgBQVVfeXFMTkMxSGVicHZZYW51OW1MM0xMaGxLenAxMUIzeVBsRC03VGV0NV9vLTV2NF9ObXVqSy1JLWQ3SDY3WkNLX1pfVGYyaWVYSFFxSk9fejF4TFY5QjV5OVpZYXBITmlsU0RvX3NjNDQ2Q3dnNUFteW1qcGRLNnBNLVl1R2RQOU9pcTJya21QaEl3RnRTanNvdl8yWGNoQVloZFZHMk0zakFJdW1oUGVXY09wbm5MbkZldmlUcmtlRjVSeXFxZjlGNXFHMWU?oc=5",
-   "source": "FOX40",
-   "platform": "news",
-   "published": "2026-09-24T02:45:20+00:00",
-   "summary": "Man arrested in Tracy after stealing high-value Pokémon cards near Fresno, police say FOX40",
-   "author": "",
-   "category": "behoerden",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "fox40.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "arrested",
-    "pokemon",
-    "pokémon"
-   ],
-   "first_seen": "2026-09-24T05:05:42.966948+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "72-Year-Old Pokémon Collector Arrested After Illegally Tracking Woman Who Restocked Local Stores - IGN Southeast Asia",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZUdfcjVQNFA5SzR5S1pCOG14TThaX0JvamZBbUdXbU4zc2tmMW02WFliZjVxcWlrY1BsWWYxNUdCXzl2TUQ0ckFDZFREZ1RQUDdPeTlRa010VnY1MHJZYUJTNENUTy1URXgzeXRCdkVtaHd1d3VNZXFmU1JHOXFrZXFvcUVscmlrblRmd3VheTlyaDRBLUt5WWdXUjVhUmczd1BpZGV4T0VoOVBtVG5IVGswbWtiLWdkY1FobE1qRjVuRUpvX0tucXBYbnZROWpTR1JNWk9tVGw5MjRESndkYXJadC1SN2lpUndEcFpMVQ?oc=5",
    "source": "IGN Southeast Asia",
@@ -1908,6 +1862,30 @@
     }
    ],
    "report_count": 3
+  },
+  {
+   "title": "Man arrested in Tracy after stealing high-value Pokémon cards near Fresno, police say - FOX40",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU19uYVJNMVBuVGk5ODhpWlZPZTRXTVRnYTBtdjhudTB0UTFrNHF5WmFMejZiMkJvMWM4LUdOR0lPWnZJRU83RjV0OGI4ejdoWnNKM0VFQnZDSDIycnpvb0ljTHhudU5XTFRpU2ptT0FDZjI0YzRLX3dyNVAxbUlVbHUtLUJPNzFMb0M2VzB0SjhaNVBRR2JKRjRkT001RWowY19MeWl4VEVSSkppdzR4b3I1Mm0tbW1ramNUZ0E4dzhjTVJtZmVNTC1vbWdDTy1JYnfSAcgBQVVfeXFMTkMxSGVicHZZYW51OW1MM0xMaGxLenAxMUIzeVBsRC03VGV0NV9vLTV2NF9ObXVqSy1JLWQ3SDY3WkNLX1pfVGYyaWVYSFFxSk9fejF4TFY5QjV5OVpZYXBITmlsU0RvX3NjNDQ2Q3dnNUFteW1qcGRLNnBNLVl1R2RQOU9pcTJya21QaEl3RnRTanNvdl8yWGNoQVloZFZHMk0zakFJdW1oUGVXY09wbm5MbkZldmlUcmtlRjVSeXFxZjlGNXFHMWU?oc=5",
+   "source": "FOX40",
+   "platform": "news",
+   "published": "2026-09-23T07:00:00+00:00",
+   "summary": "Man arrested in Tracy after stealing high-value Pokémon cards near Fresno, police say FOX40",
+   "author": "",
+   "category": "behoerden",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "fox40.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "arrested",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-09-24T05:05:42.966948+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Gotta catch them all? Man behind $20k Pokémon theft case delayed - Stuff",
@@ -3579,6 +3557,33 @@
     "news:de"
    ],
    "first_seen": "2026-09-07T10:02:53.168069+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Pokémon Card Lawsuits Put Missing Collections and Grading Practices Under Scrutiny - USA Herald",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQXdXVFR5Xy1LclZ5N3ZPSktpSW81MkxQN1J4YW1YV2EtQUVPTEtLZUczMmlMZmZidnpHZFdJVm16Z0lGS21GbUQxMjNzM0c5VXlFTVM3TU41dkNCa0FrdC0zM3ZoRW5BN3VmT2xiY3Y1RnZZQl9NZGFraHBNWGJ1amx2R0g3MjlpM2Vkcmd6aDFtMDRHSjNfZkFVOXMwUGhsb1JjaVlKTEQ?oc=5",
+   "source": "USA Herald",
+   "platform": "news",
+   "published": "2026-09-06T07:00:00+00:00",
+   "summary": "Pokémon Card Lawsuits Put Missing Collections and Grading Practices Under Scrutiny USA Herald",
+   "author": "",
+   "category": "behoerden",
+   "region": "int",
+   "country": "USA",
+   "image": "",
+   "domain": "usaherald.com",
+   "logo": "",
+   "score": 12,
+   "matched": [
+    "grading",
+    "lawsuit",
+    "muster:szene",
+    "muster:versand",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-09-06T18:02:50.968254+00:00",
    "related": [],
    "report_count": 1
   },
