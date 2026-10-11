@@ -1,9 +1,34 @@
 {
- "generated": "2026-10-11T19:15:14.832651+00:00",
+ "generated": "2026-10-11T20:03:54.901995+00:00",
  "builder": "2026-07-25g",
  "count": 150,
- "new": 0,
+ "new": 1,
  "items": [
+  {
+   "title": "Pokémon-Karte gestohlen: Festnahmen in Aachen - Blick",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY3Bob2RQSjByX2JyNkF3MzJxcnljSXJNV081emp4NWJ5S3pBVng1amJEdE5USWNaVjFQUC1fN3NvblF1SFRJOXRwbHA2Z2ktVGxjbW1OaGJZR1ZQc0I3ZV9GSm5MSnZTaWcyQVRDQlU1M25oSTFPcnhlUGtab2pONE9wZmVwcDBf?oc=5",
+   "source": "Blick",
+   "platform": "news",
+   "published": "2026-10-11T19:15:56+00:00",
+   "summary": "Pokémon-Karte gestohlen: Festnahmen in Aachen Blick",
+   "author": "",
+   "category": "einbruch",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "blick.de",
+   "logo": "",
+   "score": 4,
+   "matched": [
+    "gestohl",
+    "gestohlen",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-10-11T20:03:54.891682+00:00",
+   "related": [],
+   "report_count": 1
+  },
   {
    "title": "Pokemon, Magic und Turniere: Neuer Gamestore eröffnet in Graz - 5 Minuten",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUhnZGI2MWNjZEdzU1F2WFRWX0pjcld4bk1SMmtnLVVsRmJMRUhQYXJpWm44eDBHc0k4OTByd3pUZk9HX2ViajFJUnBlVUF4cFdjVVJTOHpLQ1EyYVU1MDZGVnNlVVpxN3N0WVJqbE5HV1N6eW9PcmhLd0tLUVBMLVBGYzI4eFdlLUZQdzdsQmVvOG5wU0RNWlZ4ZnpiRTA0WXc?oc=5",
@@ -4016,30 +4041,6 @@
     }
    ],
    "report_count": 3
-  },
-  {
-   "title": "Pokémon card stolen from girl at her first collectibles show in Mira Mesa - 10News.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNekEyYzBxVFlOeGRVTFBsQmtWVDZhUnY1eWd6T2hEODk4VVlBWHk2amY2RFJBMnY2WUw4ajdFZjJlNWF3R0JUanF1WUQxaWRhS0J0TWFiSnluSERMaGdQay1vTzREQ2h1M05fdEpXZGZ4eWg5WDBWdUVoWlgxMjAtZ3V5QmdBVDRzUHVOR2FNOHR1R2t3c2xtaE1yOXhadDlxdkU0azcyR1E4STg2TnprRjhR?oc=5",
-   "source": "10News.com",
-   "platform": "news",
-   "published": "2026-09-01T07:00:00+00:00",
-   "summary": "Pokémon card stolen from girl at her first collectibles show in Mira Mesa 10News.com",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "10news.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "pokemon",
-    "pokémon",
-    "stolen"
-   ],
-   "first_seen": "2026-09-04T00:03:39.305300+00:00",
-   "related": [],
-   "report_count": 1
   }
  ]
 }
