@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T19:01:43.402186+00:00",
+ "generated": "2026-10-14T20:03:22.702159+00:00",
  "builder": "2026-07-25g",
  "count": 150,
  "new": 0,
@@ -93,7 +93,7 @@
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "chip.de",
+   "domain": "giga.de",
    "logo": "",
    "score": 1,
    "matched": [
@@ -102,19 +102,13 @@
    "first_seen": "2026-10-11T13:08:49.066311+00:00",
    "related": [
     {
-     "title": "Was ist in der Pokémon-Jubiläumsbox? Sammler bekommen mehr als Booster - CHIP",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMkowSU1QYlN6NHdzbFRBeVktOGhPbXI0eWV0YnZnTmZ0WUVabUpTOUE5Yl9scjZrV3FPb1RXVDItUUVoTnRBa1cwaGMzRFgzSlZZeFRtWFd3S0F2NjhzU0VFVjlRUVpqRDJwb0EyV0ZIc0hENXdGNUU2eU8yNzNCOHc0RUlzN1dyTjB4RGxFb2ZTajFhdjlqZXdoZWpvSXdhMFRZVzBWSGRLVFVJcHpCclRiUGpWTnJyTE52cmdPcGhXSG1jZ1N5RFpsZnNVQUNHMTE4Y3dVLXo3NkI4c19XelNfT3VGdw?oc=5",
-     "source": "CHIP",
-     "published": "2026-10-03T07:00:00+00:00"
-    },
-    {
      "title": "Pokémon-Booster für 4 Euro? So kommen Sammler nächste Woche schon an Delta Herrschaft - Giga",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSzNvWmNPZU95OTR6Ml9oUGJidkZiUlUtSE1xRHJDdmE4RU9oNFZiMHpmeWtyS3BxM3gtMERra0lJM1RSNzg0X3RWR2c0SFBpbG5FVGJ0V2lOU01qQ09ON0dlZzFma1k5ekZfQzRZQWpBQUloVnlPMXM3ejRhR2JMMTlNaVFjeUZ0LWx3QnpXM2J6YTJ4bHJTQ0J1N0VtWXkxUWRvbXdtVHczbHU0Q19wT3JmYzQyRmFkMUg1VGJpNEdvd3J4bVdHbFZLQ0Y0ZWxaTTJncFhzN0Y?oc=5",
      "source": "Giga",
      "published": "2026-10-13T13:50:00+00:00"
     }
    ],
-   "report_count": 3
+   "report_count": 2
   },
   {
    "title": "$31k+ in rare Pokemon & Magic cards stolen from Nashville gaming shop - WKRN News 2",
@@ -673,50 +667,25 @@
    "title": "Uranium Finance Hacker Convicted After Spending $50M Stolen Funds on Pokémon and Magic Cards\n\nhttps://newisty.com/blog/uranium-finance-hacker-convicted-after-spending-50m-stolen-fu",
    "url": "https://bsky.app/profile/newisty.com/post/3mxhkl2me322e",
    "source": "@newisty.com",
-   "platform": "news",
+   "platform": "bluesky",
    "published": "2026-10-09T18:01:09.062992+00:00",
    "summary": "Uranium Finance Hacker Convicted After Spending $50M Stolen Funds on Pokémon and Magic Cards\n\nhttps://newisty.com/blog/uranium-finance-hacker-convicted-after-spending-50m-stolen-funds-on-pokemon-and-magic-cards?utm_source=social&utm_campaign=crypto_news\n\n#uraniumfinance #hack #crime",
-   "author": "",
+   "author": "Newisty",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "decryptnews.com",
+   "domain": "newistycom.com",
    "logo": "",
    "score": 3,
    "matched": [
     "pokemon",
     "pokémon",
-    "theft"
+    "stolen"
    ],
    "first_seen": "2026-10-09T18:03:22.999476+00:00",
-   "related": [
-    {
-     "title": "Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft - Decrypt News",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkxGbmhXMUtqcE5iRzFwNXgxME8xM0JQc09wN0VfZnAxZFZUa1JNN1dRWEZaaU4zRGVrMmFZa2Vkd01tY0tDSGlFMEM0UEFPVVNCQlkwckFKdGFzeks0YktMUlhjM2c0UUE2R0tORU1aR0Q5Ti1mLU9EZ1ZRZUstNmR5dzZCUFZlc1k2YnFkcndJcERzRmNxbWhsbXB1ZHJBSFVqeUNSbzNuNHNx?oc=5",
-     "source": "Decrypt News",
-     "published": "2026-10-08T11:37:17+00:00"
-    },
-    {
-     "title": "Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft",
-     "url": "https://bsky.app/profile/decrypt.co/post/3mxeeunc7z725",
-     "source": "@decrypt.co",
-     "published": "2026-10-08T11:41:09.044000+00:00"
-    },
-    {
-     "title": "📣 New Podcast! \"Pokémon Crypto Hacker Convicted: $55M Uranium Finance Heist and Rare Card Fortune\" on @Spreaker #bitcoin #blockchain #collectibles #crypto #cryptocurrency #cryptoha",
-     "url": "https://bsky.app/profile/radiohack.bsky.social/post/3mxesistdy425",
-     "source": "@radiohack.bsky.social",
-     "published": "2026-10-08T15:45:04+00:00"
-    },
-    {
-     "title": "Crypto hacker convicted of $53M theft after spending millions on rare Pokemon and Magic cards - Dexerto",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BjakdPR1AwZ2tudWVUNlF2Tm9ReTI3Z21nVTVvVUU3V2JTNGFyckF1R09WYWhKTDhvR0xSeWZnNm84cG51QTJkWDl0QmNBbDlTZnNMYmRPY3dZdktfdU1YenV1Y3M2azAxVkRuOGRfTlpRMXkweTdUMzlDampacFFtOTF3YkF5b0xDMzRrY2lUTmdvbFJYbjhfYlV4Nk9uU2NLSnRfYlYzZ2d5eVBGQTkwYVQ0SGYwYkF3aUQ1ZDFfVWQ5NHZua2p4bjRXdw?oc=5",
-     "source": "Dexerto",
-     "published": "2026-10-08T23:09:04+00:00"
-    }
-   ],
-   "report_count": 5
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Pokémon Pokopia verschenkt Gratis-Items und das ist der Code - GamePro",
@@ -763,6 +732,43 @@
    "report_count": 1
   },
   {
+   "title": "📣 New Podcast! \"Pokémon Crypto Hacker Convicted: $55M Uranium Finance Heist and Rare Card Fortune\" on @Spreaker #bitcoin #blockchain #collectibles #crypto #cryptocurrency #cryptoha",
+   "url": "https://bsky.app/profile/radiohack.bsky.social/post/3mxesistdy425",
+   "source": "@radiohack.bsky.social",
+   "platform": "news",
+   "published": "2026-10-08T23:09:04+00:00",
+   "summary": "📣 New Podcast! \"Pokémon Crypto Hacker Convicted: $55M Uranium Finance Heist and Rare Card Fortune\" on @Spreaker #bitcoin #blockchain #collectibles #crypto #cryptocurrency #cryptohack #cryptonews #cryptoscam #cryptosecurity #cybercrime #defi #digitalassets #financenews #magicgathering #web3",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "tokenist.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "heist",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-10-08T16:03:25.369947+00:00",
+   "related": [
+    {
+     "title": "Pokemon Crypto Hacker Spends $3M on Rare Cards Following $55M Heist - Tokenist",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzZ0FiLW9WaUk4bDcwVmpnU0d1THk2enhpNDVTWkU5MWlBU2sxWkZpRWJyQ054eC14cXhYX2RuN0dwU2RWTW9wOExWU3lJeTd6QVpNVWhBa0Q0QTZSVVpCQnpTQklXUXFNYXZBbkcxQTR5RFBFZ09B?oc=5",
+     "source": "Tokenist",
+     "published": "2026-10-08T15:23:24+00:00"
+    },
+    {
+     "title": "Crypto hacker convicted of $53M theft after spending millions on rare Pokemon and Magic cards - Dexerto",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BjakdPR1AwZ2tudWVUNlF2Tm9ReTI3Z21nVTVvVUU3V2JTNGFyckF1R09WYWhKTDhvR0xSeWZnNm84cG51QTJkWDl0QmNBbDlTZnNMYmRPY3dZdktfdU1YenV1Y3M2azAxVkRuOGRfTlpRMXkweTdUMzlDampacFFtOTF3YkF5b0xDMzRrY2lUTmdvbFJYbjhfYlV4Nk9uU2NLSnRfYlYzZ2d5eVBGQTkwYVQ0SGYwYkF3aUQ1ZDFfVWQ5NHZua2p4bjRXdw?oc=5",
+     "source": "Dexerto",
+     "published": "2026-10-08T23:09:04+00:00"
+    }
+   ],
+   "report_count": 3
+  },
+  {
    "title": "Pokemon Go Mega Garchomp Raid guide: Weaknesses & best counters - Dexerto",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNC1lcGxQaDZubUpmNFVUWHJHRDF4N09WS1VUcU5sQ0ZTRHVMY0FjdkpzcHY3eDZHN3FfZDVtSEJEM280R2dnNXktbGtkaDJqNERnc3ZPcFBxdjgyZ3Z2R3prRExMWkpqbkxPUE90Mm5Hd3M1MmRPUDc3S1ZJMlVENVJBWUIwZXdMN3pfa1k5OXFhWW9TOWNFVzlLMDdoWVRE?oc=5",
    "source": "Dexerto",
@@ -785,8 +791,20 @@
    "first_seen": "2026-10-14T02:03:36.833370+00:00",
    "related": [
     {
+     "title": "Pokemon Go Virizion Raid guide: Weaknesses & best counters - Dexerto",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVzZLUGNZbG9BSTZJMXJtVnNwNVozZGkzX0dVb2xJdXBTajVJN3ZzalRBN0VrVlhUdll6bmg4NF9na29uYm04elk4djVQUTc3elR0UVhIZXVlQkJiQ08xOWxyRVJmWXhST29YdnRNa2I5RnJKY1dTVVVXSXBRbUhxMFVraGl5VG8?oc=5",
+     "source": "Dexerto",
+     "published": "2026-10-08T23:09:04+00:00"
+    },
+    {
      "title": "Pokemon Go Regice Raid guide: Weaknesses & best counters - Dexerto",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcUpNSW5hbElKMUNEWGF3WkltT1didnVrb0E2RGZUdTN5NWZsdlphWDdiUWdLSlRxZ2ZtQjFpclhxN0NXUFdXQmpKN1pTaUU3Y0xwY2FIcFZaTmwzSmlBWHIyQ1FvcmZCNURxVTJyUVR2QmQyZTJqRW82TFk2aGU3QUFWNUdLaU1mOXhyODFDaktyNFJxNDJhczJiYk5Fdw?oc=5",
+     "source": "Dexerto",
+     "published": "2026-10-08T23:09:04+00:00"
+    },
+    {
+     "title": "Pokemon Go Lugia Raid guide: Weaknesses & best counters - Dexerto",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSG9XMm94Q0dtOVphRnhMTlhscmVaQ0U2dG5nR2RDc1Y2N2ExNktMWFl5N2VzUDFQcHJzbVZTek51SVByd1pvZVN0cEJEdThzaU5WTE43V0ZkMlV6VE9wRGRPRjBrR2dyeWc0dERybG5sclgtYldnSzRFSTNOczY4MW5NMFEtS2F2ZU03ZElkVllGbUtQekNJQXlodDdOMnZPaWc?oc=5",
      "source": "Dexerto",
      "published": "2026-10-08T23:09:04+00:00"
     },
@@ -797,7 +815,7 @@
      "published": "2026-10-08T23:09:04+00:00"
     }
    ],
-   "report_count": 3
+   "report_count": 5
   },
   {
    "title": "PSA gönnt nicht: Frisch gezogen und keine 10?!",
@@ -826,38 +844,39 @@
    "report_count": 1
   },
   {
-   "title": "Crypto Hacker Who Spent Stolen Millions on Pokémon Cards Found Guilty in New York - BeInCrypto",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1leDZGQVlSVEk2NkNsbFROMmJDdVEwLWdKbWxpdDc0eVN4NGNNbEt2eVBjaDkzdXpaUVFaN0FYLUFPN0gtb2xEbjVOcjFZanFNN0o1NEpZdEV3eDU3TFJyM2FLY25TbEdrcEs0NjJB?oc=5",
-   "source": "BeInCrypto",
+   "title": "Geschworenengericht verurteilt „Uranium Finance“-Hacker, der seine Krypto-Beute für Pokémon-Karten ausgegeben hat - Bitcoin News",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSWVXU29aZnVqUDZoOHlGT2JidldhNXFwV2FhbW5HaG5IWHU1Rm5NUDZHSERWbUJ2SjhnQmpXMk15ZWRnTFVXcjRLVlpZNGxKYk9qZnZOZ3dfdFpVTlUtU1hWVGhPT0VMNXAxTTVZcEo4ZkZXanJmeXF2UHA0UDFmQ1NPdzBzZW1ESXlUMlF0bHMxczgwa2dGUi01dVBSM0pkYlBOZ0Jyc0pqX3lBQl9DNDhJeVRMR2N4QXBoZzRxT3JzZGRPMVVnRGFEd3ZwcHlmRURhQmViUS14UHdUdm0ya2cwUWJ1b1hmNWl0dlRPTFhkTWs?oc=5",
+   "source": "Bitcoin News",
    "platform": "news",
-   "published": "2026-10-08T15:23:24+00:00",
-   "summary": "Crypto Hacker Who Spent Stolen Millions on Pokémon Cards Found Guilty in New York BeInCrypto",
+   "published": "2026-10-08T11:41:09.044000+00:00",
+   "summary": "Geschworenengericht verurteilt „Uranium Finance“-Hacker, der seine Krypto-Beute für Pokémon-Karten ausgegeben hat Bitcoin News",
    "author": "",
    "category": "einbruch",
-   "region": "int",
-   "country": "USA",
+   "region": "de",
+   "country": "",
    "image": "",
-   "domain": "beincrypto.com",
+   "domain": "bitcoinnews.de",
    "logo": "",
-   "score": 3,
+   "score": 4,
    "matched": [
+    "beute",
     "pokemon",
     "pokémon",
-    "stolen"
+    "verurteilt"
    ],
-   "first_seen": "2026-10-07T22:03:48.040080+00:00",
+   "first_seen": "2026-10-07T20:03:14.865420+00:00",
    "related": [
     {
-     "title": "Crypto Hacker Who Spent Stolen Millions on Pokémon Cards Found Guilty in New York - Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUkYxeXVwTlBRSFpqdGtrNTRZRVJpdzVfOWxSSVpWYUFDcUNjbVk3QThjU09tWUtTRmJCdzBQUXJNMnJfcmNSaTAwQlZrWGhlSFR6UXZwVm5DZ3lGeFNuX0szVWp2djQ3cGhjYlh0QVZUMEVmN1hnb3YtbkdKRDIzYnRjT1dyaWNRQ3JYVnJ1dE10eTA?oc=5",
-     "source": "Yahoo",
-     "published": "2026-10-07T21:00:00+00:00"
+     "title": "Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft - Decrypt News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkxGbmhXMUtqcE5iRzFwNXgxME8xM0JQc09wN0VfZnAxZFZUa1JNN1dRWEZaaU4zRGVrMmFZa2Vkd01tY0tDSGlFMEM0UEFPVVNCQlkwckFKdGFzeks0YktMUlhjM2c0UUE2R0tORU1aR0Q5Ti1mLU9EZ1ZRZUstNmR5dzZCUFZlc1k2YnFkcndJcERzRmNxbWhsbXB1ZHJBSFVqeUNSbzNuNHNx?oc=5",
+     "source": "Decrypt News",
+     "published": "2026-10-08T11:37:17+00:00"
     },
     {
-     "title": "Pokemon Crypto Hacker Spends $3M on Rare Cards Following $55M Heist - Tokenist",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzZ0FiLW9WaUk4bDcwVmpnU0d1THk2enhpNDVTWkU5MWlBU2sxWkZpRWJyQ054eC14cXhYX2RuN0dwU2RWTW9wOExWU3lJeTd6QVpNVWhBa0Q0QTZSVVpCQnpTQklXUXFNYXZBbkcxQTR5RFBFZ09B?oc=5",
-     "source": "Tokenist",
-     "published": "2026-10-08T15:23:24+00:00"
+     "title": "Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft",
+     "url": "https://bsky.app/profile/decrypt.co/post/3mxeeunc7z725",
+     "source": "@decrypt.co",
+     "published": "2026-10-08T11:41:09.044000+00:00"
     }
    ],
    "report_count": 3
@@ -933,6 +952,37 @@
    "first_seen": "2026-10-07T23:14:21.875778+00:00",
    "related": [],
    "report_count": 1
+  },
+  {
+   "title": "Crypto Hacker Who Spent Stolen Millions on Pokémon Cards Found Guilty in New York - BeInCrypto",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1leDZGQVlSVEk2NkNsbFROMmJDdVEwLWdKbWxpdDc0eVN4NGNNbEt2eVBjaDkzdXpaUVFaN0FYLUFPN0gtb2xEbjVOcjFZanFNN0o1NEpZdEV3eDU3TFJyM2FLY25TbEdrcEs0NjJB?oc=5",
+   "source": "BeInCrypto",
+   "platform": "news",
+   "published": "2026-10-07T21:00:00+00:00",
+   "summary": "Crypto Hacker Who Spent Stolen Millions on Pokémon Cards Found Guilty in New York BeInCrypto",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "USA",
+   "image": "",
+   "domain": "beincrypto.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "stolen"
+   ],
+   "first_seen": "2026-10-07T22:03:48.040080+00:00",
+   "related": [
+    {
+     "title": "Crypto Hacker Who Spent Stolen Millions on Pokémon Cards Found Guilty in New York - Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUkYxeXVwTlBRSFpqdGtrNTRZRVJpdzVfOWxSSVpWYUFDcUNjbVk3QThjU09tWUtTRmJCdzBQUXJNMnJfcmNSaTAwQlZrWGhlSFR6UXZwVm5DZ3lGeFNuX0szVWp2djQ3cGhjYlh0QVZUMEVmN1hnb3YtbkdKRDIzYnRjT1dyaWNRQ3JYVnJ1dE10eTA?oc=5",
+     "source": "Yahoo",
+     "published": "2026-10-07T21:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Pokémon \"30 Jahre\" kaufen - Alle Boxen und Kollektionen! - PokeZentrum",
@@ -1174,19 +1224,13 @@
      "published": "2026-09-26T07:00:00+00:00"
     },
     {
-     "title": "Nostalgia and seven-figure sales fuel wave of Pokemon card thefts across Canada - Castanet",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSkgtTTFXTXFoNWdXS2hUcGZQcTJIaEcwNmVUUkhzZG16UzFqOXdPQ2YwTmZvVkhyQllPTTBpSENJc3FxREZJR0RtUUtpRzhTZG5kcDh2bzVUQWdHOWd0Q1dKb2tKUzYxMnpzYi13NXBqWVg2NnlMaUR6RnVKckhyVWZ6bEV2ZG9GR2VhSmd1VFpBRGdZeVpveUhfSVBYYjFqbDZIUzlIeXlZc1VXak90NDFiTU1nS2JJSWdjMUkteDU?oc=5",
-     "source": "Castanet",
-     "published": "2026-09-26T13:28:00+00:00"
-    },
-    {
      "title": "Nostalgia and seven-figure sales fuel wave of Pokemon card thefts across Canada - Barrie 360",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJckVRMEVhRmhDNjEyVnRqQm1Ob2prX0tKX3luVmVEUHUzLVM3aUZnQjZXSHBOQkZBWGNWYUFGY3JmSTFNZy1uaG1OWTRIMnpTbl9mRWJkTGRtWTE3ZFFnUFhtUnpGLVZjUmd3?oc=5",
      "source": "Barrie 360",
      "published": "2026-10-03T08:02:59+00:00"
     }
    ],
-   "report_count": 4
+   "report_count": 3
   },
   {
    "title": "30 Jahre Pokémon: 10 neue Sammelkarten-Tins ab 13,99 Euro und Boosterbundle bei Amazon - PC Games.de",
@@ -2231,13 +2275,19 @@
    "first_seen": "2026-09-23T04:03:26.390343+00:00",
    "related": [
     {
+     "title": "‘Absolutely infuriating’: $70K worth of Pokémon cards stolen from Canadian store owner - CP24",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN2ZtQm4xS3VzMEt5WEtTOXFEVlNVQWZKMW0xY3djdmxPalZ0c2hNUlp2TkJZZVdqQ2ZXQk15cFBzYnlIcmhNcHRidlZ5WVpuWmxLbjZLWEtOdTFDSHg3ei1Vb0tXNXV5UVZSXzlaa1ZRYVpNQU96VVpldTBvMXBGelpaTE5tWTlpNFk1enRrSHNmMWxQN0l3TzZiZUgtclg0SXpLNXhjZERINUY3TVJQdThHeldqVXYzYXJFNy1tY3VXQ3NDWEp3U2lwMkV4QQ?oc=5",
+     "source": "CP24",
+     "published": "2026-09-22T07:00:00+00:00"
+    },
+    {
      "title": "‘Absolutely infuriating’: $70K worth of Pokémon cards stolen from Winnipeg flea market owner",
      "url": "https://bsky.app/profile/ctvnews-mirror.bsky.social/post/3mw5dfwr6na24",
      "source": "@ctvnews-mirror.bsky.social",
      "published": "2026-09-22T23:01:12.097303+00:00"
     }
    ],
-   "report_count": 2
+   "report_count": 3
   },
   {
    "title": "One Winnipeg vendor is in shock after tens of thousands of dollars worth of his Pokémon cards were stolen.",
@@ -2286,26 +2336,39 @@
    "title": "my parents told me how if they open a storefront for comics, they will never offer pokemon cards or anything because of too many stories about stores getting broken into and gettin",
    "url": "https://bsky.app/profile/kilomonster.bsky.social/post/3mw4huqgwhk2m",
    "source": "@kilomonster.bsky.social",
-   "platform": "bluesky",
+   "platform": "news",
    "published": "2026-09-22T14:48:24.046000+00:00",
    "summary": "my parents told me how if they open a storefront for comics, they will never offer pokemon cards or anything because of too many stories about stores getting broken into and getting their pokemon cards stolen. its so gross and im glad there is pushback against this.",
-   "author": "Ash G.",
+   "author": "",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "kilomonsterbskysocial.com",
+   "domain": "aol.com",
    "logo": "",
    "score": 4,
    "matched": [
     "broken into",
-    "pokemon",
-    "pokémon",
-    "stolen"
+    "card shop",
+    "stolen",
+    "trading card"
    ],
    "first_seen": "2026-09-22T17:23:53.628039+00:00",
-   "related": [],
-   "report_count": 1
+   "related": [
+    {
+     "title": "Sioux City trading card shop broken into, items stolen - AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fakZfWVlKcmxDa2ZLdTJDVnQwZ09XNTBBMkg3TElPbDZHWjZIYnpaekVxcWpDMTFsX3UtVFJGRTYxMVhzeVZtOTc0Qjg3d0ZWZ0M4NkhscDNXeWpoLVFYUXdFdm9YT1ozdTlIWGdTN2l2UGdhQ08wU0VxZlA?oc=5",
+     "source": "AOL.com",
+     "published": "2026-09-14T07:00:00+00:00"
+    },
+    {
+     "title": "Scottish store's warehouse broken into ahead of Pokémon 30th anniversary launch - The National Scot",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa2hfU3g2R3RITzNCX2RTSjlnZGdPaWVpQmpSc0R4WmhYckkzN3BTS2pmWFNFMVU1dk9KeGQzRFNVWGZWaTRsZFVXZy1KV25PSjlLa3pSWDlIc0JzZHFCTjRIajZqSFFTaEZKRzlMN3FzSmg2Zmt0WHJ5dUttZ19MTGtnVXZYbDlTMHV6US1SVFdVTU1VcEJIYlBZd2hDQW9rNTdYZA?oc=5",
+     "source": "The National Scot",
+     "published": "2026-09-17T07:00:00+00:00"
+    }
+   ],
+   "report_count": 3
   },
   {
    "title": "PSA Backlog Falls to 9 Million as Value Card Grading Remains Paused - Yahoo Finance",
@@ -3103,30 +3166,6 @@
    "report_count": 2
   },
   {
-   "title": "Scottish store's warehouse broken into ahead of Pokémon 30th anniversary launch - The National Scot",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa2hfU3g2R3RITzNCX2RTSjlnZGdPaWVpQmpSc0R4WmhYckkzN3BTS2pmWFNFMVU1dk9KeGQzRFNVWGZWaTRsZFVXZy1KV25PSjlLa3pSWDlIc0JzZHFCTjRIajZqSFFTaEZKRzlMN3FzSmg2Zmt0WHJ5dUttZ19MTGtnVXZYbDlTMHV6US1SVFdVTU1VcEJIYlBZd2hDQW9rNTdYZA?oc=5",
-   "source": "The National Scot",
-   "platform": "news",
-   "published": "2026-09-17T07:00:00+00:00",
-   "summary": "Scottish store's warehouse broken into ahead of Pokémon 30th anniversary launch The National Scot",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "thenationalscot.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "broken into",
-    "pokemon",
-    "pokémon"
-   ],
-   "first_seen": "2026-09-25T00:03:12.563164+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "30-Jahre-Set: Pokémon als Investment – Sammelspaß mit Risiken - das investment",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KYWQyRURWMC16RVZxcWt2YUFzOThua0VGc0xjVGFhUVB1eWhUb0ZkOGxuRTRTTk5RalVnbFVURzMwNTZrTTl3VnVrN3dEUUdVb0ZyNUppdElYSFVsVVlOdmE3dklNSVBoTTRXNjVrUU9jMGJZbW5qaA?oc=5",
    "source": "das investment",
@@ -3245,26 +3284,33 @@
    "report_count": 4
   },
   {
-   "title": "30 Jahre-Edition – Neue Pokémon-Karten! Sammler stürmen Wiener Shops - Heute",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFJGMFVUVHBvc0pfZHZhUVNGdFdGdUdfUFAzRTZfcDNDa2kzeEtoOU81djI5cmpGSDgta1JoQ2tVN251WEdGaUYzV0t4VldsRGY1enVJWTkxRWZzZWE0UEtGb05ud2ZUMWlFeDRrSHBJNkJWQVpGUnFqaVpRREFYdFNVY29PQ2loOFE?oc=5",
-   "source": "Heute",
+   "title": "\"Wenn die Welt morgen untergehen würde, wären Pokémonkarten die globale Währung\", behauptet ein Sammler und Risikokapitalgeber - IGN Deutschland",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNHJXaTRDT0ZkR2lhOVlRaFhJNVd2MFd6b3h6TGhmWENCQWZ4YTRnYkRqb09Ibms4Z3VGVlBuSlBWMF9UUkVzUUg1R2kzRkhQd1ZieVBleW5qNG5yVjFNSlhxQzVJNTY0OWNydmlfRjVzTHJLUkR4NEthdWZEOUFvRi1iUjhwdnJHbFRRQ1otci1kVkpVZDlyMUxrRUw3RmtWeXd1eDdRd0VsZkJsMkxwamlMSkhwQTFnS01KRnkzS2t5S0dEYWdVNkYyUnV6WVJkNlpaZk9EbzNURDlZeGxyOWtoN1VfUQ?oc=5",
+   "source": "IGN Deutschland",
    "platform": "news",
    "published": "2026-09-16T07:00:00+00:00",
-   "summary": "30 Jahre-Edition – Neue Pokémon-Karten! Sammler stürmen Wiener Shops Heute",
+   "summary": "\"Wenn die Welt morgen untergehen würde, wären Pokémonkarten die globale Währung\", behauptet ein Sammler und Risikokapitalgeber IGN Deutschland",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "heute.de",
+   "domain": "igndeutschland.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-09-16T10:03:22.704051+00:00",
-   "related": [],
-   "report_count": 1
+   "first_seen": "2026-09-11T11:35:14.716376+00:00",
+   "related": [
+    {
+     "title": "30 Jahre-Edition – Neue Pokémon-Karten! Sammler stürmen Wiener Shops - Heute",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFJGMFVUVHBvc0pfZHZhUVNGdFdGdUdfUFAzRTZfcDNDa2kzeEtoOU81djI5cmpGSDgta1JoQ2tVN251WEdGaUYzV0t4VldsRGY1enVJWTkxRWZzZWE0UEtGb05ud2ZUMWlFeDRrSHBJNkJWQVpGUnFqaVpRREFYdFNVY29PQ2loOFE?oc=5",
+     "source": "Heute",
+     "published": "2026-09-16T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "„In jedem Pack ein Pickachu“: Menschenschlange wartet auf neues Pokemon-Set - 5 Minuten",
@@ -3285,6 +3331,28 @@
     "news:de"
    ],
    "first_seen": "2026-09-16T07:48:06.472018+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Irrer Andrang wegen Pokémon-Karten: Fans übernachten vor dem FLAIR Fürth - Fürth Aktuell",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMEF1akR6eVJLc3JaTE44RWN6cmtfNGN1S25FdkZQSEFMYkpVbV9vZXEteGpjajJUUDAwcjQyX3RpVWNxb0thQWh1S1JLbmFKTUg0YXp4Zl9nT2MyUVRTYWtWMDFXbFNiX0tSYjE1VWVka0VMcXEwckVzYnZtNlFGbkdXUUp2QVBfQmVsNGZGZTVFaUVyeFpBU1J2WmdDY3E3U2hlcWF2ZXNzRTZkSU9YaUZGbVdRSlc2SjAzWXpuV1lVX1NQZ3UwUGRwQTR2WFF3OVhaeg?oc=5",
+   "source": "Fürth Aktuell",
+   "platform": "news",
+   "published": "2026-09-16T07:00:00+00:00",
+   "summary": "Irrer Andrang wegen Pokémon-Karten: Fans übernachten vor dem FLAIR Fürth Fürth Aktuell",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "fuerthaktuell.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-09-16T10:03:22.703973+00:00",
    "related": [],
    "report_count": 1
   },
@@ -3495,38 +3563,6 @@
    "report_count": 1
   },
   {
-   "title": "Sioux City trading card shop broken into, items stolen - KCAU 9 News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUXVMUnRISWQ1ZER1eC1oUjBlek00Qmg5MlNNRUZvVlBNX2FKeXZUTE5KTHZnQXZwaFVSUENmQUlpaDViaU1sRHJfcXNJZzFxV2VDc0tUMWRqcmZCTEVhV2VuQ3l4UW5kRVBRbmVfOERZMlpTN1RiMFhVZG1xVldBQTlGOXByN2h6SXJILUJlLVZVZmdHbmtz0gGcAUFVX3lxTE1KaWdPbEhQOUhOMVEzUXlsTHNIeXU5S0oxWUJacmEyeFVJcG1KNXpmeE9qYUJxUjNsbXhuOFFSTzg5TVJ4bVluMUdycHI2dTlrcGlVZGJBUkx1N1otcjdjdC1QWF9hdzlFbUtMaHFhSlVaMlJ5R0V6bUVQMVRFdXpCeC1lcFR3OE9qTm0yUEMwV3huZXltZ3pyeFg2bA?oc=5",
-   "source": "KCAU 9 News",
-   "platform": "news",
-   "published": "2026-09-14T07:00:00+00:00",
-   "summary": "Sioux City trading card shop broken into, items stolen KCAU 9 News",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "kcau9news.com",
-   "logo": "",
-   "score": 4,
-   "matched": [
-    "broken into",
-    "card shop",
-    "stolen",
-    "trading card"
-   ],
-   "first_seen": "2026-09-14T23:15:37.487921+00:00",
-   "related": [
-    {
-     "title": "Sioux City trading card shop broken into, items stolen - AOL.com",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fakZfWVlKcmxDa2ZLdTJDVnQwZ09XNTBBMkg3TElPbDZHWjZIYnpaekVxcWpDMTFsX3UtVFJGRTYxMVhzeVZtOTc0Qjg3d0ZWZ0M4NkhscDNXeWpoLVFYUXdFdm9YT1ozdTlIWGdTN2l2UGdhQ08wU0VxZlA?oc=5",
-     "source": "AOL.com",
-     "published": "2026-09-14T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
-  },
-  {
    "title": "Two Pokémon card stores hit by burglars in Washington County in one month; police search for suspect - TMJ4 News",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOYmpRMTRrYU8zLVhGdHNvUTZudmZxeXdSVjZLTzRMZi1GSlpWcjNLNFcyVXFKek5PUE5KTmJLeW5LZHRGejVsbk9LYlA4LURtbjh3ZmxZQ2E0QXZaeUdQVmR1ZXdSVkNJNGlRT2RKbXZldTE3QTFxb1d0ZENXMWVqeThKa1N6QzRfUF9Jbkh1eGFpVDBpcXZnclJxU2hHMnVXV29Ca3BDSzB2a1FMbDJOWEt2ZkJjUlNXTGM2aVI0SWdjbFJDalFvU3RhU3NicjFIdnRjbmNVbkV4T1Z0MGFaU1JxR0JRZzdzSElVLU5DSmx3Qm9LQXVHLXA3TFdGTXVRVFE?oc=5",
    "source": "TMJ4 News",
@@ -3641,28 +3677,6 @@
     "news:de"
    ],
    "first_seen": "2026-10-06T17:00:00.215041+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "\"Wenn die Welt morgen untergehen würde, wären Pokémonkarten die globale Währung\", behauptet ein Sammler und Risikokapitalgeber - IGN Deutschland",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNHJXaTRDT0ZkR2lhOVlRaFhJNVd2MFd6b3h6TGhmWENCQWZ4YTRnYkRqb09Ibms4Z3VGVlBuSlBWMF9UUkVzUUg1R2kzRkhQd1ZieVBleW5qNG5yVjFNSlhxQzVJNTY0OWNydmlfRjVzTHJLUkR4NEthdWZEOUFvRi1iUjhwdnJHbFRRQ1otci1kVkpVZDlyMUxrRUw3RmtWeXd1eDdRd0VsZkJsMkxwamlMSkhwQTFnS01KRnkzS2t5S0dEYWdVNkYyUnV6WVJkNlpaZk9EbzNURDlZeGxyOWtoN1VfUQ?oc=5",
-   "source": "IGN Deutschland",
-   "platform": "news",
-   "published": "2026-09-11T07:00:00+00:00",
-   "summary": "\"Wenn die Welt morgen untergehen würde, wären Pokémonkarten die globale Währung\", behauptet ein Sammler und Risikokapitalgeber IGN Deutschland",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "igndeutschland.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-09-11T11:35:14.716376+00:00",
    "related": [],
    "report_count": 1
   },
