@@ -1,9 +1,33 @@
 {
- "generated": "2026-10-16T05:17:36.550641+00:00",
+ "generated": "2026-10-16T06:03:12.675134+00:00",
  "builder": "2026-07-25g",
  "count": 150,
- "new": 0,
+ "new": 2,
  "items": [
+  {
+   "title": "Just reading this article about a person who had their Pokemon cards stolen reminds me of articles where people who have been targeted for owning high-end cycles.\n\nwww.bournemouthe",
+   "url": "https://bsky.app/profile/bethany99.bsky.social/post/3mxxtg23hfc25",
+   "source": "@bethany99.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-10-16T05:22:00.305000+00:00",
+   "summary": "Just reading this article about a person who had their Pokemon cards stolen reminds me of articles where people who have been targeted for owning high-end cycles.\n\nwww.bournemouthecho.co.uk/news/2664039...",
+   "author": "Lizzie's Orange Tea 🏳️‍⚧️",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "bethany99bskysocial.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "stolen"
+   ],
+   "first_seen": "2026-10-16T06:03:12.659929+00:00",
+   "related": [],
+   "report_count": 1
+  },
   {
    "title": "Es gibt eine Nachricht vom Team von Pokémon-Sammelkartenspiel-Pocket (Oktober 2026) - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdExicFJnR1hnS29QamRmYklsZTlRVy1oRXJucnlBWjRhYUdLMjNRQzZsU0o2U2ZPTUtrWU4zQ1hEMmlaekozS2pDRHFzMUEwdjFod05HOFl6RTU4NTR5b0N2U0Y5TkFtNnAzU0JFSDgwRkttbExIS0VlYjk0ZWNHc3F4dVB4UW9IQU9mVHl4Q3hDWUVwSUVYX0d5V1hGRDc4RnhJMlVSQk85czJ4cURaMVdxTQ?oc=5",
@@ -2091,30 +2115,6 @@
    "report_count": 1
   },
   {
-   "title": "Gotta catch them all? Man behind $20k Pokémon theft case delayed - Stuff",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUctVDY3dGcwckFKQ3hPVVRnd3pxRnVpaFNLODI1Y203XzVrWUVNa0U3eWFCdGJCbExfWUxNX3dsVFIzSm1WRVBNaTZFX19iN1gyaTFla1hIVGhyLWFkYlBqX21zNUMtc0trYjdBN2JvOTdXdmZRdy1iSi1SOEpsRHZxc1ZJc2ViVVlPVGIzdUJyOUlHRkZRVXF3VzQxMExVN1JNcm5uRkg3cDltQlVEd3dn?oc=5",
-   "source": "Stuff",
-   "platform": "news",
-   "published": "2026-09-23T07:00:00+00:00",
-   "summary": "Gotta catch them all? Man behind $20k Pokémon theft case delayed Stuff",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "stuff.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "pokemon",
-    "pokémon",
-    "theft"
-   ],
-   "first_seen": "2026-09-27T08:04:02.062971+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Pokémon collector charged with using GPS to track delivery driver's car - Wargamer",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPNW5XcWgyUkhJUWxSZ0VwcURTT1RjWkxJU3VPUHNQbmtwdEw4NjhTa0Z1N2V1bWxyLXBzNk5KOWI5dFQzY0tKZHdZcjhPNVBaNEQzUWpzamtDaTNGUGFyQ1puMDg1Mm5mNFYtYmQ2MzE?oc=5",
    "source": "Wargamer",
@@ -2135,6 +2135,30 @@
     "pokémon"
    ],
    "first_seen": "2026-10-12T15:47:28.326947+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Gotta catch them all? Man behind $20k Pokémon theft case delayed - Stuff",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUctVDY3dGcwckFKQ3hPVVRnd3pxRnVpaFNLODI1Y203XzVrWUVNa0U3eWFCdGJCbExfWUxNX3dsVFIzSm1WRVBNaTZFX19iN1gyaTFla1hIVGhyLWFkYlBqX21zNUMtc0trYjdBN2JvOTdXdmZRdy1iSi1SOEpsRHZxc1ZJc2ViVVlPVGIzdUJyOUlHRkZRVXF3VzQxMExVN1JNcm5uRkg3cDltQlVEd3dn?oc=5",
+   "source": "Stuff",
+   "platform": "news",
+   "published": "2026-09-23T07:00:00+00:00",
+   "summary": "Gotta catch them all? Man behind $20k Pokémon theft case delayed Stuff",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "stuff.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "theft"
+   ],
+   "first_seen": "2026-09-27T08:04:02.062971+00:00",
    "related": [],
    "report_count": 1
   },
@@ -3257,6 +3281,42 @@
    "report_count": 2
   },
   {
+   "title": "Pokemon x Adidas 30th anniversary collection officially revealed - Dexerto",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVUtY192NFI3aU5YQVcxRUR0WDJGT09KcjdTOG5Lck1LSktEQzJ0emFuMlJlNFhmTzRiQ2pTZ2Y5anQxRmstaWQ3dk1IbEhPLWhyNmh5Nkozck9INTFBRVRvWlZXYlFNRi1pdlFzUVlidUVnSTlmVTk2eTkzUDNkWU9FLW9kVHhjazRJNndaU01XNHBaWG0xbjg4T1MwVDBkeXNJYno3MUFYR3VmMHlrbg?oc=5",
+   "source": "Dexerto",
+   "platform": "bluesky",
+   "published": "2026-09-16T14:45:10.301000+00:00",
+   "summary": "Pokemon x Adidas 30th anniversary collection officially revealed Dexerto",
+   "author": "KYW Newsradio on 103.9 FM",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "kywnewsradiobskysocial.com",
+   "logo": "",
+   "score": 2,
+   "matched": [
+    "stolen",
+    "trading card"
+   ],
+   "first_seen": "2026-10-16T06:03:12.665254+00:00",
+   "related": [
+    {
+     "title": "Officials in Berks County are searching for two suspects wanted in connection with a stolen trading card valued at around $8,000.\n\nwww.audacy.com/kywnewsradio...",
+     "url": "https://bsky.app/profile/kywnewsradio.bsky.social/post/3muxsf64rmm22",
+     "source": "@kywnewsradio.bsky.social",
+     "published": "2026-09-08T00:48:02.339000+00:00"
+    },
+    {
+     "title": "A prominent Pokemon creator opened alleged stolen 30th Anniversary Ultimate Premium Collection cards before official release, sparking backlash over premature access and potential ",
+     "url": "https://bsky.app/profile/ecommercebriefly.bsky.social/post/3mvnevgy2ts2r",
+     "source": "@ecommercebriefly.bsky.social",
+     "published": "2026-09-16T14:45:10.301000+00:00"
+    }
+   ],
+   "report_count": 3
+  },
+  {
    "title": "Die Pokémon-Sammelkartenspiel-Erweiterung 30 Jahre erscheint heute und feiert 30 Jahre Pokémon - TestingBuddies",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaElQTmxGLWdvZTdOT256R0l6V29vYUZTZmI0NDB6U0tHUlFFUUZqYnpTTklDYXk3dHBoRVpibEZNbEJGekh3UVpiSTJoNFpzemtfQXU3MDhOUTl2dFNkVFdXTDBSaU9UbkVJQmdEenEwTGpQVVVIWjVCWFljTm1GZ19TbUxsOWsycmg2REQ2X3RrNWxvOWhtYktjYWRSZVFuQmxpNDBKQVQ5emM2UlNobVA0UGtrQ1h6aGhWdw?oc=5",
    "source": "TestingBuddies",
@@ -3859,34 +3919,27 @@
    "report_count": 2
   },
   {
-   "title": "Officials in Berks County are searching for two suspects wanted in connection with a stolen trading card valued at around $8,000.\n\nwww.audacy.com/kywnewsradio...",
-   "url": "https://bsky.app/profile/kywnewsradio.bsky.social/post/3muxsf64rmm22",
-   "source": "@kywnewsradio.bsky.social",
-   "platform": "bluesky",
+   "title": "\"One Piece\" trading card valued at $8,000 stolen from Pennsylvania store; 2 suspects sought - CBS News",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkZMMlBWTF9FQ1c4U2MtYV92NVY1MDhlZk1GMFdwUUZnWFFPS3paWWRkMVdlUWlYNVNiR2cyZnkyak94SGl5dEdPVlF4UTd0LW9vWmk1N1Z3NXdIbVBPeXJxempWaTdFOVNwRzNRbjZnOUU1ZVRENFhPX3RtZkx6dmhJNVIxWXE1X1JDS0xsU0tZWTlLRWY1cVBvNnE?oc=5",
+   "source": "CBS News",
+   "platform": "news",
    "published": "2026-09-09T07:00:00+00:00",
-   "summary": "Officials in Berks County are searching for two suspects wanted in connection with a stolen trading card valued at around $8,000.\n\nwww.audacy.com/kywnewsradio...",
-   "author": "KYW Newsradio on 103.9 FM",
+   "summary": "\"One Piece\" trading card valued at $8,000 stolen from Pennsylvania store; 2 suspects sought CBS News",
+   "author": "",
    "category": "einbruch",
    "region": "int",
-   "country": "",
+   "country": "USA",
    "image": "",
-   "domain": "kywnewsradiobskysocial.com",
+   "domain": "cbsnews.com",
    "logo": "",
    "score": 2,
    "matched": [
     "stolen",
     "trading card"
    ],
-   "first_seen": "2026-09-08T05:25:31.291218+00:00",
-   "related": [
-    {
-     "title": "\"One Piece\" trading card valued at $8,000 stolen from Pennsylvania store; 2 suspects sought - CBS News",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkZMMlBWTF9FQ1c4U2MtYV92NVY1MDhlZk1GMFdwUUZnWFFPS3paWWRkMVdlUWlYNVNiR2cyZnkyak94SGl5dEdPVlF4UTd0LW9vWmk1N1Z3NXdIbVBPeXJxempWaTdFOVNwRzNRbjZnOUU1ZVRENFhPX3RtZkx6dmhJNVIxWXE1X1JDS0xsU0tZWTlLRWY1cVBvNnE?oc=5",
-     "source": "CBS News",
-     "published": "2026-09-09T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
+   "first_seen": "2026-09-07T18:02:58.522803+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Wirf einen Blick auf alle Pokémon-Sammelkartenspiel-Produkte, die im September 2026 veröffentlicht werden - Pokemon.com",
@@ -3916,6 +3969,28 @@
     }
    ],
    "report_count": 2
+  },
+  {
+   "title": "Mega Sharpedo ex dominiert aktuell das Pokemon TCG Pocket Meta - games.gg",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc0hPSGd4WHQyUFItdmI2bHF0VkZYMzd4WGIwQmpKcU9oQ2FIUFM3YXlPbHZsLUhxOFNRWS1mcUdzWmpwQmkwRkk3VG5pQm9URVR5VW9RTHk0ZkJra1I1TjRyTkNYbEJjWkJDUGw0T0tDUThhejM3OFFTVEQ4c2xsaENtUU01ZkFzZGI2ZEoyWG55dw?oc=5",
+   "source": "games.gg",
+   "platform": "news",
+   "published": "2026-09-09T07:00:00+00:00",
+   "summary": "Mega Sharpedo ex dominiert aktuell das Pokemon TCG Pocket Meta games.gg",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "games.gg",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-09-09T11:36:51.191280+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Schau dir Legendäre Pokémon und mehr aus Pokémon-Sammelkartenspiel: 30 Jahre an - Pokemon.com",
@@ -4003,77 +4078,6 @@
     "news:de"
    ],
    "first_seen": "2026-09-07T10:02:53.168069+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Kaum erschienen, schon doppelt so teuer: Neue Pokémon-Tins bei Amazon noch zur UVP - PCGH",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWk5qbTdUalNid3lpMTFWbmZlRC1pdUlfZldyRWY5dDB0N19iVVBLRE5EUU1xczg5LTYzMXdVNzlNSUNNUnJ5Y1BmQnh6S0s3RUVhcGk4UjFuQy1Uem93Vk5NbDVCaENIdEtnX3JpTFhfUnM1X3R6T1ZscV81ajh3amd5ZGppYjJnWHpPNERLR1BsajlwZlQ3TDg0X0pvMTRFSU00cjRnb2ZBVng2UlNyTjRYbGpKZVI2bEVCUlIyemotaXN2Z1E?oc=5",
-   "source": "PCGH",
-   "platform": "news",
-   "published": "2026-09-05T07:00:00+00:00",
-   "summary": "Kaum erschienen, schon doppelt so teuer: Neue Pokémon-Tins bei Amazon noch zur UVP PCGH",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "pcgh.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-09-05T14:02:53.102515+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "I just heard my local card shop getting robbed of Pokémon cards. Fortunately, they didn’t get rare cards due to where the cards were placed and they left blood cause the thief cut ",
-   "url": "https://bsky.app/profile/yingmtl.bsky.social/post/3mupz4p347k2f",
-   "source": "@yingmtl.bsky.social",
-   "platform": "bluesky",
-   "published": "2026-09-04T22:27:16.411000+00:00",
-   "summary": "I just heard my local card shop getting robbed of Pokémon cards. Fortunately, they didn’t get rare cards due to where the cards were placed and they left blood cause the thief cut himself.\n\nI have various binders for my collection and I keep them in my room. My most expensive card is under 60$CAD.",
-   "author": "Vanessa Perez",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "yingmtlbskysocial.com",
-   "logo": "",
-   "score": 6,
-   "matched": [
-    "card shop",
-    "pokemon",
-    "pokémon",
-    "robbed"
-   ],
-   "first_seen": "2026-09-04T22:37:08.084026+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "New York Man Wanted in Craven County Pokémon Fraud Caught 900 Miles Away - Hoodline",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2lmRnpJdXZ1dGtuY0Fma1dCdmt1eUZ2UTBYUjRxNFhzdmRrUlFmckRGRjk5LXBadDJ2Q0g4aVBkWG9GUHZUU2hiempVMmpSc1hFLVlhT0ZhZ1A5Z0hCbEhmYjNFaDQzSDdldDc0TmRFbkl6UENpbGpEM2VCWU5WQ185NVM4ekJOUGRxNG1wMUI4NEdSQ012V0VSN19OUjFoQi1MbA?oc=5",
-   "source": "Hoodline",
-   "platform": "news",
-   "published": "2026-09-04T07:00:00+00:00",
-   "summary": "New York Man Wanted in Craven County Pokémon Fraud Caught 900 Miles Away Hoodline",
-   "author": "",
-   "category": "betrug",
-   "region": "int",
-   "country": "USA",
-   "image": "",
-   "domain": "hoodline.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "fraud",
-    "pokemon",
-    "pokémon"
-   ],
-   "first_seen": "2026-09-04T18:04:13.450322+00:00",
    "related": [],
    "report_count": 1
   }
