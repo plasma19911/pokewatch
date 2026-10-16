@@ -1,9 +1,31 @@
 {
- "generated": "2026-10-16T00:52:17.742283+00:00",
+ "generated": "2026-10-16T02:03:21.822002+00:00",
  "builder": "2026-07-25g",
  "count": 150,
- "new": 0,
+ "new": 1,
  "items": [
+  {
+   "title": "Es gibt eine Nachricht vom Team von Pokémon-Sammelkartenspiel-Pocket (Oktober 2026) - Pokemon.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdExicFJnR1hnS29QamRmYklsZTlRVy1oRXJucnlBWjRhYUdLMjNRQzZsU0o2U2ZPTUtrWU4zQ1hEMmlaekozS2pDRHFzMUEwdjFod05HOFl6RTU4NTR5b0N2U0Y5TkFtNnAzU0JFSDgwRkttbExIS0VlYjk0ZWNHc3F4dVB4UW9IQU9mVHl4Q3hDWUVwSUVYX0d5V1hGRDc4RnhJMlVSQk85czJ4cURaMVdxTQ?oc=5",
+   "source": "Pokemon.com",
+   "platform": "news",
+   "published": "2026-10-16T01:18:07+00:00",
+   "summary": "Es gibt eine Nachricht vom Team von Pokémon-Sammelkartenspiel-Pocket (Oktober 2026) Pokemon.com",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "pokemon.com",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-10-16T02:03:21.810660+00:00",
+   "related": [],
+   "report_count": 1
+  },
   {
    "title": "Pokémon cards worth 12K stolen from bungalow while owner on holiday - Bournemouth Echo",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlc3OHJzUEdoWGhuZW8yLUt1OTRTSzZ0QTdNLWdONUpuY0xmLW9tRzc1YXkxU0dfLVBNd0VEamRaUFgzWUcwTUNOczlkMEFGRi1YMUxfelZBSlU5YTgtU0ZQWW1nZTg5cFBaZlZjRjJ5RHFWb0FYUGl2MTg4eExzbVpsMS1xc2VxX1lTQUYwdGVNcWQ0SFkwbkZtR0FNX0ZMaFRmbg?oc=5",
@@ -497,28 +519,6 @@
     "pokémon"
    ],
    "first_seen": "2026-10-11T20:03:54.891682+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Pokemon, Magic und Turniere: Neuer Gamestore eröffnet in Graz - 5 Minuten",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUhnZGI2MWNjZEdzU1F2WFRWX0pjcld4bk1SMmtnLVVsRmJMRUhQYXJpWm44eDBHc0k4OTByd3pUZk9HX2ViajFJUnBlVUF4cFdjVVJTOHpLQ1EyYVU1MDZGVnNlVVpxN3N0WVJqbE5HV1N6eW9PcmhLd0tLUVBMLVBGYzI4eFdlLUZQdzdsQmVvOG5wU0RNWlZ4ZnpiRTA0WXc?oc=5",
-   "source": "5 Minuten",
-   "platform": "news",
-   "published": "2026-10-11T18:14:58+00:00",
-   "summary": "Pokemon, Magic und Turniere: Neuer Gamestore eröffnet in Graz 5 Minuten",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "5minuten.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-10-11T19:03:32.757853+00:00",
    "related": [],
    "report_count": 1
   },
@@ -2609,7 +2609,7 @@
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "citynewswinnipeg.com",
+   "domain": "cbc.com",
    "logo": "",
    "score": 3,
    "matched": [
@@ -2618,8 +2618,15 @@
     "stolen"
    ],
    "first_seen": "2026-09-21T23:24:58.333534+00:00",
-   "related": [],
-   "report_count": 1
+   "related": [
+    {
+     "title": "About $70,000 worth of Pokemon cards stolen from Mulvey Market - CBC",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VQTFvTkdiR0JhYU9pT0ZKY09YeWxCMGtmbDNGWFN6QXBIRmZvclZDWEhOM2t0bUtMS2cwY25UWVI5Q1k1c0JIT19XckdvbmFzSWFnVjRSdGRQQQ?oc=5",
+     "source": "CBC",
+     "published": "2026-09-20T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Police seek man after Pokemon cards stolen from Milton porch - MiltonToday.ca",
@@ -2724,28 +2731,6 @@
     "stolen"
    ],
    "first_seen": "2026-09-21T04:03:44.174517+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Wunderwahl-Event mit Fynx und Psiaugon in Pokémon-Sammelkartenspiel-Pocket gestartet - Bisafans.de",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUXhHdVpJWTJTeW9SUlhHUmFMTi1OTmtZU3A3OGpRTUU5cDFqNjFmR2pldUJFTWE2ZWJBbnoteG1pczl3LWpRQy1uUWFxRlNELVUyYWI2UnVvaHhJWXRYMENoSlZvbkJ1dEhQOHlMWVJuMkJ0LUg1VmMybFVYTGF6dmNua0s3Qk9kc0xsNzFIYVJnMWlMTnU3dVh5eFppbjgyQjN2UHdLdlk5T2FNLWNYZzJPa3ZCT2NLNWlDbi1NV0F6NVpqY1o1clQ4YWxGeGtkMHcweXhrVdIB3AFBVV95cUxNWFUyTWVXbV9MYWxQc250WGV4R2pET3FPOGlmT2d5SnplOWdwdk81UjFLYmpfVXNyeWdZeHFoS1BaYWNCcFlLV3RNOS1STU10QXFiNlRMZW5hZS1hZHlCYTViQURwUTRFcWR2OGFONmpHQ2NWQ3ZPdnRuUjFORkhwdUloZ2pLQzdzMUJHeUE4WmxReU5CQS1tdjREZVBxd2REYzRQbDU2SnVjVV9POThLcmJBZHdfRVNCRGZGMGpKMWpYNzl0dG1kbXB2ZEtQSDhmQ0s4MUNOajFjWmNE?oc=5",
-   "source": "Bisafans.de",
-   "platform": "news",
-   "published": "2026-09-19T07:00:00+00:00",
-   "summary": "Wunderwahl-Event mit Fynx und Psiaugon in Pokémon-Sammelkartenspiel-Pocket gestartet Bisafans.de",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "bisafans.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-09-19T07:26:40.138811+00:00",
    "related": [],
    "report_count": 1
   },
@@ -3128,8 +3113,15 @@
     "pokémon"
    ],
    "first_seen": "2026-09-16T16:04:16.911608+00:00",
-   "related": [],
-   "report_count": 1
+   "related": [
+    {
+     "title": "WATCH: Thieves botch heist for Pokemon cards worth $20k - The Courier Mail",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPeUt1bGd3RDRsRGg0OU9ubVZfMU9EakRoTWlCajZDbThGVWFHUFlRUE13YmNOWXZuaHJtdEF2bVA5NWJGVXBtWFl1VER5d2VDT0hIM0txUHZZMXM5WC1USGI0R2t4NHVDcExLeFhQOW1yTUt0LTF2aEc0dzNfUzBrVWMySUU3djBqNnJRYXVHcGxnZkRPbFR5ODdCVWU1M3NlVlRQUUpIN3Vvci1OcWJOMjNhejZmcEdEOEpTQ1hGUWtILWkyMlFUY2l5ZGJrR0ZSdUV4eFBRZGFVQTNHUUNwdkd0OF9WeWhWb3JLc1VLQk1SMXZlYk9KbE5NLVFmOWRVMl9CbGlrME9sNDZ1RWtqZjdxYjMtdWgya3A1azlWMXd6QQ?oc=5",
+     "source": "The Courier Mail",
+     "published": "2026-09-17T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Sledgehammer raiders wreck shop in failed Pokémon card HEIST - NeedToKnow.co.uk",
@@ -3386,28 +3378,6 @@
     "news:de"
    ],
    "first_seen": "2026-09-16T10:03:22.704051+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "30 Jahre Pokémon: Neue Sammelkarten kommen auf den Markt! - techrush",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQajhIbzNjQTVMTkp0YjY1VXlmUmZsd3ZHejRRaERLRmF2SzRRbmhjS2RrR2hYeGdaLTJCdDBHc3BnQjFsNUplem9TS2NvejRqU1ZfLVM3YVhIV1pBNVlUVFNTNDJ0TkVSQmpEdTFQUUllVTdueGFROUNfdXQ0ZV96TUtR?oc=5",
-   "source": "techrush",
-   "platform": "news",
-   "published": "2026-09-16T07:00:00+00:00",
-   "summary": "30 Jahre Pokémon: Neue Sammelkarten kommen auf den Markt! techrush",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "techrush.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-09-16T14:03:04.363574+00:00",
    "related": [],
    "report_count": 1
   },
@@ -4053,6 +4023,55 @@
     "news:de"
    ],
    "first_seen": "2026-09-10T00:21:36.073415+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "I just heard my local card shop getting robbed of Pokémon cards. Fortunately, they didn’t get rare cards due to where the cards were placed and they left blood cause the thief cut ",
+   "url": "https://bsky.app/profile/yingmtl.bsky.social/post/3mupz4p347k2f",
+   "source": "@yingmtl.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-09-04T22:27:16.411000+00:00",
+   "summary": "I just heard my local card shop getting robbed of Pokémon cards. Fortunately, they didn’t get rare cards due to where the cards were placed and they left blood cause the thief cut himself.\n\nI have various binders for my collection and I keep them in my room. My most expensive card is under 60$CAD.",
+   "author": "Vanessa Perez",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "yingmtlbskysocial.com",
+   "logo": "",
+   "score": 6,
+   "matched": [
+    "card shop",
+    "pokemon",
+    "pokémon",
+    "robbed"
+   ],
+   "first_seen": "2026-09-04T22:37:08.084026+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "New York Man Wanted in Craven County Pokémon Fraud Caught 900 Miles Away - Hoodline",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2lmRnpJdXZ1dGtuY0Fma1dCdmt1eUZ2UTBYUjRxNFhzdmRrUlFmckRGRjk5LXBadDJ2Q0g4aVBkWG9GUHZUU2hiempVMmpSc1hFLVlhT0ZhZ1A5Z0hCbEhmYjNFaDQzSDdldDc0TmRFbkl6UENpbGpEM2VCWU5WQ185NVM4ekJOUGRxNG1wMUI4NEdSQ012V0VSN19OUjFoQi1MbA?oc=5",
+   "source": "Hoodline",
+   "platform": "news",
+   "published": "2026-09-04T07:00:00+00:00",
+   "summary": "New York Man Wanted in Craven County Pokémon Fraud Caught 900 Miles Away Hoodline",
+   "author": "",
+   "category": "betrug",
+   "region": "int",
+   "country": "USA",
+   "image": "",
+   "domain": "hoodline.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "fraud",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-09-04T18:04:13.450322+00:00",
    "related": [],
    "report_count": 1
   }
