@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T04:03:26.433733+00:00",
+ "generated": "2026-10-19T04:57:29.332773+00:00",
  "builder": "2026-07-25g",
  "count": 150,
  "new": 0,
@@ -9,7 +9,7 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOclhZWW9ScGtLOGlNZ2JRNTU1NFVNNG5sazdackZzcTRUb3NXTlZOTndYRDZfWHNRODNFU0ZGaHc0alZKUTcxX1ZjNGdHVDFxY1pCUWFuSEF5ZXVDTXVvN2hxaDVIem85ZVVJYzAzRWR4cmoyeGFZUzhqSDZBYlM5YXBnNmVTbzlJVEhTbGgtVFloNmhGNUo1eDlqM1hLaXNEOHd1b0JJa1o3dE1uM3VWYVV1U2JOU2JvLTFOdGhrejZ1VXJNQkJPQjJHVQ?oc=5",
    "source": "Dexerto",
    "platform": "news",
-   "published": "2026-10-18T23:37:44+00:00",
+   "published": "2026-10-19T00:17:44+00:00",
    "summary": "TCG collector says $100K PSA card order stolen in Pokemon, MTG & Yu-Gi-Oh FedEx truck burglary Dexerto",
    "author": "",
    "category": "einbruch",
@@ -38,7 +38,7 @@
      "title": "PSA FedEx Truck Theft May Top $1 Million in Stolen Cards - Resell Calendar",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRjk5M2c2OWxLXzJmaTBtX3RNek03d1plNC1MbkVzWWFoY2RiUjZHbnpJU1J0NzZmX2FpaHhLZlVvdE4yMjBfck14djFUNEVrVl9wb1VMb3lnU01CN3JfQWVqSUlhMnBJMFFzUjZKdEwwVFVEMlVXUFhBRkNZOHhMbTRJUnFNSzBCZkd1V3RQTVZjUnNP?oc=5",
      "source": "Resell Calendar",
-     "published": "2026-10-18T23:37:44+00:00"
+     "published": "2026-10-19T00:17:44+00:00"
     }
    ],
    "report_count": 3
@@ -284,28 +284,6 @@
     }
    ],
    "report_count": 3
-  },
-  {
-   "title": "Pokémon bringt gleich neun besondere Sammelkarten-Sets – doch deutsche Fans haben Pech - PC Games.de",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHFXTzB5d1FQMjhlOUdkajc5NS0xSWs4OWNHblBsV25vRk9lckZxT0ZZVWVITDFycXdfZWY2Q3VlaHpDaDZqdDVqZUp2YkJCWDJFMVk1X2lzYWhGM2pjdzdZamg4Z0pXVjNCREhxaXlHLTVqVDBKdkJ4REt3TzdFbnpxQk5KcWdFV2VMT3BGZWl4cHdaSHRHT05OaGczVUR5Y3c?oc=5",
-   "source": "PC Games.de",
-   "platform": "news",
-   "published": "2026-10-16T11:30:00+00:00",
-   "summary": "Pokémon bringt gleich neun besondere Sammelkarten-Sets – doch deutsche Fans haben Pech PC Games.de",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "pcgamesde.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-10-16T11:59:13.337929+00:00",
-   "related": [],
-   "report_count": 1
   },
   {
    "title": "Just reading this article about a person who had their Pokemon cards stolen reminds me of articles where people who have been targeted for owning high-end cycles.\n\nwww.bournemouthe",
@@ -775,22 +753,15 @@
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "smartphones24.de",
+   "domain": "giga.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
    "first_seen": "2026-10-12T06:13:54.154899+00:00",
-   "related": [
-    {
-     "title": "23 Jahre alte Pokémon-Karte wird für 360.000 US-Dollar verkauft - Smartphones 24",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51cFpnRkZscEJxV1BpbHkwang1Rmx0NEpwSDlwNEh1ME9GYXplXzVUVDZ2dlFKdF9aR1RyMTJ6bFEzOGo2VV9PeDZobUl2ckk1czJfN3RWNUw3bDQyeDRWaFRUNEpfUGdmZUpxZ2lYNEpxYkZ6S281Y0RR?oc=5",
-     "source": "Smartphones 24",
-     "published": "2026-10-10T19:13:24+00:00"
-    }
-   ],
-   "report_count": 2
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Pokémon-Karte gestohlen: Festnahmen in Aachen - Blick",
@@ -1116,7 +1087,7 @@
      "title": "Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft - Decrypt",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkxGbmhXMUtqcE5iRzFwNXgxME8xM0JQc09wN0VfZnAxZFZUa1JNN1dRWEZaaU4zRGVrMmFZa2Vkd01tY0tDSGlFMEM0UEFPVVNCQlkwckFKdGFzeks0YktMUlhjM2c0UUE2R0tORU1aR0Q5Ti1mLU9EZ1ZRZUstNmR5dzZCUFZlc1k2YnFkcndJcERzRmNxbWhsbXB1ZHJBSFVqeUNSbzNuNHNx?oc=5",
      "source": "Decrypt",
-     "published": "2026-10-08T11:37:17+00:00"
+     "published": "2026-10-08T07:00:00+00:00"
     },
     {
      "title": "Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft",
@@ -1715,35 +1686,6 @@
    "report_count": 1
   },
   {
-   "title": "Diese super seltene Pokémon-Karte wurde gerade für 8,4 Millionen US-Dollar verkauft - jpgames.de",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUFvd3FtbEhGQnNqcWVFY1JObVV6cXVzdUpaZnNIemZCSjMzaGFTSHRzbHJjR3JhSy12T1llQ0ZJeWQwOGNhd19JaTgzRllaX2s3STlEclZ0LW44RFdpaHB4alh3OFY1ei1pY2oxQkRjNW5MYVN4S29sX01YRkFhdWY5OEFVU29EeVJvTHFlVVh4WldLNm1yQi1UYlhYUlcxQ2FsNHVETHpaYVdFRGdMag?oc=5",
-   "source": "jpgames.de",
-   "platform": "news",
-   "published": "2026-10-02T07:00:00+00:00",
-   "summary": "Diese super seltene Pokémon-Karte wurde gerade für 8,4 Millionen US-Dollar verkauft jpgames.de",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "giga.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-10-02T12:03:36.150480+00:00",
-   "related": [
-    {
-     "title": "Vom Kinderzimmer zur Millionenauktion: Diese Pokémon-Karten sind extrem wertvoll - Giga",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcElZZTJBc2VoX3k1VnptRFFXRF9EUEp3encyVHVzNGdHMHREUTVtLWpfaEdhQ2FPX2hOR1lpX3pGUEc4VDdhVThkNWM4N3h2ZkszaHp1Rklyc1ZzMU0xN1N6NHp5ZXA3S2dMM0pybnRmbWNyUE05bTc2SE41WTNJVHdHRkZiMTNFd2pMRnRNeU5xYlBUdmowZ2xnd0xJdWJlY1AxWHNZVEpWcVozRzZJVVgtOGktdjVVbEpFZEozVjFjRnplRmtMeVRqeHhVQQ?oc=5",
-     "source": "Giga",
-     "published": "2026-09-30T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
-  },
-  {
    "title": "Two people convicted over handling stolen Pokémon cards #crime #denmark #Pokémoncards",
    "url": "https://bsky.app/profile/dailynorthern.com/post/3mwsbx5u4hw2y",
    "source": "@dailynorthern.com",
@@ -1841,35 +1783,6 @@
    "report_count": 1
   },
   {
-   "title": "Wirf einen Blick auf alle Pokémon-Sammelkartenspiel-Produkte, die im Oktober 2026 veröffentlicht werden - Pokemon.com",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNUVjMFV1Nldld3I2ZDRLTHFxZ1g3SDBvcktvWVhCWEVJRDZWdGxXMUJWRGlxa08tMk9XX002MnlkdWtOZ2NNeW8wTVhBdThjVURPZndJT0VfdE8yekp0WWEzSWZzdkF6Z1kxNUg1RHpoVDg5SVhQUmZYX01HQ0dFOVE1bk5rdE5kNmZvX0pkR3N4YWZpa1RaSlY4VDRfQy1WS1hmODFGaW1qRk5ucjFlMi1JaXZYbWllN2V1RGNfSHhLbGRVRFd3UTRhV1I3VjFS?oc=5",
-   "source": "Pokemon.com",
-   "platform": "news",
-   "published": "2026-10-01T07:00:00+00:00",
-   "summary": "Wirf einen Blick auf alle Pokémon-Sammelkartenspiel-Produkte, die im Oktober 2026 veröffentlicht werden Pokemon.com",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "bisafans.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-10-01T18:03:45.818390+00:00",
-   "related": [
-    {
-     "title": "Erweiterung „Deluxepack: Mega“ für Pokémon-Sammelkartenspiel-Pocket veröffentlicht - Bisafans.de",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRkZPaUhoN09sZGtBWXk3aHNBMnZIbW1EY0pBak9JdkdaeU9xOVdocGwyZ1V2ZDhHcU9fOHRTOVNVa3dIb2NhcFoya0Q0d0dWN2JEUnQ0TWtpbU9udmk0d2MtMnZGOFFmVEk2ZGdNbVp3SDVXck1GOU1QZGppak9pc0E3S183cEpHVFF0MkZ3X2NhVjMzdUlobTltN2RteHlEbkNFS1Q2anV4TTVrbGdMM0s5NXloaWp0STlTZUlsRTBEZlgtd1VyNDRLVGFEUGkySGY0aUhCWGdZV2FIYWh5eU9Ta9IB6AFBVV95cUxQZjAtczJTRXo0M2dZaXNZNE12OUtqb1hjZ3E3TWVOODZPLXlFMEM4Y1dkcTZiSU9wOFJwWDJ0MUFkMmloRllxTTJEYVVEdjlSdDIwTWItcWszZUdUYVFaY3JOQ3dSMl9DZ1NzNDYxY3Y1WUtiZUpMWDZvUjBMZEMzYUdmZXk5akNfTlpBUHNXYTRna1l3eDVWMy13MVNHcXJ5NmtSaTJUR0ZVQ0cyWkh4U0ttMDdNWVU4S3l3eXEwUWRTSlRqZEJYN0RDbUI4TVg2aFVJZm9Vc25vR1VDR1diWWFTTjBTNnJ1?oc=5",
-     "source": "Bisafans.de",
-     "published": "2026-09-30T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
-  },
-  {
    "title": "Premiumpass-Belohnungen für Oktober 2026 in Pokémon-Sammelkartenspiel-Pocket verfügbar - Bisafans.de",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORTk0TDRWVTVDbUw3WjJhYkttSzdSZjVKanEyWWdFaFlaV1hsSzAxdnJ4VFhiMjZxcUQ0UjdtZnVSLVFxbTVrOXBiMDNCeUJkSWdMUDdtVkk4QWU5MEJBczR6V04wZTNlaE0wLVR1bUJTalhzUDRZRDdNWU1vNUFONnhlU0J1Rm91THQtU2lyM0hKRlp4dURwYXFqZTZNbmNUSHFQdWNBdTNUR0dERFRuN3BkQkRreEtBVHhJd3N2ci12cXB0R0xtY2NKOVVlWmRuZDltU196c0R1OHJvNlE?oc=5",
    "source": "Bisafans.de",
@@ -1894,6 +1807,35 @@
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOVNMUUktZUJhcHh2RUhjaExVb0dlQlpOWU0tZG9rbFc2RHRnVk95WUtiTUNpRFcwV1NNUkNmMi03S2xhNnRaRDRBWjJON21tbnV1azVWTTlxRkU1d1lydFJyYzlRdVZLbzh1UWdMSHhSdWl3MHFiNExZQWFlQXRaenRKbHlHSUxUS0JaX0FJdjJIN0Roc20wdlRpLUJDZmtHSUhZTEI1SWpNUQ?oc=5",
      "source": "Pokemon.com",
      "published": "2026-09-29T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
+  },
+  {
+   "title": "Wirf einen Blick auf alle Pokémon-Sammelkartenspiel-Produkte, die im Oktober 2026 veröffentlicht werden - Pokemon.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNUVjMFV1Nldld3I2ZDRLTHFxZ1g3SDBvcktvWVhCWEVJRDZWdGxXMUJWRGlxa08tMk9XX002MnlkdWtOZ2NNeW8wTVhBdThjVURPZndJT0VfdE8yekp0WWEzSWZzdkF6Z1kxNUg1RHpoVDg5SVhQUmZYX01HQ0dFOVE1bk5rdE5kNmZvX0pkR3N4YWZpa1RaSlY4VDRfQy1WS1hmODFGaW1qRk5ucjFlMi1JaXZYbWllN2V1RGNfSHhLbGRVRFd3UTRhV1I3VjFS?oc=5",
+   "source": "Pokemon.com",
+   "platform": "news",
+   "published": "2026-10-01T07:00:00+00:00",
+   "summary": "Wirf einen Blick auf alle Pokémon-Sammelkartenspiel-Produkte, die im Oktober 2026 veröffentlicht werden Pokemon.com",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "bisafans.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-10-01T18:03:45.818390+00:00",
+   "related": [
+    {
+     "title": "Erweiterung „Deluxepack: Mega“ für Pokémon-Sammelkartenspiel-Pocket veröffentlicht - Bisafans.de",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRkZPaUhoN09sZGtBWXk3aHNBMnZIbW1EY0pBak9JdkdaeU9xOVdocGwyZ1V2ZDhHcU9fOHRTOVNVa3dIb2NhcFoya0Q0d0dWN2JEUnQ0TWtpbU9udmk0d2MtMnZGOFFmVEk2ZGdNbVp3SDVXck1GOU1QZGppak9pc0E3S183cEpHVFF0MkZ3X2NhVjMzdUlobTltN2RteHlEbkNFS1Q2anV4TTVrbGdMM0s5NXloaWp0STlTZUlsRTBEZlgtd1VyNDRLVGFEUGkySGY0aUhCWGdZV2FIYWh5eU9Ta9IB6AFBVV95cUxQZjAtczJTRXo0M2dZaXNZNE12OUtqb1hjZ3E3TWVOODZPLXlFMEM4Y1dkcTZiSU9wOFJwWDJ0MUFkMmloRllxTTJEYVVEdjlSdDIwTWItcWszZUdUYVFaY3JOQ3dSMl9DZ1NzNDYxY3Y1WUtiZUpMWDZvUjBMZEMzYUdmZXk5akNfTlpBUHNXYTRna1l3eDVWMy13MVNHcXJ5NmtSaTJUR0ZVQ0cyWkh4U0ttMDdNWVU4S3l3eXEwUWRTSlRqZEJYN0RDbUI4TVg2aFVJZm9Vc25vR1VDR1diWWFTTjBTNnJ1?oc=5",
+     "source": "Bisafans.de",
+     "published": "2026-09-30T07:00:00+00:00"
     }
    ],
    "report_count": 2
@@ -1960,6 +1902,28 @@
     }
    ],
    "report_count": 2
+  },
+  {
+   "title": "Vom Kinderzimmer zur Millionenauktion: Diese Pokémon-Karten sind extrem wertvoll - Giga",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcElZZTJBc2VoX3k1VnptRFFXRF9EUEp3encyVHVzNGdHMHREUTVtLWpfaEdhQ2FPX2hOR1lpX3pGUEc4VDdhVThkNWM4N3h2ZkszaHp1Rklyc1ZzMU0xN1N6NHp5ZXA3S2dMM0pybnRmbWNyUE05bTc2SE41WTNJVHdHRkZiMTNFd2pMRnRNeU5xYlBUdmowZ2xnd0xJdWJlY1AxWHNZVEpWcVozRzZJVVgtOGktdjVVbEpFZEozVjFjRnplRmtMeVRqeHhVQQ?oc=5",
+   "source": "Giga",
+   "platform": "news",
+   "published": "2026-09-30T07:00:00+00:00",
+   "summary": "Vom Kinderzimmer zur Millionenauktion: Diese Pokémon-Karten sind extrem wertvoll Giga",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "giga.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-10-09T14:03:42.575380+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Former Owner's Lawsuit Questions Price and Process Behind Beckett Sale to PSA Parent Company - Sports Collectors Daily",
@@ -2130,15 +2094,8 @@
     "news:de"
    ],
    "first_seen": "2026-09-28T16:04:24.176181+00:00",
-   "related": [
-    {
-     "title": "Pokémon wird 30 – Amazon lässt die Jubiläums-Boxen nur per Einladung in den Warenkorb - T-Online",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMkZwMXM0b01UWUhyeEo3T0doYl9ESzdfbjZ1WmY0c0RKN0NGb05CSVRrWVhUQ1FZWm45ZXIxeGQyT0FFV2VyeUFPcDQ5dnB5WjVVbkZLQWthWkxBSDNYWnFURFNuT3ktaU00SzI4VWxIem1FbEl5YU92QUozUTFjUUNJZ2pFSDRuRUNvczhONlljN3ZBUVdBM2EwYzYtbE5HdThrV0REamM0Ni1CTE1BSGM3ZE5PV20zQldNMURqbk9vNTlhb1p0ZDEtYkRoalJEVHBad0RFTXpDRTlf?oc=5",
-     "source": "T-Online",
-     "published": "2026-09-28T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Spiele bei einem Prerelease-Event für Pokémon-Sammelkartenspiel: Mega-Entwicklung – Delta-Herrschaft - Pokemon.com",
@@ -2244,33 +2201,26 @@
    "report_count": 1
   },
   {
-   "title": "Pokémon TCG-Fan findet Ordner mit seltenen Karten aus der Kindheit wieder – darin sind zahlreiche Schätze versteckt, die mehrere tausend Euro wert sein könnten - GamePro",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVVLc0JZTWRwM2YzUndmMDJXVWdGX08wVVRUZXoyMnFRV0ZIZENZaXZYRE1CNlhKV3dMRFFzUWFjdmRfSHdIXzRPQWhqeGxUMm5qd0MxOWRXbVlsbkladFVHT2stU080TnB2WnZYWmVFd2I5YlhtZFRVa3pXZEdORUdfSkRiS0VuOFNMYkY4RVA?oc=5",
-   "source": "GamePro",
+   "title": "Jagd auf Tausend-Euro-Karten: Neues Live-Event bringt seltene Pokémon-Booster zurück - Netzwelt",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3VKRFhOSkRjT25NNGo0ZkFfeVhjN050bGJLNWV2bFlJWXN2ckl1WVViQnp2Vko2NnpwSlpnUEVZa2NEVmREcThISDdmUFA3ZHNNc1piTW5adUZUSWtPRlNoLTVpQTFRNEg1ZkQ1clpocFBPWkVNX3VIbHFldW9qUk9zeDBpbHc5eTA5aXlONExKbDVCcGtXZkdrRTlqNjExV3E3ME5sY01sOFpOZmZ5UHJQb0Z5Wkp5bVdHZDJaNWpMdzQ?oc=5",
+   "source": "Netzwelt",
    "platform": "news",
    "published": "2026-09-26T07:00:00+00:00",
-   "summary": "Pokémon TCG-Fan findet Ordner mit seltenen Karten aus der Kindheit wieder – darin sind zahlreiche Schätze versteckt, die mehrere tausend Euro wert sein könnten GamePro",
+   "summary": "Jagd auf Tausend-Euro-Karten: Neues Live-Event bringt seltene Pokémon-Booster zurück Netzwelt",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "gamepro.de",
+   "domain": "netzwelt.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-09-16T18:04:46.321853+00:00",
-   "related": [
-    {
-     "title": "Jagd auf Tausend-Euro-Karten: Neues Live-Event bringt seltene Pokémon-Booster zurück - Netzwelt",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3VKRFhOSkRjT25NNGo0ZkFfeVhjN050bGJLNWV2bFlJWXN2ckl1WVViQnp2Vko2NnpwSlpnUEVZa2NEVmREcThISDdmUFA3ZHNNc1piTW5adUZUSWtPRlNoLTVpQTFRNEg1ZkQ1clpocFBPWkVNX3VIbHFldW9qUk9zeDBpbHc5eTA5aXlONExKbDVCcGtXZkdrRTlqNjExV3E3ME5sY01sOFpOZmZ5UHJQb0Z5Wkp5bVdHZDJaNWpMdzQ?oc=5",
-     "source": "Netzwelt",
-     "published": "2026-09-26T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
+   "first_seen": "2026-09-28T02:03:14.284158+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Lego zeigt Pokémon-Neuheit: \"Sie lernen wirklich dazu\" - Heute",
@@ -2556,7 +2506,7 @@
   },
   {
    "title": "Man arrested in Tracy after stealing high-value Pokémon cards near Fresno, police say - FOX40",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU19uYVJNMVBuVGk5ODhpWlZPZTRXTVRnYTBtdjhudTB0UTFrNHF5WmFMejZiMkJvMWM4LUdOR0lPWnZJRU83RjV0OGI4ejdoWnNKM0VFQnZDSDIycnpvb0ljTHhudU5XTFRpU2ptT0FDZjI0YzRLX3dyNVAxbUlVbHUtLUJPNzFMb0M2VzB0SjhaNVBRR2JKRjRkT001RWowY19MeWl4VEVSSkppdzR4b3I1Mm0tbW1ramNUZ0E4dzhjTVJtZmVNTC1vbWdDTy1JYnfSAcgBQVVfeXFMTkMxSGVicHZZYW51OW1MM0xMaGxLenAxMUIzeVBsRC03VGV0NV9vLTV2NF9ObXVqSy1JLWQ3SDY3WkNLX1pfVGYyaWVYSFFxSk9fejF4TFY5QjV5OVpZYXBITmlsU0RvX3NjNDQ2Q3dnNUFteW1qcGRLNnBNLVl1R2RQOU9pcTJya21QaEl3RnRTanNvdl8yWGNoQVloZFZHMk0zakFJdW1oUGVXY09wbm5MbkZldmlUcmtlRjVSeXFxZjlGNXFHMWU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFBWanhGTnpfNWgycDZ2NzdtUXJuTHl5OTVlQ0VJdElHRlhyYWZ2VldxelBmWk1JYzM4VFpWU2xzQUVhYkNxdTRqLXEzcXR1eGVfQTU0eGtqLXVoeXl5UG4tMktQZ2ItdUlEZHc3QjJpWHJUM3BiWmQxaS1WcVk1Z0VMb3FBc1BnNlVJTmNQcnZrUnVyUTJMNnQ0RU9PM0dVYWc2anBRdU11eFdaUldWUHN0Y0pqcWtZUkJsMVZKWlNIOFHSAcgBQVVfeXFMTkMxSGVicHZZYW51OW1MM0xMaGxLenAxMUIzeVBsRC03VGV0NV9vLTV2NF9ObXVqSy1JLWQ3SDY3WkNLX1pfVGYyaWVYSFFxSk9fejF4TFY5QjV5OVpZYXBITmlsU0RvX3NjNDQ2Q3dnNUFteW1qcGRLNnBNLVl1R2RQOU9pcTJya21QaEl3RnRTanNvdl8yWGNoQVloZFZHMk0zakFJdW1oUGVXY09wbm5MbkZldmlUcmtlRjVSeXFxZjlGNXFHMWU?oc=5",
    "source": "FOX40",
    "platform": "news",
    "published": "2026-09-23T07:00:00+00:00",
@@ -3372,7 +3322,7 @@
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "westdeutschezeitung.de",
+   "domain": "lessentiel.de",
    "logo": "",
    "score": 1,
    "matched": [
@@ -3381,9 +3331,9 @@
    "first_seen": "2026-09-19T12:36:05.112780+00:00",
    "related": [
     {
-     "title": "Krefelder stehen Schlange für die neuesten Pokémon-Karten - Westdeutsche Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTURFNnNKUlY5V29STHNWZjlRR09ubnhvMWVVamtoR3VBUkNyY1hfQ0s0TTFHY3pZZnBoWFBibG51UmpPWE5XWXp0bjFWSl92R2laeVE4UHE2Q1NtemFQU19wamxZYkpfNEJVRkktcFZNZzVUWkRGdlZJTlUxSTducGNHWUdYeEVmVDBXb01GTXdKR1V5cVZSOVE4SGZXdXBrT1BTcw?oc=5",
-     "source": "Westdeutsche Zeitung",
+     "title": "Jubiläumskarten: Pokémon-Ansturm bricht in Luxemburg sogar GTA-V-Rekord - L'essentiel",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3dJNHpkdnRzWEFCODdzUjAtTTJQUHZFb29EX0VmamdnTWhMTS1SYklMWEVVaHM1ZGZWYk9LYUEtWXgwRWtkTlFEeHFjVC1wbHkyN3RfLVhral9Ud3B5NXdhZEVPWUo0Ymg2Q2VwRU5sNGU5Wk1vZXFqVTBuNV9oSVdENkh4d1FPQkdEQUtESFIzMEhzWmZxMEdZLXJhTjFUZ1dvX2ZkdjJ4bzdKcFU3VmVwRzIzS1k?oc=5",
+     "source": "L'essentiel",
      "published": "2026-09-16T07:00:00+00:00"
     }
    ],
@@ -3519,8 +3469,15 @@
     "pokémon"
    ],
    "first_seen": "2026-09-16T16:04:16.911608+00:00",
-   "related": [],
-   "report_count": 1
+   "related": [
+    {
+     "title": "WATCH: Thieves botch heist for Pokemon cards worth $20k - The Courier Mail",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPeUt1bGd3RDRsRGg0OU9ubVZfMU9EakRoTWlCajZDbThGVWFHUFlRUE13YmNOWXZuaHJtdEF2bVA5NWJGVXBtWFl1VER5d2VDT0hIM0txUHZZMXM5WC1USGI0R2t4NHVDcExLeFhQOW1yTUt0LTF2aEc0dzNfUzBrVWMySUU3djBqNnJRYXVHcGxnZkRPbFR5ODdCVWU1M3NlVlRQUUpIN3Vvci1OcWJOMjNhejZmcEdEOEpTQ1hGUWtILWkyMlFUY2l5ZGJrR0ZSdUV4eFBRZGFVQTNHUUNwdkd0OF9WeWhWb3JLc1VLQk1SMXZlYk9KbE5NLVFmOWRVMl9CbGlrME9sNDZ1RWtqZjdxYjMtdWgya3A1azlWMXd6QQ?oc=5",
+     "source": "The Courier Mail",
+     "published": "2026-09-17T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Sledgehammer raiders wreck shop in failed Pokémon card HEIST - NeedToKnow.co.uk",
@@ -3680,6 +3637,35 @@
    "report_count": 3
   },
   {
+   "title": "Pokémon TCG-Fan findet Ordner mit seltenen Karten aus der Kindheit wieder – darin sind zahlreiche Schätze versteckt, die mehrere tausend Euro wert sein könnten - GamePro",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVVLc0JZTWRwM2YzUndmMDJXVWdGX08wVVRUZXoyMnFRV0ZIZENZaXZYRE1CNlhKV3dMRFFzUWFjdmRfSHdIXzRPQWhqeGxUMm5qd0MxOWRXbVlsbkladFVHT2stU080TnB2WnZYWmVFd2I5YlhtZFRVa3pXZEdORUdfSkRiS0VuOFNMYkY4RVA?oc=5",
+   "source": "GamePro",
+   "platform": "news",
+   "published": "2026-09-16T07:00:00+00:00",
+   "summary": "Pokémon TCG-Fan findet Ordner mit seltenen Karten aus der Kindheit wieder – darin sind zahlreiche Schätze versteckt, die mehrere tausend Euro wert sein könnten GamePro",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "gamepro.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-09-16T18:04:46.321853+00:00",
+   "related": [
+    {
+     "title": "Pokémon-Fan findet 25 Jahre alte TCG-Boxen, die noch komplett verpackt sind – offenbar hat seine Mutter sie versteckt und dann vergessen - GamePro",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVFIwYnQ2LTBZZEFLSzNqQm42cVh0OXh2aWRBNW1jTHhCaTlWZTJHOU45a2Zkc3ZaRjJVdHYxdnJlY0NfTW5qbUZod1pjY3ZreXkzWkJubDVNX3VGYnVaZk5NOVhMZ0FXQVJRZ2dpVEtSOEQwYW5MVnZwM0Rxa183SU5Scw?oc=5",
+     "source": "GamePro",
+     "published": "2026-09-07T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
+  },
+  {
    "title": "Pokémon-Sammelkartenspiel: 30 Jahre ist jetzt in Pokémon-Sammelkartenspiel-Live erhältlich - Pokemon.com",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWJDTjlpQWFYYVpzbFdjbTBtdVVRMUlMOU1wbUhOVl8yelNuYWROU1Y0MTZONXU3bEpPWlNzRjI2cGkwZjU3aHRXUEFxX1VzUmtUWjZyNERQbHFWSm5nNW4yZzFIV2hqVno3cEZHclB2bTRuTTFJd3RQUXI3UGVvMC1hamFKSGNhaW9Dcjk1dVhSTGN6M1NyS3JKZnMzOEViOF9wbVJBYkw1SXNoT3N4am5zb29QVTN3LVA4Q1BZUQ?oc=5",
    "source": "Pokemon.com",
@@ -3771,28 +3757,6 @@
     "news:de"
    ],
    "first_seen": "2026-09-16T10:03:22.703973+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Jubiläumskarten: Pokémon-Ansturm bricht in Luxemburg sogar GTA-V-Rekord - L'essentiel",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3dJNHpkdnRzWEFCODdzUjAtTTJQUHZFb29EX0VmamdnTWhMTS1SYklMWEVVaHM1ZGZWYk9LYUEtWXgwRWtkTlFEeHFjVC1wbHkyN3RfLVhral9Ud3B5NXdhZEVPWUo0Ymg2Q2VwRU5sNGU5Wk1vZXFqVTBuNV9oSVdENkh4d1FPQkdEQUtESFIzMEhzWmZxMEdZLXJhTjFUZ1dvX2ZkdjJ4bzdKcFU3VmVwRzIzS1k?oc=5",
-   "source": "L'essentiel",
-   "platform": "news",
-   "published": "2026-09-16T07:00:00+00:00",
-   "summary": "Jubiläumskarten: Pokémon-Ansturm bricht in Luxemburg sogar GTA-V-Rekord L'essentiel",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "lessentiel.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-10-02T10:04:04.312972+00:00",
    "related": [],
    "report_count": 1
   },
@@ -4070,24 +4034,49 @@
    "report_count": 1
   },
   {
-   "title": "Pokémon: Wild Card – neuer Anime-Film dreht sich ums TCG - techkrams.de",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sZkhPRnpNbnA3VWppQThHTGZuX3E2b2syakV6WDNXT3c4bGs0cUFQanRhLVhmM0otWHBNOHljNDZDbzUzMEtnUkxBMGV5THpTUU9jcGI4ekg0OEFTV3ZNTDBTcGE?oc=5",
-   "source": "techkrams.de",
+   "title": "\"Wenn die Welt morgen untergehen würde, wären Pokémonkarten die globale Währung\", behauptet ein Sammler und Risikokapitalgeber - IGN Deutschland",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNHJXaTRDT0ZkR2lhOVlRaFhJNVd2MFd6b3h6TGhmWENCQWZ4YTRnYkRqb09Ibms4Z3VGVlBuSlBWMF9UUkVzUUg1R2kzRkhQd1ZieVBleW5qNG5yVjFNSlhxQzVJNTY0OWNydmlfRjVzTHJLUkR4NEthdWZEOUFvRi1iUjhwdnJHbFRRQ1otci1kVkpVZDlyMUxrRUw3RmtWeXd1eDdRd0VsZkJsMkxwamlMSkhwQTFnS01KRnkzS2t5S0dEYWdVNkYyUnV6WVJkNlpaZk9EbzNURDlZeGxyOWtoN1VfUQ?oc=5",
+   "source": "IGN Deutschland",
    "platform": "news",
-   "published": "2026-09-12T07:00:00+00:00",
-   "summary": "Pokémon: Wild Card – neuer Anime-Film dreht sich ums TCG techkrams.de",
+   "published": "2026-09-11T07:00:00+00:00",
+   "summary": "\"Wenn die Welt morgen untergehen würde, wären Pokémonkarten die globale Währung\", behauptet ein Sammler und Risikokapitalgeber IGN Deutschland",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "techkrams.de",
+   "domain": "igndeutschland.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-09-12T10:02:55.813454+00:00",
+   "first_seen": "2026-09-11T11:35:14.716376+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Einbruch in Bücherei in Viersen: Unbekannte stehlen Geld und Pokemon-Karten - RP Online",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUdqWklRYjFVYTV2bC00QnpHZDdsX3lTVk9XeF9JVEZBNGxfVEFDbmhONUx5WUJWSjZuNHcwaTNBRU8wZnZpVzlhMG42WDlFVzlVRUlGOTVpVUNhSE02TUdSaHBYek9HckhZU2FJcDNGRzhTaEFGWV93OEdPVWw3b3VOdGJBa1Atc3RZLVZLdllUdEZPWGRnV1l1cEV3U2lXQldqNExNSQ?oc=5",
+   "source": "RP Online",
+   "platform": "news",
+   "published": "2026-09-10T07:00:00+00:00",
+   "summary": "Einbruch in Bücherei in Viersen: Unbekannte stehlen Geld und Pokemon-Karten RP Online",
+   "author": "",
+   "category": "einbruch",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "rponline.de",
+   "logo": "",
+   "score": 4,
+   "matched": [
+    "einbruch",
+    "pokemon",
+    "pokémon",
+    "stehl"
+   ],
+   "first_seen": "2026-09-10T16:04:01.662163+00:00",
    "related": [],
    "report_count": 1
   }
