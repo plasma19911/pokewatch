@@ -1,9 +1,35 @@
 {
- "generated": "2026-10-19T10:04:11.385882+00:00",
+ "generated": "2026-10-19T12:04:14.463554+00:00",
  "builder": "2026-07-25g",
  "count": 150,
  "new": 1,
  "items": [
+  {
+   "title": "Einbruch in Wien - Wertvolle Pokémon-Karten aus Spielraum gestohlen - Kronen Zeitung",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDNzBmMDAtUzM0OHVpQzMzeDYwQ18wS1F6MldRalU0eGNpWDFidmJEc2otUFhncUpFb1VzZGpuem5aQQ?oc=5",
+   "source": "Kronen Zeitung",
+   "platform": "news",
+   "published": "2026-10-19T10:34:00+00:00",
+   "summary": "Einbruch in Wien - Wertvolle Pokémon-Karten aus Spielraum gestohlen Kronen Zeitung",
+   "author": "",
+   "category": "einbruch",
+   "region": "at",
+   "country": "",
+   "image": "",
+   "domain": "kronenzeitung.de",
+   "logo": "",
+   "score": 8,
+   "matched": [
+    "einbruch",
+    "gestohl",
+    "gestohlen",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-10-19T12:04:14.448457+00:00",
+   "related": [],
+   "report_count": 1
+  },
   {
    "title": "TCG collector says $100K PSA card order stolen in Pokemon, MTG & Yu-Gi-Oh FedEx truck burglary - Dexerto",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOclhZWW9ScGtLOGlNZ2JRNTU1NFVNNG5sazdackZzcTRUb3NXTlZOTndYRDZfWHNRODNFU0ZGaHc0alZKUTcxX1ZjNGdHVDFxY1pCUWFuSEF5ZXVDTXVvN2hxaDVIem85ZVVJYzAzRWR4cmoyeGFZUzhqSDZBYlM5YXBnNmVTbzlJVEhTbGgtVFloNmhGNUo1eDlqM1hLaXNEOHd1b0JJa1o3dE1uM3VWYVV1U2JOU2JvLTFOdGhrejZ1VXJNQkJPQjJHVQ?oc=5",
@@ -11,42 +37,6 @@
    "platform": "news",
    "published": "2026-10-19T00:17:44+00:00",
    "summary": "TCG collector says $100K PSA card order stolen in Pokemon, MTG & Yu-Gi-Oh FedEx truck burglary Dexerto",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "dexerto.com",
-   "logo": "",
-   "score": 8,
-   "matched": [
-    "burglar",
-    "burglary",
-    "pokemon",
-    "pokémon",
-    "psa",
-    "stolen",
-    "tcg",
-    "yu-gi-oh"
-   ],
-   "first_seen": "2026-10-18T16:12:37.641411+00:00",
-   "related": [
-    {
-     "title": "PSA FedEx Truck Theft May Top $1 Million in Stolen Cards - Resell Calendar",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRjk5M2c2OWxLXzJmaTBtX3RNek03d1plNC1MbkVzWWFoY2RiUjZHbnpJU1J0NzZmX2FpaHhLZlVvdE4yMjBfck14djFUNEVrVl9wb1VMb3lnU01CN3JfQWVqSUlhMnBJMFFzUjZKdEwwVFVEMlVXUFhBRkNZOHhMbTRJUnFNSzBCZkd1V3RQTVZjUnNP?oc=5",
-     "source": "Resell Calendar",
-     "published": "2026-10-19T00:17:44+00:00"
-    }
-   ],
-   "report_count": 2
-  },
-  {
-   "title": "PSA Grading Customers Hit by Massive Card Theft After FedEx Truck Burglary - Heavy.com",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Mck5mcV9aVHlmYldPanRhcEFOZkc3YTdXVy14eU50dGc2elMwVE12c1p6Ynd5dDYwN2V0ZmZ0VVFnZ0VuYy1XVDJjSUxoQ2V3c3g5MWdvR1Y2VTlJXzhhc3lnRXBCZzQ?oc=5",
-   "source": "Heavy.com",
-   "platform": "news",
-   "published": "2026-10-18T22:37:24+00:00",
-   "summary": "PSA Grading Customers Hit by Massive Card Theft After FedEx Truck Burglary Heavy.com",
    "author": "",
    "category": "einbruch",
    "region": "int",
@@ -62,16 +52,28 @@
     "psa",
     "theft"
    ],
-   "first_seen": "2026-10-19T10:04:11.376827+00:00",
+   "first_seen": "2026-10-18T16:12:37.641411+00:00",
    "related": [
+    {
+     "title": "PSA Grading Customers Hit by Massive Card Theft After FedEx Truck Burglary - Heavy.com",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Mck5mcV9aVHlmYldPanRhcEFOZkc3YTdXVy14eU50dGc2elMwVE12c1p6Ynd5dDYwN2V0ZmZ0VVFnZ0VuYy1XVDJjSUxoQ2V3c3g5MWdvR1Y2VTlJXzhhc3lnRXBCZzQ?oc=5",
+     "source": "Heavy.com",
+     "published": "2026-10-18T19:39:53+00:00"
+    },
     {
      "title": "PSA Grading Customers Hit by Massive Card Theft After FedEx Truck Burglary - Yahoo",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSW9DSm9NdnY2V1BVbWFjdUVQTjN2Q0gxelNhX21ZM0J0SXF5Y3QxTjYtN3Y0TVdfUzZhZDFUVUllRFJTR0lVUkFVYVNMOXlxXzRnLW5JTjBFTFVkSkpJWi0wQVdycjVnVjZTSk5NSU1iZTJ3MHp1NVUxcVNlYVZvekVySGZ6cjNCOEVqQzZzNS0?oc=5",
      "source": "Yahoo",
      "published": "2026-10-18T22:37:24+00:00"
+    },
+    {
+     "title": "PSA FedEx Truck Theft May Top $1 Million in Stolen Cards - Resell Calendar",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRjk5M2c2OWxLXzJmaTBtX3RNek03d1plNC1MbkVzWWFoY2RiUjZHbnpJU1J0NzZmX2FpaHhLZlVvdE4yMjBfck14djFUNEVrVl9wb1VMb3lnU01CN3JfQWVqSUlhMnBJMFFzUjZKdEwwVFVEMlVXUFhBRkNZOHhMbTRJUnFNSzBCZkd1V3RQTVZjUnNP?oc=5",
+     "source": "Resell Calendar",
+     "published": "2026-10-19T00:17:44+00:00"
     }
    ],
-   "report_count": 2
+   "report_count": 4
   },
   {
    "title": "Pokémon-Angebot bei Netto: Ab morgen bekommt ihr für 14,99 Euro Pokébälle mit Boosterpacks - GamePro",
@@ -786,13 +788,19 @@
    "first_seen": "2026-10-18T22:30:47.635578+00:00",
    "related": [
     {
+     "title": "Gestohlene Sammelkarten auf Kartenmesse angeboten - drei Tatverdächtige vorläufig festgenommen - meinestadt.de",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HSnZFY0RrMG9jWEh3a29XeDhqOFNJcTZNUVlHTUJhXzZKTDNtMUs2WjhJZ1J5V1d3WS1FRklzTEtKc2JFVTZvbUtIRTdpWGI3RHZSNWRsNjhwNmt2V09VbjNuZmg0QVdpQzlUdkJ6WllUWm5ncjU4Rw?oc=5",
+     "source": "meinestadt.de",
+     "published": "2026-10-12T14:00:22+00:00"
+    },
+    {
      "title": "Aachen: Gestohlene Sammelkarten auf Kartenmesse angeboten - Newsflash24",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3pMMVhIdURVcDRSU1VxTkluekNPWXVScW5NYjVPb0U0eHpETFczdDBXMk5QY3ZOU2pBdVFHZHpUalNRb2wyWGw5OVRXUnB4eGl0VDlXUEdKS1huUE9aOWw1TngwT1NZOTJndUc1U1lfMk01T0hONVFEYmdmQ3o0R0FVcENCTFhUUUlhU3VldGs5Y0U3c25EM2I2QTdxMVJ0OHE0NmYtbVRaRm9LSXVn?oc=5",
      "source": "Newsflash24",
      "published": "2026-10-12T14:36:00+00:00"
     }
    ],
-   "report_count": 2
+   "report_count": 3
   },
   {
    "title": "Diebstahl: Wertvolle Pokémonkarte gestohlen - Verdächtige festgenommen - DIE ZEIT",
@@ -1232,6 +1240,30 @@
     "news:de"
    ],
    "first_seen": "2026-10-09T10:03:27.270939+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Pokemon Go Shadow Suicune Raid guide: Weaknesses & best counters - Dexerto",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaUtVbjRjY3JRLWliOFk3a2lrX21XVkRBdmtrMV9hWHE1UXBsbnRFOHB2ZlJWcHgzYnFwcElKNnJXMEF6dG1MeXRSM2Nid2JKUU9TeFVpZDJITTNyUW10ZU9WS3RwTTFiNXlHekd2cWFwcW5RZHhVQ2lFV1F0dmQ2V3VlZw?oc=5",
+   "source": "Dexerto",
+   "platform": "news",
+   "published": "2026-10-08T23:09:04+00:00",
+   "summary": "Pokemon Go Shadow Suicune Raid guide: Weaknesses & best counters Dexerto",
+   "author": "",
+   "category": "behoerden",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "dexerto.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "raid"
+   ],
+   "first_seen": "2026-10-17T02:03:18.927022+00:00",
    "related": [],
    "report_count": 1
   },
@@ -1988,35 +2020,28 @@
    "report_count": 2
   },
   {
-   "title": "Friend had a pokemon themed party today and for one of the activities we painted over counterfeit/hand me down pokemon cards n it was so fun",
-   "url": "https://bsky.app/profile/abracafckyou.bsky.social/post/3mwh32tx6dc2y",
-   "source": "@abracafckyou.bsky.social",
-   "platform": "bluesky",
+   "title": "FBI says ShinyHunters leader arrested as Pokemon-themed hacking group faces probe - Dexerto",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONDl3ZVY3cUJFS0RrU2FEV3dHUEQzRFJ2V3I2YmxTcnk2N2twVzdPQTNicFhITUxKSlFMZFFudnZzcm9NYUhMSFpKQUdJclhGTFdrVTFHV01CaEV5TktTYnVlejVhZXVIMUNMVzRxMzM0S28wVEJjeDIyTlBXMEZmbTAzZDFDb1BrR0YtcEYtNnhULWNNMmJUazcyckNGU081MW02U2pvVEtMOU5ibGw2RjJheGxDVzM2ek9aLUd2OA?oc=5",
+   "source": "Dexerto",
+   "platform": "news",
    "published": "2026-09-29T07:00:00+00:00",
-   "summary": "Friend had a pokemon themed party today and for one of the activities we painted over counterfeit/hand me down pokemon cards n it was so fun",
-   "author": "✨Karli, Tech Wizard Apprentice✨",
-   "category": "betrug",
+   "summary": "FBI says ShinyHunters leader arrested as Pokemon-themed hacking group faces probe Dexerto",
+   "author": "",
+   "category": "behoerden",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "abracafckyoubskysocial.com",
+   "domain": "dexerto.com",
    "logo": "",
    "score": 3,
    "matched": [
-    "counterfeit",
+    "arrested",
     "pokemon",
     "pokémon"
    ],
-   "first_seen": "2026-09-26T21:20:16.740571+00:00",
-   "related": [
-    {
-     "title": "FBI says ShinyHunters leader arrested as Pokemon-themed hacking group faces probe - Dexerto",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONDl3ZVY3cUJFS0RrU2FEV3dHUEQzRFJ2V3I2YmxTcnk2N2twVzdPQTNicFhITUxKSlFMZFFudnZzcm9NYUhMSFpKQUdJclhGTFdrVTFHV01CaEV5TktTYnVlejVhZXVIMUNMVzRxMzM0S28wVEJjeDIyTlBXMEZmbTAzZDFDb1BrR0YtcEYtNnhULWNNMmJUazcyckNGU081MW02U2pvVEtMOU5ibGw2RjJheGxDVzM2ek9aLUd2OA?oc=5",
-     "source": "Dexerto",
-     "published": "2026-09-29T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
+   "first_seen": "2026-10-03T11:52:02.632835+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Former Owner's Lawsuit Questions Price and Process Behind Beckett Sale to PSA Parent Company - Sports Collectors Daily",
@@ -2244,6 +2269,37 @@
    "first_seen": "2026-09-27T17:21:46.348147+00:00",
    "related": [],
    "report_count": 1
+  },
+  {
+   "title": "If you weren't sure if card and game grading was a nonsense scam that afflicts only the most bizarre of collectors;\n\nI saw a Kirby's friend Nago hanafuda card, graded mint 10, list",
+   "url": "https://bsky.app/profile/shinsua.bsky.social/post/3mvmghccdf225",
+   "source": "@shinsua.bsky.social",
+   "platform": "bluesky",
+   "published": "2026-09-26T19:58:27.520000+00:00",
+   "summary": "If you weren't sure if card and game grading was a nonsense scam that afflicts only the most bizarre of collectors;\n\nI saw a Kirby's friend Nago hanafuda card, graded mint 10, listed for $100\n\nIt comes from a full hanafuda deck that was originally around $30 usd",
+   "author": "Shinsua🎐♨️",
+   "category": "betrug",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "shinsuabskysocial.com",
+   "logo": "",
+   "score": 4,
+   "matched": [
+    "graded",
+    "grading",
+    "scam"
+   ],
+   "first_seen": "2026-09-16T06:03:06.012853+00:00",
+   "related": [
+    {
+     "title": "Friend had a pokemon themed party today and for one of the activities we painted over counterfeit/hand me down pokemon cards n it was so fun",
+     "url": "https://bsky.app/profile/abracafckyou.bsky.social/post/3mwh32tx6dc2y",
+     "source": "@abracafckyou.bsky.social",
+     "published": "2026-09-26T19:58:27.520000+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Repeat Pokemon heist pushes Winnipeg owner to quit - Global News",
@@ -4065,56 +4121,6 @@
     "pokémon"
    ],
    "first_seen": "2026-09-15T08:03:19.009773+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Two Pokémon card stores hit by burglars in Washington County in one month; police search for suspect - TMJ4 News",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOYmpRMTRrYU8zLVhGdHNvUTZudmZxeXdSVjZLTzRMZi1GSlpWcjNLNFcyVXFKek5PUE5KTmJLeW5LZHRGejVsbk9LYlA4LURtbjh3ZmxZQ2E0QXZaeUdQVmR1ZXdSVkNJNGlRT2RKbXZldTE3QTFxb1d0ZENXMWVqeThKa1N6QzRfUF9Jbkh1eGFpVDBpcXZnclJxU2hHMnVXV29Ca3BDSzB2a1FMbDJOWEt2ZkJjUlNXTGM2aVI0SWdjbFJDalFvU3RhU3NicjFIdnRjbmNVbkV4T1Z0MGFaU1JxR0JRZzdzSElVLU5DSmx3Qm9LQXVHLXA3TFdGTXVRVFE?oc=5",
-   "source": "TMJ4 News",
-   "platform": "news",
-   "published": "2026-09-14T07:00:00+00:00",
-   "summary": "Two Pokémon card stores hit by burglars in Washington County in one month; police search for suspect TMJ4 News",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "USA",
-   "image": "",
-   "domain": "tmj4news.com",
-   "logo": "",
-   "score": 4,
-   "matched": [
-    "burglar",
-    "card store",
-    "pokemon",
-    "pokémon"
-   ],
-   "first_seen": "2026-09-15T06:02:52.519592+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Guns, Pokémon cards stolen from Charlotte County storage unit; 3 arrested - Gulf Coast News and Weather",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd1lsaHozb3hVLUphUVBiczdmSVBsdnN2NzA5bnR4QmhYS2RkRl9lV3dLYkM0N0VWM0p5TUJfYjRhUnc3ODZrUzBTbjRBX0J4bG1RNzc3dGxkUlpmNmRRRjVZSHQ2UWFlZkkySDRVRjNsT1J4Q0dPSmxIS3E2LU1VTDYtekltdWtuaEk1cmxEdlNsTnM3VWpQZnA3b05rNG5X?oc=5",
-   "source": "Gulf Coast News and Weather",
-   "platform": "news",
-   "published": "2026-09-14T07:00:00+00:00",
-   "summary": "Guns, Pokémon cards stolen from Charlotte County storage unit; 3 arrested Gulf Coast News and Weather",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "gulfcoastnewsandweather.com",
-   "logo": "",
-   "score": 4,
-   "matched": [
-    "arrested",
-    "pokemon",
-    "pokémon",
-    "stolen"
-   ],
-   "first_seen": "2026-09-14T13:05:15.175280+00:00",
    "related": [],
    "report_count": 1
   }
