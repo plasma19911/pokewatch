@@ -182,9 +182,9 @@ footer a{color:var(--cool)}
   <p class="sub">Einbrueche, Betrug, Razzien und Schliessungen bei Pokemon- und
      TCG-Laeden. Zusammengetragen aus Presse, YouTube, Reddit und Bluesky.</p>
   <div class="runline">
-    <span>Stand <b id="stand">22.10.2026, 14:03</b></span>
+    <span>Stand <b id="stand">22.10.2026, 16:03</b></span>
     <span>Eintraege <b>150</b></span>
-    <span>Neu seit letztem Lauf <b>1</b></span>
+    <span>Neu seit letztem Lauf <b>3</b></span>
   </div>
   <div class="actions" id="actions" hidden>
     <button id="refresh">Jetzt aktualisieren</button>
@@ -197,13 +197,13 @@ footer a{color:var(--cool)}
   </p>
 </header>
 
-<div class="stats"><div class="stat" data-tone="alert"><span class="stat-n">90</span><span class="stat-l">Einbruch / Raub</span></div><div class="stat" data-tone="warn"><span class="stat-n">3</span><span class="stat-l">Betrug / Fakes</span></div><div class="stat" data-tone="cool"><span class="stat-n">0</span><span class="stat-l">Schliessung / Insolvenz</span></div><div class="stat" data-tone="legal"><span class="stat-n">5</span><span class="stat-l">Razzia / Rechtliches</span></div><div class="stat" data-tone="ship"><span class="stat-n">4</span><span class="stat-l">Versand / Grading</span></div><div class="stat" data-tone="cool"><span class="stat-n">48</span><span class="stat-l">Szene / News</span></div></div>
+<div class="stats"><div class="stat" data-tone="alert"><span class="stat-n">91</span><span class="stat-l">Einbruch / Raub</span></div><div class="stat" data-tone="warn"><span class="stat-n">3</span><span class="stat-l">Betrug / Fakes</span></div><div class="stat" data-tone="cool"><span class="stat-n">0</span><span class="stat-l">Schliessung / Insolvenz</span></div><div class="stat" data-tone="legal"><span class="stat-n">5</span><span class="stat-l">Razzia / Rechtliches</span></div><div class="stat" data-tone="ship"><span class="stat-n">4</span><span class="stat-l">Versand / Grading</span></div><div class="stat" data-tone="cool"><span class="stat-n">47</span><span class="stat-l">Szene / News</span></div></div>
 
 <div class="filterbar">
-<div class="frow frow-tabs"><button class="abtn on" data-art="vorfall">Vorf&auml;lle<span class="n">102</span></button><button class="abtn" data-art="news">Pok&eacute;mon-News (DE)<span class="n">48</span></button></div>
+<div class="frow frow-tabs"><button class="abtn on" data-art="vorfall">Vorf&auml;lle<span class="n">103</span></button><button class="abtn" data-art="news">Pok&eacute;mon-News (DE)<span class="n">47</span></button></div>
   <div class="frow" id="row-herkunft">
     <span class="flabel">Herkunft</span>
-    <button class="rbtn" data-region="all">Alle<span class="n">150</span></button><button class="rbtn on" data-region="de">Deutschland<span class="n">59</span></button><button class="rbtn" data-region="at">Oesterreich<span class="n">1</span></button><button class="rbtn" data-region="ch">Schweiz<span class="n">0</span></button><button class="rbtn" data-region="int">International<span class="n">90</span></button>
+    <button class="rbtn" data-region="all">Alle<span class="n">150</span></button><button class="rbtn on" data-region="de">Deutschland<span class="n">58</span></button><button class="rbtn" data-region="at">Oesterreich<span class="n">1</span></button><button class="rbtn" data-region="ch">Schweiz<span class="n">0</span></button><button class="rbtn" data-region="int">International<span class="n">91</span></button>
   </div>
   <div class="frow" id="row-vorfall">
     <span class="flabel">Vorfall</span>
@@ -216,7 +216,53 @@ footer a{color:var(--cool)}
 
 <main id="feed">
 
-    <article class="entry is-new" data-tone="alert"
+    <article class="entry is-new" data-tone="legal"
+             data-cat="behoerden" data-region="int"
+             data-art="vorfall"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Razzia / Rechtliches</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">TorontoToday.ca</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 10 Min</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPUTFuTlE4UWZFOGhfVFBaUUxWQ0U0elpzT0ZjNXJna1ZOQ0drbXlzVkY1M2NTclhWcHllMHhBN3B6YS1Qamx4dXVfcGl6OUhYTTlNRmEwc3R5NWwzTS1NVGluWnBTUENvSEJhSWtVNzYzLUdiM3QtZWZhNWZfdU9UeHFFR055cHNvSEw1d1NJYVdRc3FuZWJ2eG9lUGRKeWdVWk9ZZkp4ZkRuY3pDdmdyejM5RURBNGxGbVc3TGw2YTNGOUhDVGNEclNuTQ?oc=5" target="_blank" rel="noopener">
+          3 teens arrested in string of violent robberies involving luxury watches, Pokémon cards - TorontoToday.ca</a></h2>
+        <p class="sum">3 teens arrested in string of violent robberies involving luxury watches, Pokémon cards TorontoToday.ca</p>
+        <div class="tags"><span class="tag">arrested</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-art="vorfall"
+             data-platform="bluesky">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Bluesky</span>
+          <span class="dot"></span>
+          <span class="src">@29news.bsky.social</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 1 Std</span>
+        </div>
+        <h2><a href="https://bsky.app/profile/29news.bsky.social/post/3myf7e7c2o32f" target="_blank" rel="noopener">
+          Nearly $1 million worth of Pokémon and sports trading cards stolen in FedEx truck theft &gt;&gt;&gt; 
+https://www.29news.com/2026/10/20/nearly-1-million-worth-pokmon-sports-trading-cards-st</a></h2>
+        <p class="sum">Nearly $1 million worth of Pokémon and sports trading cards stolen in FedEx truck theft &gt;&gt;&gt; 
+https://www.29news.com/2026/10/20/nearly-1-million-worth-pokmon-sports-trading-cards-stolen-fedex-truck-theft/</p>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span><span class="tag">theft</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-art="vorfall"
              data-platform="news">
@@ -229,7 +275,7 @@ footer a{color:var(--cool)}
           <span class="dot"></span>
           <span class="src">@dustcircle.bsky.social</span>
           <span class="reg reg-int">International</span>
-          <span class="age">vor 43 Min</span>
+          <span class="age">vor 2 Std</span>
         </div>
         <h2><a href="https://bsky.app/profile/dustcircle.bsky.social/post/3myhqxemwhc2v" target="_blank" rel="noopener">
           #TradingCards Worth $1 Million Stolen From #FedEx Truck in #Pokémon #Heist
@@ -255,7 +301,7 @@ www.hindustantimes.com/world-news/t...</p>
           <span class="dot"></span>
           <span class="src">kens5.com</span>
           <span class="reg reg-de">Deutschland</span>
-          <span class="age">vor 2 Std</span>
+          <span class="age">vor 4 Std</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMiiwJBVV95cUxPeWhRTFZ5LVRnb0ctOUFhS3BEbmRidVZCeE1EZ2RsMXBtb0NHLWZnbkxKalBzRGN0aUI2djFjWkYxRjZONFhQV01RV0VlZFBqRk1tOW1OWmdJdHYyZHFZTE01bHZhZUFRUE1fREQ2S3dIVlpOTDJNa2p1STlqbXZ0UVU1clRrRW4xMmVTdXRPZy1TczRrZ19GeEdpSGNoR0FnR0NHaEFfOU9QblFnazN6amVVbjh5bUhhT1lPMUtmTWpYQWh1UVRFLXRFNjBNTXFDZkhDYVBQZWF1Qk1zTUR4Y0FDYWtDZm1SRzcybnpQTFRUcjRVc2V4bWhtZHh1ZWZuSmg0SHdwVDZRZ2M?oc=5" target="_blank" rel="noopener">
           Burglar pulls off ‘Mission: Impossible’-style break-in, steals Pokémon cards from Texas game store - kens5.com</a></h2>
@@ -277,7 +323,7 @@ www.hindustantimes.com/world-news/t...</p>
           <span class="dot"></span>
           <span class="src">PHL17.com</span>
           <span class="reg reg-int">International</span>
-          <span class="age">vor 2 Std</span>
+          <span class="age">vor 4 Std</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPNF9Sbzk1VTNtMFFvNjZPbDliYTVzUkVmczcxa3c3dFM5ZURfeks1b2lhbU5mTkxLODdqVC1HVW1iYmxUcVNGTU15WlhreElEVzZ4QzBFZGJIMnF4aUhOdC1HSzJlSlhUN1VvSlM3eEIyeU5tSXNKdFE3bHN2dEZrNU9ZaGVURmswTzA0UVFLUU5xWDZHdFcwbFoxb2psUQ?oc=5" target="_blank" rel="noopener">
           Wilmington man among victims of $1 million sports, Pokémon card heist - PHL17.com</a></h2>
@@ -299,7 +345,7 @@ www.hindustantimes.com/world-news/t...</p>
           <span class="dot"></span>
           <span class="src">GeoDudes | Mayg &amp; Marvin</span>
           <span class="reg reg-de">Deutschland</span>
-          <span class="age">vor 5 Std</span>
+          <span class="age">vor 7 Std</span>
         </div>
         <h2><a href="https://www.youtube.com/shorts/l0yGzchv9dw" target="_blank" rel="noopener">
           Wir kaufen deine Pokémon-Karten! 💰</a></h2>
@@ -323,7 +369,7 @@ Auf &quot;www.sammelkarten-verkaufen.de&quot; has</p>
           <span class="dot"></span>
           <span class="src">jpgames.de</span>
           <span class="reg reg-de">Deutschland</span>
-          <span class="age">vor 7 Std</span>
+          <span class="age">vor 9 Std</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxObHdiekpWS2JWSi1XT3ZUSnpuZ3ZXN243bFBHUVBjWW0zazV0QnptSHlwTVRHb1c2al92VERKT2FQeWdKb1cwX0o2TTd5eUZ0MWp2TTBwbzhyQzVGbUtLdHVydmprSjhPYWo2X1ljT2s1QU9zcEFpZ2VGS21JN2lzWHZvbU9Ibnltc3U5QmlKZXo4N1JZSkJ5U3RlWmxHX2tMZ09qWTBKajMyRVNH?oc=5" target="_blank" rel="noopener">
           Pokémon bei Kripo Live: Polizei bittet um Hinweise zu Diebstahl in Sachsen-Anhalt - jpgames.de</a></h2>
@@ -345,7 +391,7 @@ Auf &quot;www.sammelkarten-verkaufen.de&quot; has</p>
           <span class="dot"></span>
           <span class="src">NBC4 Los Angeles</span>
           <span class="reg reg-int">International · USA</span>
-          <span class="age">vor 12 Std</span>
+          <span class="age">vor 14 Std</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQZy0tMzBMT0NIYnpyZTFQRTRyNC1GNzl3VlNOR3E3aUJGd0k5azRjZlRsWHVlM1BmOEJDeDB4WDRQblBiTnNjWjN1NXZja2Vxb2RkWDQyUzljV3hSVlNxSzM1OHo4WEpwZzc3UHlHSGtXREUtMGg0enpaMWNsd3RvLXBhclZMR21UQl9ERi0zM0hZYUNiQzl4ZmM0RkJfeGg1S2hqdTliSlJNUVhFMThyYWRUVlBtSFhwRF9PWdIBxAFBVV95cUxPRk5sYVlVWGZwWlNEb1FreEFjcXNHMjRYa25tQzgwellaZ0hTMmNVdFZhdmQ4MG4tbEpEbmxpNVhwZ0Viak5uczJoallPQkVnVERqSEVPTFlwNWszV3lTMkJVLXh1MjJWeG5fQWdwdjViak9DanI0dTlUdUhYSzZYanpmV3lUcEdKY0YtN01oVU55RHA4OVBfRXJJMTRaZXFwZHlXRnlybXhhdTZGTURNQ2NGM2I0UnpPMDBWZDNjN1JZU0Uw?oc=5" target="_blank" rel="noopener">
           ‘Absolutely devastated.&#x27; Collect reacts after $1M Pokemon card theft - NBC4 Los Angeles</a></h2>
@@ -367,7 +413,7 @@ Auf &quot;www.sammelkarten-verkaufen.de&quot; has</p>
           <span class="dot"></span>
           <span class="src">@geek-slop.bsky.social</span>
           <span class="reg reg-int">International</span>
-          <span class="age">vor 14 Std</span>
+          <span class="age">vor 16 Std</span>
         </div>
         <h2><a href="https://bsky.app/profile/geek-slop.bsky.social/post/3myfdk2qxat25" target="_blank" rel="noopener">
           PSA Card Heist Tops $963,000 as Stolen Pokémon Packages Stay Missing
@@ -393,7 +439,7 @@ A FedEx truck burglary outside PSA’s Santa Ana headquarters exposed nearly $1 
           <span class="dot"></span>
           <span class="src">@kfdm6.bsky.social</span>
           <span class="reg reg-int">International · USA</span>
-          <span class="age">vor 15 Std</span>
+          <span class="age">vor 17 Std</span>
         </div>
         <h2><a href="https://bsky.app/profile/kfdm6.bsky.social/post/3myfwwbucqi2m" target="_blank" rel="noopener">
           Nearly $1 million worth of trading cards and collectibles were stolen from a FedEx truck in California, police say.
@@ -419,7 +465,7 @@ The reported haul included sports cards, Pokémon cards, autographs and comic bo
           <span class="dot"></span>
           <span class="src">@wcia3news.bsky.social</span>
           <span class="reg reg-int">International · USA</span>
-          <span class="age">vor 15 Std</span>
+          <span class="age">vor 17 Std</span>
         </div>
         <h2><a href="https://bsky.app/profile/wcia3news.bsky.social/post/3myeynqueoh2s" target="_blank" rel="noopener">
           Police are investigating the theft of nearly $1 million worth of trading cards that were stolen from a FedEx truck in Southern California.
@@ -443,7 +489,7 @@ https://www.wcia.com/news/national/nearly-1m-in-pokemon-cards-sports-cards-stole
           <span class="dot"></span>
           <span class="src">Patch</span>
           <span class="reg reg-int">International</span>
-          <span class="age">vor 16 Std</span>
+          <span class="age">vor 18 Std</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUVlMFlSaGFYSC1jZ1ViNTNYZW9IbFRjU1Z3MTYzbEVJci1fWjV3QVFVcHJHRnZmZ2JkbFo5RmFxUnpibmw5SklWQjJVZjZfLXNyZGxlRjYtNnYxOUFZU2locnpqdGZ2TFpncFdlZVhfcEVKd2xBTXMzaEhBMzQ2QW56S1dYYU52N1kyeWVPUGdEM091NjFNbWJzZUpHMXBaazRBU3pReDJSQdIBzAFBVV95cUxQWWdOZXZKR2hab21mLWowUmdmY3p2bXBXVm80d3dDSm9fYWNVTEFIbmQtOVhXQlpYeTBhb3JKb0FWWkF1SWtVdmFiUzNsbjl1b0FDbDkwV1VhNnZRY2lJaWY3dW9wLXBZUVBlSHhwRll2YnRLUk9GYkluQUtiMDIxdTBhYXp5bS15bXZKMHdVajF5LUY5U3drNlJkNi1kRGFXaUNvUmE2YWxrWl81SHlxYVVkWTJ6VmdUMGV5N3NjQVZyYmdnQ2o3di0zTU8?oc=5" target="_blank" rel="noopener">
           More Than $5K In Pokémon, Other TCG Cards Stolen From Bridgeton Home: Authorities - Patch</a></h2>
@@ -452,7 +498,7 @@ https://www.wcia.com/news/national/nearly-1m-in-pokemon-cards-sports-cards-stole
       </div>
     </article>
 
-    <article class="entry" data-tone="alert"
+    <article class="entry is-new" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-art="vorfall"
              data-platform="news">
@@ -463,13 +509,13 @@ https://www.wcia.com/news/national/nearly-1m-in-pokemon-cards-sports-cards-stole
           <span class="dot"></span>
           <span class="plat">Presse</span>
           <span class="dot"></span>
-          <span class="src">@ghostlyclaire.bsky.social</span>
+          <span class="src">Queen City News</span>
           <span class="reg reg-int">International · USA</span>
-          <span class="age">vor 17 Std</span>
+          <span class="age">vor 19 Std</span>
         </div>
-        <h2><a href="https://bsky.app/profile/ghostlyclaire.bsky.social/post/3myfncy3pgs2q" target="_blank" rel="noopener">
-          Reading about a bunch of stolen sports and pokemon cards that got stolen on the way to a grading agency and... fucking hell man, I hate this shit. Collectible card games were a fuc</a></h2>
-        <p class="sum">Reading about a bunch of stolen sports and pokemon cards that got stolen on the way to a grading agency and... fucking hell man, I hate this shit. Collectible card games were a fucking cool idea, and this whole grading a</p>
+        <h2><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxORDljVEZkYmVwWjJYNUdRWGhWTjlRQWlQeFdOUWRnaWpJeDBsMkVTeG5CNzNEVkJEVEpGTVpXeTIyMlhMelh6RTZ1dHdtQ2lQejg1QWJ4SHFOTE00VHFXcmQxaUFxOWdFS2FEa1JTYzZ1ZE1sejJGbmNPY09JMGpqLTNLZ0dKLWE1ekMzT0lvOFJ3WXAybUVIdlRfdk15N0M1MkVnSFRnSVRidWRoU2NQZGJRVV9CT2dTc2R1ZFJ0ZENxdE5kV2c?oc=5" target="_blank" rel="noopener">
+          Nearly $1M in Pokémon cards, sports cards stolen outside grading company in California - Queen City News</a></h2>
+        <p class="sum">Nearly $1M in Pokémon cards, sports cards stolen outside grading company in California Queen City News</p>
         <div class="tags"><span class="tag">grading</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
       </div>
     </article>
@@ -487,7 +533,7 @@ https://www.wcia.com/news/national/nearly-1m-in-pokemon-cards-sports-cards-stole
           <span class="dot"></span>
           <span class="src">@gonintendo.mastodon.social.ap.brid.gy</span>
           <span class="reg reg-int">International</span>
-          <span class="age">vor 18 Std</span>
+          <span class="age">vor 20 Std</span>
         </div>
         <h2><a href="https://bsky.app/profile/gonintendo.mastodon.social.ap.brid.gy/post/3myfucwf2syr2" target="_blank" rel="noopener">
           Nearly $1 million in Pokémon cards and more stolen from FedEx truck:
@@ -519,34 +565,12 @@ What the truck?!
           <span class="dot"></span>
           <span class="src">Heute</span>
           <span class="reg reg-de">Deutschland</span>
-          <span class="age">vor 19 Std</span>
+          <span class="age">vor 21 Std</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSW14T2lvazI4SFMweDR2X2NBZ3dIb1FWN1Z0czdoOFJONGZtbENaNmd2VDVodDl1OWx5YWg1MHhYcVBfdHo5dnRlTUtsMHp4Y0daMGN3a2tGR2gxemI1LUo4SjYzQTh1Wi1QWGJLWTI3cm83SlBvV2NOdVkyODYxY0haVHVXNFRFYjZR?oc=5" target="_blank" rel="noopener">
           20.000 Euro Schaden – Schon 3. Einbruch! Diebe stehlen 6.000 Pokémon-Karten - Heute</a></h2>
         <p class="sum">20.000 Euro Schaden – Schon 3. Einbruch! Diebe stehlen 6.000 Pokémon-Karten Heute</p>
         <div class="tags"><span class="tag">einbruch</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stehl</span></div>
-      </div>
-    </article>
-
-    <article class="entry" data-tone="alert"
-             data-cat="einbruch" data-region="int"
-             data-art="vorfall"
-             data-platform="news">
-      <div class="rail"></div>
-      <div class="body">
-        <div class="meta">
-          <span class="cat">Einbruch / Raub</span>
-          <span class="dot"></span>
-          <span class="plat">Presse</span>
-          <span class="dot"></span>
-          <span class="src">Yahoo</span>
-          <span class="reg reg-int">International</span>
-          <span class="age">vor 19 Std</span>
-        </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPWFE3bkl0OFI0MGJaU1RhUG9nbzZjM0tDSld1TElRRElKX2V4cG05MHNLUTlNMldkQlVsQTFvaTFRY2Z0TXlXMVdkbWQ2V0pKajMycmpSTlJvNHR0c0I0WmEza1NZUC15QTM4eFBoajBSaGFTNElRZkdpYmEtXy0yejhQZHBLWHpsNUE?oc=5" target="_blank" rel="noopener">
-          Collectors sent rare Pokémon and sports cards to get graded. Then thieves stole nearly $1 million worth of them from the FedEx truck taking them home - Yahoo</a></h2>
-        <p class="sum">Collectors sent rare Pokémon and sports cards to get graded. Then thieves stole nearly $1 million worth of them from the FedEx truck taking them home Yahoo</p>
-        <div class="tags"><span class="tag">heist</span><span class="tag">psa</span><span class="tag">theft</span></div>
       </div>
     </article>
 
@@ -563,34 +587,12 @@ What the truck?!
           <span class="dot"></span>
           <span class="src">Fortune</span>
           <span class="reg reg-int">International</span>
-          <span class="age">vor 19 Std</span>
+          <span class="age">vor 21 Std</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNakYyRGhVVFBSdFVtcS0tMDBibU9rQlMtbS1oNVlXTzlIOFV5bGU2YmdwZUd4bDZzRE1pVGR3ZWFRSElKQ25LakJtNllMdlNRSEVoNGJBdlFIc1NGYjRlenFKSmtsZFhyaHlzaVNYX1FHOUljOF9UUWh5M1hEa0JTQmZUNjB6bWFIdjBnd29YTC1rTzQ2MHc?oc=5" target="_blank" rel="noopener">
           Thieves made off with nearly $1 million in rare Pokemon and sports cards that were getting graded - Fortune</a></h2>
         <p class="sum">Thieves made off with nearly $1 million in rare Pokemon and sports cards that were getting graded Fortune</p>
         <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
-      </div>
-    </article>
-
-    <article class="entry" data-tone="alert"
-             data-cat="einbruch" data-region="int"
-             data-art="vorfall"
-             data-platform="news">
-      <div class="rail"></div>
-      <div class="body">
-        <div class="meta">
-          <span class="cat">Einbruch / Raub</span>
-          <span class="dot"></span>
-          <span class="plat">Presse</span>
-          <span class="dot"></span>
-          <span class="src">PC Gamer</span>
-          <span class="reg reg-int">International</span>
-          <span class="age">vor 19 Std</span>
-        </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUXVCbDl3cUdQNVVZZ296dkNucXZfcFBrWmR4eW5oMmdoNVNyZ1NJTGxxMUlKVnlHZ05Gd2NxdVVBVk5TaTFvVFpTOExONHYzVXFXM1ZSaGdSYVFPQzhCRWdpMTItMTRocEpGa2FlX3E4aWJYY3p5TkZoU19vSkVvb0dLYkt1am5wUndxUnhYOUtXNVpHUE5IMHJXUUFVRFp3UWtmZ2drbzQwRW9aazhYaHY1bnczLXhOYWZ5ZHlOY0F4RjlzS0V4ZFJWQ29wTlFFbE9jbzlIblVDOXZHR2V4dVJYS1EwQQ?oc=5" target="_blank" rel="noopener">
-          Nearly $1 million worth of PSA-graded Pokémon and other trading cards have been stolen right outside PSA&#x27;s headquarters - PC Gamer</a></h2>
-        <p class="sum">Nearly $1 million worth of PSA-graded Pokémon and other trading cards have been stolen right outside PSA&#x27;s headquarters PC Gamer</p>
-        <div class="tags"><span class="tag">graded</span><span class="tag">psa</span><span class="tag">stolen</span><span class="tag">trading card</span></div>
       </div>
     </article>
 
@@ -607,7 +609,7 @@ What the truck?!
           <span class="dot"></span>
           <span class="src">@fonv431.bsky.social</span>
           <span class="reg reg-int">International</span>
-          <span class="age">vor 19 Std</span>
+          <span class="age">vor 21 Std</span>
         </div>
         <h2><a href="https://bsky.app/profile/fonv431.bsky.social/post/3myfner5syc27" target="_blank" rel="noopener">
           www.cbsnews.com/losangeles/v...
@@ -633,12 +635,34 @@ What the truck?!
           <span class="dot"></span>
           <span class="src">Yahoo</span>
           <span class="reg reg-int">International</span>
-          <span class="age">vor 20 Std</span>
+          <span class="age">vor 22 Std</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0ZIYmVZN1o0SEVIRlBLZjkxRm5oc2ZVVXpycEJjakVUbjdzdzkwQ2dLMVlMU1lzYURQNUdQRlVxSGRDV0lQcFR1cE1VZG0yWGlqNGIxaDZqVUoyQ2lMeU51SUxWQ2t1UWtXUDNuTy1PTEpYSUJHUlQ3MkU3TklwbGtRdGV5NzhDQkpnRkhwUQ?oc=5" target="_blank" rel="noopener">
           Another Day, Another Pokemon Card Heist Worth Nearly $1 Million - Yahoo</a></h2>
         <p class="sum">Another Day, Another Pokemon Card Heist Worth Nearly $1 Million Yahoo</p>
         <div class="tags"><span class="tag">heist</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-art="vorfall"
+             data-platform="bluesky">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Bluesky</span>
+          <span class="dot"></span>
+          <span class="src">@ghostlyclaire.bsky.social</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 22 Std</span>
+        </div>
+        <h2><a href="https://bsky.app/profile/ghostlyclaire.bsky.social/post/3myfncy3pgs2q" target="_blank" rel="noopener">
+          Reading about a bunch of stolen sports and pokemon cards that got stolen on the way to a grading agency and... fucking hell man, I hate this shit. Collectible card games were a fuc</a></h2>
+        <p class="sum">Reading about a bunch of stolen sports and pokemon cards that got stolen on the way to a grading agency and... fucking hell man, I hate this shit. Collectible card games were a fucking cool idea, and this whole grading a</p>
+        <div class="tags"><span class="tag">grading</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
       </div>
     </article>
 
@@ -655,12 +679,34 @@ What the truck?!
           <span class="dot"></span>
           <span class="src">Nintendo-Online.de</span>
           <span class="reg reg-de">Deutschland</span>
-          <span class="age">vor 21 Std</span>
+          <span class="age">vor 23 Std</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWV6dHd5NVBvRlhIUXZ3a3lWNWZuTG9XbWl2WU8tMkstYm5TSFZHUDNNWVNXRHBlSmVpeFVsRXkxREZvSW1rWVd1NGk5NmJhdHgtbGRQNlpPS2Q1QjZ2NEM5OFUtbU94MV91QUpxNEh6d0dmZWwwLXBmVnNfbWpjSE8zc3k0QmpmeXhCcGpncW9jUlM0NFJrWEZaVlBrV2t4Ync5QXQ5bTh2RE1XLV9XWnFYeW9tNWU3U3VxdGJFTnZ5Q2RPOFNWellzSnFGUQ?oc=5" target="_blank" rel="noopener">
           Pokémon-Sammelkartenspiel-Pocket: Dualtyp-Pokémon feiern mit „Duale Fusion“ nächste Woche ihr Debüt - Nintendo-Online.de</a></h2>
         <p class="sum">Pokémon-Sammelkartenspiel-Pocket: Dualtyp-Pokémon feiern mit „Duale Fusion“ nächste Woche ihr Debüt Nintendo-Online.de</p>
         <div class="tags"><span class="tag">news:de</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-art="vorfall"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">PC Gamer</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 23 Std</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUXVCbDl3cUdQNVVZZ296dkNucXZfcFBrWmR4eW5oMmdoNVNyZ1NJTGxxMUlKVnlHZ05Gd2NxdVVBVk5TaTFvVFpTOExONHYzVXFXM1ZSaGdSYVFPQzhCRWdpMTItMTRocEpGa2FlX3E4aWJYY3p5TkZoU19vSkVvb0dLYkt1am5wUndxUnhYOUtXNVpHUE5IMHJXUUFVRFp3UWtmZ2drbzQwRW9aazhYaHY1bnczLXhOYWZ5ZHlOY0F4RjlzS0V4ZFJWQ29wTlFFbE9jbzlIblVDOXZHR2V4dVJYS1EwQQ?oc=5" target="_blank" rel="noopener">
+          Nearly $1 million worth of PSA-graded Pokémon and other trading cards have been stolen right outside PSA&#x27;s headquarters - PC Gamer</a></h2>
+        <p class="sum">Nearly $1 million worth of PSA-graded Pokémon and other trading cards have been stolen right outside PSA&#x27;s headquarters PC Gamer</p>
+        <div class="tags"><span class="tag">graded</span><span class="tag">psa</span><span class="tag">stolen</span><span class="tag">trading card</span></div>
       </div>
     </article>
 
@@ -677,7 +723,7 @@ What the truck?!
           <span class="dot"></span>
           <span class="src">CHIP</span>
           <span class="reg reg-de">Deutschland</span>
-          <span class="age">vor 21 Std</span>
+          <span class="age">vor 23 Std</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWnJtVldkNkUyTEdGVldXOXdvQ3kyVWNHOWpVZlNpWnptVHVvYXhPRlZoZTEwTEphVmU5cEF2SFRIVURiaF9MWFVJS29ZdGV6cmgxWEdaVTNqUmY0RGhTMDNtUmZQbFlRand5c3ltNHVnVnlfYW55YVhmWm9rVjJVdFlGeHdfNElfaDZWemZIdUU0Q0s1ZUE3M083RG94alQySTFyd21CdVNRX0tkVndFVU05emxtdnFPbUZsd1VYM1NJaENRWUNlclNtaVRuaHdIWkd2bUpibEVXcTZzVzNhVUFnSHloeDdrX1RV?oc=5" target="_blank" rel="noopener">
           Sammelfrust statt Sammelspaß: Wie Pokémon-Karten von Bots ruiniert werden - CHIP</a></h2>
@@ -699,7 +745,7 @@ What the truck?!
           <span class="dot"></span>
           <span class="src">@myheadlinespodcast.bsky.social</span>
           <span class="reg reg-int">International</span>
-          <span class="age">vor 22 Std</span>
+          <span class="age">gestern</span>
         </div>
         <h2><a href="https://bsky.app/profile/myheadlinespodcast.bsky.social/post/3myfjg3xy2t2i" target="_blank" rel="noopener">
           🚨 Breaking News:
@@ -718,7 +764,7 @@ Larry Ellison Took Out Loans t</p>
       </div>
     </article>
 
-    <article class="entry" data-tone="alert"
+    <article class="entry is-new" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-art="vorfall"
              data-platform="news">
@@ -729,13 +775,13 @@ Larry Ellison Took Out Loans t</p>
           <span class="dot"></span>
           <span class="plat">Presse</span>
           <span class="dot"></span>
-          <span class="src">Yahoo</span>
+          <span class="src">Nerdist</span>
           <span class="reg reg-int">International</span>
-          <span class="age">vor 22 Std</span>
+          <span class="age">gestern</span>
         </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPbU1SLVh0NHRJa0VTVEs5N2REdVIyZ0E1YVR1QzZNYzlIWjdDLVJsNkJ6NVB6YW9UQlZZMTNiRmMxZjJEYmZCOFFVNC1EemI1dnZ2TnlFNlZmcDBwUC1aTEM2QmoteF9oT0tWZTFyRlZaUkZXTFlfV0RGeUtUNFl3dkFWeWI?oc=5" target="_blank" rel="noopener">
-          YouTuber Loses $100,000 in Wild Trading Card Heist - Yahoo</a></h2>
-        <p class="sum">YouTuber Loses $100,000 in Wild Trading Card Heist Yahoo</p>
+        <h2><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaGVJN1hhUlJBdmpmT0ROU0NmSWZKYUR6OVdVeFZFcUc0M1JuUHUyVkk4ZllDU2pMcXFiemJNLWlITjZWNGtzUGVkYmNaNkIzRXFFQU81a2RUVDV1MEZtMWxPSWJ3MndRZmhwQy1adFhjQmwzSlZxYzh6Rl9HaFhNb3k3OTdDcG1NQnFIaU5SNi1YNkFDQm1oZDVlN1daZnRQSEFtWUZ5OVZoa2M?oc=5" target="_blank" rel="noopener">
+          YouTuber Loses $100,000 in Wild Trading Card Heist - Nerdist</a></h2>
+        <p class="sum">YouTuber Loses $100,000 in Wild Trading Card Heist Nerdist</p>
         <div class="tags"><span class="tag">heist</span><span class="tag">trading card</span></div>
       </div>
     </article>
@@ -753,7 +799,7 @@ Larry Ellison Took Out Loans t</p>
           <span class="dot"></span>
           <span class="src">ABC7 Los Angeles</span>
           <span class="reg reg-int">International</span>
-          <span class="age">vor 22 Std</span>
+          <span class="age">gestern</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOURZc2VYUnRqNDdsZUQ2RW9CYTZNb3FybVF6MlRwOUpUUGxtVHhfeXFPVTRrNmEwa0RDY1VnUGJHa1d2SW54Z2FXTDBfMVFPdDR5SkVzWWdfcXhIdFlYcE0zLTl1bmk3ZGhtc2NyRmRZVkFTR1R4NFQ5enBBVVNaWXVsUFBoQlZheUJHTXNTLU53c3lqaWt3dzJFNGRfTVBLcEd4Y3RmeXluZEtUbUIwTnNJMnV6dE1rUjJiSi1oQ0fSAcYBQVVfeXFMTkZyUTRuNjg2NEhBdFAwUzZ4ZnRxMHJuelhBdFExWjRtSjJTc2hTWmk0TXliRlJUQXQ2czVhOHRJU21BaHc1M3pvV0hLM1p5eWVsX3g4T0twNTVHLTJTTkM1YUloa1JacTZ3Qkt2VmVzYnBEZlJPUTJpc216NXB4UUZaNVRzQ3FObGkyQWNJNVNrR3ZENmx1R2NMZTU0VElFajZ4cUd5WGlqaGViQXhYMEFCUGl2YUs0VGFHdmh1a2pDRElJUFZ3?oc=5" target="_blank" rel="noopener">
           Nearly $1 million worth of rare Pokemon and sports cards stolen from FedEx truck in Orange County heist, police say - ABC7 Los Angeles</a></h2>
@@ -807,30 +853,6 @@ www.nbcnews.com/news/us-news...</p>
           Slideshow: Pokémon TCG: Mega Evolution — Delta Reign Cards - IGN Deutschland</a></h2>
         <p class="sum">Slideshow: Pokémon TCG: Mega Evolution — Delta Reign Cards IGN Deutschland</p>
         <div class="tags"><span class="tag">news:de</span></div>
-      </div>
-    </article>
-
-    <article class="entry" data-tone="alert"
-             data-cat="einbruch" data-region="int"
-             data-art="vorfall"
-             data-platform="bluesky">
-      <div class="rail"></div>
-      <div class="body">
-        <div class="meta">
-          <span class="cat">Einbruch / Raub</span>
-          <span class="dot"></span>
-          <span class="plat">Bluesky</span>
-          <span class="dot"></span>
-          <span class="src">@29news.bsky.social</span>
-          <span class="reg reg-int">International</span>
-          <span class="age">gestern</span>
-        </div>
-        <h2><a href="https://bsky.app/profile/29news.bsky.social/post/3myf7e7c2o32f" target="_blank" rel="noopener">
-          Nearly $1 million worth of Pokémon and sports trading cards stolen in FedEx truck theft &gt;&gt;&gt; 
-https://www.29news.com/2026/10/20/nearly-1-million-worth-pokmon-sports-trading-cards-st</a></h2>
-        <p class="sum">Nearly $1 million worth of Pokémon and sports trading cards stolen in FedEx truck theft &gt;&gt;&gt; 
-https://www.29news.com/2026/10/20/nearly-1-million-worth-pokmon-sports-trading-cards-stolen-fedex-truck-theft/</p>
-        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span><span class="tag">theft</span><span class="tag">trading card</span></div>
       </div>
     </article>
 
@@ -964,28 +986,6 @@ No arrests yet</p>
           Video $1 million heist nets rare Pokémon cards - ABC News - Breaking News, Latest News and Videos</a></h2>
         <p class="sum">Video $1 million heist nets rare Pokémon cards ABC News - Breaking News, Latest News and Videos</p>
         <div class="tags"><span class="tag">heist</span><span class="tag">pokemon</span><span class="tag">pokémon</span></div>
-      </div>
-    </article>
-
-    <article class="entry" data-tone="alert"
-             data-cat="einbruch" data-region="int"
-             data-art="vorfall"
-             data-platform="news">
-      <div class="rail"></div>
-      <div class="body">
-        <div class="meta">
-          <span class="cat">Einbruch / Raub</span>
-          <span class="dot"></span>
-          <span class="plat">Presse</span>
-          <span class="dot"></span>
-          <span class="src">The Sun</span>
-          <span class="reg reg-int">International</span>
-          <span class="age">gestern</span>
-        </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQS1dlNjd5bS1CUlkyV2ljNFhUX1phdnZtVGVNbmZTTXlTdjRkR29zOTVCNncwZnlCdU51dld5VHlJYmhoUHA4NFgtZm9fb1Z1di1WMi1UMzVVY2E4UUpscVpIREg2NW1KRzk4c3lhdEpDOGFHR2J4UXlnOXBsTGhRNFdRM0UwVVJ6ZEExdnE3NXBMelR2cElSZ1FKWDJpc3ZRVWc2ODZJRWxXeVFjLXc?oc=5" target="_blank" rel="noopener">
-          Trading card heist sees $1 million worth of &#x27;irreplacable&#x27; memorabilia stolen from FedEx truck - The Sun</a></h2>
-        <p class="sum">Trading card heist sees $1 million worth of &#x27;irreplacable&#x27; memorabilia stolen from FedEx truck The Sun</p>
-        <div class="tags"><span class="tag">heist</span><span class="tag">stolen</span><span class="tag">trading card</span></div>
       </div>
     </article>
 
@@ -1143,28 +1143,6 @@ No arrests yet</p>
       </div>
     </article>
 
-    <article class="entry" data-tone="alert"
-             data-cat="einbruch" data-region="int"
-             data-art="vorfall"
-             data-platform="news">
-      <div class="rail"></div>
-      <div class="body">
-        <div class="meta">
-          <span class="cat">Einbruch / Raub</span>
-          <span class="dot"></span>
-          <span class="plat">Presse</span>
-          <span class="dot"></span>
-          <span class="src">IGN Southeast Asia</span>
-          <span class="reg reg-int">International</span>
-          <span class="age">gestern</span>
-        </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSGJORnNjdXpVanlROW5BbTk2NFZTSjI0eXpQRlBFbjBsYXVzazBMNDRYSklfTUc3NUNEbDFwb0g1N2d6a0Z4T1d0dzZob3JPQUJsNHo5Q01ZQUNkelFMSkNTQ2U2LW1DME8xOFZaMTlqYjNISUVjX3hzeDFCeXhsQ3MzTXlLcFo3bG1rcjkySmZmV0NXeV9GZ09PZVhGeW1mNHRmVHM4M1FlYTNJZGQ2RExsQ3BSdVp4T3YwNDlOcjZvRWtDQ1c3VFY3OXZESUwxT0FKNEtHaC1nS1VmbnEwbk5R?oc=5" target="_blank" rel="noopener">
-          Police Confirm Nearly $1 Million Worth of Trading Cards Stolen in PSA FedEx Truck Heist - IGN Southeast Asia</a></h2>
-        <p class="sum">Police Confirm Nearly $1 Million Worth of Trading Cards Stolen in PSA FedEx Truck Heist IGN Southeast Asia</p>
-        <div class="tags"><span class="tag">heist</span><span class="tag">psa</span><span class="tag">stolen</span><span class="tag">trading card</span></div>
-      </div>
-    </article>
-
     <article class="entry" data-tone="cool"
              data-cat="szene" data-region="de"
              data-art="news"
@@ -1184,6 +1162,72 @@ No arrests yet</p>
           Druck auf Splashgames - Aktuelles - News - Mit der neuen Duale Fusion-Erweiterung bekommt Pokémon TCG Pocket erstmals Doppel-Typ-Karten - Splashgames</a></h2>
         <p class="sum">Druck auf Splashgames - Aktuelles - News - Mit der neuen Duale Fusion-Erweiterung bekommt Pokémon TCG Pocket erstmals Doppel-Typ-Karten Splashgames</p>
         <div class="tags"><span class="tag">news:de</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-art="vorfall"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">The Sun</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">gestern</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQS1dlNjd5bS1CUlkyV2ljNFhUX1phdnZtVGVNbmZTTXlTdjRkR29zOTVCNncwZnlCdU51dld5VHlJYmhoUHA4NFgtZm9fb1Z1di1WMi1UMzVVY2E4UUpscVpIREg2NW1KRzk4c3lhdEpDOGFHR2J4UXlnOXBsTGhRNFdRM0UwVVJ6ZEExdnE3NXBMelR2cElSZ1FKWDJpc3ZRVWc2ODZJRWxXeVFjLXc?oc=5" target="_blank" rel="noopener">
+          Trading card heist sees $1 million worth of &#x27;irreplacable&#x27; memorabilia stolen from FedEx truck - The Sun</a></h2>
+        <p class="sum">Trading card heist sees $1 million worth of &#x27;irreplacable&#x27; memorabilia stolen from FedEx truck The Sun</p>
+        <div class="tags"><span class="tag">heist</span><span class="tag">stolen</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-art="vorfall"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Gambling Insider</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">gestern</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3NOa0I0LUNhZDBSS0hVRWJXSk51QmhtVnlCN2V2Njh2dW5NX1hZR3Q1QzNOeVlFMU9BejAwcXhqYmpFREw2eDVXQy1yaUVkcDdqYWpBREUwR193X0JHQVhJSEdVeV9EY1VreVluck5wVUhjMS14YjdLNDZuZmtNLXpkdDhMQjE4TkxqdHIyUzBwSDI3OS1EUGhPMA?oc=5" target="_blank" rel="noopener">
+          $963K FedEx Trading Card Theft Highlights Booming Collectibles Market Amid Gambling Scrutiny - Gambling Insider</a></h2>
+        <p class="sum">$963K FedEx Trading Card Theft Highlights Booming Collectibles Market Amid Gambling Scrutiny Gambling Insider</p>
+        <div class="tags"><span class="tag">theft</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-art="vorfall"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">IGN</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">gestern</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPaE9BTG5kQmllUGRNeldWZHpGMlVqeHVCV01VX0FuSG14X1BKc2F6UXJPY1ZlS2VwSVNYcVBQSF9qLWRHWGR2MTdKVm16dld4clJ5NzBXM01QWUxLLTlYbWNkeXVwa05PdlBoWWx4MkdJZHV4UXc2QTlxdVFnaGZZVFRvNmpIWjIyenpqUXQ4RjVWa05oQmJJQW82RGk0d05LUEljQWw4MDh6T3FqUkRlZHQ4NXdiQQ?oc=5" target="_blank" rel="noopener">
+          Police Confirm Nearly $1 Million Worth of Trading Cards Stolen in PSA FedEx Truck Heist - IGN</a></h2>
+        <p class="sum">Police Confirm Nearly $1 Million Worth of Trading Cards Stolen in PSA FedEx Truck Heist IGN</p>
+        <div class="tags"><span class="tag">heist</span><span class="tag">psa</span><span class="tag">stolen</span><span class="tag">trading card</span></div>
       </div>
     </article>
 
@@ -1402,7 +1446,7 @@ www.espn.com/espn/story/_...</p>
           <span class="dot"></span>
           <span class="src">Heute</span>
           <span class="reg reg-de">Deutschland</span>
-          <span class="age">gestern</span>
+          <span class="age">vor 2 Tagen</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ0o4aENTQzJybjdnRWxoTUpOa1RFNmhQZk13bGhYVGpVVlhqdUtud3Z1V3lsaVliOXRXWllDaTBNUTVTRDhWTFZxR2dUaFo3akUyc3BSdDVaUkptMnItLVFUa0N6cUgteXZyaFFLaGY0TTR3SjEwU21KeGEwb1Rnam9WazFvcWVNN2huaA?oc=5" target="_blank" rel="noopener">
           &quot;Duale Fusion&quot; – &quot;Pokémon TCG Pocket&quot; zeigt erstmals Doppel-Typ-Karten - Heute</a></h2>
@@ -1424,7 +1468,7 @@ www.espn.com/espn/story/_...</p>
           <span class="dot"></span>
           <span class="src">Fox News</span>
           <span class="reg reg-int">International</span>
-          <span class="age">gestern</span>
+          <span class="age">vor 2 Tagen</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQcEFjR0dhMnF1Y3lKTUttV0czOGRIUmg1M3JRMVdGNXpvcGlDVjlEanR1TzlNMnk3OVFUMTZlcXBnU1dpVG5HZUc3d2R3TnlTaGVPQUlNaGNXMVFkVUNwMmROa0JNNHBsa1h6UmFzM0ZpVjRlUjlJMDU2RXJuejRBRVhpcF8xVUdUQk9hWFJCdU45dTh4RmY3RkpxeTZNQm9hVDNKNUJBZkFRQXAwcGp6dFJR?oc=5" target="_blank" rel="noopener">
           Nearly $1M in graded trading cards stolen from FedEx truck outside PSA facility in Santa Ana | OutKick - Fox News</a></h2>
@@ -1446,7 +1490,7 @@ www.espn.com/espn/story/_...</p>
           <span class="dot"></span>
           <span class="src">https://latination.com/</span>
           <span class="reg reg-int">International · USA</span>
-          <span class="age">gestern</span>
+          <span class="age">vor 2 Tagen</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxOMlhBU2VrMG5yVUNlb2sxMXQ5cmdVcGFHQk1JVXJvX0ZxSTJLb1FfQ1MyTVQzdHg0RUZRZzNjcGo2Wm0xem9jcWVoRU4wOGEzcUFIVEs3S3MwTzJiUlB6Sl84cFNUZWp5LVJidEZSMlhEVVh1NWgya0R6RmwxVE1TUHlnRU1pQQ?oc=5" target="_blank" rel="noopener">
           California thieves pull off an Ocean’s Eleven-style heist, making nearly $1 million in Pokémon cards disappear - https://latination.com/</a></h2>
@@ -1468,12 +1512,34 @@ www.espn.com/espn/story/_...</p>
           <span class="dot"></span>
           <span class="src">fox56.com</span>
           <span class="reg reg-int">International</span>
-          <span class="age">gestern</span>
+          <span class="age">vor 2 Tagen</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTVNHRFgzLTJCR1hRbGtFYUZEbWRCN2hCY2J6Vy1qRHp0djVyaXJDRktTdXVELXVaYzllWkMtU3NSX2xLNFIzUWxKc1R2T1dLdUdnVGl3d2xKZlJ1bVBZSmhwc1ZlMDdWMlNHNndza1R2cnREVUhtZUM3Z0JOMlp5aXk5Zm93WDVYVy1hV2FhV2o5VlBfaW5fREVNZTUwdHhkYW1UUkthamk?oc=5" target="_blank" rel="noopener">
           Lehigh County EBT coordinator accused of $20,558 theft, trading cards for crack - fox56.com</a></h2>
         <p class="sum">Lehigh County EBT coordinator accused of $20,558 theft, trading cards for crack fox56.com</p>
         <div class="tags"><span class="tag">theft</span><span class="tag">trading card</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="alert"
+             data-cat="einbruch" data-region="int"
+             data-art="vorfall"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Einbruch / Raub</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Dimsum Daily</span>
+          <span class="reg reg-int">International</span>
+          <span class="age">vor 2 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNMGZTWktrbHRyUG9BdzFDbVpBeTZxR2RFWE1OanVzYm11UDd2Yzg2andHLXdKNEdOT0lPTUdScVdNdjVuMHNadWJvbE9YNUdPaEdLMGg1VmtqbzB1UXZNYlc1SFVqTExNOGctUDJYVUZNeDM5N1FLWjMxZ0hBNjBuSXl1WldZdFZ6M2FpWDNYTkZ6V2Jpd2VDc3loQ1RUWjlCLThReTFHOHlIMU12SWtzTHhqcjAySXVTemVMVUZ4dVIxdGFD?oc=5" target="_blank" rel="noopener">
+          Collectors furious as US$1m PSA‑graded cards stolen from FeDex truck in Southern California - Dimsum Daily</a></h2>
+        <p class="sum">Collectors furious as US$1m PSA‑graded cards stolen from FeDex truck in Southern California Dimsum Daily</p>
+        <div class="tags"><span class="tag">heist</span><span class="tag">psa</span><span class="tag">theft</span></div>
       </div>
     </article>
 
@@ -1644,7 +1710,7 @@ www.espn.com/espn/story/_...</p>
           <span class="dot"></span>
           <span class="src">Ostsee Zeitung</span>
           <span class="reg reg-de">Deutschland</span>
-          <span class="age">vor 2 Tagen</span>
+          <span class="age">vor 3 Tagen</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU0F5RE10cXlvbnJrSFB4MHJ0ZEQweU45Z0ZEMWpYcFpWX1RyZnZOdGltMFlDTG41bHRwclFqdjVQRzFIRUZES2o2UGJPbnNBSVIwSUd4NzNwSW9ZUnJ3OWR2cGJzVWxqUmdZZ1pzTXhwX0FHTzJPZkZsYWx5SnVJdmhlV1VNcmlLejBjaHFUbWdodDcyZFR2YmdldVlRdEZyT01BSVpndm5rczRIY3MwOGFiMkRPckw2OWtHUU5aeFlodGJRenloM3YzeU1oOFZCOVZLUkJCMktxSktJMEQzbUFwdVZDMW5XbGfSAYYCQVVfeXFMTWJoTlFkN0NWanVTYWpqRW9hUVlQdXotWVFPRVRCdWVUYXl3dTNybFVwcS1kTkZUeUhFWXlTbmRtOWEwT3dJMDkzR1FSbkxOVEZ5dVFfSVY4V2d1cEpKNVRISU04VWlLeXB2MUFwMk1hZ1ZsVllQUWJWUVpvNWdNTllmZjhyWmxib2FXNGVVNk9JZ0sya0lWN0hfX2tTRXFnQzdobjVlLUZJc2tzUGUwOXl1bk05dGNWeE10NzRJc2dBVEhsdzIydlNZZGdDWGRTVUJOT3VtR3Y1QzVlNzRGTzcyVjBxOThkX3FraV9oWUh1VFU5MlhYelc0VlpaVjNWWU1sSjZTUQ?oc=5" target="_blank" rel="noopener">
           Pokemon-Karten, Sport, Neues für Kinder: Was ist los bei Rostocks Spiele-Messe - Ostsee Zeitung</a></h2>
@@ -1666,7 +1732,7 @@ www.espn.com/espn/story/_...</p>
           <span class="dot"></span>
           <span class="src">Kronen Zeitung</span>
           <span class="reg reg-at">Oesterreich</span>
-          <span class="age">vor 2 Tagen</span>
+          <span class="age">vor 3 Tagen</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDNzBmMDAtUzM0OHVpQzMzeDYwQ18wS1F6MldRalU0eGNpWDFidmJEc2otUFhncUpFb1VzZGpuem5aQQ?oc=5" target="_blank" rel="noopener">
           Einbruch in Wien - Wertvolle Pokémon-Karten aus Spielraum gestohlen - Kronen Zeitung</a></h2>
@@ -1688,7 +1754,7 @@ www.espn.com/espn/story/_...</p>
           <span class="dot"></span>
           <span class="src">Bisafans.de</span>
           <span class="reg reg-de">Deutschland</span>
-          <span class="age">vor 2 Tagen</span>
+          <span class="age">vor 3 Tagen</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdHFZUXpBUXpycmIzN252RDZvaVQxektjSlV2T2lwaUlxMEZEajRtQl9STEpBcUl1cVdCaWRfazBWMG5IZFNLd04xQmRibkF3VUlxdzdKcTBhUVE3cmlMb3l5TlBmLVpFYUhBam16bnlWZHAzOWtvd2hYQldhNUpwSmJGY2xvbTBsSEVXZEJxS21UUVBZSzd3N09OaVpLTjJfMUkxdk1pdFlmeUpXUVF1RkNaNDNFOUplSEtyMUpHMEY5SHdNYmxuQXBoTlJoZ3VXazR4cFdHZDFVa080Vm1SZg?oc=5" target="_blank" rel="noopener">
           Kommende Gameplay-Änderungen für Pokémon-Sammelkartenspiel-Pocket vorgestellt - Bisafans.de</a></h2>
@@ -1776,7 +1842,7 @@ www.espn.com/espn/story/_...</p>
           <span class="dot"></span>
           <span class="src">Midweek Herald</span>
           <span class="reg reg-int">International</span>
-          <span class="age">vor 4 Tagen</span>
+          <span class="age">vor 5 Tagen</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQSU02SmlqV1p0cEpGN1FwVk9RcXNVd2dxN194S0hHOWdxa0VpVEJpZnJvT2Q1SHp1ZlJrR3lzcjlZWUFjN1czZ0hQeXp4RlpWaUFCUmIyT0xTMGE3UDJHMUZpbkZFal9ZLVl3M2pjcjBBTF9rNmNtSDJORE1TRWxVZWRZdFhCUDQ2SUFydF9zeThtTmc?oc=5" target="_blank" rel="noopener">
           Games shop run by six friends vows to bounce back after Pokémon card theft - Midweek Herald</a></h2>
@@ -2000,7 +2066,7 @@ Im Video erklären wir kurz, warum wir die Zusammenarbeit mit PSA beenden: Probl
           <span class="dot"></span>
           <span class="src">GamePro</span>
           <span class="reg reg-de">Deutschland</span>
-          <span class="age">vor 7 Tagen</span>
+          <span class="age">vor 8 Tagen</span>
         </div>
         <h2><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxOZDJXUWN2cVlEMzNBVXZWU2ttZDNiNjEzdXVRcHZMMXNxQng2T0JOVDY1dlFDR1NIOUN2T0ZHOU1XcFVSVHppQXc3d1M5NVJKdmVlYzl0WC1sNkpXUVZOeHhRM01Pc0plUzE2UHNwdVJ0bjJQRWRyV2NKRUtqVjI1OUJrRVNrY1k3bmo4ejkya05WaWNGSm5v?oc=5" target="_blank" rel="noopener">
           &quot;Würde sie aus Prinzip zurückgeben&quot;: Pokémon TCG-Fan kauft Karte auf eBay und traut seinen Augen nicht, als sie ungeschützt in einem leeren Karton ankommt - GamePro</a></h2>
@@ -2116,6 +2182,28 @@ Im Video erklären wir kurz, warum wir die Zusammenarbeit mit PSA beenden: Probl
           Krypto-Hacker, der gestohlene Millionen für Pokémon-Karten ausgab, in New York verurteilt - BeInCrypto</a></h2>
         <p class="sum">Krypto-Hacker, der gestohlene Millionen für Pokémon-Karten ausgab, in New York verurteilt BeInCrypto</p>
         <div class="tags"><span class="tag">gestohl</span><span class="tag">gestohlen</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">verurteilt</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="cool"
+             data-cat="szene" data-region="de"
+             data-art="news"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Giga</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 10 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxONHpsMFJpU3IzV3F3TVVYYmpvWkg5SlRQRWdPd3BKWTNFNlo1NG84b2dMOVBJNHZPZW5vclFGVFNfOWNORDRGRGVHbFZGc0N6UVloYnZOMC1TY1dFeHJCemxvcU1ZcmhFbmJKRUxOTlpzMDFiQU1ib2RIZDNPLWNEUnhXeklPNEdKYU9PVkMxc0d1c2FfbElmY3FrNlBRTllBWmFVLTdEdVN4V3ctRmRDREdBRmZFaW9OVG56OENpMGJFZDliYnRLbnppY3E?oc=5" target="_blank" rel="noopener">
+          Pokémon-Karten: Kaufland verkauft ab heute 30-Jahre-Top-Trainer-Box für 55 Euro - Giga</a></h2>
+        <p class="sum">Pokémon-Karten: Kaufland verkauft ab heute 30-Jahre-Top-Trainer-Box für 55 Euro Giga</p>
+        <div class="tags"><span class="tag">news:de</span></div>
       </div>
     </article>
 
@@ -2372,28 +2460,6 @@ Im Video erklären wir kurz, warum wir die Zusammenarbeit mit PSA beenden: Probl
           <span class="dot"></span>
           <span class="plat">Presse</span>
           <span class="dot"></span>
-          <span class="src">Giga</span>
-          <span class="reg reg-de">Deutschland</span>
-          <span class="age">vor 15 Tagen</span>
-        </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNTTgzRVByLV92cWFMQzdqeFZJREF6VGpqVVFFVUh0YnNXUXR3QUxDUnBwVUZyeGpYb0FkeVBrRXA2VkhBYlBvdGxTNGRmR1VSelJiNG9kY2xnUjZibllVRlFXT0NpaEI0MVpnTk1kbEVXLVZGZjZDSm9KUHA4NHEzdlQwZHlVX3lZdFFDcEN4X2ZJUHZXU1FpRG5yT1k1azlrUmNXVm9hRjZtU2NPZmxuZFNUZkN2UVdOWERfa1JfY0NjTFF5cU5wRHdn?oc=5" target="_blank" rel="noopener">
-          Pokémon-Karten: Netto verkauft Destined Rivals Elite-Trainer-Box auf Englisch - Giga</a></h2>
-        <p class="sum">Pokémon-Karten: Netto verkauft Destined Rivals Elite-Trainer-Box auf Englisch Giga</p>
-        <div class="tags"><span class="tag">news:de</span></div>
-      </div>
-    </article>
-
-    <article class="entry" data-tone="cool"
-             data-cat="szene" data-region="de"
-             data-art="news"
-             data-platform="news">
-      <div class="rail"></div>
-      <div class="body">
-        <div class="meta">
-          <span class="cat">Szene / News</span>
-          <span class="dot"></span>
-          <span class="plat">Presse</span>
-          <span class="dot"></span>
           <span class="src">PokeZentrum</span>
           <span class="reg reg-de">Deutschland</span>
           <span class="age">vor 15 Tagen</span>
@@ -2468,6 +2534,28 @@ Im Video erklären wir kurz, warum wir die Zusammenarbeit mit PSA beenden: Probl
           Oak Grove man with several active warrants arrested after Pokémon card theft - Christian County Now</a></h2>
         <p class="sum">Oak Grove man with several active warrants arrested after Pokémon card theft Christian County Now</p>
         <div class="tags"><span class="tag">arrested</span><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">theft</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="cool"
+             data-cat="szene" data-region="de"
+             data-art="news"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Zeitungsverlag Waiblingen</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 17 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjZyVVVmeTk5ZGI0a3BxZVVKSjBWQWFPRnVPeTREbFNKUk5FMGFLVUFzNVZzSG5Gcm9nMXBaSjZPQ2hKZEs1cTg2X2FldnlyZGxXaUhCTDFlR2JwMlNLd3RrdjN2QWZ5MjdPNU93Nld6c3NfUVNrVm5wQmt2Y2E2NEN6YUkyRmdmU1pad2pqeDlITEtfdVV2STJmcW9EcGxsNGVwUXdtd3M2N2djWnRwQThMNXFucFl4SGt6WEg2WmlIcVNKRHNCaQ?oc=5" target="_blank" rel="noopener">
+          Pokémon-Karten, Youtube-Stars und Tausende Fans: Was war da los in Winnenden? - Zeitungsverlag Waiblingen</a></h2>
+        <p class="sum">Pokémon-Karten, Youtube-Stars und Tausende Fans: Was war da los in Winnenden? Zeitungsverlag Waiblingen</p>
+        <div class="tags"><span class="tag">news:de</span></div>
       </div>
     </article>
 
@@ -2606,13 +2694,13 @@ Im Video erklären wir kurz, warum wir die Zusammenarbeit mit PSA beenden: Probl
     <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-art="vorfall"
-             data-platform="bluesky">
+             data-platform="news">
       <div class="rail"></div>
       <div class="body">
         <div class="meta">
           <span class="cat">Einbruch / Raub</span>
           <span class="dot"></span>
-          <span class="plat">Bluesky</span>
+          <span class="plat">Presse</span>
           <span class="dot"></span>
           <span class="src">@steeltowngames.bsky.social</span>
           <span class="reg reg-int">International</span>
@@ -2625,7 +2713,7 @@ https://wargamer.com/pokemon-trading-card-game/terris-trinkets-theft</a></h2>
         <p class="sum">Winnipeg toy store owner had 20,000 Pokemon cards stolen, but she&#x27;s not giving up
 
 https://wargamer.com/pokemon-trading-card-game/terris-trinkets-theft</p>
-        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span><span class="tag">theft</span></div>
+        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
       </div>
     </article>
 
@@ -3097,28 +3185,6 @@ It comes from a full hanafu</p>
       </div>
     </article>
 
-    <article class="entry" data-tone="cool"
-             data-cat="szene" data-region="de"
-             data-art="news"
-             data-platform="news">
-      <div class="rail"></div>
-      <div class="body">
-        <div class="meta">
-          <span class="cat">Szene / News</span>
-          <span class="dot"></span>
-          <span class="plat">Presse</span>
-          <span class="dot"></span>
-          <span class="src">Netzwelt</span>
-          <span class="reg reg-de">Deutschland</span>
-          <span class="age">vor 26 Tagen</span>
-        </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3VKRFhOSkRjT25NNGo0ZkFfeVhjN050bGJLNWV2bFlJWXN2ckl1WVViQnp2Vko2NnpwSlpnUEVZa2NEVmREcThISDdmUFA3ZHNNc1piTW5adUZUSWtPRlNoLTVpQTFRNEg1ZkQ1clpocFBPWkVNX3VIbHFldW9qUk9zeDBpbHc5eTA5aXlONExKbDVCcGtXZkdrRTlqNjExV3E3ME5sY01sOFpOZmZ5UHJQb0Z5Wkp5bVdHZDJaNWpMdzQ?oc=5" target="_blank" rel="noopener">
-          Jagd auf Tausend-Euro-Karten: Neues Live-Event bringt seltene Pokémon-Booster zurück - Netzwelt</a></h2>
-        <p class="sum">Jagd auf Tausend-Euro-Karten: Neues Live-Event bringt seltene Pokémon-Booster zurück Netzwelt</p>
-        <div class="tags"><span class="tag">news:de</span></div>
-      </div>
-    </article>
-
     <article class="entry" data-tone="alert"
              data-cat="einbruch" data-region="int"
              data-art="vorfall"
@@ -3196,13 +3262,13 @@ It comes from a full hanafu</p>
           <span class="dot"></span>
           <span class="plat">Presse</span>
           <span class="dot"></span>
-          <span class="src">WFLA</span>
+          <span class="src">AOL.com</span>
           <span class="reg reg-int">International · USA</span>
           <span class="age">vor 27 Tagen</span>
         </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQQXhmMmdJWVhOdGJoakNEdkNGWkI2VTRBdTdiSUVOU01YRVBiUTNvQjlKRlItSzFyRUJiWF91dFBjUENuQmpFR2toQWxKQXZOSEV6cGFmaWNsNnltYzF4NmdGTTh6b01iQXhIYmVhSzhYNE9pU2xIUlBGNjZuVjdBV214MHZqQTRnNFJiME94UG5nNzAwNmtrYzBRWnpmVzBqXzdkUi1xWTc0dmdjUTVQUk5B0gG3AUFVX3lxTE9DejB6MEFRRExGYmpMUC0zdVdOU25fUTUweU9mS2JjQUcybXpKY2dVeEF3VWI1NWVwbWw4WExmbGtEMnhmQVdtWlEtd1czenJaTEwwX2QtOEE1U0s0RXlOamwtUzBReUJuUGtULThleXhtSmNDQ25fckNGUXZxeGV5dVZLdjFvNjFNSzhIbUZRalVacUdJZFpObkEzVDNPU2JQcVlPWnVPWE1NR192WWY4VDJwZFRCaw?oc=5" target="_blank" rel="noopener">
-          2 arrested for stealing $2K+ worth of trading cards from Florida Target: deputies - WFLA</a></h2>
-        <p class="sum">2 arrested for stealing $2K+ worth of trading cards from Florida Target: deputies WFLA</p>
+        <h2><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE9NVEx5SGliTUctOUY5NE1mZnhrX1hLdHdybkhycndaZ0FaWlZzQzNLN2VGdHc0cEUxdTN1TWN1bTFMNG1GTmx1dVNwSm1uSkNfdndmcVhrOHR3cWN3TmFoX0lIcnRmc1RYM2FCY3JwYlZCNkxIRk1BUGtUdEY?oc=5" target="_blank" rel="noopener">
+          2 arrested for stealing $2K+ worth of trading cards from Florida Target: deputies - AOL.com</a></h2>
+        <p class="sum">2 arrested for stealing $2K+ worth of trading cards from Florida Target: deputies AOL.com</p>
         <div class="tags"><span class="tag">arrested</span><span class="tag">trading card</span></div>
       </div>
     </article>
@@ -3240,35 +3306,13 @@ It comes from a full hanafu</p>
           <span class="dot"></span>
           <span class="plat">Presse</span>
           <span class="dot"></span>
-          <span class="src">Business Insider Deutschland</span>
+          <span class="src">Eurogamer.de</span>
           <span class="reg reg-de">Deutschland</span>
           <span class="age">vor 27 Tagen</span>
         </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPWkQyejJBMFNnSklNaTU0bXd6Ny1FQlRYeWRmTUdKTnFwU01vMkxtT180c1VGMnoxNUNyZVFUWG1lU0xCN1BxZ0FUTkFoTkdEMXVOR002azQwdVZoT2NTQ1VCYkROanJfU3RqSFpVaktXMGVxa2pBUkg5MW5uUWk4MzhyYk1SV05yWTNwbHFMeE4zOUxERWpsWEYzaEtCZ3hvUlFCczFXWUhBS2NK?oc=5" target="_blank" rel="noopener">
-          Pokémon: So erzielen Sammler mit Karten mehr als 1000 Prozent Profit - Business Insider Deutschland</a></h2>
-        <p class="sum">Pokémon: So erzielen Sammler mit Karten mehr als 1000 Prozent Profit Business Insider Deutschland</p>
-        <div class="tags"><span class="tag">news:de</span></div>
-      </div>
-    </article>
-
-    <article class="entry" data-tone="cool"
-             data-cat="szene" data-region="de"
-             data-art="news"
-             data-platform="news">
-      <div class="rail"></div>
-      <div class="body">
-        <div class="meta">
-          <span class="cat">Szene / News</span>
-          <span class="dot"></span>
-          <span class="plat">Presse</span>
-          <span class="dot"></span>
-          <span class="src">Games.ch</span>
-          <span class="reg reg-de">Deutschland</span>
-          <span class="age">vor 27 Tagen</span>
-        </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxNUnlqWlVIVEE4NDQxV2FBLXZYZzFHa29zUGsxWWJlWlpTbXVwMTc5NDdiU180N2tjcjBhUnVENlV1YmhZc3lLdXNCR3FJWFBKV3hvV3BHZXBZb2E5c21MUEQ2RGFwSVdmWjQ0S0Q1WndoN21HSHkxRUx1aUFScHhDSnNZcEM5M1F4WXc?oc=5" target="_blank" rel="noopener">
-          Neues Spezial-Boosterpack für Pokémon-Sammelkartenspiel-Pocket - Deluxe Pack: Mega startet demnächst - Games.ch</a></h2>
-        <p class="sum">Neues Spezial-Boosterpack für Pokémon-Sammelkartenspiel-Pocket - Deluxe Pack: Mega startet demnächst Games.ch</p>
+        <h2><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE5RY3JBdV9XYUVyU3B5Mkl2azI5b0NWbEUzTVZXcXlESDBzOXhiNUM3T2Q3ZVJHNF9PVUtrOWp4Q19lbG1pOU5UR3g4YjNiVk1OTHh6WWNVcEx5VEtfczhJaDV1eHRTSGJJa3hsWkVuWQ?oc=5" target="_blank" rel="noopener">
+          Pokémon TCG Pocket: Neues Deluxe-Pack sichert euch seltene Karten und bringt neues Deck-Feature - Eurogamer.de</a></h2>
+        <p class="sum">Pokémon TCG Pocket: Neues Deluxe-Pack sichert euch seltene Karten und bringt neues Deck-Feature Eurogamer.de</p>
         <div class="tags"><span class="tag">news:de</span></div>
       </div>
     </article>
@@ -3291,6 +3335,28 @@ It comes from a full hanafu</p>
         <h2><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPWVpjdzFONno1S2lJaGdfcmlEZHlCdUZCcXFULUE3M0dGcFk2cm1aakNrRF9nMlR2TlJ6M2sxalJHQ2Z2SWgtWTZpS0NKakE3YzJ6YjFaQnRScHBLNTkyY3ZOSzJRdzB2NlVfY1YtbzZYWTZCZlhvcVUySEFodUcwSEl6QTM0cjliMFpNZHdNRXFjODRhQXBzeUFJQ0lfNjNDcXk0WVJjTUJTeXZKYnc?oc=5" target="_blank" rel="noopener">
           Pokémon-Karten zum Jubiläum: Warum Fans in Karlsruhe Schlange stehen - Badische Neueste Nachrichten</a></h2>
         <p class="sum">Pokémon-Karten zum Jubiläum: Warum Fans in Karlsruhe Schlange stehen Badische Neueste Nachrichten</p>
+        <div class="tags"><span class="tag">news:de</span></div>
+      </div>
+    </article>
+
+    <article class="entry" data-tone="cool"
+             data-cat="szene" data-region="de"
+             data-art="news"
+             data-platform="news">
+      <div class="rail"></div>
+      <div class="body">
+        <div class="meta">
+          <span class="cat">Szene / News</span>
+          <span class="dot"></span>
+          <span class="plat">Presse</span>
+          <span class="dot"></span>
+          <span class="src">Games.ch</span>
+          <span class="reg reg-de">Deutschland</span>
+          <span class="age">vor 28 Tagen</span>
+        </div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxNUnlqWlVIVEE4NDQxV2FBLXZYZzFHa29zUGsxWWJlWlpTbXVwMTc5NDdiU180N2tjcjBhUnVENlV1YmhZc3lLdXNCR3FJWFBKV3hvV3BHZXBZb2E5c21MUEQ2RGFwSVdmWjQ0S0Q1WndoN21HSHkxRUx1aUFScHhDSnNZcEM5M1F4WXc?oc=5" target="_blank" rel="noopener">
+          Neues Spezial-Boosterpack für Pokémon-Sammelkartenspiel-Pocket - Deluxe Pack: Mega startet demnächst - Games.ch</a></h2>
+        <p class="sum">Neues Spezial-Boosterpack für Pokémon-Sammelkartenspiel-Pocket - Deluxe Pack: Mega startet demnächst Games.ch</p>
         <div class="tags"><span class="tag">news:de</span></div>
       </div>
     </article>
@@ -3511,72 +3577,6 @@ It comes from a full hanafu</p>
         <h2><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeS1VWThISk5kaDRQbUlPdmdONUFIX08yUF9iakVfd3lXUmRTUkV6eWU2Q0MxMV9yckx5eHZGSFRuXy1sT2h3c1B3QUNBRzhSckpxMEgtcEd3elAxcFViUXdvZXp5Zi1XcTJ0Nkw0MGlGOVZ0Tk0zeXgzTk80N1RjYzZiX0RsUnhuT1lodm9Ya3ZBVzJlbjVwOUpwYzAwaExpdFNFOGthbU5WbHpqd09OaGNPN2VCNDVncVo1Y20tT2c?oc=5" target="_blank" rel="noopener">
           A Pokémon card worth €3,440 was stolen in Bratislava. It is not the only case - The Slovak Spectator</a></h2>
         <p class="sum">A Pokémon card worth €3,440 was stolen in Bratislava. It is not the only case The Slovak Spectator</p>
-        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
-      </div>
-    </article>
-
-    <article class="entry" data-tone="cool"
-             data-cat="szene" data-region="de"
-             data-art="news"
-             data-platform="news">
-      <div class="rail"></div>
-      <div class="body">
-        <div class="meta">
-          <span class="cat">Szene / News</span>
-          <span class="dot"></span>
-          <span class="plat">Presse</span>
-          <span class="dot"></span>
-          <span class="src">jpgames.de</span>
-          <span class="reg reg-de">Deutschland</span>
-          <span class="age">vor 30 Tagen</span>
-        </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWE1RU84R1RlSFFSOVZZZC1sUjRlbm9SUW9Dd1hjN19ETDRkcFNQYVlZSTNueEI1aFNqRDlQV0draVdzYktsOEhnUHQzQS1UVkdSdXNuTFlodGJTZnNvV0xNcHEzRzQtSWx0Rk9jamxydU5QZkZSQkh3QjBUSVp1djZYOHRKeEFVXzdsQ1RNeWFlY2lUVU15QmY3TWdOX1BIckxVSU4wQ25uNDkta1ZQWm8tUmNOdw?oc=5" target="_blank" rel="noopener">
-          Exklusiv: Wir zeigen euch neue Karten aus &quot;Delta-Herrschaft&quot; zum Pokémon-Sammelkartenspiel - jpgames.de</a></h2>
-        <p class="sum">Exklusiv: Wir zeigen euch neue Karten aus &quot;Delta-Herrschaft&quot; zum Pokémon-Sammelkartenspiel jpgames.de</p>
-        <div class="tags"><span class="tag">news:de</span></div>
-      </div>
-    </article>
-
-    <article class="entry" data-tone="legal"
-             data-cat="behoerden" data-region="int"
-             data-art="vorfall"
-             data-platform="news">
-      <div class="rail"></div>
-      <div class="body">
-        <div class="meta">
-          <span class="cat">Razzia / Rechtliches</span>
-          <span class="dot"></span>
-          <span class="plat">Presse</span>
-          <span class="dot"></span>
-          <span class="src">PerthNow</span>
-          <span class="reg reg-int">International</span>
-          <span class="age">vor 31 Tagen</span>
-        </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNUNtVjNER2RSbjA3M1FHOGViMzVvVWs1TnhIM3I2QVp1c2RNaC1ZdE9KNE1aZUZBZHhUbEdXWktCUE1aNmRNRnFFYU1hcTQyYzJMbTduQklZZFFyRHhiVlB1YVJjdkp3LV9uSGdUMlI1YTZURGFGeEFYcGZOVklrVkhqZlAwd3A5ekc0SFlHcVJkZFZxSjd0dmJIUDdtcVo5N3pSMEpJZ0NIN0FCSHFTenVsdU54Y2NLdThkOTA5VDNTc1dfZUU1RXVQWmtjOGZSSGQzNTQtV1ViZzloelU2SGUyNnI?oc=5" target="_blank" rel="noopener">
-          Pokemon criminals target popular CBD shop in morning raid - PerthNow</a></h2>
-        <p class="sum">Pokemon criminals target popular CBD shop in morning raid PerthNow</p>
-        <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">raid</span></div>
-      </div>
-    </article>
-
-    <article class="entry" data-tone="alert"
-             data-cat="einbruch" data-region="int"
-             data-art="vorfall"
-             data-platform="news">
-      <div class="rail"></div>
-      <div class="body">
-        <div class="meta">
-          <span class="cat">Einbruch / Raub</span>
-          <span class="dot"></span>
-          <span class="plat">Presse</span>
-          <span class="dot"></span>
-          <span class="src">CityNews Winnipeg</span>
-          <span class="reg reg-int">International</span>
-          <span class="age">vor 31 Tagen</span>
-        </div>
-        <h2><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUVLMkdPY01MSWY0TDNwTDZvd2NHSFFUSllKczk2dU9idXJ2Q24ySDFmZlpveXc2YzQzRnlyNnNvWGNseXpfMlBSR2lLUEJ6UXdkdDZScmZYcnRrSWozb0UtMlZUVEVhSTVjRFdVcThJTGxCUXhoR2JtcHdldERrbw?oc=5" target="_blank" rel="noopener">
-          ‘You’re gonna be caught’: $70K in Pokemon cards stolen from Winnipeg’s Mulvey Market - CityNews Winnipeg</a></h2>
-        <p class="sum">‘You’re gonna be caught’: $70K in Pokemon cards stolen from Winnipeg’s Mulvey Market CityNews Winnipeg</p>
         <div class="tags"><span class="tag">pokemon</span><span class="tag">pokémon</span><span class="tag">stolen</span></div>
       </div>
     </article>
