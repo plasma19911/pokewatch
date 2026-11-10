@@ -1,9 +1,68 @@
 {
- "generated": "2026-11-10T17:03:28.452972+00:00",
+ "generated": "2026-11-10T19:03:56.342993+00:00",
  "builder": "2026-07-25g",
  "count": 150,
- "new": 2,
+ "new": 1,
  "items": [
+  {
+   "title": "Bestea Café Burglary: San Antonio Card Shop Hit Again - Hoodline",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQUwwangySFNTTS1vZUZzQk51bldRX0hOdWJyOW0waGtfS242TThCRXA0TERSY2l5d2N1ZU5HR0YzY0p4Zl8xT0ZoM3BCaGxjR3ZLQmIzekhCQWZYSGhFaThuTGNrR1hHWERTOHlwdDRpTTRndkp0RU1DM01LNVhUWGhlZHNXY2Y0N3NqMlp3ajVRYVpXenI0eVktOVRWV213MUZVRURfdWFCVU5RLUNPRHNR?oc=5",
+   "source": "Hoodline",
+   "platform": "news",
+   "published": "2026-11-10T17:39:39+00:00",
+   "summary": "Bestea Café Burglary: San Antonio Card Shop Hit Again Hoodline",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "hoodline.com",
+   "logo": "",
+   "score": 7,
+   "matched": [
+    "burglar",
+    "burglary",
+    "card shop"
+   ],
+   "first_seen": "2026-11-10T19:03:56.333718+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Die Erweiterung Mega-Entwicklung – Delta-Herrschaft des Pokémon-Sammelkartenspiels erscheint am 6. November 2026 - Pokemon.com",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0RWRVBIVzAzSW1ma2g3ck8yMUs5S3NSTUYyQU1MZXFFVTBsSWcwakJvM0drU2JoS2xMbUp6S3k1TFR1ZkNGQWY0aklwYjMtdUVvZ3UzaUFDZDB5LWs1SDdEWWdXY2dJeW4weGNBNW53dzl6R3d0emNIeHd1QURLNEcwQmdzR21mdElHR0tuR3dtYWxXdEpSUFJVUlYwYVFibHBXdzg0dVhBZmZoelNEWk1sVnBZSENUb05rb0tPWmZZbzNrZm5PQ0xGV1NzY0lFdnZFVkFQeEE?oc=5",
+   "source": "Pokemon.com",
+   "platform": "news",
+   "published": "2026-11-10T15:23:15+00:00",
+   "summary": "Die Erweiterung Mega-Entwicklung – Delta-Herrschaft des Pokémon-Sammelkartenspiels erscheint am 6. November 2026 Pokemon.com",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "pokemon.com",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-08-20T14:03:23.367514+00:00",
+   "related": [
+    {
+     "title": "Wirf einen Blick auf alle Pokémon-Sammelkartenspiel-Produkte, die im November 2026 veröffentlicht werden - Pokemon.com",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0htU2d6bUk5WjM3N0c0OGVESi1vWFdLTHJobEVJam5TZlFCbDlGUjQ1U01ZUksxVWxhaUJ3SzB5blE2V05qZDNYZzMxZUFiRTRKTUF1bG5acWRoc054S3owdXh0MVVQbDZEdUNVbnJRQzNOQTNYMlZhd2xRcVBhVVloMTR4QTBoWEJVWGdlVTVKZkFNaDBSUS02Sk1jNE9wcHg0TmhSS05jR0t4T3FnYUR1dWlqSmRHTnJLRkFuNTdsbzA3Qm1HaEh1clR5Y3BwUkE?oc=5",
+     "source": "Pokemon.com",
+     "published": "2026-11-02T16:16:00+00:00"
+    },
+    {
+     "title": "Pokémon TCG Pocket Tier-List: Das sind die besten Meta Decks - jetzt mit Duale Fusion/C1 (November 2026) - GamePro",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWFpNSkJNbURmaGliTmR4WDBFN01YMzVaLVVTUno1UDgxbWFjdUIzeklaaFZzaXd6M05kQjlEZmhMZnNzUmc1V3FOdWY3cDB3bU1ENW1aVVZSMXNuOFVpT0w2NExpOS1mbnppbEpmbFhwamtleTVXbTJURmxtZjBVQTRoeDIyNHRLN1VvbnNoY0hFcXlF?oc=5",
+     "source": "GamePro",
+     "published": "2026-11-10T15:23:15+00:00"
+    }
+   ],
+   "report_count": 3
+  },
   {
    "title": "Orlando woman charged with battery and witness tampering after Pokémon card dispute - Yahoo",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHpCVUFIVmVTUWFjYU95eWJ5RFRJUHl2UlRvaE5DS0FfXzZneDFwX01qLUwzbExhdTZ6Z2VCUHFNOUgxMHktM3MtZWhfcVZzVGlfM1RrMlozdTVZQTFMeWFhUEd0SHRfcWRtTWlfVDA5NkhvTnVOQndEZUl2WUotU2VMQ3BDa1JJU3MxcS1SOUNsSVJuSnc?oc=5",
@@ -252,19 +311,13 @@
    "first_seen": "2026-11-04T22:18:48.924883+00:00",
    "related": [
     {
-     "title": "Mount Pleasant Trading Card Shop Break-In Attempt - Hoodline",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUdmLUFlQi1HMURGWm9oVjV2enNvRUJfZFVTdTh6Mm1Yb18xN0NCVTJmdDdYWERiRmViWnV2U0Fjdk5kb1ZzbkM4R1VEOVdrc0VqVDF3ZWVoQi1Cb19UQ285UHZkRjZJYTJJd3VzZlBKNnNJdlA4TzA5cTZsUzM0OHlFMWFhVDBrdFZnbkFQY3FnMWxJTWI1ekJTc2dmR3prcUx4NkhjLV8?oc=5",
-     "source": "Hoodline",
-     "published": "2026-11-05T00:30:18+00:00"
-    },
-    {
      "title": "Bellevue game store employee stops attempted robbery of $45,000 in trading cards - WSMV",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXzJtV2E4NWl2U05FV1hKOEFsODJGQ2ttWlNEdkttMzhmTlRjVklHOXg0b0FCRkJhb00yazY1UWpjZER3SWVCVlRfRWNReVJaRnY0WDdYNE9hRjhUMFZOZDZLT1lXNTVJYXhjZHZlYmF5aXM1Y3c3UHNydFp6V2RSM2RtUFR1VDVEMDV2ekMwMmdzTFlXRWMxWFNCVWpfWldISGE2YV9EQy0?oc=5",
      "source": "WSMV",
      "published": "2026-11-09T23:46:00+00:00"
     }
    ],
-   "report_count": 3
+   "report_count": 2
   },
   {
    "title": "LEGO, Pokémon cards and a rifle: Two arrested after series of Hamilton area thefts - The Spec",
@@ -448,32 +501,6 @@
     "polizei"
    ],
    "first_seen": "2026-11-10T09:03:08.305175+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
-   "title": "Investigation underway after Pokemon cards and vapes stolen in knifepoint Lea robbery - Blog Preston",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaHdTbDEyRHdQN0tKeHV4SThoXzh1UlQ0WkRCZm5YRERvTFhqRUFDbWRxdjdpdThmSFBERS1hNXFadEJEY1pWRlpRUkxGM3JUbEpGM2ltc0hDVHh6VXdZcjJKVmxTUHV4UjZVVHU4LURIYWo3bXVEYnRDbEJVUjNyRHZlMnNKVlN1aGVNTWQtdzFqZXlPcjdoNlBRSGZrWVR0Tmpib0VRNERRMi1xQWtobnJRay1qQzNnb2h5cmJ1dl9hQdIBxwFBVV95cUxNN3ZPYUZJY3JCODVSRjFlaHpyMnh6bVRIeTIzblJSekx0VlZBb0s0dW1SMnhJV0pQYm43Q0V5azVlUWZGWHpSd3dEUXhzaDFZOUpUcTFpb09YMTl6YmhPMzdDcEhTSFBYMkY2ZzhfSVpFYlBXT3B0blhNdllqa25BVEkxNzh2Y3VMZEZQMUh1dUhqVTBMdWJHVnNMckJyeTJrUzVpVE9ZbGxoX3FkMmlvdERJNXA3VHg5WWlkUVNQb1A4aGRfTFJr?oc=5",
-   "source": "Blog Preston",
-   "platform": "news",
-   "published": "2026-11-09T08:33:00+00:00",
-   "summary": "Investigation underway after Pokemon cards and vapes stolen in knifepoint Lea robbery Blog Preston",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "blogpreston.com",
-   "logo": "",
-   "score": 5,
-   "matched": [
-    "investigation",
-    "pokemon",
-    "pokémon",
-    "robbery",
-    "stolen"
-   ],
-   "first_seen": "2026-11-09T11:03:45.111661+00:00",
    "related": [],
    "report_count": 1
   },
@@ -921,30 +948,30 @@
    "report_count": 3
   },
   {
-   "title": "Die Erweiterung Mega-Entwicklung – Delta-Herrschaft des Pokémon-Sammelkartenspiels erscheint am 6. November 2026 - Pokemon.com",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0RWRVBIVzAzSW1ma2g3ck8yMUs5S3NSTUYyQU1MZXFFVTBsSWcwakJvM0drU2JoS2xMbUp6S3k1TFR1ZkNGQWY0aklwYjMtdUVvZ3UzaUFDZDB5LWs1SDdEWWdXY2dJeW4weGNBNW53dzl6R3d0emNIeHd1QURLNEcwQmdzR21mdElHR0tuR3dtYWxXdEpSUFJVUlYwYVFibHBXdzg0dVhBZmZoelNEWk1sVnBZSENUb05rb0tPWmZZbzNrZm5PQ0xGV1NzY0lFdnZFVkFQeEE?oc=5",
+   "title": "Kartenvorschau: Mega-Rayquaza-ex aus Pokémon-Sammelkartenspiel: Mega-Entwicklung – Delta-Herrschaft - Pokemon.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2stRlBHVWI1RE1TT2Q0akNmbnlsX210YjdEZTJTdzl3OEtfX3kxN1A0ZE51VU0xajkza0NPbDZLLThiTmwzeXd1blV1alM0TjZpcGtmeFJpdmZUYUlKTkdseVVTVDItQUJWMHlaRUxFR0NkQmN4QUFxZTRPWnFfRlAwZ0E5VkxUcnRPaEVPd242NjBxLXNMUnlQUEMxYnRqQVUyQWRJbXNJdEN0Y2twYmxwRzV5NnB2c2pKeFpNMmM0eXBwdFE?oc=5",
    "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-11-06T16:32:00+00:00",
-   "summary": "Die Erweiterung Mega-Entwicklung – Delta-Herrschaft des Pokémon-Sammelkartenspiels erscheint am 6. November 2026 Pokemon.com",
+   "summary": "Kartenvorschau: Mega-Rayquaza-ex aus Pokémon-Sammelkartenspiel: Mega-Entwicklung – Delta-Herrschaft Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
    "country": "",
    "image": "",
-   "domain": "pokemon.com",
+   "domain": "gamepro.de",
    "logo": "",
    "score": 1,
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-08-20T14:03:23.367514+00:00",
+   "first_seen": "2026-10-30T17:03:31.840804+00:00",
    "related": [
     {
-     "title": "Die Erweiterung Mega-Entwicklung – Delta Herrschaft des Pokémon-Sammelkartenspiels ist jetzt erhältlich - Pokemon.com",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaGdGTlNDZTc2M0cwQWI3Q0FEUXV6UDloWEdtX3Q4bWtDT3JiOVVmRXZLM3Z4QkxDdlJ2QlFtOHNMM3c4cldXZGdiVW5oa2UwQkZhS2s4aUNIRFlvTElJVlJKQ1NKQkttZGZINHJ0OHlKU0dwYVFBMFVTVkp2aVh3NlUydEplbWFzbjh5ODk0TlNrdVpQZlJRblNtUGtydUQ1N3NQNHBwRkx2OHZFTGg4aFF3YWJ0U3IzMFJJUHNQU3dtNTYzd0dnclNHNFQyYUE?oc=5",
-     "source": "Pokemon.com",
-     "published": "2026-11-06T14:38:48+00:00"
+     "title": "Pokémon TCG Pocket startet in die C-Reihe und führt damit einen mächtigen Kartentyp ein - GamePro",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVklHZ1dMbVVYR3hla040d0dSMHVzdFdqWXBQX3ZNblBKczNKdmYwZUp6aFU2SFRrbmtBUnFQTHN2TXI4ZXVoaFl2UmxVd2ZVZ1hybzBCeUJzWFdtaUVSR20zSmp4UEJZWk1ua3JwRlZGaG8tTHZWendEWWEtOHh1UEZGR2NBSzRhelhzeVczamNGdDM1UlNpRXk4WTJkcl8wbTJPeERNMXdsT09ZTS1iRjJoaDJUdi1rWDcySERyaXJBQmczaVo5X1Yxbw?oc=5",
+     "source": "GamePro",
+     "published": "2026-10-29T07:00:00+00:00"
     },
     {
      "title": "Neue TCG-Erweiterung – Pokémon startet \"Delta-Herrschaft\" mit Mega-Rayquaza - Heute",
@@ -978,6 +1005,47 @@
    "first_seen": "2026-11-06T16:02:28.515849+00:00",
    "related": [],
    "report_count": 1
+  },
+  {
+   "title": "Neues Set fürs Pokémon-Sammelkartenspiel: Delta-Herrschaft bringt weitere Mega-Entwicklungen in den Handel - Eurogamer.de",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeEpyZDRfa21waXJIckw5ZWFkNzVwTkRSMnhHMnFQckUwQTBkeEZsLXpCaURtcVlsTE5mdXVzLUFYOUVHRDlZQ2hlYVRhYVAwaVNEd0poemExTEd1bEtZWGtWbngtMHdyTUdvN3ZkcFoyM1FiTXZMOXYtd01OZlZuVA?oc=5",
+   "source": "Eurogamer.de",
+   "platform": "news",
+   "published": "2026-11-06T14:38:48+00:00",
+   "summary": "Neues Set fürs Pokémon-Sammelkartenspiel: Delta-Herrschaft bringt weitere Mega-Entwicklungen in den Handel Eurogamer.de",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "giga.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-11-06T11:03:12.873848+00:00",
+   "related": [
+    {
+     "title": "Pokémon-Karten: Neues Set Delta-Herrschaft ab sofort erhältlich - Giga",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTklEanpLWWRXYWVEQTRWQ0s2ZkhuZXdOXzJHSmpCUnVreHJYRXh0MFB4OFpYbG42SE5ncklmVVFOR3hSNGdqSmRRU3pmbFI2ZTZvVzBHS1JMcE9yUkxMOFJQeHVZU2QtemhiTFhMc0hLT09wdXFiZFpyU1pfOFNUMC1MbGpfTmROMWRPcEt4blJKYlY5NFlVMkxHUTNUMlJ4WEZwN29uRHozVU9INERPTW1aOXNJc0E?oc=5",
+     "source": "Giga",
+     "published": "2026-11-06T09:34:08+00:00"
+    },
+    {
+     "title": "Pokémon-Sammelkartenspiel: Delta-Herrschaft ab sofort erhältlich - Nintendo Connect",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQzVLVVRqaExRYmVkbFpjN2hub3JTbFFoMEV6VjRzMlhZQkNBdDVvTU9Ib1c5Sm1nUzNlclFQUHllSmpCSXpIcmRjQVdnWHJCVGJMRzRNeFRIS2E4ck1pXzZtbHltQWFKdUNPeTJxUHh3d0tuSHVwNHNpTTNpeUN3WURQWU1oSXRJN2NrVUdZLThBMWFF?oc=5",
+     "source": "Nintendo Connect",
+     "published": "2026-11-06T13:56:45+00:00"
+    },
+    {
+     "title": "Die Erweiterung Mega-Entwicklung – Delta Herrschaft des Pokémon-Sammelkartenspiels ist jetzt erhältlich - Pokemon.com",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaGdGTlNDZTc2M0cwQWI3Q0FEUXV6UDloWEdtX3Q4bWtDT3JiOVVmRXZLM3Z4QkxDdlJ2QlFtOHNMM3c4cldXZGdiVW5oa2UwQkZhS2s4aUNIRFlvTElJVlJKQ1NKQkttZGZINHJ0OHlKU0dwYVFBMFVTVkp2aVh3NlUydEplbWFzbjh5ODk0TlNrdVpQZlJRblNtUGtydUQ1N3NQNHBwRkx2OHZFTGg4aFF3YWJ0U3IzMFJJUHNQU3dtNTYzd0dnclNHNFQyYUE?oc=5",
+     "source": "Pokemon.com",
+     "published": "2026-11-06T14:38:48+00:00"
+    }
+   ],
+   "report_count": 4
   },
   {
    "title": "Erhalte einen Blick hinter die Kulissen bei einem Mega-Entwicklung – Delta-Herrschaft Prerelease in Madrid, Spanien - Pokemon.com",
@@ -1032,70 +1100,6 @@
    "first_seen": "2026-11-06T15:03:11.062061+00:00",
    "related": [],
    "report_count": 1
-  },
-  {
-   "title": "Sammle und kämpfe mit Mega-Entwicklung – Delta-Herrschaft in Pokémon-Sammelkartenspiel-Live - Pokemon.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1d4dzZvLTRNLUJzOTJ1cEx2Rk5SNkU1Mm5pdnpwWWUwOWkybmZ2OXliamRIQ3MtN1EtZ2psRmx2SmsyV3NJY2hVTUlNdFVYN3UtT3RURU5HN0Z3d2x4Y1Zmc0pSLU1EMkVlOWNVM3VhSzJiU3Fwb0Q2OWo3LS1MVmwydUdsZHdrd3lGU0duUGtZVmJ2R1ZPMnRrdjZVQ0duU3doVVJ0VkljU1Y5NU9ydXBWTzI1YTNtQ05jTEs1Zw?oc=5",
-   "source": "Pokemon.com",
-   "platform": "news",
-   "published": "2026-11-06T13:56:45+00:00",
-   "summary": "Sammle und kämpfe mit Mega-Entwicklung – Delta-Herrschaft in Pokémon-Sammelkartenspiel-Live Pokemon.com",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "pokemon.com",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-11-05T23:03:25.052680+00:00",
-   "related": [
-    {
-     "title": "Pokémon-Sammelkartenspiel: Mega-Entwicklung – Delta-Herrschaft Kampfpass-Deck-Strategien - Pokemon.com",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2FoT1BWd3VpV2FfcVhSOGtoYjdUSTJOcWQtcGlyUV9Fckw0aWpmeHREZEM0WlFLekJ4YmdFellvSUxHamtOZmxrcFpPUDFEdXdkNk1GTGpPWFNrc3NncFNXM1BRMWlybnRnSk5zdzNsUVl0Sm16YXFZYjBPRUp3VHFwSDl6TUFGSmNnUG9zeE5CRkg4MmIyVjl4ZWZCVkc1R3hscUVIem1XXzlRNDc1RG52YTA3bk1VY3pzWnZR?oc=5",
-     "source": "Pokemon.com",
-     "published": "2026-11-05T17:09:49+00:00"
-    },
-    {
-     "title": "Pokémon-Sammelkartenspiel: Delta-Herrschaft ab sofort erhältlich - Nintendo Connect",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQzVLVVRqaExRYmVkbFpjN2hub3JTbFFoMEV6VjRzMlhZQkNBdDVvTU9Ib1c5Sm1nUzNlclFQUHllSmpCSXpIcmRjQVdnWHJCVGJMRzRNeFRIS2E4ck1pXzZtbHltQWFKdUNPeTJxUHh3d0tuSHVwNHNpTTNpeUN3WURQWU1oSXRJN2NrVUdZLThBMWFF?oc=5",
-     "source": "Nintendo Connect",
-     "published": "2026-11-06T13:56:45+00:00"
-    }
-   ],
-   "report_count": 3
-  },
-  {
-   "title": "Neues Set fürs Pokémon-Sammelkartenspiel: Delta-Herrschaft bringt weitere Mega-Entwicklungen in den Handel - Eurogamer.de",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeEpyZDRfa21waXJIckw5ZWFkNzVwTkRSMnhHMnFQckUwQTBkeEZsLXpCaURtcVlsTE5mdXVzLUFYOUVHRDlZQ2hlYVRhYVAwaVNEd0poemExTEd1bEtZWGtWbngtMHdyTUdvN3ZkcFoyM1FiTXZMOXYtd01OZlZuVA?oc=5",
-   "source": "Eurogamer.de",
-   "platform": "news",
-   "published": "2026-11-06T10:55:20+00:00",
-   "summary": "Neues Set fürs Pokémon-Sammelkartenspiel: Delta-Herrschaft bringt weitere Mega-Entwicklungen in den Handel Eurogamer.de",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "giga.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-11-06T11:03:12.873848+00:00",
-   "related": [
-    {
-     "title": "Pokémon-Karten: Neues Set Delta-Herrschaft ab sofort erhältlich - Giga",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTklEanpLWWRXYWVEQTRWQ0s2ZkhuZXdOXzJHSmpCUnVreHJYRXh0MFB4OFpYbG42SE5ncklmVVFOR3hSNGdqSmRRU3pmbFI2ZTZvVzBHS1JMcE9yUkxMOFJQeHVZU2QtemhiTFhMc0hLT09wdXFiZFpyU1pfOFNUMC1MbGpfTmROMWRPcEt4blJKYlY5NFlVMkxHUTNUMlJ4WEZwN29uRHozVU9INERPTW1aOXNJc0E?oc=5",
-     "source": "Giga",
-     "published": "2026-11-06T09:34:08+00:00"
-    }
-   ],
-   "report_count": 2
   },
   {
    "title": "UVP statt Scalper-Preise: Pokémon Delta-Herrschaft Sammelkarten bei Amazon vorbestellen - Golem",
@@ -1192,6 +1196,65 @@
     }
    ],
    "report_count": 2
+  },
+  {
+   "title": "Hundreds of dollars worth of Pokémon cards stolen from mail, police say - fox56.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTkY5N3JYSHpMMWM4STZ6dnkta1RTbWN6ZWw4YkVPOUF6Ymk2S2lMMmswa1hhbWh4YXNXWmpTZDkwYUhOaEtzZ2Z2dXZ6bTREYkhXakhRUzYwSW9GSHRhVmZINE1LTUNDUHZCcmxLZkkyMkxUTlRkVTRNQ2RrdTUyTFVWdHJKaXVJbmZvM2tQUlY2Z3ZQdE5JOHktM25UN2lL?oc=5",
+   "source": "fox56.com",
+   "platform": "news",
+   "published": "2026-11-05T18:36:04+00:00",
+   "summary": "Hundreds of dollars worth of Pokémon cards stolen from mail, police say fox56.com",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "fox56.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "stolen"
+   ],
+   "first_seen": "2026-11-08T07:02:57.356568+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Sammle und kämpfe mit Mega-Entwicklung – Delta-Herrschaft in Pokémon-Sammelkartenspiel-Live - Pokemon.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1d4dzZvLTRNLUJzOTJ1cEx2Rk5SNkU1Mm5pdnpwWWUwOWkybmZ2OXliamRIQ3MtN1EtZ2psRmx2SmsyV3NJY2hVTUlNdFVYN3UtT3RURU5HN0Z3d2x4Y1Zmc0pSLU1EMkVlOWNVM3VhSzJiU3Fwb0Q2OWo3LS1MVmwydUdsZHdrd3lGU0duUGtZVmJ2R1ZPMnRrdjZVQ0duU3doVVJ0VkljU1Y5NU9ydXBWTzI1YTNtQ05jTEs1Zw?oc=5",
+   "source": "Pokemon.com",
+   "platform": "news",
+   "published": "2026-11-05T17:09:49+00:00",
+   "summary": "Sammle und kämpfe mit Mega-Entwicklung – Delta-Herrschaft in Pokémon-Sammelkartenspiel-Live Pokemon.com",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "pokemon.com",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-11-05T23:03:25.052680+00:00",
+   "related": [
+    {
+     "title": "Produktvorschau – Pokémon-Sammelkartenspiel: Mega-Entwicklung – Delta-Herrschaft - Pokemon.com",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVDhxUkRkUk9JeGd6UExkR1RqZGdNZGNQb3o2MWlrSUlUZlRoQUN6OVJ2ZzVwbDJDQWlXWUhvaHlkRzBVMGIwZDl1WGNFN2J2aG93T2o5UTZnOHNpaVgxRzRTUmVUenBiUWFuQjkyaWkxYTBlaWZxUHc0VHR4U2JhQlVDUzhKVkZLaU52RlN0clQ2d0xobGFIVEJLYnYzcnlmd0xpWjgxUjJsS0U?oc=5",
+     "source": "Pokemon.com",
+     "published": "2026-10-23T07:00:00+00:00"
+    },
+    {
+     "title": "Pokémon-Sammelkartenspiel: Mega-Entwicklung – Delta-Herrschaft Kampfpass-Deck-Strategien - Pokemon.com",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2FoT1BWd3VpV2FfcVhSOGtoYjdUSTJOcWQtcGlyUV9Fckw0aWpmeHREZEM0WlFLekJ4YmdFellvSUxHamtOZmxrcFpPUDFEdXdkNk1GTGpPWFNrc3NncFNXM1BRMWlybnRnSk5zdzNsUVl0Sm16YXFZYjBPRUp3VHFwSDl6TUFGSmNnUG9zeE5CRkg4MmIyVjl4ZWZCVkc1R3hscUVIem1XXzlRNDc1RG52YTA3bk1VY3pzWnZR?oc=5",
+     "source": "Pokemon.com",
+     "published": "2026-11-05T17:09:49+00:00"
+    }
+   ],
+   "report_count": 3
   },
   {
    "title": "Pokémon-Markt crasht? Händler erklärt den Preissturz zum Geburtstag und neuen Set - HNA",
@@ -1573,28 +1636,6 @@
    "report_count": 1
   },
   {
-   "title": "Wirf einen Blick auf alle Pokémon-Sammelkartenspiel-Produkte, die im November 2026 veröffentlicht werden - Pokemon.com",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0htU2d6bUk5WjM3N0c0OGVESi1vWFdLTHJobEVJam5TZlFCbDlGUjQ1U01ZUksxVWxhaUJ3SzB5blE2V05qZDNYZzMxZUFiRTRKTUF1bG5acWRoc054S3owdXh0MVVQbDZEdUNVbnJRQzNOQTNYMlZhd2xRcVBhVVloMTR4QTBoWEJVWGdlVTVKZkFNaDBSUS02Sk1jNE9wcHg0TmhSS05jR0t4T3FnYUR1dWlqSmRHTnJLRkFuNTdsbzA3Qm1HaEh1clR5Y3BwUkE?oc=5",
-   "source": "Pokemon.com",
-   "platform": "news",
-   "published": "2026-11-02T16:16:00+00:00",
-   "summary": "Wirf einen Blick auf alle Pokémon-Sammelkartenspiel-Produkte, die im November 2026 veröffentlicht werden Pokemon.com",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "pokemon.com",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-11-02T17:03:20.558420+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "30 Jahre Pokémon-Sammelkarten: 20 Booster jetzt zum Rekordtiefpreis - PCGH",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYnYxN25KWTFFNGRRS3c3R2Z6UUdQODFkaG85RUhZVTh6bHhUU2ZkNFhpTzBSU2FqaVVMam92UVB5R1VFenZuUkJCcUxsMEU1cmVkUUtGa01FallCekh6a1lzRk9MczkyMHpZLUN4MF9lMGlmZXQwOFg3SHpQcDJ6YWRsWGVkM1cya1ViNndSbHJZOFM4dU5rWmpwWXR4TVJDSDZkVlBMdXExMG1vZDZnaFloSE1QSDFMVkRUSWVLa1NpOUhqZFN6el9kLWxmMW1EVURBN2hzLXZJWTNKSjFianhIM1U0aE0wczBLeQ?oc=5",
    "source": "PCGH",
@@ -1890,64 +1931,6 @@
    "report_count": 1
   },
   {
-   "title": "Kartenvorschau: Mega-Rayquaza-ex aus Pokémon-Sammelkartenspiel: Mega-Entwicklung – Delta-Herrschaft - Pokemon.com",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2stRlBHVWI1RE1TT2Q0akNmbnlsX210YjdEZTJTdzl3OEtfX3kxN1A0ZE51VU0xajkza0NPbDZLLThiTmwzeXd1blV1alM0TjZpcGtmeFJpdmZUYUlKTkdseVVTVDItQUJWMHlaRUxFR0NkQmN4QUFxZTRPWnFfRlAwZ0E5VkxUcnRPaEVPd242NjBxLXNMUnlQUEMxYnRqQVUyQWRJbXNJdEN0Y2twYmxwRzV5NnB2c2pKeFpNMmM0eXBwdFE?oc=5",
-   "source": "Pokemon.com",
-   "platform": "news",
-   "published": "2026-10-30T07:00:00+00:00",
-   "summary": "Kartenvorschau: Mega-Rayquaza-ex aus Pokémon-Sammelkartenspiel: Mega-Entwicklung – Delta-Herrschaft Pokemon.com",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "gamepro.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-10-30T17:03:31.840804+00:00",
-   "related": [
-    {
-     "title": "Pokémon TCG Pocket startet in die C-Reihe und führt damit einen mächtigen Kartentyp ein - GamePro",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVklHZ1dMbVVYR3hla040d0dSMHVzdFdqWXBQX3ZNblBKczNKdmYwZUp6aFU2SFRrbmtBUnFQTHN2TXI4ZXVoaFl2UmxVd2ZVZ1hybzBCeUJzWFdtaUVSR20zSmp4UEJZWk1ua3JwRlZGaG8tTHZWendEWWEtOHh1UEZGR2NBSzRhelhzeVczamNGdDM1UlNpRXk4WTJkcl8wbTJPeERNMXdsT09ZTS1iRjJoaDJUdi1rWDcySERyaXJBQmczaVo5X1Yxbw?oc=5",
-     "source": "GamePro",
-     "published": "2026-10-29T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
-  },
-  {
-   "title": "Pokémon TCG Pocket Tier-List: Das sind die besten Meta Decks - jetzt mit Duale Fusion/C1 (Oktober 2026) - GamePro",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWFpNSkJNbURmaGliTmR4WDBFN01YMzVaLVVTUno1UDgxbWFjdUIzeklaaFZzaXd6M05kQjlEZmhMZnNzUmc1V3FOdWY3cDB3bU1ENW1aVVZSMXNuOFVpT0w2NExpOS1mbnppbEpmbFhwamtleTVXbTJURmxtZjBVQTRoeDIyNHRLN1VvbnNoY0hFcXlF?oc=5",
-   "source": "GamePro",
-   "platform": "news",
-   "published": "2026-10-30T07:00:00+00:00",
-   "summary": "Pokémon TCG Pocket Tier-List: Das sind die besten Meta Decks - jetzt mit Duale Fusion/C1 (Oktober 2026) GamePro",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "bisafans.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-10-30T06:35:42.252305+00:00",
-   "related": [
-    {
-     "title": "Erweiterung „Duale Fusion“ in Pokémon-Sammelkartenspiel-Pocket veröffentlicht - Bisafans.de",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZHdteUh0UmIxc0JMWUJaT29kMXhzWmh3OGo2dGV2UzI4V1VtMzBUbjRhMlQ2VHFZbVhOaGZ0OU80bDZkd2Z4QWlpZnJldWp0eWMyeFoxbFR5UDU0SVRadU50S21NWkRUT0hjNEtxTHk1T0xzeHcwd3VFVG90Zi1PT1RaNC00UlBlTG4zYXJPVmNBTUd6V2hyVlZDMHBzbVl6eUVGOXFCb3EwWUdwY2hYNFY0bWFHRUtUQllnQV9mcUYzX2F3VWk1VnJjVjZ6ZDU1cEVLc2R5SQ?oc=5",
-     "source": "Bisafans.de",
-     "published": "2026-10-29T01:00:00+00:00"
-    }
-   ],
-   "report_count": 2
-  },
-  {
    "title": "FBI investigates scams at 7 shops in New Jersey where Pokémon cards were stolen - News12 | New Jersey",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT0lscUl6SWdELTlKbWxUeFJYQWhham03RmpsUVdWUGRXWjd6ZTJzc1FIMjlLX0FHMzVpQ1FNc0pCWEZOdzhiS2M5V201R1ZQRnhrbnp3Uk1wRnNNUEpUd1FBcXh1amFmc0h0SW5ZZ0EtZGRHUGdJWk1EV19fV1VZQjYxLVhrZmtHc3FmVVRPN2poeWpVa1dLc0VIVUZVN0FaVUtr?oc=5",
    "source": "News12 | New Jersey",
@@ -2020,6 +2003,35 @@
    "first_seen": "2026-10-29T09:01:27.029424+00:00",
    "related": [],
    "report_count": 1
+  },
+  {
+   "title": "Pokémon-Sammelkartenspiel-Pocket: Dualtyp-Pokémon feiern mit „Duale Fusion“ nächste Woche ihr Debüt - Nintendo-Online.de",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWV6dHd5NVBvRlhIUXZ3a3lWNWZuTG9XbWl2WU8tMkstYm5TSFZHUDNNWVNXRHBlSmVpeFVsRXkxREZvSW1rWVd1NGk5NmJhdHgtbGRQNlpPS2Q1QjZ2NEM5OFUtbU94MV91QUpxNEh6d0dmZWwwLXBmVnNfbWpjSE8zc3k0QmpmeXhCcGpncW9jUlM0NFJrWEZaVlBrV2t4Ync5QXQ5bTh2RE1XLV9XWnFYeW9tNWU3U3VxdGJFTnZ5Q2RPOFNWellzSnFGUQ?oc=5",
+   "source": "Nintendo-Online.de",
+   "platform": "news",
+   "published": "2026-10-29T01:00:00+00:00",
+   "summary": "Pokémon-Sammelkartenspiel-Pocket: Dualtyp-Pokémon feiern mit „Duale Fusion“ nächste Woche ihr Debüt Nintendo-Online.de",
+   "author": "",
+   "category": "szene",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "nintendo-online.de",
+   "logo": "",
+   "score": 1,
+   "matched": [
+    "news:de"
+   ],
+   "first_seen": "2026-10-21T18:03:37.498841+00:00",
+   "related": [
+    {
+     "title": "Erweiterung „Duale Fusion“ in Pokémon-Sammelkartenspiel-Pocket veröffentlicht - Bisafans.de",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZHdteUh0UmIxc0JMWUJaT29kMXhzWmh3OGo2dGV2UzI4V1VtMzBUbjRhMlQ2VHFZbVhOaGZ0OU80bDZkd2Z4QWlpZnJldWp0eWMyeFoxbFR5UDU0SVRadU50S21NWkRUT0hjNEtxTHk1T0xzeHcwd3VFVG90Zi1PT1RaNC00UlBlTG4zYXJPVmNBTUd6V2hyVlZDMHBzbVl6eUVGOXFCb3EwWUdwY2hYNFY0bWFHRUtUQllnQV9mcUYzX2F3VWk1VnJjVjZ6ZDU1cEVLc2R5SQ?oc=5",
+     "source": "Bisafans.de",
+     "published": "2026-10-29T01:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Denver Toy Store Vandalized, Pokémon Cards Stolen - Hoodline",
@@ -2174,6 +2186,31 @@
     "theft"
    ],
    "first_seen": "2026-10-28T22:44:29.837895+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Eagan Pokémon theft: 2 men charged with stealing $26K worth of cards - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GT2ZPTFNaTEtkNnU0eEJ0bEMtOWZ5emV4WG5ubFpITEEzVElGd2VMWmRWLXBlb05XZkRmRGR2dkFJbWtvLUZtcnpRdmRHUExKay1sRHZVVVZFa2Qyc0VxUVl2TW9ld2ltVlRSaEZqeXFWRExVT0VlU192b28?oc=5",
+   "source": "Yahoo",
+   "platform": "news",
+   "published": "2026-10-27T07:00:00+00:00",
+   "summary": "Eagan Pokémon theft: 2 men charged with stealing $26K worth of cards Yahoo",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "yahoo.com",
+   "logo": "",
+   "score": 4,
+   "matched": [
+    "charged",
+    "pokemon",
+    "pokémon",
+    "theft"
+   ],
+   "first_seen": "2026-10-27T23:03:37.201335+00:00",
    "related": [],
    "report_count": 1
   },
@@ -2919,28 +2956,6 @@
    "report_count": 2
   },
   {
-   "title": "Produktvorschau – Pokémon-Sammelkartenspiel: Mega-Entwicklung – Delta-Herrschaft - Pokemon.com",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVDhxUkRkUk9JeGd6UExkR1RqZGdNZGNQb3o2MWlrSUlUZlRoQUN6OVJ2ZzVwbDJDQWlXWUhvaHlkRzBVMGIwZDl1WGNFN2J2aG93T2o5UTZnOHNpaVgxRzRTUmVUenBiUWFuQjkyaWkxYTBlaWZxUHc0VHR4U2JhQlVDUzhKVkZLaU52RlN0clQ2d0xobGFIVEJLYnYzcnlmd0xpWjgxUjJsS0U?oc=5",
-   "source": "Pokemon.com",
-   "platform": "news",
-   "published": "2026-10-23T07:00:00+00:00",
-   "summary": "Produktvorschau – Pokémon-Sammelkartenspiel: Mega-Entwicklung – Delta-Herrschaft Pokemon.com",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "pokemon.com",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-10-23T16:03:23.490157+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Nearly $1 Million in Pokémon and Sports Cards Stolen From FedEx Truck in California\n\nTrading cards are hot right now. Both content creators who have found wildly creative ways to o",
    "url": "https://bsky.app/profile/media-news.at.thenote.app/post/3myjd7ld3dc2s",
    "source": "@media-news.at.thenote.app",
@@ -3256,9 +3271,9 @@
      "published": "2026-10-20T07:00:00+00:00"
     },
     {
-     "title": "At least $963K in trading cards were stolen from a FedEx truck in California - WSB-TV",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTnhOX0Qyc1F0WUNGUXgybmR4THFzcG80X3QwR3oxWVNGU2Y0Nm9vNml3QVdvX0NpY3cxZWdGd1R1OTg2aTkzdDRYNVRaNWhUNndhaGhkZVhMRzUtQmQyWHBYVU9aeFV3dV9sV0FaSDJ1dmtwYnQyVTA4YkZtWFZjTXJSR19kV2ZKWVHSAZ4BQVVfeXFMTXBzWFUzeVA2QkoxZElJdDBod3BhRVg4R09Jc01EbUx6elBvd1MyUU5fNE0xQkRxVmlyVmJ4ZUc4WDFmNXpRR1lwNmtGVWtadGswd24ybWJnLVBVd0hQMkd6Ujh0QmFObTczRy1sdDlZMVg3dWVRN29QUTYxZkFvRFZFZnZocGFJU1J0TDVvcWRReFZaeVJ6TFZ3T1AwOWc?oc=5",
-     "source": "WSB-TV",
+     "title": "At least $963K in trading cards were stolen from a FedEx truck in California - Boston Herald",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VN0JNQWE5R1Faang1bDdfVzllNkg1Z185RWJ3bS1hV2hWX0VnN1ZtZFROUEVjN3Bwcjd4cEkyRGxXdVNSRzBYX2pIVkdPX2tvM2V1Wl9uOXJXZ1JOS05oXzFRNnkwOS1qTnV3?oc=5",
+     "source": "Boston Herald",
      "published": "2026-10-20T07:00:00+00:00"
     },
     {
@@ -3373,36 +3388,28 @@
    "report_count": 1
   },
   {
-   "title": "Pokémon crime spree continues: a million dollars worth of trading cards stolen from delivery truck - Comics Beat",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMmhKR2hZVEZ1Y0N0UW82REg2SEdRRllRaHlEZW1qekQ0cVhQM1hSTkpXTTluRnZfR3V0a2FObjBjazEyM1pxNDZGalAxYi14aVpSWTNxQ2JDWDdVT3YzUGFIZWxZSTA5empzMnl1d2F5MUtSNFF6SnNwa1hWeTlfWkR5cGF6bllkcmc?oc=5",
-   "source": "Comics Beat",
-   "platform": "news",
+   "title": "🚨 Breaking News:\n\nSingle-Family Housing Starts Drop Sharply; Permits Reach Three-and-a-Half-Year Low\n\nRare Pokémon and Sports Cards Worth Nearly One Million Dollars Stolen from Fed",
+   "url": "https://bsky.app/profile/myheadlinespodcast.bsky.social/post/3myfjg3xy2t2i",
+   "source": "@myheadlinespodcast.bsky.social",
+   "platform": "bluesky",
    "published": "2026-10-21T16:00:21.615000+00:00",
-   "summary": "Pokémon crime spree continues: a million dollars worth of trading cards stolen from delivery truck Comics Beat",
-   "author": "",
+   "summary": "🚨 Breaking News:\n\nSingle-Family Housing Starts Drop Sharply; Permits Reach Three-and-a-Half-Year Low\n\nRare Pokémon and Sports Cards Worth Nearly One Million Dollars Stolen from FedEx Truck\n\nLarry Ellison Took Out Loans to Fund His Son’s Warner Bros. Acquisition Attempt",
+   "author": "The Commuter Top Headlines Podcast",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "comicsbeat.com",
+   "domain": "myheadlinespodcastbskysocial.com",
    "logo": "",
-   "score": 4,
+   "score": 3,
    "matched": [
     "pokemon",
     "pokémon",
-    "stolen",
-    "trading card"
+    "stolen"
    ],
-   "first_seen": "2026-10-31T13:03:07.287778+00:00",
-   "related": [
-    {
-     "title": "🚨 Breaking News:\n\nSingle-Family Housing Starts Drop Sharply; Permits Reach Three-and-a-Half-Year Low\n\nRare Pokémon and Sports Cards Worth Nearly One Million Dollars Stolen from Fed",
-     "url": "https://bsky.app/profile/myheadlinespodcast.bsky.social/post/3myfjg3xy2t2i",
-     "source": "@myheadlinespodcast.bsky.social",
-     "published": "2026-10-21T16:00:21.615000+00:00"
-    }
-   ],
-   "report_count": 2
+   "first_seen": "2026-10-21T16:03:39.296328+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Slideshow: Pokémon TCG: Mega Evolution — Delta Reign Cards - IGN Deutschland",
@@ -3482,6 +3489,31 @@
     }
    ],
    "report_count": 2
+  },
+  {
+   "title": "Pokémon crime spree continues: a million dollars worth of trading cards stolen from delivery truck - Comics Beat",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMmhKR2hZVEZ1Y0N0UW82REg2SEdRRllRaHlEZW1qekQ0cVhQM1hSTkpXTTluRnZfR3V0a2FObjBjazEyM1pxNDZGalAxYi14aVpSWTNxQ2JDWDdVT3YzUGFIZWxZSTA5empzMnl1d2F5MUtSNFF6SnNwa1hWeTlfWkR5cGF6bllkcmc?oc=5",
+   "source": "Comics Beat",
+   "platform": "news",
+   "published": "2026-10-21T07:00:00+00:00",
+   "summary": "Pokémon crime spree continues: a million dollars worth of trading cards stolen from delivery truck Comics Beat",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "comicsbeat.com",
+   "logo": "",
+   "score": 4,
+   "matched": [
+    "pokemon",
+    "pokémon",
+    "stolen",
+    "trading card"
+   ],
+   "first_seen": "2026-10-31T13:03:07.287778+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "‘Absolutely devastated.' Collect reacts after $1M Pokemon card theft - NBC Los Angeles",
@@ -3601,28 +3633,6 @@
    "report_count": 1
   },
   {
-   "title": "Pokémon-Sammelkartenspiel-Pocket: Dualtyp-Pokémon feiern mit „Duale Fusion“ nächste Woche ihr Debüt - Nintendo-Online.de",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWV6dHd5NVBvRlhIUXZ3a3lWNWZuTG9XbWl2WU8tMkstYm5TSFZHUDNNWVNXRHBlSmVpeFVsRXkxREZvSW1rWVd1NGk5NmJhdHgtbGRQNlpPS2Q1QjZ2NEM5OFUtbU94MV91QUpxNEh6d0dmZWwwLXBmVnNfbWpjSE8zc3k0QmpmeXhCcGpncW9jUlM0NFJrWEZaVlBrV2t4Ync5QXQ5bTh2RE1XLV9XWnFYeW9tNWU3U3VxdGJFTnZ5Q2RPOFNWellzSnFGUQ?oc=5",
-   "source": "Nintendo-Online.de",
-   "platform": "news",
-   "published": "2026-10-21T07:00:00+00:00",
-   "summary": "Pokémon-Sammelkartenspiel-Pocket: Dualtyp-Pokémon feiern mit „Duale Fusion“ nächste Woche ihr Debüt Nintendo-Online.de",
-   "author": "",
-   "category": "szene",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "nintendo-online.de",
-   "logo": "",
-   "score": 1,
-   "matched": [
-    "news:de"
-   ],
-   "first_seen": "2026-10-21T18:03:37.498841+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "PSA Graded Cards Stolen From FedEx Truck, Collector Says $100,000 Order Lost - Shane the Gamer",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mYmFQTkdFR3E5ZDlBd2QzZ2Y4VTFkVnNybmdmc0YtaDMzZDVjRExybklHdU1FdFRTZWVPRkFWOG5KZ0QtWTVUTnluUER0TFpxb3plbjcwTDRRV3pBZDlXZU5RYTZ0N0pNY3BhSWlIZmZvSU9rZnItSnlDcw?oc=5",
    "source": "Shane the Gamer",
@@ -3668,15 +3678,15 @@
      "published": "2026-10-19T07:00:00+00:00"
     },
     {
-     "title": "Nearly $1 million worth of Pokémon and sports trading cards stolen in FedEx truck theft - Cleveland 19 News",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVUJ3eTdiX3QtWlN5V09pdjdveEh0dkl5MlZOVEFlZFNnWGp3cDctaF8zVVhMYkNORWFXUnFGWXR0Q3dZOVF1MUE2VzV1NVBvNVpjNUc1UG9CS09iSERMLUhSU3l0Uk42TUp0VlJLNWVXVWx1MG1ObXpxOGdveDVlQjE1SlB5dFNCQ3QwamNHRUpOV2JLLU1DdGxtQkF1MHZvZjctZWNtYWdKRmZXMzM3Yldyeml6UQ?oc=5",
-     "source": "Cleveland 19 News",
+     "title": "Nearly $1 million worth of Pokémon and sports trading cards stolen in FedEx truck theft - FOX19 | Cincinnati",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmpTRUdGNW05akVLZ3MydW84U3FUQTdzM3JFZVBOSjJrcVRhRURyblN3akp6S3Z0ekJfT01YaXlTWC1CaHZkbjhMeHVCWTF4YTB5aklRc05nLXBfaWlsR0stbTJPNGlQajgwaXhsMERhVTV3QWk5Ynd1YldkUVc0OW12M2R6djg5NmRlbjQ0eXMyS3Nwd3JPekJDU0RXTy1fak5TLVQ5eXZWbjVuUmc?oc=5",
+     "source": "FOX19 | Cincinnati",
      "published": "2026-10-20T07:00:00+00:00"
     },
     {
-     "title": "Nearly $1 million worth of Pokémon and sports trading cards stolen in FedEx truck theft - KEYC News Now",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWs3WFo1eE0xTVlmenBpS1FpWTJCN05Ha3p6RjlIVS1ib08xQXFoQ3pXeFBnQ1d5VFl0NERGVzIzb2VPc3o3V3hSaU5KRUJybGp4cHNhRWtwVDBrOVhaQi1CanZwa3I1MnF2Q2lEYlJNUVVYVEhkNWFvdVdsNTZCMU1uSWhIVU1Sd3RfSHFVQURSMHRLd05SVFFWdUJScGxoM3NqWFhrdGw2VWxm?oc=5",
-     "source": "KEYC News Now",
+     "title": "Nearly $1 million worth of Pokémon and sports trading cards stolen in FedEx truck theft - Cleveland 19 News",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVUJ3eTdiX3QtWlN5V09pdjdveEh0dkl5MlZOVEFlZFNnWGp3cDctaF8zVVhMYkNORWFXUnFGWXR0Q3dZOVF1MUE2VzV1NVBvNVpjNUc1UG9CS09iSERMLUhSU3l0Uk42TUp0VlJLNWVXVWx1MG1ObXpxOGdveDVlQjE1SlB5dFNCQ3QwamNHRUpOV2JLLU1DdGxtQkF1MHZvZjctZWNtYWdKRmZXMzM3Yldyeml6UQ?oc=5",
+     "source": "Cleveland 19 News",
      "published": "2026-10-20T07:00:00+00:00"
     },
     {
