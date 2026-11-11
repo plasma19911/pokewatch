@@ -5,7 +5,7 @@
   <link>https://example.local/pokewatch</link>
   <description>Einbrueche, Betrug, Razzien und Schliessungen im Kartenhandel.</description>
   <language>de</language>
-  <lastBuildDate>Wed, 11 Nov 2026 09:03:15 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 09:39:08 +0000</lastBuildDate>
   <item>
    <title>[Szene / News] Pokémon-Karten statt Aktienfonds? Warum Sammelkarten als Geldanlage boomen - Esquire</title>
    <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQM1pHa3A1M29WTDUtaE0xbzZ5UmlUakUwSlE5eTByRlFzbnJaUFlQblJiQm1IXzEtdkZpaXdvd0JhWnJLZ2hiMHhMNnkxanNxdEVOWEREUWlHNUxwSUtJQ0ZGUWtsZXBSUlQtOFdqVHlnUm12TDhWRkxXTHNPa2VYR3pSZU42dmNoT0w2S2Q3NWxhalNuZEFaNVQ2U2RJY3pYUW1ocGVyMkFvb0tCRGk0?oc=5</link>
@@ -53,14 +53,6 @@
    <pubDate>Wed, 11 Nov 2026 02:32:03 +0000</pubDate>
    <source>Pokemon.com</source>
    <description>Die Erweiterung Mega-Entwicklung – Delta-Herrschaft des Pokémon-Sammelkartenspiels erscheint am 6. November 2026 Pokemon.com</description>
-  </item>
-  <item>
-   <title>[Einbruch / Raub] Pokémon-Karte gestohlen: Festnahmen in Aachen - Blick</title>
-   <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY3Bob2RQSjByX2JyNkF3MzJxcnljSXJNV081emp4NWJ5S3pBVng1amJEdE5USWNaVjFQUC1fN3NvblF1SFRJOXRwbHA2Z2ktVGxjbW1OaGJZR1ZQc0I3ZV9GSm5MSnZTaWcyQVRDQlU1M25oSTFPcnhlUGtab2pONE9wZmVwcDBf?oc=5</link>
-   <guid isPermaLink="false">pokewatch-9004f693729478c3</guid>
-   <pubDate>Wed, 11 Nov 2026 02:12:54 +0000</pubDate>
-   <source>Blick</source>
-   <description>Pokémon-Karte gestohlen: Festnahmen in Aachen Blick</description>
   </item>
   <item>
    <title>[Einbruch / Raub] Two arrested after string of card shop break-ins in Burlington
@@ -201,6 +193,14 @@ Two men are accused of breaking into card shops in Burlington and stealing multi
    <pubDate>Mon, 09 Nov 2026 12:34:43 +0000</pubDate>
    <source>Dexerto</source>
    <description>Man arrested after leaving 6-year-old daughter sleeping in line for Pokemon cards Dexerto</description>
+  </item>
+  <item>
+   <title>[Einbruch / Raub] Investigation underway after Pokemon cards and vapes stolen in knifepoint Lea robbery - Blog Preston</title>
+   <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaHdTbDEyRHdQN0tKeHV4SThoXzh1UlQ0WkRCZm5YRERvTFhqRUFDbWRxdjdpdThmSFBERS1hNXFadEJEY1pWRlpRUkxGM3JUbEpGM2ltc0hDVHh6VXdZcjJKVmxTUHV4UjZVVHU4LURIYWo3bXVEYnRDbEJVUjNyRHZlMnNKVlN1aGVNTWQtdzFqZXlPcjdoNlBRSGZrWVR0Tmpib0VRNERRMi1xQWtobnJRay1qQzNnb2h5cmJ1dl9hQdIBxwFBVV95cUxNN3ZPYUZJY3JCODVSRjFlaHpyMnh6bVRIeTIzblJSekx0VlZBb0s0dW1SMnhJV0pQYm43Q0V5azVlUWZGWHpSd3dEUXhzaDFZOUpUcTFpb09YMTl6YmhPMzdDcEhTSFBYMkY2ZzhfSVpFYlBXT3B0blhNdllqa25BVEkxNzh2Y3VMZEZQMUh1dUhqVTBMdWJHVnNMckJyeTJrUzVpVE9ZbGxoX3FkMmlvdERJNXA3VHg5WWlkUVNQb1A4aGRfTFJr?oc=5</link>
+   <guid isPermaLink="false">pokewatch-f59211a8dbdf2d33</guid>
+   <pubDate>Mon, 09 Nov 2026 08:33:00 +0000</pubDate>
+   <source>Blog Preston</source>
+   <description>Investigation underway after Pokemon cards and vapes stolen in knifepoint Lea robbery Blog Preston</description>
   </item>
   <item>
    <title>[Szene / News] Pokémon-Karten: Aldi hat heute brandneues Set im Angebot - Giga</title>
@@ -362,6 +362,14 @@ Counterfeit Pokémon cards is a big business, but some TCG cards are more suspic
    <description>Burlington card store break-ins lead to arrests, with one suspect tied to Johnston County theft WXII</description>
   </item>
   <item>
+   <title>[Einbruch / Raub] Financial blow to card store after burglary in southwest Las Vegas valley - KLAS 8 News Now</title>
+   <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRG95R0J0cjI0THZTbE1zb1NsVmFnejFNQ1BXRFp3bHRQVlJDcE1qMGN1ZDIxTHF5Z0Y4TUEyWXh3TFJqYXY4VDRGNlRVSTBNbHdjWGczY3lyVk1WZXhlNDd1YlJ4WU5PTDIyNjJ2Z2p4UHBCVEJhc2RqZkZmTnRDdWtISGx4ZTBPMmtfNXB6eFc0TTViRnNqNC1iRmVsODk0azBGTEJicVHSAa4BQVVfeXFMUExWdTFnbGxCMGJRZ25IRGllZG9HT2NxYW9JNWZBbzNvOHJQOGVPOGF1SzlYaERXLURtUkpBTnFQRVJLOElPUHFYRFNId1E4cjJiaFlGMjhHdWFtaTl3Q240Qm5iRG1mek82ellkSkRjaGxTakc4cXBmRVFaRUdmWHE1OFQyZC1TcEYySXhKZEI0M1BnVklMeFNiWnU5SWhFaDlLTXdXbk42eUlJMmdR?oc=5</link>
+   <guid isPermaLink="false">pokewatch-1f5a45d4f35038cc</guid>
+   <pubDate>Thu, 05 Nov 2026 21:25:26 +0000</pubDate>
+   <source>KLAS 8 News Now</source>
+   <description>Financial blow to card store after burglary in southwest Las Vegas valley KLAS 8 News Now</description>
+  </item>
+  <item>
    <title>[Szene / News] Sammle und kämpfe mit Mega-Entwicklung – Delta-Herrschaft in Pokémon-Sammelkartenspiel-Live - Pokemon.com</title>
    <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1d4dzZvLTRNLUJzOTJ1cEx2Rk5SNkU1Mm5pdnpwWWUwOWkybmZ2OXliamRIQ3MtN1EtZ2psRmx2SmsyV3NJY2hVTUlNdFVYN3UtT3RURU5HN0Z3d2x4Y1Zmc0pSLU1EMkVlOWNVM3VhSzJiU3Fwb0Q2OWo3LS1MVmwydUdsZHdrd3lGU0duUGtZVmJ2R1ZPMnRrdjZVQ0duU3doVVJ0VkljU1Y5NU9ydXBWTzI1YTNtQ05jTEs1Zw?oc=5</link>
    <guid isPermaLink="false">pokewatch-7462699b7eb1bf10</guid>
@@ -386,20 +394,20 @@ Counterfeit Pokémon cards is a big business, but some TCG cards are more suspic
    <description>Was $4M in Cards Lost in PSA Heist? Yahoo Sports</description>
   </item>
   <item>
-   <title>[Einbruch / Raub] POL-BO: Pokémon Gone: Sammelkarten bei Fahrschuleinbruch gestohlen - Presseportal</title>
-   <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMNFBLUTNiaTZucThkUmpTVENtWlJTZEYySmJBTHZaUmMyWVBKWUhvbE1lcWswelhXV2RXWVNjZGRDSkFoYkR2SHFGUHNtak5Fb1IxTkxyb25LdzltLWlqbUFlWXA?oc=5</link>
-   <guid isPermaLink="false">pokewatch-32258b98c2385ee5</guid>
-   <pubDate>Thu, 05 Nov 2026 11:34:02 +0000</pubDate>
-   <source>Presseportal</source>
-   <description>POL-BO: Pokémon Gone: Sammelkarten bei Fahrschuleinbruch gestohlen Presseportal</description>
-  </item>
-  <item>
    <title>[Einbruch / Raub] Pokémon-Karten bei Einbruch in Bochum gestohlen - Newsflash24</title>
    <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPWDREdmNkUFl0Q2stckdfajZxQnc0aEY4SUxHUmxMSzlCZHhNWnFGdGZ1aFFVRTB3MTJDWlVUZGNCandEQ1draE5oV1prZ01SZEJ4TDFXYk4yd0xPYVduakRhYmJpckoycmM1cDNIcGQ3Mk5YdjktekNjMU4zMC1va0drRnhhZ0FtM1dzN1hQWFk5bm82ZmZEdk1LVHN0QlY4dWJV?oc=5</link>
    <guid isPermaLink="false">pokewatch-318c3ad173db601e</guid>
-   <pubDate>Thu, 05 Nov 2026 11:30:00 +0000</pubDate>
+   <pubDate>Thu, 05 Nov 2026 11:34:02 +0000</pubDate>
    <source>Newsflash24</source>
    <description>Pokémon-Karten bei Einbruch in Bochum gestohlen Newsflash24</description>
+  </item>
+  <item>
+   <title>[Einbruch / Raub] POL-BO: Pokémon Gone: Sammelkarten bei Fahrschuleinbruch gestohlen - Presseportal</title>
+   <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMNFBLUTNiaTZucThkUmpTVENtWlJTZEYySmJBTHZaUmMyWVBKWUhvbE1lcWswelhXV2RXWVNjZGRDSkFoYkR2SHFGUHNtak5Fb1IxTkxyb25LdzltLWlqbUFlWXA?oc=5</link>
+   <guid isPermaLink="false">pokewatch-32258b98c2385ee5</guid>
+   <pubDate>Thu, 05 Nov 2026 10:55:15 +0000</pubDate>
+   <source>Presseportal</source>
+   <description>POL-BO: Pokémon Gone: Sammelkarten bei Fahrschuleinbruch gestohlen Presseportal</description>
   </item>
   <item>
    <title>[Betrug / Fakes] Dutch customs seize 1.7 million counterfeit Pokémon cards at Rotterdam Port - The Brussels Times</title>
@@ -424,6 +432,14 @@ Counterfeit Pokémon cards is a big business, but some TCG cards are more suspic
    <pubDate>Thu, 05 Nov 2026 02:01:03 +0000</pubDate>
    <source>KIRO 7 News Seattle</source>
    <description>Burglars caught on camera stealing from trading card shop KIRO 7 News Seattle</description>
+  </item>
+  <item>
+   <title>[Einbruch / Raub] Burglars caught on camera stealing from trading card shop - Yahoo</title>
+   <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkNaVm40TnVUVlZnMnNxSEdVb3ZBbUVrSm9fNE1LY2lCSXJkeklqa2YyOWVKNkhlZFlmMk03RGd6Q0ZSU1ZEY2Q4OFV3STF3WktOUWlKbkFORUJWR3lpc2h4Y0l6TnZSdl96WjJ3THVRQUFnWVF6X2Rud1lFNTZPZlJrNGcwUmhmN2JveEkzQlliZw?oc=5</link>
+   <guid isPermaLink="false">pokewatch-aacef4ada08d7442</guid>
+   <pubDate>Thu, 05 Nov 2026 01:58:00 +0000</pubDate>
+   <source>Yahoo</source>
+   <description>Burglars caught on camera stealing from trading card shop Yahoo</description>
   </item>
   <item>
    <title>[Einbruch / Raub] Tacoma Card Shop Offers $5,000 Reward After Burglary - Hoodline</title>
@@ -490,22 +506,6 @@ being an adult with actual income now means I can go to cardmarket and rebuy som
    <source>@stellatiria.bsky.social</source>
    <description>Realization:
 being an adult with actual income now means I can go to cardmarket and rebuy some of my fave pokemon cards that were stolen from me 20years ago 😭</description>
-  </item>
-  <item>
-   <title>[Szene / News] 30 Jahre Pokémon-Sammelkarten: 20 Booster jetzt zum Rekordtiefpreis - PCGH</title>
-   <link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYnYxN25KWTFFNGRRS3c3R2Z6UUdQODFkaG85RUhZVTh6bHhUU2ZkNFhpTzBSU2FqaVVMam92UVB5R1VFenZuUkJCcUxsMEU1cmVkUUtGa01FallCekh6a1lzRk9MczkyMHpZLUN4MF9lMGlmZXQwOFg3SHpQcDJ6YWRsWGVkM1cya1ViNndSbHJZOFM4dU5rWmpwWXR4TVJDSDZkVlBMdXExMG1vZDZnaFloSE1QSDFMVkRUSWVLa1NpOUhqZFN6el9kLWxmMW1EVURBN2hzLXZJWTNKSjFianhIM1U0aE0wczBLeQ?oc=5</link>
-   <guid isPermaLink="false">pokewatch-1821681f7c86de9f</guid>
-   <pubDate>Mon, 02 Nov 2026 11:30:00 +0000</pubDate>
-   <source>PCGH</source>
-   <description>30 Jahre Pokémon-Sammelkarten: 20 Booster jetzt zum Rekordtiefpreis PCGH</description>
-  </item>
-  <item>
-   <title>[Einbruch / Raub] Pokémon cards worth thousands stolen during spate of burglaries in West Moors - The New Stour And Avon Magazine</title>
-   <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPbkpsTk9zVVMtREpIeUR2RHlqNnctaEQ3V1NwWWpMTERidmhyeXprNTcxY0ZjYWhOYTNGWlBEanJkRElZcGZNS043Z01fUFZ3Uy02bFVxVnMxS245R0lUVVp0T1JKZlZSUHpLRHh3VEJUOFROcFVjUGlxMmZRVmxtaWt6TFB1TWRXUjlZb3Zsbjd2dHRJcVNVVzVaYjNxeWV0VElOXzNudGZIdjl6N1gw?oc=5</link>
-   <guid isPermaLink="false">pokewatch-b4b43ac02e018896</guid>
-   <pubDate>Mon, 02 Nov 2026 08:00:00 +0000</pubDate>
-   <source>The New Stour And Avon Magazine</source>
-   <description>Pokémon cards worth thousands stolen during spate of burglaries in West Moors The New Stour And Avon Magazine</description>
   </item>
  </channel>
 </rss>
