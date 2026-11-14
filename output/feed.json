@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T16:47:39.259408+00:00",
+ "generated": "2026-11-14T17:03:59.986757+00:00",
  "builder": "2026-07-25g",
  "count": 150,
  "new": 0,
@@ -218,26 +218,19 @@
    "author": "",
    "category": "einbruch",
    "region": "int",
-   "country": "Philippinen",
+   "country": "",
    "image": "",
-   "domain": "manilabulletin.com",
+   "domain": "sportscollectorsdaily.com",
    "logo": "",
-   "score": 3,
+   "score": 7,
    "matched": [
-    "pokemon",
-    "pokémon",
-    "stolen"
+    "burglar",
+    "burglary",
+    "card shop"
    ],
    "first_seen": "2026-11-12T09:03:33.670735+00:00",
-   "related": [
-    {
-     "title": "2 men nabbed for selling stolen Pokémon collectibles in QC - Manila Bulletin",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFpkNkhINmcwVmhhUXFMNnNKM2huV05BbFNjcVQydm5yYVBFaHBhSk9mX041QkpCREY1YW4tRWhuX3Qyd3ZkVWFNQTl0RG5ZZVY0b2pmenhRQVJqRDJrZ0J4V05CdnJoa0hsbGRFakMtUzNJWGVOVUxSWWhMX0lhT0syNmRBSG93Z0x1OHlVem9ISmVhTkx2bWQ1b0luX3ppOVJVYWFQbV9PTmd3TjQ5TWNzei13RC13blE?oc=5",
-     "source": "Manila Bulletin",
-     "published": "2026-11-11T06:20:25+00:00"
-    }
-   ],
-   "report_count": 2
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Two arrested after string of card shop break-ins in Burlington\n\nTwo men are accused of breaking into card shops in Burlington and stealing multiple items. They are now facing felon",
@@ -412,12 +405,12 @@
    "report_count": 1
   },
   {
-   "title": "Pokémon-Kartenblase könnte platzen: Vermögensberater warnt vor einem starken Preisverfall - jpgames.de",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLWx1djFoVjEyQzFja2M0bTRRcGcwVl9kRFZsOGRlMVB5ZE1LRE0zbzh5Z2xYaWhyU2RNOWhITUh5eUo3Q2lPMTcwQ1M2Sml5b3RpMEVKTlI4SFU5MHBDZGc2MUZIRTRlak5DZENCd1EwZU1BaVhWakdjcFZNQzU4b0YyM3Q4Q2FUQlhDRzVDeC04T21mcnpRQ1M4WE1iTHR6Vjh2RXdHeXQ3ODlTeDZLV3owdkdHOXptWFE?oc=5",
-   "source": "jpgames.de",
+   "title": "Kartenvorschau: Mega-Rayquaza-ex aus Pokémon-Sammelkartenspiel: Mega-Entwicklung – Delta-Herrschaft - Pokemon.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2stRlBHVWI1RE1TT2Q0akNmbnlsX210YjdEZTJTdzl3OEtfX3kxN1A0ZE51VU0xajkza0NPbDZLLThiTmwzeXd1blV1alM0TjZpcGtmeFJpdmZUYUlKTkdseVVTVDItQUJWMHlaRUxFR0NkQmN4QUFxZTRPWnFfRlAwZ0E5VkxUcnRPaEVPd242NjBxLXNMUnlQUEMxYnRqQVUyQWRJbXNJdEN0Y2twYmxwRzV5NnB2c2pKeFpNMmM0eXBwdFE?oc=5",
+   "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-11-11T15:17:52+00:00",
-   "summary": "Pokémon-Kartenblase könnte platzen: Vermögensberater warnt vor einem starken Preisverfall jpgames.de",
+   "summary": "Kartenvorschau: Mega-Rayquaza-ex aus Pokémon-Sammelkartenspiel: Mega-Entwicklung – Delta-Herrschaft Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -429,16 +422,22 @@
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-11-12T03:03:14.578174+00:00",
+   "first_seen": "2026-10-30T17:03:31.840804+00:00",
    "related": [
     {
      "title": "Pokémon TCG Pocket startet in die C-Reihe und führt damit einen mächtigen Kartentyp ein - GamePro",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVklHZ1dMbVVYR3hla040d0dSMHVzdFdqWXBQX3ZNblBKczNKdmYwZUp6aFU2SFRrbmtBUnFQTHN2TXI4ZXVoaFl2UmxVd2ZVZ1hybzBCeUJzWFdtaUVSR20zSmp4UEJZWk1ua3JwRlZGaG8tTHZWendEWWEtOHh1UEZGR2NBSzRhelhzeVczamNGdDM1UlNpRXk4WTJkcl8wbTJPeERNMXdsT09ZTS1iRjJoaDJUdi1rWDcySERyaXJBQmczaVo5X1Yxbw?oc=5",
      "source": "GamePro",
      "published": "2026-10-29T07:00:00+00:00"
+    },
+    {
+     "title": "Pokémon-Kartenblase könnte platzen: Vermögensberater warnt vor einem starken Preisverfall - jpgames.de",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLWx1djFoVjEyQzFja2M0bTRRcGcwVl9kRFZsOGRlMVB5ZE1LRE0zbzh5Z2xYaWhyU2RNOWhITUh5eUo3Q2lPMTcwQ1M2Sml5b3RpMEVKTlI4SFU5MHBDZGc2MUZIRTRlak5DZENCd1EwZU1BaVhWakdjcFZNQzU4b0YyM3Q4Q2FUQlhDRzVDeC04T21mcnpRQ1M4WE1iTHR6Vjh2RXdHeXQ3ODlTeDZLV3owdkdHOXptWFE?oc=5",
+     "source": "jpgames.de",
+     "published": "2026-11-11T15:17:52+00:00"
     }
    ],
-   "report_count": 2
+   "report_count": 3
   },
   {
    "title": "Ich öffne die 30 Jahre Pokémon Premium Kollektion!",
@@ -528,37 +527,6 @@
    "report_count": 2
   },
   {
-   "title": "Florida Woman Arrested After Taking Ex-Boyfriend's Pokémon Card Collection During Dispute - Hypefresh Magazine, Inc.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDBjY1VGa2lSU29nMUlWQmtsTUxVclJOTVY0X2V1SlI5N3FTUFo0YWZhT2U4aUw2SHYwd1hCM0RCTGZJUzN2dkRKcXE4a3N5YTIwLWgtZF9saUw0VkhCSUhXN0t2MU1ROW9yY3hQbW1ONEhMWjBTV0p2LWNFLUcxTXNjNmZVSndKV3hUYU9aVVVXUFljay1zZVhLTjZ1MTNleFVTbW5TODRYTmVtOGlZbU8yZDd2dw?oc=5",
-   "source": "Hypefresh Magazine, Inc.",
-   "platform": "news",
-   "published": "2026-11-11T05:23:38+00:00",
-   "summary": "Florida Woman Arrested After Taking Ex-Boyfriend's Pokémon Card Collection During Dispute Hypefresh Magazine, Inc.",
-   "author": "",
-   "category": "behoerden",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "yahoo.com",
-   "logo": "",
-   "score": 3,
-   "matched": [
-    "charged",
-    "pokemon",
-    "pokémon"
-   ],
-   "first_seen": "2026-11-11T07:03:09.564087+00:00",
-   "related": [
-    {
-     "title": "Orlando woman charged with battery and witness tampering after Pokémon card dispute - Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHpCVUFIVmVTUWFjYU95eWJ5RFRJUHl2UlRvaE5DS0FfXzZneDFwX01qLUwzbExhdTZ6Z2VCUHFNOUgxMHktM3MtZWhfcVZzVGlfM1RrMlozdTVZQTFMeWFhUEd0SHRfcWRtTWlfVDA5NkhvTnVOQndEZUl2WUotU2VMQ3BDa1JJU3MxcS1SOUNsSVJuSnc?oc=5",
-     "source": "Yahoo",
-     "published": "2026-11-10T14:31:40+00:00"
-    }
-   ],
-   "report_count": 2
-  },
-  {
    "title": "Pokémon-Karte gestohlen: Festnahmen in Aachen - Blick",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY3Bob2RQSjByX2JyNkF3MzJxcnljSXJNV081emp4NWJ5S3pBVng1amJEdE5USWNaVjFQUC1fN3NvblF1SFRJOXRwbHA2Z2ktVGxjbW1OaGJZR1ZQc0I3ZV9GSm5MSnZTaWcyQVRDQlU1M25oSTFPcnhlUGtab2pONE9wZmVwcDBf?oc=5",
    "source": "Blick",
@@ -613,6 +581,30 @@
     }
    ],
    "report_count": 2
+  },
+  {
+   "title": "Orlando woman charged with battery and witness tampering after Pokémon card dispute - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHpCVUFIVmVTUWFjYU95eWJ5RFRJUHl2UlRvaE5DS0FfXzZneDFwX01qLUwzbExhdTZ6Z2VCUHFNOUgxMHktM3MtZWhfcVZzVGlfM1RrMlozdTVZQTFMeWFhUEd0SHRfcWRtTWlfVDA5NkhvTnVOQndEZUl2WUotU2VMQ3BDa1JJU3MxcS1SOUNsSVJuSnc?oc=5",
+   "source": "Yahoo",
+   "platform": "news",
+   "published": "2026-11-10T14:31:40+00:00",
+   "summary": "Orlando woman charged with battery and witness tampering after Pokémon card dispute Yahoo",
+   "author": "",
+   "category": "behoerden",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "yahoo.com",
+   "logo": "",
+   "score": 3,
+   "matched": [
+    "charged",
+    "pokemon",
+    "pokémon"
+   ],
+   "first_seen": "2026-11-10T17:03:28.441736+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Pokemon collectibles stolen from trading card shops - KSAT",
@@ -1376,31 +1368,6 @@
    "report_count": 1
   },
   {
-   "title": "Bei „Skyracer“ in Minden: Einbrecher haben es auf Pokémon-Sammelkarten abgesehen - Mindener Tageblatt",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaTI0LTllZWRhcC1Ba1BNd2Vmby1PWHRzZDNhVDNualU2NjZaSXlVejY5amF2X2Z1ZlA1cXNyNnNTblg2ZTBvTGdfdE5NSy1fX0hoWmJ4R1ZVbGhVT3NQMThKRzNBc282Z01HN1R0N2FkX1NOVzI1eDBQTGI2V1BNc3VsQTFjQ2JQM0YyaGhuOU54TGtPeUU5ZkFkaFNxaWFBbVV6aFpsMGd1QVRXemIyOEMwZ0NqV1VVZC1KcFpabERuQQ?oc=5",
-   "source": "Mindener Tageblatt",
-   "platform": "news",
-   "published": "2026-11-06T14:38:00+00:00",
-   "summary": "Bei „Skyracer“ in Minden: Einbrecher haben es auf Pokémon-Sammelkarten abgesehen Mindener Tageblatt",
-   "author": "",
-   "category": "einbruch",
-   "region": "de",
-   "country": "",
-   "image": "",
-   "domain": "mindenertageblatt.de",
-   "logo": "",
-   "score": 4,
-   "matched": [
-    "einbrecher",
-    "pokemon",
-    "pokémon",
-    "sammelkarten"
-   ],
-   "first_seen": "2026-11-06T15:03:11.062061+00:00",
-   "related": [],
-   "report_count": 1
-  },
-  {
    "title": "Two commercial burglaries at Tacoma sports card shop spark $1,000 reward - KIRO 7 News Seattle",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdklFQVg1MWZYTWlEREc0dVdhQzhUVmxYYklSRWthbmRfYmJOVXBoQU9VYndaNFdFLVNhal9BeVlnYS1wNEptWFZUNV9ZNmk0T1NEYzFSQk9JVUNoY05pby1rUUYxUmdYOEhod2NQSHo5T3R5a251UXVuWm1IbjkzNDN3OFZYb3VJZnQ0TUY3Q193eklrRUk1MjY0NURFSE1OdXdGOXVxX000cGctSVpjTXlxLUdyd2huM1NaeDU3NjZzUXhGUjY00gHbAUFVX3lxTE9XRVNCU3p0WlpKcDJaN2hqdF9vM0NESjQ1NHRTaExEUTVuOTNnVmxsQWJOdnQzd2czNFpsdG1iOWtGRmxYaHdrQ0NhUU9BWE94WWFvdmxoeDQ2cDlXMWhjYXdmY2FqRnFfMkhnS2tTQU9yS0xEYUpnakphTmt1MGNBMHhQZEVEM0pFUlg4ZGtlV2wxeXBlUkNDcjZCUTBqRE4zbXJIZmxRdy0zNHFNRVhjb2EyU0xuQVdrdDZuX1RCX2M0Tjd2SWhUc253a3g4ZExDY1M3d1JtTlBJZw?oc=5",
    "source": "KIRO 7 News Seattle",
@@ -1482,6 +1449,31 @@
     "pokémon"
    ],
    "first_seen": "2026-11-06T23:35:16.023577+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Bei „Skyracer“ in Minden: Einbrecher haben es auf Pokémon-Sammelkarten abgesehen - Mindener Tageblatt",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaTI0LTllZWRhcC1Ba1BNd2Vmby1PWHRzZDNhVDNualU2NjZaSXlVejY5amF2X2Z1ZlA1cXNyNnNTblg2ZTBvTGdfdE5NSy1fX0hoWmJ4R1ZVbGhVT3NQMThKRzNBc282Z01HN1R0N2FkX1NOVzI1eDBQTGI2V1BNc3VsQTFjQ2JQM0YyaGhuOU54TGtPeUU5ZkFkaFNxaWFBbVV6aFpsMGd1QVRXemIyOEMwZ0NqV1VVZC1KcFpabERuQQ?oc=5",
+   "source": "Mindener Tageblatt",
+   "platform": "news",
+   "published": "2026-11-06T08:00:00+00:00",
+   "summary": "Bei „Skyracer“ in Minden: Einbrecher haben es auf Pokémon-Sammelkarten abgesehen Mindener Tageblatt",
+   "author": "",
+   "category": "einbruch",
+   "region": "de",
+   "country": "",
+   "image": "",
+   "domain": "mindenertageblatt.de",
+   "logo": "",
+   "score": 4,
+   "matched": [
+    "einbrecher",
+    "pokemon",
+    "pokémon",
+    "sammelkarten"
+   ],
+   "first_seen": "2026-11-06T15:03:11.062061+00:00",
    "related": [],
    "report_count": 1
   },
@@ -1677,12 +1669,12 @@
    "report_count": 1
   },
   {
-   "title": "Kartenvorschau: Mega-Rayquaza-ex aus Pokémon-Sammelkartenspiel: Mega-Entwicklung – Delta-Herrschaft - Pokemon.com",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2stRlBHVWI1RE1TT2Q0akNmbnlsX210YjdEZTJTdzl3OEtfX3kxN1A0ZE51VU0xajkza0NPbDZLLThiTmwzeXd1blV1alM0TjZpcGtmeFJpdmZUYUlKTkdseVVTVDItQUJWMHlaRUxFR0NkQmN4QUFxZTRPWnFfRlAwZ0E5VkxUcnRPaEVPd242NjBxLXNMUnlQUEMxYnRqQVUyQWRJbXNJdEN0Y2twYmxwRzV5NnB2c2pKeFpNMmM0eXBwdFE?oc=5",
+   "title": "Sammle und kämpfe mit Mega-Entwicklung – Delta-Herrschaft in Pokémon-Sammelkartenspiel-Live - Pokemon.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1d4dzZvLTRNLUJzOTJ1cEx2Rk5SNkU1Mm5pdnpwWWUwOWkybmZ2OXliamRIQ3MtN1EtZ2psRmx2SmsyV3NJY2hVTUlNdFVYN3UtT3RURU5HN0Z3d2x4Y1Zmc0pSLU1EMkVlOWNVM3VhSzJiU3Fwb0Q2OWo3LS1MVmwydUdsZHdrd3lGU0duUGtZVmJ2R1ZPMnRrdjZVQ0duU3doVVJ0VkljU1Y5NU9ydXBWTzI1YTNtQ05jTEs1Zw?oc=5",
    "source": "Pokemon.com",
    "platform": "news",
    "published": "2026-11-05T08:00:00+00:00",
-   "summary": "Kartenvorschau: Mega-Rayquaza-ex aus Pokémon-Sammelkartenspiel: Mega-Entwicklung – Delta-Herrschaft Pokemon.com",
+   "summary": "Sammle und kämpfe mit Mega-Entwicklung – Delta-Herrschaft in Pokémon-Sammelkartenspiel-Live Pokemon.com",
    "author": "",
    "category": "szene",
    "region": "de",
@@ -1694,7 +1686,7 @@
    "matched": [
     "news:de"
    ],
-   "first_seen": "2026-10-30T17:03:31.840804+00:00",
+   "first_seen": "2026-11-05T23:03:25.052680+00:00",
    "related": [
     {
      "title": "Produktvorschau – Pokémon-Sammelkartenspiel: Mega-Entwicklung – Delta-Herrschaft - Pokemon.com",
@@ -1703,19 +1695,13 @@
      "published": "2026-10-23T07:00:00+00:00"
     },
     {
-     "title": "Sammle und kämpfe mit Mega-Entwicklung – Delta-Herrschaft in Pokémon-Sammelkartenspiel-Live - Pokemon.com",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1d4dzZvLTRNLUJzOTJ1cEx2Rk5SNkU1Mm5pdnpwWWUwOWkybmZ2OXliamRIQ3MtN1EtZ2psRmx2SmsyV3NJY2hVTUlNdFVYN3UtT3RURU5HN0Z3d2x4Y1Zmc0pSLU1EMkVlOWNVM3VhSzJiU3Fwb0Q2OWo3LS1MVmwydUdsZHdrd3lGU0duUGtZVmJ2R1ZPMnRrdjZVQ0duU3doVVJ0VkljU1Y5NU9ydXBWTzI1YTNtQ05jTEs1Zw?oc=5",
-     "source": "Pokemon.com",
-     "published": "2026-11-05T08:00:00+00:00"
-    },
-    {
      "title": "Pokémon-Sammelkartenspiel: Mega-Entwicklung – Delta-Herrschaft Kampfpass-Deck-Strategien - Pokemon.com",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2FoT1BWd3VpV2FfcVhSOGtoYjdUSTJOcWQtcGlyUV9Fckw0aWpmeHREZEM0WlFLekJ4YmdFellvSUxHamtOZmxrcFpPUDFEdXdkNk1GTGpPWFNrc3NncFNXM1BRMWlybnRnSk5zdzNsUVl0Sm16YXFZYjBPRUp3VHFwSDl6TUFGSmNnUG9zeE5CRkg4MmIyVjl4ZWZCVkc1R3hscUVIem1XXzlRNDc1RG52YTA3bk1VY3pzWnZR?oc=5",
      "source": "Pokemon.com",
      "published": "2026-11-05T08:00:00+00:00"
     }
    ],
-   "report_count": 4
+   "report_count": 3
   },
   {
    "title": "Dutch customs seize 1.7 million counterfeit Pokémon cards at Rotterdam Port - The Brussels Times",
@@ -2231,36 +2217,6 @@
    "report_count": 1
   },
   {
-   "title": "Bay Area authorities make arrest in $30,000 trading card theft - The Mercury News",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOTlOdFpLR1RmU25ORFdTMHVLUEk4RU42b0ZNTl91OHZJNFNxNWxOdXFwMGtTTE52S2dFT0U1WFlwVU5HRkRGQ2dZLXZCNTNVeXZTWmVMWnN0Tm1TTW9QTVpCNzBmSlc3cldWX0xkR01RQmlVaWFBMGY1WWcxWXBGNk5vMEhvZWYyelpwaDZFSFBXN0tDZWVaZldmbkRLQ1MzT0E?oc=5",
-   "source": "The Mercury News",
-   "platform": "news",
-   "published": "2026-10-30T07:00:00+00:00",
-   "summary": "Bay Area authorities make arrest in $30,000 trading card theft The Mercury News",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "themercurynews.com",
-   "logo": "",
-   "score": 2,
-   "matched": [
-    "theft",
-    "trading card"
-   ],
-   "first_seen": "2026-10-28T16:46:20.793766+00:00",
-   "related": [
-    {
-     "title": "Authorities make arrest in $30,000 trading card theft - Southgate News Herald",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOXZnM3ZzMTdieWZGVUVTNDI2bGtYclh2MjZpdmZqcUVWc242NDNOZ2lpSkNGQTlEVi1TQk1fRUFCM3R6Ym82UFVBLU9YazZfMVBDaTdLVFJRTzlqblR1QUk3Y0pvel9ldUg2LWVFTlpPOUQ3a1hUNzB4cG9jOUhlRzIyMGlzSWR5OC1vX1hHUmFoSVVuOGdBSFUteU5lT1VZZnhZbQ?oc=5",
-     "source": "Southgate News Herald",
-     "published": "2026-10-30T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
-  },
-  {
    "title": "📢 The police Gang Disruption Unit has seized cash, cars and a stolen Pokémon card collection worth more than $30,000 in the Auckland suburb of Glen Eden.",
    "url": "https://bsky.app/profile/radionz.nzcow.com/post/3myywiylx652k",
    "source": "@radionz.nzcow.com",
@@ -2288,9 +2244,15 @@
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRGlIdVNUWmJ0QURrU1gzN2FlTEwyWk1kQ0FpOVVkU0JlaVpPNnlTOThVUDg2SGRicUJ0QTB1M25aTE1MMl9TWnFrYlktY0VrUk9WVDRYRnMwdnFRR2xWV0RkQmNpbjdoNEZGMWxIMjBxRkRYTC03b0xveTZEdUdMMHlHTTJETXJVMWFYOThaSVFtbWFmUE1WdXpvNVoycFg5Vmh4NzZn?oc=5",
      "source": "Stuff",
      "published": "2026-10-28T07:00:00+00:00"
+    },
+    {
+     "title": "Pokémon cards seized in Head Hunters gang member's arrest - 1News",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTlVyY19rd1RJTkc5bDh2M3QyeTRWRFRMVVh3dXNkV29VWmNPU0NZRWFjZG4yV0RnQzFXU2dyMEYyTEZNUFlrYzkxbTdobGI0clNvX0tPNGQzQkpZd2tscFlDODM2bllGc2VaOXUtMUN4cldwQ0dncEZKNDZHVWRvVU8tWlQ2TWhrRlRHeEFKcC1CM05WenlV?oc=5",
+     "source": "1News",
+     "published": "2026-10-29T07:00:00+00:00"
     }
    ],
-   "report_count": 2
+   "report_count": 3
   },
   {
    "title": "FBI investigates scams at 7 shops in New Jersey where Pokémon cards were stolen - News12 | New Jersey",
@@ -2457,6 +2419,29 @@
     }
    ],
    "report_count": 2
+  },
+  {
+   "title": "Bay Area authorities make arrest in $30,000 trading card theft - The Mercury News",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOTlOdFpLR1RmU25ORFdTMHVLUEk4RU42b0ZNTl91OHZJNFNxNWxOdXFwMGtTTE52S2dFT0U1WFlwVU5HRkRGQ2dZLXZCNTNVeXZTWmVMWnN0Tm1TTW9QTVpCNzBmSlc3cldWX0xkR01RQmlVaWFBMGY1WWcxWXBGNk5vMEhvZWYyelpwaDZFSFBXN0tDZWVaZldmbkRLQ1MzT0E?oc=5",
+   "source": "The Mercury News",
+   "platform": "news",
+   "published": "2026-10-28T07:00:00+00:00",
+   "summary": "Bay Area authorities make arrest in $30,000 trading card theft The Mercury News",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "themercurynews.com",
+   "logo": "",
+   "score": 2,
+   "matched": [
+    "theft",
+    "trading card"
+   ],
+   "first_seen": "2026-10-28T16:46:20.793766+00:00",
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "Eine umstrittene Pokémon-Aktion aus 2023 sorgt jetzt für einen neuen Rekord - jpgames.de",
@@ -2670,57 +2655,57 @@
    "report_count": 1
   },
   {
-   "title": "Beyond the Big Names: The Unexpected Cards Lost in the PSA Theft - Sports Illustrated",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMmI1ZkZ2SW41Z19USHVwaFIyTmhfSGwzc0hpMUdsUFM3aTB0TU9SRW9YUHZkS253eC1rMkhoZ2xGTzRoM2N5a3BfX2lWQjhIVlVnNXVDQUI1bUdJUXFRbW5BMDJlWEpaLTlOaklQVWZrYllmZ3JELWtUNlNMTks0SXlXNHJaZDg?oc=5",
-   "source": "Sports Illustrated",
+   "title": "PSA FedEx Theft List Shows the Hobby’s Real Losses Go Far Beyond Headline Cards - OTIA Sports",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZRjl1MUNXYnEtWnNSNzZmbTQ3amtmU0xsNzNnX2cySFQ2M1hWcUI0LWNnUDFQN2tCMTMwNmRJNTVJeXZlalJndXN2YnpZSlNRdWhRZk0zRjRXV3Q4el9IaWJZdkRhN3RHU1owUnh3X0E3aVBQTmQ3UTJiZGhiQQ?oc=5",
+   "source": "OTIA Sports",
    "platform": "news",
    "published": "2026-10-26T07:00:00+00:00",
-   "summary": "Beyond the Big Names: The Unexpected Cards Lost in the PSA Theft Sports Illustrated",
+   "summary": "PSA FedEx Theft List Shows the Hobby’s Real Losses Go Far Beyond Headline Cards OTIA Sports",
    "author": "",
    "category": "einbruch",
    "region": "int",
    "country": "",
    "image": "",
-   "domain": "sportsillustrated.com",
+   "domain": "otiasports.com",
    "logo": "",
    "score": 2,
    "matched": [
     "psa",
     "theft"
    ],
-   "first_seen": "2026-10-26T15:03:24.793971+00:00",
-   "related": [],
-   "report_count": 1
+   "first_seen": "2026-10-27T01:34:41.741602+00:00",
+   "related": [
+    {
+     "title": "Beyond the Big Names: The Unexpected Cards Lost in the PSA Theft - Sports Illustrated",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMmI1ZkZ2SW41Z19USHVwaFIyTmhfSGwzc0hpMUdsUFM3aTB0TU9SRW9YUHZkS253eC1rMkhoZ2xGTzRoM2N5a3BfX2lWQjhIVlVnNXVDQUI1bUdJUXFRbW5BMDJlWEpaLTlOaklQVWZrYllmZ3JELWtUNlNMTks0SXlXNHJaZDg?oc=5",
+     "source": "Sports Illustrated",
+     "published": "2026-10-26T07:00:00+00:00"
+    }
+   ],
+   "report_count": 2
   },
   {
    "title": "Police in California are investigating the theft of trading cards worth at least $963,000 that were taken from a FedEx truck.",
    "url": "https://bsky.app/profile/fox5vegas.com/post/3myqofxkyox2j",
    "source": "@fox5vegas.com",
-   "platform": "news",
+   "platform": "bluesky",
    "published": "2026-10-26T02:29:02.373000+00:00",
    "summary": "Police in California are investigating the theft of trading cards worth at least $963,000 that were taken from a FedEx truck.",
-   "author": "",
+   "author": "FOX5 Las Vegas",
    "category": "einbruch",
    "region": "int",
-   "country": "",
+   "country": "USA",
    "image": "",
-   "domain": "click2houston.com",
+   "domain": "fox5vegascom.com",
    "logo": "",
    "score": 2,
    "matched": [
-    "stolen",
+    "theft",
     "trading card"
    ],
    "first_seen": "2026-10-23T00:03:20.322229+00:00",
-   "related": [
-    {
-     "title": "At least $963K in trading cards were stolen from a FedEx truck - Click2Houston",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZW1mZ2tjTjRVN2hLbGZtcm5QbmIxOEgwa1FGby1pN3J6UGFyV3NjamtZWW1XOWlkVkV2WEdnVFZFV3Zhdkx3SkFNMGFKcDVadDliem8zLUFrSDY0dlQ4R04zMXVrRnF2dXdDMy1rSUpZYmNpTmRjMG0xSmkzRGFiMkRyTFlhM0EyWjI5UGJtNW9Sd3ZQeE5vaGhnQWJaWXM4b296Y3paXzVHYXVQc2lma040T2FDWjd6?oc=5",
-     "source": "Click2Houston",
-     "published": "2026-10-20T07:00:00+00:00"
-    }
-   ],
-   "report_count": 2
+   "related": [],
+   "report_count": 1
   },
   {
    "title": "The news comes from a grading middleman who had clients' cards stolen.",
@@ -2920,7 +2905,7 @@
      "title": "California police investigating nearly $1 million Pokémon card theft - WQAD",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ3RmVnpGNVZER1NUZGt4Nm44VmpmMXJsVUN2VnlWX20tb182RzZ6RTNRS1pmbVFuZ3FuZndHRm1LdkpNV3BhenRoRnJjb1VUU3R5ZXdGaVUtWHVEaWhLdGxPQkt0SDl4NXhKWVlUZFhwakNpejI5OVBEdHpvQ2gzSXhtSkFHNkxaeDFXUU5XQ3g1MnJvYzZidFluT0NsQUdHTHRHeV9waDhoOFFOYlg2TkNrd2YxTFVtZzN4YWZpUUNDb2ZvR1A0UXFKdUFoQkt4TjgtRXBGUldrdXNQNWVzaGtn?oc=5",
      "source": "WQAD",
-     "published": "2026-10-21T03:19:00+00:00"
+     "published": "2026-10-20T07:00:00+00:00"
     },
     {
      "title": "Orange County police investigating after $1 million in sports and Pokémon cards stolen from FedEx truck - CBS News",
@@ -3170,31 +3155,6 @@
     }
    ],
    "report_count": 3
-  },
-  {
-   "title": "Six charged over theft of high-value Pokemon cards - AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVlcwaUFfM2xmM1ItOW9udzlVdy1mSENGTFBsM3Y4c3h2ME5nSVpBSThmV3c2dUJrenNrZHI0eHBEeng0OU5TVnlVdk5ZWnl3Y0NoZkV6dHQzTmhMRmQ3XzN2ZjRfQXFBNFllRkpvWklxYUVsTFQ0dW9rT1g1ZWJoaA?oc=5",
-   "source": "AOL.com",
-   "platform": "news",
-   "published": "2026-10-23T07:00:00+00:00",
-   "summary": "Six charged over theft of high-value Pokemon cards AOL.com",
-   "author": "",
-   "category": "einbruch",
-   "region": "int",
-   "country": "",
-   "image": "",
-   "domain": "aol.com",
-   "logo": "",
-   "score": 4,
-   "matched": [
-    "charged",
-    "pokemon",
-    "pokémon",
-    "theft"
-   ],
-   "first_seen": "2026-10-27T18:26:10.013341+00:00",
-   "related": [],
-   "report_count": 1
   },
   {
    "title": "Trading card nightmare as PSA reveals stunning list of more than 6k collector items swiped in brazen heist - New York Post",
@@ -3537,6 +3497,12 @@
      "published": "2026-10-20T07:00:00+00:00"
     },
     {
+     "title": "At least $963K in trading cards were stolen from a FedEx truck in California - KBAK",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1Rja3JJTmgyOTdtcGR4Q2pHYnh5cm1RMUNKTTA0U2MzQU5wazlyekJHS2xGX1FzMzYzNGluQVRDTmdWMTNDMnFQRkpmQ2pfREFsd2E3cU5vdkZhaVpGZF9Cb1gtRWh6bWNBcUJSS0NxblUxS0d6cS1xWERJbHRYYURLY1NRREt0VkhzUXdncHhZbmhNWFdkdGN6UlFGSlE3eXo3b1dvdThJZWxQcWhZdldXOA?oc=5",
+     "source": "KBAK",
+     "published": "2026-10-20T07:00:00+00:00"
+    },
+    {
      "title": "At least $963,000 in trading cards stolen from FedEx truck in California - ESPN",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcXpBRjFVLXhQQ29vcUI0WE5hQjFEYzhBM2ZuaGx3dE5WdDJvNGNKdWNtV1E2MHNZNUwzdGlsUDNIZS1XZGYxdVdIVEtqb3VZSmxreTlQVC12ZkpBS3B2OTlHSmdNT295a2otQ25IVkl2bTRlRVlCZkJabmIwd3N1eXozRVk2eWtyQVFWRGhrQzNMQkdsaXg3OWhn?oc=5",
      "source": "ESPN",
@@ -3555,7 +3521,7 @@
      "published": "2026-10-21T22:35:37+00:00"
     }
    ],
-   "report_count": 5
+   "report_count": 6
   },
   {
    "title": "Nearly $1M in Pokémon cards, sports cards stolen outside grading company in California - WATE 6 On Your Side",
@@ -4314,6 +4280,29 @@
     "trading card"
    ],
    "first_seen": "2026-10-20T16:03:39.472191+00:00",
+   "related": [],
+   "report_count": 1
+  },
+  {
+   "title": "Santa Ana Police Investigating Massive Trading Card Heist - MyNewsLA.com",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZVViSlhFMVgxYzZMNEdDU0F5T0J5emE3NU4yUnBzek1BVFhlSlB1emVqcmotYTFIbzdMNE5UU1VlMHZZX2JCVGZEVDRxWjFnYVZxZnZiZEl6cC1nNXR2SEtZMzFTVktOUXJvX0lyS3ZYdnBqUXFDbERvNGpMVVRGNXRkVk5JeUl5RkpCY2dyeDdFYmdYWnVlQ2R0Sl8?oc=5",
+   "source": "MyNewsLA.com",
+   "platform": "news",
+   "published": "2026-10-20T07:00:00+00:00",
+   "summary": "Santa Ana Police Investigating Massive Trading Card Heist MyNewsLA.com",
+   "author": "",
+   "category": "einbruch",
+   "region": "int",
+   "country": "",
+   "image": "",
+   "domain": "mynewsla.com",
+   "logo": "",
+   "score": 2,
+   "matched": [
+    "heist",
+    "trading card"
+   ],
+   "first_seen": "2026-10-21T00:03:23.504435+00:00",
    "related": [],
    "report_count": 1
   }
